@@ -17,6 +17,10 @@ jobs:
   update-trending:
     runs-on: ubuntu-latest
     
+    # 添加写入权限
+    permissions:
+      contents: write
+    
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
@@ -44,9 +48,11 @@ jobs:
         # 您也可以直接设置为固定值，例如：
         # git config --global user.email "your-email@example.com"
         # git config --global user.name "Your Name"
-        git config --global user.email "zhou24388@163.com"
-        git config --global user.name "wangqiqi"
+        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        git config --global user.name "${GITHUB_ACTOR}"
         git add -A
         timestamp=$(date -u)
         git commit -m "Update trending repositories: ${timestamp}" || exit 0
+        
+        # 使用 GITHUB_TOKEN 进行推送，该令牌已被授予写入权限
         git push 
