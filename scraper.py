@@ -24,7 +24,7 @@ def get_headers():
     """获取通用请求头"""
     return {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept': 'application/vnd.github.v3+json',  # GitHub API v3
         'Accept-Encoding': 'gzip, deflate, br',
         'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8'
     }
@@ -81,9 +81,7 @@ def createMarkdown(date, filename):
         f.write("- [每日 Fork 最多的仓库](#每日-fork-最多的仓库)\n")
         f.write("- [每日趋势榜](#每日趋势榜)\n")
         f.write("- [人工智能方向热榜](#人工智能方向热榜)\n")
-        f.write("  - [Python](#python)\n")
-        f.write("  - [Deep Learning](#deep-learning)\n")
-        f.write("  - [Machine Learning](#machine-learning)\n\n")
+        f.write("  - [Python](#python)\n\n")
 
 
 def scrape_trending(language=None):
@@ -134,52 +132,78 @@ def scrape_most_starred():
     """抓取每日 Star 最多的仓库"""
     HEADERS = get_headers()
 
-    # 使用 GitHub API 获取最近创建的、按 star 数排序的仓库
-    # 动态计算一年前的日期
-    one_year_ago = (datetime.datetime.now() - datetime.timedelta(days=365)).strftime('%Y-%m-%d')
-    url = f'https://api.github.com/search/repositories?q=created:>{one_year_ago}&sort=stars&order=desc&per_page=10'
-    
-    r = requests.get(url, headers=HEADERS)
-    data = r.json()
-    
-    repos = []
-    for item in data.get('items', [])[:10]:
-        repos.append({
-            "title": item['full_name'],
-            "url": item['html_url'],
-            "description": item['description'] or "No description",
-            "stars": str(item['stargazers_count']),
-            "forks": str(item['forks_count']),
-            "language": item['language'] or "N/A"
-        })
-    
-    return repos
+    try:
+        # 使用 GitHub API 获取最近创建的、按 star 数排序的仓库
+        one_year_ago = (datetime.datetime.now() - datetime.timedelta(days=365)).strftime('%Y-%m-%d')
+        url = f'https://api.github.com/search/repositories?q=created:>{one_year_ago}&sort=stars&order=desc&per_page=10'
+        
+        r = requests.get(url, headers=HEADERS)
+        r.raise_for_status()  # 检查响应状态
+        data = r.json()
+        
+        if 'items' not in data:
+            print(f"GitHub API 响应异常: {data.get('message', '未知错误')}")
+            return []
+        
+        repos = []
+        for item in data.get('items', [])[:10]:
+            repos.append({
+                "title": item['full_name'],
+                "url": item['html_url'],
+                "description": item['description'] or "No description",
+                "stars": str(item['stargazers_count']),
+                "forks": str(item['forks_count']),
+                "language": item['language'] or "N/A"
+            })
+        
+        if not repos:
+            print("未获取到任何仓库数据 (Star)")
+        return repos
+    except requests.exceptions.RequestException as e:
+        print(f"请求 GitHub API 失败 (Star): {str(e)}")
+        return []
+    except Exception as e:
+        print(f"处理数据失败 (Star): {str(e)}")
+        return []
 
 
 def scrape_most_forked():
     """抓取每日 Fork 最多的仓库"""
     HEADERS = get_headers()
 
-    # 使用 GitHub API 获取最近更新的、按 forks 数排序的仓库
-    # 动态计算一年前的日期
-    one_year_ago = (datetime.datetime.now() - datetime.timedelta(days=365)).strftime('%Y-%m-%d')
-    url = f'https://api.github.com/search/repositories?q=pushed:>{one_year_ago}&sort=forks&order=desc&per_page=10'
-    
-    r = requests.get(url, headers=HEADERS)
-    data = r.json()
-    
-    repos = []
-    for item in data.get('items', [])[:10]:
-        repos.append({
-            "title": item['full_name'],
-            "url": item['html_url'],
-            "description": item['description'] or "No description",
-            "stars": str(item['stargazers_count']),
-            "forks": str(item['forks_count']),
-            "language": item['language'] or "N/A"
-        })
-    
-    return repos
+    try:
+        # 使用 GitHub API 获取最近更新的、按 forks 数排序的仓库
+        one_year_ago = (datetime.datetime.now() - datetime.timedelta(days=365)).strftime('%Y-%m-%d')
+        url = f'https://api.github.com/search/repositories?q=pushed:>{one_year_ago}&sort=forks&order=desc&per_page=10'
+        
+        r = requests.get(url, headers=HEADERS)
+        r.raise_for_status()  # 检查响应状态
+        data = r.json()
+        
+        if 'items' not in data:
+            print(f"GitHub API 响应异常: {data.get('message', '未知错误')}")
+            return []
+        
+        repos = []
+        for item in data.get('items', [])[:10]:
+            repos.append({
+                "title": item['full_name'],
+                "url": item['html_url'],
+                "description": item['description'] or "No description",
+                "stars": str(item['stargazers_count']),
+                "forks": str(item['forks_count']),
+                "language": item['language'] or "N/A"
+            })
+        
+        if not repos:
+            print("未获取到任何仓库数据 (Fork)")
+        return repos
+    except requests.exceptions.RequestException as e:
+        print(f"请求 GitHub API 失败 (Fork): {str(e)}")
+        return []
+    except Exception as e:
+        print(f"处理数据失败 (Fork): {str(e)}")
+        return []
 
 
 def write_repos_to_markdown(filename, section_title, repos, is_subsection=False):
@@ -212,63 +236,56 @@ def write_repos_to_markdown(filename, section_title, repos, is_subsection=False)
 
 
 def scrape_all(use_timestamp=False):
-    """执行所有抓取任务"""
-    # 获取文件路径
-    filename, date_str = get_file_path(use_timestamp)
+    """抓取所有数据并写入文件"""
+    filename, date = get_file_path(use_timestamp)
+    filename = check_file_exists(filename)
     
-    # 检查文件是否存在，如果存在则添加时间戳
-    if not use_timestamp:
-        filename = check_file_exists(filename)
-    
-    # 创建 markdown 文件
-    display_date = datetime.datetime.now().strftime('%Y-%m-%d')
-    createMarkdown(display_date, filename)
+    # 创建 Markdown 文件
+    createMarkdown(date, filename)
     
     # 抓取每日 Star 最多的仓库
-    most_starred_repos = scrape_most_starred()
-    write_repos_to_markdown(filename, "每日 Star 最多的仓库", most_starred_repos)
+    repos = scrape_most_starred()
+    write_repos_to_markdown(filename, "每日 Star 最多的仓库", repos)
     
     # 抓取每日 Fork 最多的仓库
-    most_forked_repos = scrape_most_forked()
-    write_repos_to_markdown(filename, "每日 Fork 最多的仓库", most_forked_repos)
+    repos = scrape_most_forked()
+    write_repos_to_markdown(filename, "每日 Fork 最多的仓库", repos)
     
     # 抓取每日趋势榜
-    trending_repos = scrape_trending()
-    write_repos_to_markdown(filename, "每日趋势榜", trending_repos)
+    repos = scrape_trending()
+    write_repos_to_markdown(filename, "每日趋势榜", repos)
     
     # 抓取人工智能方向热榜
-    f = codecs.open(filename, "a", "utf-8")
-    f.write("## 人工智能方向热榜\n\n")
-    f.close()
+    write_repos_to_markdown(filename, "人工智能方向热榜", [], is_subsection=False)
     
-    # Python 热榜
-    python_repos = scrape_trending("python")
-    write_repos_to_markdown(filename, "Python", python_repos, True)
+    # 抓取 Python 趋势榜
+    repos = scrape_trending("python")
+    write_repos_to_markdown(filename, "Python", repos, is_subsection=True)
     
-    # Deep Learning 热榜
-    dl_repos = scrape_trending("deep-learning")
-    write_repos_to_markdown(filename, "Deep Learning", dl_repos, True)
-    
-    # Machine Learning 热榜
-    ml_repos = scrape_trending("machine-learning")
-    write_repos_to_markdown(filename, "Machine Learning", ml_repos, True)
-    
-    return filename, display_date
+    return filename, date
 
 
 def job(use_git=False, use_timestamp=False):
     """主函数，执行抓取任务"""
     try:
+        print("开始抓取数据...")
         filename, display_date = scrape_all(use_timestamp)
         
         # 如果需要，执行 git 操作
         if use_git:
+            print("执行 Git 操作...")
             git_add_commit_push(display_date, filename)
         
         print(f"已完成抓取并保存到 {filename}")
         return True
+    except requests.exceptions.RequestException as e:
+        print(f"网络请求失败: {str(e)}")
+        return False
     except Exception as e:
+        import traceback
         print(f"抓取失败: {str(e)}")
+        print("详细错误信息:")
+        print(traceback.format_exc())
         return False
 
 
