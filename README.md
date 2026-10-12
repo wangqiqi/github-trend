@@ -154,6 +154,10 @@ python tools/merge_files.py 20250424 --apply
 2. 修改 `scheduler.py` 中的定时任务频率
 3. 修改 `.github/workflows/update-trending.yml` 中的 cron 表达式，调整 GitHub Actions 的运行频率
 
+## 变更日志
+
+见 [CHANGELOG.md](CHANGELOG.md)。
+
 ## 许可证
 
 本项目采用 MIT 许可证，详情请参阅 [LICENSE](LICENSE) 文件。

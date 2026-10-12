@@ -154,6 +154,10 @@ If you want to customize the scraped content or frequency, you can:
 2. Modify the scheduling frequency in `scheduler.py`
 3. Modify the cron expression in `.github/workflows/update-trending.yml` to adjust the GitHub Actions execution frequency
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

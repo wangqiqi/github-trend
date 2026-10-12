@@ -14,6 +14,7 @@ on:
       - '.dsh/**'
       - 'README.md'
       - 'README_EN.md'
+      - 'CHANGELOG.md'
   schedule:
     # 每天中午 12:00 UTC 运行
     - cron: '0 12 * * *'
