@@ -49,4 +49,6 @@ scripts/plan-parse.sh
 scripts/planrun-doctor.mjs
 scripts/planrun-manifest.mjs
 scripts/run-bash.mjs
- backups/
+
+# tools/ 维护脚本的删除/合并备份（原文件移到这里，不入库）
+backups/
