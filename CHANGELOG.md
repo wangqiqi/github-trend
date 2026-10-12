@@ -2,6 +2,29 @@
 
 本项目遵循 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/) 与 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [Unreleased]
+
+### Added
+
+- **日历视图**：`/calendar/` 年份总览 + `/calendar/YYYY` 十二个月历网格 —— 一天一格，有快照的日期可点进当日榜单，没有数据的日子是灰格（历史上有 API 失败与半成品写入的日子，如实呈现）
+- **月度页加月历**：每月页面顶部是当月日历，下面是当月快照列表
+- **站点 About 链接区**：站点 / 源码仓库 / 原始数据 / 索引 / 趋势产物 / 许可证 / raw 直链，一次给全
+- **仓库 About 元数据**：description 重写、补上 homepage=`https://znza.top/github-trend/` 与 6 个 topics（对齐 planrun 等兄弟项目站）
+- **脱敏证明** `tests/test_privacy.py`：全仓库扫严格凭据形态（ghp_/ghs_/github_pat_/AKIA/私钥/Slack token）、手写文件扫本机绝对路径、构建产物再扫一遍；`backups/` 不得入库；workflow 不得回显凭据；token 只允许进 `Authorization` 头
+- **日历守门**：`verify-site.sh` 断言每年日历的可点日期数 == 该年数据天数，且每个链接目标页真实存在
+- **跨仓库防漂移测试** `tests/test_crossrepo.py`：兄弟仓库在本机时校验博客「项目站」条目与本站 base 一致，且博客部署不依赖本仓库
+- 文档补「数据到站点的自动同步链路」与「与博客站的关系」两节（含 `GITHUB_TOKEN` 提交不触发 push、失败连带跳过部署）
+
+### Changed
+
+- **每日归档页从 20 行月份表改为年份卡片**（每年天数 + 年历入口 + 紧凑月份链接行）
+- 侧边栏年份可点进年历（年 → 月结构不变，逐日条目仍然不进侧边栏）
+
+### Notes
+
+- 日历刻意用 **Markdown 表格**而非 raw HTML：Markdown 链接会被 VitePress 自己的死链检查覆盖，raw HTML 的 href 不会；`verify-site.sh` 的计数守门作为第二道防线
+- 脱敏结论：发布面**结构上就没有敏感数据**（只有公开 GitHub 元数据），token 从环境读、只进请求头，不进文件/日志/产物 —— 现在这一点由断言证明
+
 ## [1.1.0] - 2026-10-12
 
 ### Added
