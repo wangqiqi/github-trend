@@ -2,6 +2,6 @@
 # 运行时依赖见 requirements.txt
 -r requirements.txt
 
-pytest>=8.0,<10.0
+pytest>=9.1.1,<10.0
 # 测试里要解析 workflow / dependabot 的 YAML
 PyYAML>=6.0.3,<7.0
