@@ -147,6 +147,13 @@ def test_verify_all_composes_python_and_site():
     assert "scripts/verify-site.sh" in text
 
 
+def test_verify_site_requires_calendar_legend():
+    """缺口统计不能被无声删掉：图例与三类分类必须出现在日历页里。"""
+    text = (REPO_ROOT / "scripts" / "verify-site.sh").read_text(encoding="utf-8")
+    assert "缺少图例" in text
+    assert "尚未抓取" in text
+
+
 def test_verify_site_guards_calendar_links():
     """日历的日链接要等于数据天数，且目标页存在（Markdown 链接已被 VitePress 检查，这是第二道）。"""
     text = (REPO_ROOT / "scripts" / "verify-site.sh").read_text(encoding="utf-8")

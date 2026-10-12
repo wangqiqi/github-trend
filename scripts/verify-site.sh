@@ -78,6 +78,10 @@ for year in $(node_years); do
   link_count="$(printf '%s\n' "$links" | grep -c . || true)"
   [[ "$link_count" -eq "$expected" ]] || fail_msg "$year 年日历可点日期 $link_count 个，数据里有 $expected 天"
 
+  # 图例必须存在：缺口统计是给读者的诚实交代，不能被无声删掉
+  grep -q '图例' "$page" || fail_msg "$year 年日历缺少图例"
+  grep -Eq '尚未抓取|项目开始前|缺 [0-9]+ 天' "$page" || fail_msg "$year 年日历缺少覆盖统计（缺口 / 未抓取分类）"
+
   # 逐条验证链接目标存在（Markdown 链接已被 VitePress 检查，这里是第二道防线）
   while IFS= read -r target; do
     [[ -z "$target" ]] && continue

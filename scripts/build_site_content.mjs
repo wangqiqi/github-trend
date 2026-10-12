@@ -120,7 +120,7 @@ ${neighbours.length ? `**相邻日期**：${neighbours.join(' · ')}` : ''}
 `
 }
 
-function renderMonthPage(month, days) {
+function renderMonthPage(month, days, range) {
   const [year, mm] = [month.slice(0, 4), month.slice(4, 6)]
   const dayByDate = new Set(days.map((d) => d.date))
   const items = [...days].reverse().map((day) =>
@@ -134,7 +134,7 @@ title: ${year}-${mm}
 
 [← 回到 ${year} 年日历](/calendar/${year}.md) · 共 **${days.length}** 天快照
 
-${monthCalendarMarkdown(year, mm, dayByDate)}
+${monthCalendarMarkdown(year, mm, dayByDate, range)}
 
 ## 当月快照
 
@@ -271,28 +271,57 @@ ${body}
 
 const WEEKDAY_HEADERS = ['一', '二', '三', '四', '五', '六', '日']
 
+function isLeapYear(year) {
+  return (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0
+}
+
+function datesOfYear(year) {
+  const out = []
+  const numericYear = Number(year)   // year 来自 slice(0,4)，是字符串；严格比较会一次都不进循环
+  const cursor = new Date(Date.UTC(numericYear, 0, 1))
+  while (cursor.getUTCFullYear() === numericYear) {
+    out.push(
+      `${year}${String(cursor.getUTCMonth() + 1).padStart(2, '0')}${String(cursor.getUTCDate()).padStart(2, '0')}`
+    )
+    cursor.setUTCDate(cursor.getUTCDate() + 1)
+  }
+  return out
+}
+
 /**
- * 一个月的日历（Markdown 表格，周一为列首）。
- *
- * 刻意用 Markdown 而不是 raw HTML：Markdown 链接会被 VitePress 的死链检查覆盖，
- * raw HTML 的 href 不会。有数据的日期是链接，没有的只显示数字（灰色不可点）。
+ * 把日期分成三类，别把「还没到」算成「缺数据」：
+ *   covered 有快照 · gap 抓取区间内的真缺口 · before 项目开始前 · future 尚未抓取
  */
-function monthCalendarMarkdown(year, month, dayByDate) {
+function classify(dates, dayByDate, range) {
+  const stats = { covered: 0, gap: 0, before: 0, future: 0, total: dates.length }
+  for (const date of dates) {
+    if (dayByDate.has(date)) stats.covered += 1
+    else if (date < range.first) stats.before += 1
+    else if (date > range.last) stats.future += 1
+    else stats.gap += 1
+  }
+  return stats
+}
+
+function describe(stats) {
+  const notes = []
+  if (stats.gap) notes.push(`缺 ${stats.gap} 天`)
+  if (stats.before) notes.push(`项目开始前 ${stats.before} 天`)
+  if (stats.future) notes.push(`尚未抓取 ${stats.future} 天`)
+  return notes.join(' · ')
+}
+
+/** 一个月的日历（Markdown 表格，周一为列首）。 */
+function monthCalendarMarkdown(year, month, dayByDate, range) {
   const monthIndex = Number(month) - 1
   const firstWeekday = new Date(Date.UTC(year, monthIndex, 1)).getUTCDay() // 0=周日
   const daysInMonth = new Date(Date.UTC(year, Number(month), 0)).getUTCDate()
   const lead = (firstWeekday + 6) % 7 // 转成周一为 0
 
   const cells = Array(lead).fill('')
-  let withData = 0
   for (let day = 1; day <= daysInMonth; day += 1) {
     const date = `${year}${month}${String(day).padStart(2, '0')}`
-    if (dayByDate.has(date)) {
-      withData += 1
-      cells.push(`[**${day}**](/daily/${year}/${month}/${date}.md)`)
-    } else {
-      cells.push(`${day}`)
-    }
+    cells.push(dayByDate.has(date) ? `[**${day}**](/daily/${year}/${month}/${date}.md)` : `${day}`)
   }
   while (cells.length % 7 !== 0) cells.push('')
 
@@ -301,21 +330,33 @@ function monthCalendarMarkdown(year, month, dayByDate) {
     rows.push(`| ${cells.slice(i, i + 7).join(' | ')} |`)
   }
 
+  const stats = classify(
+    datesOfYear(year).filter((d) => d.slice(4, 6) === month),
+    dayByDate,
+    range
+  )
+  const note = describe(stats)
+
   return [
-    `### ${Number(month)} 月${withData ? '' : '（无数据）'}`,
+    `### ${Number(month)} 月${stats.covered ? '' : '（无快照）'}`,
     '',
     `| ${WEEKDAY_HEADERS.join(' | ')} |`,
     '| :-: | :-: | :-: | :-: | :-: | :-: | :-: |',
     ...rows,
     '',
-    `当月 **${withData}** / ${daysInMonth} 天有快照`,
+    `当月 **${stats.covered}** / ${stats.total} 天有快照${note ? `（${note}）` : ''}`,
   ].join('\n')
 }
 
-function renderCalendarYear(year, days) {
-  const dayByDate = new Set(days.filter((d) => d.date.startsWith(year)).map((d) => d.date))
+function renderCalendarYear(year, days, range) {
+  const range_ = range ?? { first: days[0].date, last: days[days.length - 1].date }
+  const yearDays = days.filter((d) => d.date.startsWith(year))
+  const dayByDate = new Set(yearDays.map((d) => d.date))
   const months = Array.from({ length: 12 }, (_, i) => String(i + 1).padStart(2, '0'))
-  const blocks = months.map((m) => monthCalendarMarkdown(year, m, dayByDate))
+  const blocks = months.map((m) => monthCalendarMarkdown(year, m, dayByDate, range_))
+
+  const stats = classify(datesOfYear(year), dayByDate, range_)
+  const note = describe(stats)
   const years = [...new Set(days.map((d) => d.date.slice(0, 4)))].sort().reverse()
   const prevNext = []
   const idx = years.indexOf(year)
@@ -328,7 +369,14 @@ title: ${year} 年日历
 
 # ${year} 年日历
 
-**${dayByDate.size}** 天有快照。**加粗可点的日期**是对应那一天的榜单，未加粗的表示当天没有数据（历史上有 API 失败与半成品写入的日子）。[返回年份总览](/calendar/index.md)${prevNext.length ? ` · ${prevNext.join(' · ')}` : ''}
+[返回年份总览](/calendar/index.md)${prevNext.length ? ` · ${prevNext.join(' · ')}` : ''}
+
+> **图例** —— 加粗可点的日期（如 **[12]**）表示当天有榜单快照；普通数字（如 13）表示当天没有快照。
+> 普通数字里既有**真缺口**（当年 API 失败或半成品写入），也有**尚未抓取**的未来日期，两者分开统计。
+>
+> **本年度快照 ${stats.covered} 天**（全年 ${stats.total} 天）${note ? ` · ${note}` : ''}
+>
+> 另有一类质量问题：部分历史快照缺 Star / Fork 段落，那是当年 API 失败但趋势榜仍然抓到 —— 见[数据说明](/about)。
 
 ${blocks.join('\n\n')}
 `
@@ -352,7 +400,9 @@ title: 日历
 
 # 日历
 
-按年看，一天一格。**加粗可点的日期**是那一天的榜单快照；未加粗表示当天没有数据。
+按年看，一天一格。
+
+> **图例**：加粗可点的日期表示当天有榜单快照，普通数字表示当天没有抓到数据（原因见 [数据说明](/about)）。
 
 | 年份 | 天数 | 区间 |
 | --- | --- | --- |
@@ -383,6 +433,9 @@ function main() {
 
   for (const dir of GENERATED_DIRS) rmSync(dir, { recursive: true, force: true })
 
+  // 抓取区间：用于区分「真缺口」与「尚未抓取」，避免把未来日期算成缺数据
+  const range = { first: days[0].date, last: days[days.length - 1].date }
+
   const daysByMonth = new Map()
   for (const day of days) {
     const month = day.date.slice(0, 6)
@@ -402,7 +455,7 @@ function main() {
 
   for (const [month, monthDays] of daysByMonth) {
     const path = join(DOCS_DIR, 'month', `${month.slice(0, 4)}-${month.slice(4, 6)}.md`)
-    if (writeIfChanged(path, renderMonthPage(month, monthDays))) changed++
+    if (writeIfChanged(path, renderMonthPage(month, monthDays, range))) changed++
   }
 
   if (writeIfChanged(join(DOCS_DIR, 'daily', 'index.md'), renderDailyIndex(daysByMonth))) changed++
@@ -420,7 +473,7 @@ function main() {
   // 日历：年份总览 + 每年一张（12 个月历网格）
   const calendarYears = [...new Set(days.map((d) => d.date.slice(0, 4)))].sort().reverse()
   for (const year of calendarYears) {
-    if (writeIfChanged(join(DOCS_DIR, 'calendar', `${year}.md`), renderCalendarYear(year, days))) changed++
+    if (writeIfChanged(join(DOCS_DIR, 'calendar', `${year}.md`), renderCalendarYear(year, days, range))) changed++
   }
   if (writeIfChanged(join(DOCS_DIR, 'calendar', 'index.md'), renderCalendarIndex(days))) changed++
 
