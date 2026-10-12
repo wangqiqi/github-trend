@@ -1,11 +1,12 @@
 # coding:utf-8
 
 import datetime
-import codecs
-import requests
 import os
+import sys
+import tempfile
 import time
-import json
+
+import requests
 from pyquery import PyQuery as pq
 
 
@@ -147,24 +148,18 @@ def check_file_exists(filename):
     return filename
 
 
-def createMarkdown(date, filename):
-    """创建 Markdown 文件并写入标题"""
-    # 确保目录存在
-    directory = os.path.dirname(filename)
-    if directory and not os.path.exists(directory):
-        os.makedirs(directory)
-    
-    # 获取当前时间
+def render_header(date):
+    """渲染文档头部（标题 + 目录），纯函数，不碰磁盘。"""
     current_time = datetime.datetime.now().strftime('%H:%M:%S')
-    
-    with codecs.open(filename, 'w', 'utf-8') as f:
-        f.write(f"# GitHub 热门榜单 {date} ({current_time})\n\n")
-        f.write("## 目录\n\n")
-        f.write("- [每日 Star 最多的仓库](#每日-star-最多的仓库)\n")
-        f.write("- [每日 Fork 最多的仓库](#每日-fork-最多的仓库)\n")
-        f.write("- [每日趋势榜](#每日趋势榜)\n")
-        f.write("- [人工智能方向热榜](#人工智能方向热榜)\n")
-        f.write("  - [Python](#python)\n\n")
+    return (
+        f"# GitHub 热门榜单 {date} ({current_time})\n\n"
+        "## 目录\n\n"
+        "- [每日 Star 最多的仓库](#每日-star-最多的仓库)\n"
+        "- [每日 Fork 最多的仓库](#每日-fork-最多的仓库)\n"
+        "- [每日趋势榜](#每日趋势榜)\n"
+        "- [人工智能方向热榜](#人工智能方向热榜)\n"
+        "  - [Python](#python)\n\n"
+    )
 
 
 def scrape_trending(language=None, session=None):
@@ -280,78 +275,120 @@ def scrape_most_forked(session=None):
         return []
 
 
-def write_repos_to_markdown(filename, section_title, repos, is_subsection=False):
-    """将仓库信息以表格方式写入 Markdown 文件"""
-    with codecs.open(filename, "a", "utf-8") as f:
-        if is_subsection:
-            f.write(f'### {section_title}\n\n')
-        else:
-            f.write(f'## {section_title}\n\n')
-        
-        if not repos:
-            f.write("*暂无数据*\n\n")
-            return
-        
-        # 写入表格头部
-        f.write("| 序号 | 名称 | 描述 | 语言 | Stars | Forks |\n")
-        f.write("| --- | --- | --- | --- | --- | --- |\n")
-        
-        # 写入表格内容
-        for i, repo in enumerate(repos):
-            # 处理描述中可能存在的 | 符号，避免破坏表格结构
-            description = repo['description'].replace('|', '\\|').replace('\n', ' ')
-            # 限制描述长度，避免表格过宽
-            if len(description) > 100:
-                description = description[:97] + "..."
-                
-            f.write(f"| {i+1} | [{repo['title']}]({repo['url']}) | {description} | {repo['language']} | {repo['stars']} | {repo['forks']} |\n")
-        
-        f.write("\n")
+class ScrapeError(RuntimeError):
+    """抓取阶段的确定性失败：某一段没拿到数据，不允许产出半成品文档。"""
 
 
-def scrape_all(use_timestamp=False):
-    """抓取所有数据并写入文件"""
+def write_atomic(filename, content):
+    """先写同目录临时文件再 os.replace —— 崩溃或中断不会留下半截文件。"""
+    directory = os.path.dirname(filename) or '.'
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
+    fd, tmp_path = tempfile.mkstemp(dir=directory, prefix='.tmp-', suffix='.md')
+    try:
+        with os.fdopen(fd, 'w', encoding='utf-8') as handle:
+            handle.write(content)
+        os.replace(tmp_path, filename)
+    except BaseException:
+        if os.path.exists(tmp_path):
+            os.remove(tmp_path)
+        raise
+
+
+def render_section(section_title, repos, is_subsection=False):
+    """把仓库列表渲染成 Markdown 段落（返回字符串，不写盘）。"""
+    lines = [f"{'###' if is_subsection else '##'} {section_title}", ""]
+
+    if not repos:
+        lines += ["*暂无数据*", ""]
+        return "\n".join(lines) + "\n"
+
+    # 写入表格头部
+    lines += [
+        "| 序号 | 名称 | 描述 | 语言 | Stars | Forks |",
+        "| --- | --- | --- | --- | --- | --- |",
+    ]
+
+    # 写入表格内容
+    for i, repo in enumerate(repos):
+        # 处理描述中可能存在的 | 符号，避免破坏表格结构
+        description = repo['description'].replace('|', '\\|').replace('\n', ' ')
+        # 限制描述长度，避免表格过宽
+        if len(description) > 100:
+            description = description[:97] + "..."
+
+        lines.append(
+            f"| {i+1} | [{repo['title']}]({repo['url']}) | {description} | {repo['language']} | {repo['stars']} | {repo['forks']} |"
+        )
+
+    lines.append("")
+    return "\n".join(lines) + "\n"
+
+
+def scrape_all(use_timestamp=False, session=None):
+    """抓取所有数据并原子写入文件。
+
+    先全部抓完、全部校验，再一次性落盘：任一段为空就抛 ScrapeError，
+    绝不留下「文件已建、段落是暂无数据」的半成品让 CI 提交出去。
+    """
     filename, date = get_file_path(use_timestamp)
     filename = check_file_exists(filename)
-    
-    # 创建 Markdown 文件
-    createMarkdown(date, filename)
-    
+
+    sections = []
+
     # 抓取每日 Star 最多的仓库
-    repos = scrape_most_starred()
-    write_repos_to_markdown(filename, "每日 Star 最多的仓库", repos)
-    
+    star_repos = scrape_most_starred(session=session)
+    if not star_repos:
+        raise ScrapeError("每日 Star 最多的仓库：未获取到数据")
+    sections.append(("每日 Star 最多的仓库", star_repos, False))
+
     # 抓取每日 Fork 最多的仓库
-    repos = scrape_most_forked()
-    write_repos_to_markdown(filename, "每日 Fork 最多的仓库", repos)
-    
+    fork_repos = scrape_most_forked(session=session)
+    if not fork_repos:
+        raise ScrapeError("每日 Fork 最多的仓库：未获取到数据")
+    sections.append(("每日 Fork 最多的仓库", fork_repos, False))
+
     # 抓取每日趋势榜
-    repos = scrape_trending()
-    write_repos_to_markdown(filename, "每日趋势榜", repos)
-    
-    # 抓取人工智能方向热榜
-    write_repos_to_markdown(filename, "人工智能方向热榜", [], is_subsection=False)
-    
+    trending_repos = scrape_trending(session=session)
+    if not trending_repos:
+        raise ScrapeError("每日趋势榜：未获取到数据")
+    sections.append(("每日趋势榜", trending_repos, False))
+
+    # 人工智能方向热榜（TASK-007 将整段移除，此处维持现状标题）
+    sections.append(("人工智能方向热榜", [], False))
+
     # 抓取 Python 趋势榜
-    repos = scrape_trending("python")
-    write_repos_to_markdown(filename, "Python", repos, is_subsection=True)
-    
+    python_repos = scrape_trending("python", session=session)
+    if not python_repos:
+        raise ScrapeError("Python 趋势榜：未获取到数据")
+    sections.append(("Python", python_repos, True))
+
+    content = render_header(date) + "".join(
+        render_section(title, repos, is_subsection)
+        for title, repos, is_subsection in sections
+    )
+    write_atomic(filename, content)
+
     return filename, date
 
 
-def job(use_git=False, use_timestamp=False):
-    """主函数，执行抓取任务"""
+def job(use_git=False, use_timestamp=False, session=None):
+    """主函数，执行抓取任务；返回是否成功。"""
     try:
         print("开始抓取数据...")
-        filename, display_date = scrape_all(use_timestamp)
-        
+        filename, display_date = scrape_all(use_timestamp, session=session)
+
         # 如果需要，执行 git 操作
         if use_git:
             print("执行 Git 操作...")
             git_add_commit_push(display_date, filename)
-        
+
         print(f"已完成抓取并保存到 {filename}")
         return True
+    except ScrapeError as e:
+        print(f"抓取失败: {e}")
+        return False
     except requests.exceptions.RequestException as e:
         print(f"网络请求失败: {str(e)}")
         return False
@@ -363,5 +400,10 @@ def job(use_git=False, use_timestamp=False):
         return False
 
 
+def main():
+    """CLI 入口：失败必须给非零退出码，否则 CI 会把脏数据当成功提交。"""
+    return 0 if job() else 1
+
+
 if __name__ == '__main__':
-    job()
+    sys.exit(main())
