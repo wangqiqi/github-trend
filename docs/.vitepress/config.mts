@@ -24,6 +24,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: '日历', link: '/calendar/' },
       { text: '每日榜单', link: '/daily/' },
       { text: '趋势', link: '/trends/' },
       { text: '数据说明', link: '/about' },

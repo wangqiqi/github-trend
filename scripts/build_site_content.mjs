@@ -26,8 +26,14 @@ const DATA_DIR = join(ROOT, 'data')
 const DOCS_DIR = join(ROOT, 'docs')
 const REPO = 'wangqiqi/github-trend'
 const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/master`
+const BASE = '/github-trend/'
 
-const GENERATED_DIRS = [join(DOCS_DIR, 'daily'), join(DOCS_DIR, 'month'), join(DOCS_DIR, 'trends')]
+const GENERATED_DIRS = [
+  join(DOCS_DIR, 'daily'),
+  join(DOCS_DIR, 'month'),
+  join(DOCS_DIR, 'trends'),
+  join(DOCS_DIR, 'calendar'),
+]
 
 // --- 小工具 ---------------------------------------------------------------
 
@@ -256,6 +262,101 @@ ${body}
 `
 }
 
+// --- 日历 -----------------------------------------------------------------
+
+const WEEKDAY_HEADERS = ['一', '二', '三', '四', '五', '六', '日']
+
+/**
+ * 一个月的日历（Markdown 表格，周一为列首）。
+ *
+ * 刻意用 Markdown 而不是 raw HTML：Markdown 链接会被 VitePress 的死链检查覆盖，
+ * raw HTML 的 href 不会。有数据的日期是链接，没有的只显示数字（灰色不可点）。
+ */
+function monthCalendarMarkdown(year, month, dayByDate) {
+  const monthIndex = Number(month) - 1
+  const firstWeekday = new Date(Date.UTC(year, monthIndex, 1)).getUTCDay() // 0=周日
+  const daysInMonth = new Date(Date.UTC(year, Number(month), 0)).getUTCDate()
+  const lead = (firstWeekday + 6) % 7 // 转成周一为 0
+
+  const cells = Array(lead).fill('')
+  let withData = 0
+  for (let day = 1; day <= daysInMonth; day += 1) {
+    const date = `${year}${month}${String(day).padStart(2, '0')}`
+    if (dayByDate.has(date)) {
+      withData += 1
+      cells.push(`[**${day}**](/daily/${year}/${month}/${date}.md)`)
+    } else {
+      cells.push(`${day}`)
+    }
+  }
+  while (cells.length % 7 !== 0) cells.push('')
+
+  const rows = []
+  for (let i = 0; i < cells.length; i += 7) {
+    rows.push(`| ${cells.slice(i, i + 7).join(' | ')} |`)
+  }
+
+  return [
+    `### ${Number(month)} 月${withData ? '' : '（无数据）'}`,
+    '',
+    `| ${WEEKDAY_HEADERS.join(' | ')} |`,
+    '| :-: | :-: | :-: | :-: | :-: | :-: | :-: |',
+    ...rows,
+    '',
+    `当月 **${withData}** / ${daysInMonth} 天有快照`,
+  ].join('\n')
+}
+
+function renderCalendarYear(year, days) {
+  const dayByDate = new Set(days.filter((d) => d.date.startsWith(year)).map((d) => d.date))
+  const months = Array.from({ length: 12 }, (_, i) => String(i + 1).padStart(2, '0'))
+  const blocks = months.map((m) => monthCalendarMarkdown(year, m, dayByDate))
+  const years = [...new Set(days.map((d) => d.date.slice(0, 4)))].sort().reverse()
+  const prevNext = []
+  const idx = years.indexOf(year)
+  if (years[idx + 1]) prevNext.push(`[← ${years[idx + 1]} 年](/calendar/${years[idx + 1]}.md)`)
+  if (years[idx - 1]) prevNext.push(`[${years[idx - 1]} 年 →](/calendar/${years[idx - 1]}.md)`)
+
+  return `---
+title: ${year} 年日历
+---
+
+# ${year} 年日历
+
+**${dayByDate.size}** 天有快照。**加粗可点的日期**是对应那一天的榜单，未加粗的表示当天没有数据（历史上有 API 失败与半成品写入的日子）。[返回年份总览](/calendar/index.md)${prevNext.length ? ` · ${prevNext.join(' · ')}` : ''}
+
+${blocks.join('\n\n')}
+`
+}
+
+function renderCalendarIndex(days) {
+  const byYear = new Map()
+  for (const day of days) {
+    const year = day.date.slice(0, 4)
+    byYear.set(year, (byYear.get(year) ?? 0) + 1)
+  }
+  const years = [...byYear.keys()].sort().reverse()
+  const rows = years.map((year) =>
+    `| [${year}](/calendar/${year}.md) | ${byYear.get(year)} | ${fmtDate(days.find((d) => d.date.startsWith(year)).date)} ~ ${fmtDate(days.filter((d) => d.date.startsWith(year)).slice(-1)[0].date)} |`
+  )
+  const total = years.reduce((sum, y) => sum + byYear.get(y), 0)
+
+  return `---
+title: 日历
+---
+
+# 日历
+
+按年看，一天一格。**加粗可点的日期**是那一天的榜单快照；未加粗表示当天没有数据。
+
+| 年份 | 天数 | 区间 |
+| --- | --- | --- |
+${rows.join('\n')}
+
+共 **${total}** 天快照。也可以直接[按天翻归档](/daily/)，或在右上角搜索某一天。
+`
+}
+
 // --- 主流程 ---------------------------------------------------------------
 
 function buildSidebar(daysByMonth) {
@@ -310,7 +411,14 @@ function main() {
   const sidebarPath = join(DOCS_DIR, '.vitepress', 'sidebar.generated.json')
   writeIfChanged(sidebarPath, JSON.stringify(buildSidebar(daysByMonth), null, 2) + '\n')
 
-  console.log(`  逐日页 ${days.length} · 月度页 ${daysByMonth.size} · 索引页 1 · 趋势页 1（内容有变化 ${changed} 个文件）`)
+  // 日历：年份总览 + 每年一张（12 个月历网格）
+  const calendarYears = [...new Set(days.map((d) => d.date.slice(0, 4)))].sort().reverse()
+  for (const year of calendarYears) {
+    if (writeIfChanged(join(DOCS_DIR, 'calendar', `${year}.md`), renderCalendarYear(year, days))) changed++
+  }
+  if (writeIfChanged(join(DOCS_DIR, 'calendar', 'index.md'), renderCalendarIndex(days))) changed++
+
+  console.log(`  逐日页 ${days.length} · 月度页 ${daysByMonth.size} · 索引页 1 · 趋势页 1 · 日历页 ${calendarYears.length + 1}（内容有变化 ${changed} 个文件）`)
 }
 
 main()
