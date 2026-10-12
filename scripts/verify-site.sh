@@ -85,6 +85,11 @@ for year in $(node_years); do
   done <<< "$links"
 done
 
+# 发布面脱敏：产物里不得出现凭据形状（严格形态，误报率极低）
+if grep -rEq 'ghp_[A-Za-z0-9]{36}|ghs_[A-Za-z0-9]{36}|github_pat_[A-Za-z0-9_]{22,}|AKIA[0-9A-Z]{16}|-----BEGIN [A-Z ]*PRIVATE KEY-----' "$DIST" 2>/dev/null; then
+  fail_msg "构建产物里出现凭据形状的字符串"
+fi
+
 [[ "$fail" -ne 0 ]] && exit 1
 
 echo "  页面数: $pages（逐日 $daily_pages/$days）· 最大逐日页 ${worst_kb}KB · 产物体积: $(du -sh "$DIST" | cut -f1)"
