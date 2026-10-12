@@ -38,12 +38,28 @@ def test_data_tree_is_readable():
 
 
 def test_latest_data_file_has_expected_sections():
-    """抽查最新一份**历史**数据：四个段落标题齐全。
+    """抽查最新一份数据：三个常驻段落必须在，Python 段落按世代二选一。
 
-    TASK-007 之后新产物不再有「人工智能方向热榜」，但历史文件按 Out of scope
-    不回填，所以这里仍然断言它存在（新产物的段落集合见 test_sections.py）。
+    TASK-007 之前的历史文件把 Python 放在「人工智能方向热榜」下的 `### Python`；
+    新产物是顶层 `## Python` 且不再有 AI 段。两种世代都得能过 ——
+    早期版本硬断言 AI 段存在，CI 机器人一生成新格式文件就把自己测红了。
     """
     files = sorted((REPO_ROOT / "data").rglob("*.md"))
     latest = files[-1].read_text(encoding="utf-8")
-    for section in ("## 每日 Star 最多的仓库", "## 每日 Fork 最多的仓库", "## 每日趋势榜", "## 人工智能方向热榜"):
+    for section in ("## 每日 Star 最多的仓库", "## 每日 Fork 最多的仓库", "## 每日趋势榜"):
         assert section in latest, f"最新数据缺少段落 {section}"
+    assert "## Python" in latest or "### Python" in latest, "最新数据缺少 Python 段落"
+
+
+def test_every_data_file_has_core_sections():
+    """全量校验：每个历史文件都不能缺核心段落（比只看最新一份更结实）。"""
+    files = sorted((REPO_ROOT / "data").rglob("*.md"))
+    assert len(files) > 500, f"数据文件数量异常: {len(files)}"
+
+    missing = []
+    for path in files:
+        text = path.read_text(encoding="utf-8")
+        for section in ("每日 Star 最多的仓库", "每日 Fork 最多的仓库", "每日趋势榜"):
+            if section not in text:
+                missing.append(f"{path.name}: {section}")
+    assert missing == []
