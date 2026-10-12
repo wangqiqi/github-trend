@@ -2,6 +2,19 @@
 
 本项目遵循 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/) 与 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [Unreleased]
+
+### Changed
+
+- **抓取 workflow 不再由 push 触发**：抓取产物是按天一份的快照且同日不覆盖，每次代码推送都会白攒出多份文件（实测一天攒出 `20261012.md` / `_01` / `_02` / `_03`）。现在只按每天 12:00 UTC 定时或手动触发；代码推送的验证仍由 `ci.yml` 负责。
+- 依赖升级（dependabot）：`requests>=2.34.2` · `pyquery>=2.1.0` · `schedule>=1.2.2` · `pytest>=9.1.1` · `PyYAML>=6.0.3`；GitHub Actions 升至 `actions/checkout@v7`、`actions/setup-python@v7`
+
+### Fixed
+
+- `tools/cleanup.py` 与 `tools/merge_files.py` 现在会把同名 `.json` 快照一并移入备份：此前只搬 `.md`，会留下索引未曾引用的无主孤儿文件
+- `tools/merge_files.py` 渲染目录时自引用，会产出重复的 `## 目录`；现改为按实际段落重新生成
+- 新增 `python tools/merge_files.py <date> --force`：只有 1 个文件时也能原地重排，用于修历史上被坏脚本写坏的文件
+
 ## [1.0.0] - 2026-10-12
 
 首个正式版本。把长期运行的抓取管道从「能跑」加固为「可验证、不脏提交、可被程序消费」。
