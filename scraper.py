@@ -1,6 +1,7 @@
 # coding:utf-8
 
 import datetime
+import json
 import os
 import re
 import sys
@@ -347,9 +348,9 @@ def write_atomic(filename, content):
         raise
 
 
-def render_section(section_title, repos, is_subsection=False):
+def render_section(section_title, repos):
     """把仓库列表渲染成 Markdown 段落（返回字符串，不写盘）。"""
-    lines = [f"{'###' if is_subsection else '##'} {section_title}", ""]
+    lines = [f"## {section_title}", ""]
 
     if not repos:
         lines += ["*暂无数据*", ""]
@@ -375,6 +376,46 @@ def render_section(section_title, repos, is_subsection=False):
     return "\n".join(lines) + "\n"
 
 
+def count_or_none(value):
+    """导出用：能解析成整数就给整数，否则给 null（JSON 里别塞 'N/A'）。"""
+    text = normalize_count(value)
+    return int(text) if text else None
+
+
+def build_export(date, sections):
+    """把抓取结果组织成机器可读快照。
+
+    与 Markdown 的两点关键差异：
+      * stars/forks 是整数，不是带千分位的字符串；
+      * description 保留原文，不做表格转义、不截断。
+    """
+    generated_at = datetime.datetime.now(datetime.timezone.utc).replace(microsecond=0)
+    return {
+        "date": date,
+        "generated_at": generated_at.isoformat().replace('+00:00', 'Z'),
+        "source": "scraper.py",
+        "sections": [
+            {
+                "id": section["id"],
+                "title": section["title"],
+                "repos": [
+                    {
+                        "rank": index + 1,
+                        "name": repo["title"],
+                        "url": repo["url"],
+                        "description": repo["description"],
+                        "language": repo["language"],
+                        "stars": count_or_none(repo["stars"]),
+                        "forks": count_or_none(repo["forks"]),
+                    }
+                    for index, repo in enumerate(section["repos"])
+                ],
+            }
+            for section in sections
+        ],
+    }
+
+
 def scrape_all(use_timestamp=False, session=None):
     """抓取所有数据并原子写入文件。
 
@@ -390,32 +431,36 @@ def scrape_all(use_timestamp=False, session=None):
     star_repos = scrape_most_starred(session=session)
     if not star_repos:
         raise ScrapeError("每日 Star 最多的仓库：未获取到数据")
-    sections.append(("每日 Star 最多的仓库", star_repos, False))
+    sections.append({"id": "most-starred", "title": "每日 Star 最多的仓库", "repos": star_repos})
 
     # 抓取每日 Fork 最多的仓库
     fork_repos = scrape_most_forked(session=session)
     if not fork_repos:
         raise ScrapeError("每日 Fork 最多的仓库：未获取到数据")
-    sections.append(("每日 Fork 最多的仓库", fork_repos, False))
+    sections.append({"id": "most-forked", "title": "每日 Fork 最多的仓库", "repos": fork_repos})
 
     # 抓取每日趋势榜
     trending_repos = scrape_trending(session=session)
     if not trending_repos:
         raise ScrapeError("每日趋势榜：未获取到数据")
-    sections.append(("每日趋势榜", trending_repos, False))
+    sections.append({"id": "trending", "title": "每日趋势榜", "repos": trending_repos})
 
     # 抓取 Python 趋势榜（原先挂在「人工智能方向热榜」下的子段落，
     # 那一段从 2025-03 建仓到 2026-10 从未拿到过数据，已整段移除）
     python_repos = scrape_trending("python", session=session)
     if not python_repos:
         raise ScrapeError("Python 趋势榜：未获取到数据")
-    sections.append(("Python", python_repos, False))
+    sections.append({"id": "python", "title": "Python", "repos": python_repos})
 
     content = render_header(date) + "".join(
-        render_section(title, repos, is_subsection)
-        for title, repos, is_subsection in sections
+        render_section(section["title"], section["repos"]) for section in sections
     )
     write_atomic(filename, content)
+
+    # 同名的机器可读快照：md 给人看，json 给程序用
+    export_filename = os.path.splitext(filename)[0] + '.json'
+    export_payload = build_export(date, sections)
+    write_atomic(export_filename, json.dumps(export_payload, ensure_ascii=False, indent=2) + '\n')
 
     return filename, date
 

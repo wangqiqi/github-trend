@@ -57,6 +57,10 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: python scraper.py
 
+    - name: Rebuild data index
+      # 索引是数据树的纯函数，跟着数据一起更新，避免 index.json 过期
+      run: python scripts/build_index.py
+
     - name: Commit and push if changed
       run: |
         # 如果您 fork 了此仓库，请修改以下 git 配置为您自己的邮箱和用户名
