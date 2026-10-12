@@ -145,7 +145,12 @@ def test_site_base_matches_published_url():
 
 
 def test_changelog_records_site_work():
+    """CHANGELOG 里必须有站点这条账。
+
+    刻意**不**断言 `## [Unreleased]` 存在：发版时它会被折成 `x.y.z`，
+    那是正常的生命周期，不是缺陷（第一版就是这么把自己测红的）。
+    """
     changelog = (REPO_ROOT / "CHANGELOG.md").read_text(encoding="utf-8")
-    assert "## [Unreleased]" in changelog
+    assert re.search(r'^## \[(\d+\.\d+\.\d+|Unreleased)\]', changelog, flags=re.MULTILINE)
     assert "znza.top/github-trend" in changelog
     assert "trends.json" in changelog
