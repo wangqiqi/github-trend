@@ -209,8 +209,7 @@ def render_header(date):
         "- [每日 Star 最多的仓库](#每日-star-最多的仓库)\n"
         "- [每日 Fork 最多的仓库](#每日-fork-最多的仓库)\n"
         "- [每日趋势榜](#每日趋势榜)\n"
-        "- [人工智能方向热榜](#人工智能方向热榜)\n"
-        "  - [Python](#python)\n\n"
+        "- [Python](#python)\n\n"
     )
 
 
@@ -405,14 +404,12 @@ def scrape_all(use_timestamp=False, session=None):
         raise ScrapeError("每日趋势榜：未获取到数据")
     sections.append(("每日趋势榜", trending_repos, False))
 
-    # 人工智能方向热榜（TASK-007 将整段移除，此处维持现状标题）
-    sections.append(("人工智能方向热榜", [], False))
-
-    # 抓取 Python 趋势榜
+    # 抓取 Python 趋势榜（原先挂在「人工智能方向热榜」下的子段落，
+    # 那一段从 2025-03 建仓到 2026-10 从未拿到过数据，已整段移除）
     python_repos = scrape_trending("python", session=session)
     if not python_repos:
         raise ScrapeError("Python 趋势榜：未获取到数据")
-    sections.append(("Python", python_repos, True))
+    sections.append(("Python", python_repos, False))
 
     content = render_header(date) + "".join(
         render_section(title, repos, is_subsection)

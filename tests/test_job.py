@@ -58,8 +58,9 @@ def test_scrape_all_writes_complete_document(sandbox, monkeypatch):
     path = Path(filename)
     assert path.exists()
     content = path.read_text(encoding="utf-8")
-    for section in ("## 每日 Star 最多的仓库", "## 每日 Fork 最多的仓库", "## 每日趋势榜", "## 人工智能方向热榜", "### Python"):
+    for section in ("## 每日 Star 最多的仓库", "## 每日 Fork 最多的仓库", "## 每日趋势榜", "## Python"):
         assert section in content
+    assert "人工智能方向热榜" not in content  # TASK-007：空段落已移除
     assert content.count("| [a/b](") == 4
     assert tmp_files(sandbox) == []
 

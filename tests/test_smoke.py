@@ -38,7 +38,11 @@ def test_data_tree_is_readable():
 
 
 def test_latest_data_file_has_expected_sections():
-    """抽查最新一份数据：四个段落标题齐全（TASK-007 会改动段落集合，届时同步此断言）。"""
+    """抽查最新一份**历史**数据：四个段落标题齐全。
+
+    TASK-007 之后新产物不再有「人工智能方向热榜」，但历史文件按 Out of scope
+    不回填，所以这里仍然断言它存在（新产物的段落集合见 test_sections.py）。
+    """
     files = sorted((REPO_ROOT / "data").rglob("*.md"))
     latest = files[-1].read_text(encoding="utf-8")
     for section in ("## 每日 Star 最多的仓库", "## 每日 Fork 最多的仓库", "## 每日趋势榜", "## 人工智能方向热榜"):

@@ -2,7 +2,7 @@
 
 English | [中文](README.md)
 
-Automatically scrape popular GitHub repositories information, including daily most starred repositories, most forked repositories, trending repositories, and AI-related trending repositories.
+Automatically scrape popular GitHub repositories information, including daily most starred repositories, most forked repositories, trending repositories, and Python language trending repositories.
 
 ## Features
 
@@ -18,10 +18,7 @@ Automatically scrape popular GitHub repositories information, including daily mo
 - **Daily Most Starred Repositories**: TOP10 repositories sorted by star count
 - **Daily Most Forked Repositories**: TOP10 repositories sorted by fork count
 - **Daily Trending Repositories**: TOP10 repositories on GitHub trending page
-- **AI-related Trending Repositories**:
-  - **Python**: Popular repositories in Python language
-  - **Deep Learning**: Popular repositories related to deep learning
-  - **Machine Learning**: Popular repositories related to machine learning
+- **Python**: TOP10 popular Python repositories
 
 ## Usage
 

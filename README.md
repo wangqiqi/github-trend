@@ -2,7 +2,7 @@
 
 [English](README_EN.md) | 中文
 
-自动抓取 GitHub 热门仓库信息，包括每日 Star 最多的仓库、Fork 最多的仓库、趋势榜和人工智能方向的热榜。
+自动抓取 GitHub 热门仓库信息，包括每日 Star 最多的仓库、Fork 最多的仓库、趋势榜和 Python 语言热榜。
 
 ## 功能特点
 
@@ -18,10 +18,7 @@
 - **每日 Star 最多的仓库**：按照 Star 数量排序的 TOP10 仓库
 - **每日 Fork 最多的仓库**：按照 Fork 数量排序的 TOP10 仓库
 - **每日趋势榜**：GitHub 趋势榜上的 TOP10 仓库
-- **人工智能方向热榜**：
-  - **Python**：Python 语言热门仓库
-  - **Deep Learning**：深度学习相关热门仓库
-  - **Machine Learning**：机器学习相关热门仓库
+- **Python**：Python 语言的热门仓库 TOP10
 
 ## 使用方法
 
