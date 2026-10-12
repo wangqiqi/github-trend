@@ -107,6 +107,13 @@ def test_render_merged_builds_toc_with_subsection():
     assert "  - [Python](#python)" in merged
 
 
+def test_render_merged_regenerates_toc_without_self_reference():
+    """目录是脚手架：不能照抄老文件里的目录段，否则会渲染出第二个 `## 目录`。"""
+    merged = merge_tool.render_merged("20250424", merge_tool.split_sections(FILE_A))
+    assert merged.count("## 目录") == 1
+    assert "- [目录](#目录)" not in merged
+
+
 # --- 合并行为 -------------------------------------------------------------
 
 def test_find_files_for_date_matches_all_suffix_styles(tmp_path):
@@ -160,6 +167,55 @@ def test_merge_single_file_is_noop(tmp_path, backups):
     directory = make_month(tmp_path, names=("20250424.md",))
     assert merge_tool.merge_date("20250424", data_dir=tmp_path / "data", apply=True) is None
     assert [path.name for path in directory.iterdir()] == ["20250424.md"]
+
+
+DUP_TOC_FILE = """# GitHub 热门榜单 20250424 (12:25:00)
+
+## 目录
+
+- [每日趋势榜](#每日趋势榜)
+
+## 每日趋势榜
+
+| 1 | repo |
+
+## 目录
+
+- [Python](#python)
+
+### Python
+
+| 1 | py |
+"""
+
+
+def test_force_rerenders_single_file_and_collapses_duplicate_toc(tmp_path, backups):
+    """真实案例：坏 merge 脚本写出的文件里有两个 `## 目录`。"""
+    directory = tmp_path / "data" / "2025" / "04"
+    directory.mkdir(parents=True)
+    base = directory / "20250424.md"
+    base.write_text(DUP_TOC_FILE, encoding="utf-8")
+
+    merged = merge_tool.merge_date("20250424", data_dir=tmp_path / "data", apply=True, force=True)
+
+    content = base.read_text(encoding="utf-8")
+    assert merged == base
+    assert content.count("## 目录") == 1, "重复的目录没有收敛"
+    assert "### Python" in content, "层级被压平了"
+    assert "| 1 | repo |" in content and "| 1 | py |" in content, "数据行丢了"
+    assert [path.name for path in (backups / "20250424").iterdir()] == ["20250424.md"]
+
+
+def test_force_without_apply_changes_nothing(tmp_path, backups):
+    directory = tmp_path / "data" / "2025" / "04"
+    directory.mkdir(parents=True)
+    base = directory / "20250424.md"
+    base.write_text(DUP_TOC_FILE, encoding="utf-8")
+
+    merge_tool.merge_date("20250424", data_dir=tmp_path / "data", apply=False, force=True)
+
+    assert base.read_text(encoding="utf-8") == DUP_TOC_FILE
+    assert not backups.exists()
 
 
 # --- 清理脚本 -------------------------------------------------------------

@@ -82,24 +82,37 @@ def merge_sections(files):
     return [merged[key] for key in order]
 
 
+TOC_TITLE = '目录'
+
+
 def render_merged(date, sections):
-    """重建整份文档：标题 + 目录 + 各段落（保留原层级）。"""
+    """重建整份文档：标题 + 目录 + 各段落（保留原层级）。
+
+    `目录` 本身是脚手架：老文件里它也是一段，如果照抄就会渲染出第二个目录
+    （真实案例：坏脚本写的 20250424.md 里有两个 `## 目录`）。
+    这里按内容段落重新生成目录，不再照抄。
+    """
+    content_sections = [
+        section for section in sections
+        if not (section["level"] == 2 and section["title"] == TOC_TITLE)
+    ]
+
     lines = [
         f"# GitHub 热门榜单 {date} ({datetime.now().strftime('%H:%M:%S')})",
         "",
-        "## 目录",
+        f"## {TOC_TITLE}",
         "",
     ]
 
-    top_level = [s for s in sections if s["level"] == 2]
+    top_level = [s for s in content_sections if s["level"] == 2]
     for section in top_level:
         lines.append(f"- [{section['title']}](#{anchor(section['title'])})")
-        for subsection in sections:
-            if subsection["level"] == 3 and _belongs_under(sections, subsection, section):
+        for subsection in content_sections:
+            if subsection["level"] == 3 and _belongs_under(content_sections, subsection, section):
                 lines.append(f"  - [{subsection['title']}](#{anchor(subsection['title'])})")
     lines.append("")
 
-    for section in sections:
+    for section in content_sections:
         lines.append(f"{'#' * section['level']} {section['title']}")
         lines.append("")
         if section["body"]:
@@ -118,23 +131,31 @@ def _belongs_under(sections, subsection, parent):
     return False
 
 
-def merge_date(date, data_dir=DATA_DIR, apply=False):
-    """合并指定日期；返回合并后的路径。apply=False 时只汇报。"""
+def merge_date(date, data_dir=DATA_DIR, apply=False, force=False):
+    """合并指定日期；返回合并后的路径。apply=False 时只汇报。
+
+    force=True 时即使只有 1 个文件也原地重排 —— 用于修历史上被坏脚本写坏的文件
+    （典型症状：同一份文档里出现两个 `## 目录`）。
+    """
     files = find_files_for_date(date, data_dir)
-    if len(files) < 2:
-        print(f"{date}: 只有 {len(files)} 个文件，无需合并")
+    if not files:
+        print(f"{date}: 没有找到数据文件")
+        return None
+    if len(files) < 2 and not force:
+        print(f"{date}: 只有 {len(files)} 个文件，无需合并（要原地重排请加 --force）")
         return None
 
     sections = merge_sections(files)
     content = render_merged(date, sections)
     base_file = Path(data_dir) / date[:4] / date[4:6] / f"{date}.md"
 
-    print(f"{date}: {len(files)} 个文件 → {base_file.name}（{len(sections)} 个段落）")
+    action = "重排" if len(files) == 1 else "合并"
+    print(f"{date}: {len(files)} 个文件 → {base_file.name}（{action}为 {len(sections)} 个段落）")
     for path in files:
         print(f"  - {path.name}")
 
     if not apply:
-        print("  [dry-run] 未写盘；加 --apply 才真正合并（原文件会移入 backups/）")
+        print(f"  [dry-run] 未写盘；加 --apply 才真正{action}（原文件会移入 backups/）")
         return base_file
 
     # 先把内容写到临时文件，再移走原文件，最后落位：中途失败不会两边都没有
@@ -142,7 +163,7 @@ def merge_date(date, data_dir=DATA_DIR, apply=False):
     staging.write_text(content, encoding="utf-8")
     backup_files(files, date)
     os.replace(staging, base_file)
-    print(f"  [apply] 已合并为 {base_file.name}，原文件备份到 backups/{date}/")
+    print(f"  [apply] 已{action}为 {base_file.name}，原文件备份到 backups/{date}/")
     return base_file
 
 
@@ -151,10 +172,12 @@ def main(argv=None):
     parser.add_argument("date", nargs="?", default=datetime.now().strftime('%Y%m%d'),
                         help="日期 YYYYMMDD，默认今天")
     parser.add_argument("--apply", action="store_true", help="真正写盘并备份原文件")
+    parser.add_argument("--force", action="store_true",
+                        help="即使只有 1 个文件也原地重排（修历史坏格式，如重复的目录段落）")
     parser.add_argument("--commit", action="store_true", help="合并后提交（需在 git 仓库内）")
     args = parser.parse_args(argv)
 
-    merged = merge_date(args.date, apply=args.apply)
+    merged = merge_date(args.date, apply=args.apply, force=args.force)
     if merged and args.commit and args.apply:
         add_commit_push(str(merged), f"chore(data): 合并 {args.date} 的多份数据文件")
     return 0
