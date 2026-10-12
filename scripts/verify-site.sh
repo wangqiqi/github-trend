@@ -56,6 +56,12 @@ worst_kb=$(( worst_bytes / 1024 ))
 # 趋势页要带上口径说明，免得榜单脱离口径被误读
 grep -q '上榜至少' "$DIST/trends/index.html" || fail_msg "趋势页缺少口径说明"
 
+# 首页必须展示最新一天的榜单（Done-when 明确要求，别让生成器哪天悄悄丢了）
+latest="$(node --input-type=module -e "import fs from 'node:fs'; const i = JSON.parse(fs.readFileSync('data/index.json','utf8')); const d = i.files.map((f) => f.date).sort(); console.log(d[d.length - 1])")"
+latest_fmt="${latest:0:4}-${latest:4:2}-${latest:6:2}"
+grep -q "$latest_fmt" "$DIST/index.html" || fail_msg "首页没有最新一天（$latest_fmt）的榜单"
+grep -q '<table' "$DIST/index.html" || fail_msg "首页没有榜单表格"
+
 [[ "$fail" -ne 0 ]] && exit 1
 
 echo "  页面数: $pages（逐日 $daily_pages/$days）· 最大逐日页 ${worst_kb}KB · 产物体积: $(du -sh "$DIST" | cut -f1)"

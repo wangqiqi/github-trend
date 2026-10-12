@@ -54,10 +54,12 @@ scripts/run-bash.mjs
 backups/
 
 # 站点：依赖与构建产物（内容每次构建从 data/ 现场生成，data/ 是唯一源头）
+# docs/index.md 由生成器产出（hero 文案在 scripts/build_site_content.mjs 里）
 node_modules/
 docs/.vitepress/dist/
 docs/.vitepress/cache/
 docs/.vitepress/sidebar.generated.json
+docs/index.md
 docs/daily/
 docs/month/
 docs/trends/

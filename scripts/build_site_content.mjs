@@ -207,6 +207,55 @@ ${newcomerRows}
 `
 }
 
+function renderHome(days, latest) {
+  const source = readFileSync(join(ROOT, latest.markdown), "utf8")
+  const body = stripHeaderAndToc(source)
+  const links = [`[Markdown](${RAW_BASE}/${latest.markdown})`]
+  if (latest.json) links.push(`[JSON](${RAW_BASE}/${latest.json})`)
+  const first = fmtDate(days[0].date)
+
+  return `---
+layout: home
+
+hero:
+  name: GitHub 热门榜单
+  text: 每日热门仓库的归档与趋势
+  tagline: 每天 12:00 UTC 自动抓取 · Star / Fork / 趋势榜 / Python · 全历史机器可读
+  actions:
+    - theme: brand
+      text: 浏览每日榜单
+      link: /daily/
+    - theme: alt
+      text: 趋势榜
+      link: /trends/
+
+features:
+  - icon: 📅
+    title: 每日四个榜单
+    details: 每日 Star 最多 · 每日 Fork 最多 · 每日趋势榜 · Python 热榜，每天一份快照，同日不覆盖。
+  - icon: 🔍
+    title: 全历史可搜索
+    details: 自 ${first} 起逐日归档，按年 / 月分目录，站内本地搜索直达任意一天。
+  - icon: 🤖
+    title: 机器可读
+    details: 每个 Markdown 快照都配一份同 schema 的 JSON（Star / Fork 为整数），另有全量索引与三张趋势榜。
+  - icon: 📈
+    title: 趋势分析
+    details: 由全历史数据计算 Star 增速榜、常青榜与新晋榜，口径固定、结果可复现。
+---
+
+## 最新榜单 · ${fmtDate(latest.date)}
+
+> 数据来源：GitHub Actions 每日抓取 · ${links.join(' · ')} · 完整归档见 [每日榜单](/daily/)
+
+${body}
+
+---
+
+共 **${days.length}** 天历史数据（自 ${first} 起），侧边栏按「年 → 月」归档；想找谁在涨请看[趋势榜](/trends/)。
+`
+}
+
 // --- 主流程 ---------------------------------------------------------------
 
 function buildSidebar(daysByMonth) {
@@ -235,6 +284,10 @@ function main() {
   }
 
   let changed = 0
+
+  // 首页由生成器接管：hero 文案在源码里，正文永远是最新一天的四个榜单
+  if (writeIfChanged(join(DOCS_DIR, 'index.md'), renderHome(days, days[days.length - 1]))) changed++
+
   days.forEach((day, i) => {
     const path = join(DOCS_DIR, 'daily', day.date.slice(0, 4), day.date.slice(4, 6), `${day.date}.md`)
     if (writeIfChanged(path, renderDailyPage(day, days[i - 1], days[i + 1]))) changed++
