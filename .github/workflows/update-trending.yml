@@ -1,58 +1,79 @@
 name: Update GitHub Trending
 
-# 此工作流会在以下情况触发:
-# 1. 每天中午 12:00 UTC 时间自动运行
-# 2. 当有推送到 main 或 master 分支时
-# 3. 手动触发
+# 触发条件:
+#   1. 每天 12:00 UTC 定时抓取
+#   2. 手动触发
+#   3. 代码推送时抓一次（data/** 与 .dsh/** 的变更被忽略，
+#      免得机器人自己的提交反过来再触发一次抓取）
 
 on:
   push:
     branches: [ main, master ]
+    paths-ignore:
+      - 'data/**'
+      - '.dsh/**'
+      - 'README.md'
+      - 'README_EN.md'
   schedule:
-    # 每天中午 12:00 UTC 时间运行
+    # 每天中午 12:00 UTC 运行
     - cron: '0 12 * * *'
   workflow_dispatch:  # 允许手动触发
+
+# 同一 ref 同时只允许一个抓取在跑：两个实例会抢同一个日期文件。
+concurrency:
+  group: update-trending-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   update-trending:
     runs-on: ubuntu-latest
-    
+    # 没有超时的话，一次网络黑洞会挂到 GitHub 的 6 小时上限，白烧额度。
+    timeout-minutes: 15
+
     # 添加写入权限
     permissions:
       contents: write
-    
+
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        # 获取所有历史记录，以便正确处理 git 操作
-        fetch-depth: 0
-      
+      uses: actions/checkout@v4
+
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
-        
+        cache: pip
+        cache-dependency-path: requirements.txt
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        
+
     - name: Run scraper
+      # scraper.py 失败时返回非零退出码，这一步就会红，后面的提交不会执行。
+      # 带上 token 可绕开未认证 API 的 10 次/分限流。
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: python scraper.py
-      
+
     - name: Commit and push if changed
       run: |
         # 如果您 fork 了此仓库，请修改以下 git 配置为您自己的邮箱和用户名
         # ${GITHUB_ACTOR} 会自动替换为当前 GitHub 用户名
-        # 您也可以直接设置为固定值，例如：
-        # git config --global user.email "your-email@example.com"
-        # git config --global user.name "Your Name"
         git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git config --global user.name "${GITHUB_ACTOR}"
-        git add -A
+
+        # 只提交数据目录：旧的 `git add -A` 会把工作区里的任何杂物一起提交
+        git add data/
+
+        if git diff --cached --quiet; then
+          echo "数据无变化，跳过提交"
+          exit 0
+        fi
+
         timestamp=$(date -u)
-        git commit -m "Update trending repositories: ${timestamp}" || exit 0
-        
+        git commit -m "Update trending repositories: ${timestamp}"
+
         # 使用 GITHUB_TOKEN 进行推送，该令牌已被授予写入权限
-        git push 
+        git push

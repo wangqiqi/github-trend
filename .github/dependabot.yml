@@ -1,0 +1,16 @@
+version: 2
+
+updates:
+  # Python 依赖：每周检查一次，避免 requirements.txt 长期停在旧版本
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+
+  # Actions 本身也要跟版本（checkout/setup-python 的大版本升级很关键）
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5

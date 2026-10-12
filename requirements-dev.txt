@@ -3,3 +3,5 @@
 -r requirements.txt
 
 pytest>=8.0,<10.0
+# 测试里要解析 workflow / dependabot 的 YAML
+PyYAML>=6.0,<7.0

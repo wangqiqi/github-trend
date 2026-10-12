@@ -40,4 +40,13 @@ logs/
 *.tmp
 *.bak
 *.swp
-*~ 
+*~
+
+# PlanRun 会话与安装产物（plan 镜像不入库；guard 脚本可用 install-planrun.sh 重新种子）
+.dsh/
+scripts/dsh-guard.sh
+scripts/plan-parse.sh
+scripts/planrun-doctor.mjs
+scripts/planrun-manifest.mjs
+scripts/run-bash.mjs
+ 
