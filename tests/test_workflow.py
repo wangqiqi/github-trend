@@ -129,6 +129,32 @@ def test_ci_workflow_has_timeout_and_concurrency():
     assert doc["concurrency"]["cancel-in-progress"] is True
 
 
+def test_ci_workflow_verifies_site_in_separate_job():
+    """站点是 Node 工具链，单独 job：`npm ci` + verify-site.sh。"""
+    doc = load_yaml(WORKFLOWS / "ci.yml")
+    site = doc["jobs"]["site"]
+    script = "\n".join(step.get("run", "") for step in site["steps"])
+    assert "npm ci" in script
+    assert "scripts/verify-site.sh" in script
+    assert site["timeout-minutes"] > 0
+    node_setup = next(s for s in site["steps"] if s.get("uses", "").startswith("actions/setup-node@"))
+    assert node_setup["with"]["cache"] == "npm"
+
+
+def test_verify_all_composes_python_and_site():
+    text = (REPO_ROOT / "scripts" / "verify-all.sh").read_text(encoding="utf-8")
+    assert "scripts/verify.sh" in text
+    assert "scripts/verify-site.sh" in text
+
+
+def test_verify_site_guards_page_weight():
+    """SPIKE-001 的教训要固化成断言，否则哪天侧边栏退回逐日条目没人拦。"""
+    text = (REPO_ROOT / "scripts" / "verify-site.sh").read_text(encoding="utf-8")
+    assert "100KB" in text or "100" in text
+    assert "daily_pages" in text
+    assert "total_days" in text or "index.json" in text
+
+
 # --- Dependabot 与依赖上界 -------------------------------------------------
 
 def test_dependabot_covers_pip_and_actions():

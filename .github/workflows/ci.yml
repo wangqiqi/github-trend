@@ -41,3 +41,24 @@ jobs:
 
     - name: Run verify
       run: ./scripts/verify.sh
+
+  # 站点单独一个 job：Node 工具链与 Python 无关，失败信息也更清楚
+  site:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v7
+
+    - name: Set up Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: '24'
+        cache: npm
+
+    - name: Install site dependencies
+      run: npm ci
+
+    - name: Verify site
+      run: bash scripts/verify-site.sh

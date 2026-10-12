@@ -10,7 +10,13 @@
     "docs:build": "npm run site:content && vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "verify:site": "bash scripts/verify-site.sh",
-    "verify:all": "bash scripts/verify-all.sh"
+    "verify:all": "bash scripts/verify-all.sh",
+    "gate-check": "node scripts/run-bash.mjs scripts/dsh-guard.sh gate-check",
+    "plan-check": "node scripts/run-bash.mjs scripts/dsh-guard.sh plan-check",
+    "task-verify": "node scripts/run-bash.mjs scripts/dsh-guard.sh task-verify",
+    "next-task": "node scripts/run-bash.mjs scripts/dsh-guard.sh next-task",
+    "doctor": "node scripts/run-bash.mjs scripts/dsh-guard.sh doctor",
+    "guard": "node scripts/run-bash.mjs scripts/dsh-guard.sh status"
   },
   "devDependencies": {
     "vitepress": "^1.6.4"
