@@ -1,0 +1,5 @@
+# 开发依赖（verify / 测试用）
+# 运行时依赖见 requirements.txt
+-r requirements.txt
+
+pytest>=8.0,<10.0
