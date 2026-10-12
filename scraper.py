@@ -20,14 +20,97 @@ def git_add_commit_push(date, filename):
     os.system(cmd_git_push)
 
 
-def get_headers():
-    """获取通用请求头"""
-    return {
+# --- 网络层 ---------------------------------------------------------------
+# (connect, read) 超时：没有它，CI 遇到黑洞连接会一直挂到 6 小时上限。
+DEFAULT_TIMEOUT = (5, 20)
+MAX_ATTEMPTS = 3
+BACKOFF_BASE = 1.0
+MAX_BACKOFF = 30.0
+# 只有这些状态码值得重试：403/429 是限流，5xx 是服务端抖动。
+# 404/401 之类重试多少次都一样，直接失败更快。
+RETRY_STATUSES = frozenset({403, 429, 500, 502, 503, 504})
+API_ACCEPT = 'application/vnd.github.v3+json'
+HTML_ACCEPT = 'text/html,application/xhtml+xml'
+
+# 便于测试注入，避免用例里真的睡 1s/2s
+_sleep = time.sleep
+_session = None
+
+
+def get_token():
+    """CI 里由 GitHub Actions 注入 GITHUB_TOKEN，用于绕开未认证的 10 次/分限流。"""
+    return os.environ.get('GITHUB_TOKEN') or os.environ.get('GH_TOKEN') or None
+
+
+def get_headers(accept=API_ACCEPT):
+    """获取请求头；有 token 就带上鉴权。
+
+    注意不再声明 br：requests 未装 brotli 时无法解压 br 响应，会拿到乱码。
+    """
+    headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept': 'application/vnd.github.v3+json',  # GitHub API v3
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8'
+        'Accept': accept,
+        'Accept-Encoding': 'gzip, deflate',
+        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
     }
+    token = get_token()
+    if token:
+        headers['Authorization'] = f'Bearer {token}'
+    return headers
+
+
+def get_session():
+    """进程内复用一个 Session：连接池复用 + 少一次 TLS 握手。"""
+    global _session
+    if _session is None:
+        _session = requests.Session()
+    return _session
+
+
+def _backoff(attempt, response=None):
+    """退避秒数：优先听服务端 Retry-After，否则指数退避。"""
+    if response is not None:
+        retry_after = response.headers.get('Retry-After')
+        if retry_after and retry_after.isdigit():
+            return min(float(retry_after), MAX_BACKOFF)
+    return min(BACKOFF_BASE * (2 ** (attempt - 1)), MAX_BACKOFF)
+
+
+def fetch(url, accept=API_ACCEPT, session=None, max_attempts=MAX_ATTEMPTS):
+    """带超时与退避重试的 GET。
+
+    返回 2xx 响应；重试耗尽后抛 requests 异常 —— 由调用方决定
+    「返回空」还是「整体失败」，本函数不吞异常。
+    """
+    session = session or get_session()
+    headers = get_headers(accept)
+    last_error = None
+
+    for attempt in range(1, max_attempts + 1):
+        try:
+            response = session.get(url, headers=headers, timeout=DEFAULT_TIMEOUT)
+            if response.status_code in RETRY_STATUSES and attempt < max_attempts:
+                delay = _backoff(attempt, response)
+                print(f"HTTP {response.status_code}，{delay:.1f}s 后重试 ({attempt}/{max_attempts - 1}): {url}")
+                _sleep(delay)
+                continue
+            response.raise_for_status()
+            return response
+        except requests.exceptions.HTTPError as exc:
+            status = getattr(getattr(exc, 'response', None), 'status_code', None)
+            if status not in RETRY_STATUSES or attempt >= max_attempts:
+                raise
+            last_error = exc
+        except requests.exceptions.RequestException as exc:
+            if attempt >= max_attempts:
+                raise
+            last_error = exc
+
+        delay = _backoff(attempt)
+        print(f"请求失败，{delay:.1f}s 后重试 ({attempt}/{max_attempts - 1}): {last_error}")
+        _sleep(delay)
+
+    raise last_error if last_error is not None else RuntimeError('unreachable: fetch retry loop')
 
 
 def get_file_path(is_timestamp=False):
@@ -84,17 +167,14 @@ def createMarkdown(date, filename):
         f.write("  - [Python](#python)\n\n")
 
 
-def scrape_trending(language=None):
+def scrape_trending(language=None, session=None):
     """抓取 GitHub 趋势榜"""
-    HEADERS = get_headers()
-
     url = 'https://github.com/trending'
     if language:
         url = f'{url}/{language}'
 
-    r = requests.get(url, headers=HEADERS)
-    assert r.status_code == 200
-    
+    r = fetch(url, accept=HTML_ACCEPT, session=session)
+
     d = pq(r.content)
     items = d('article.Box-row')
 
@@ -128,17 +208,14 @@ def scrape_trending(language=None):
     return repos
 
 
-def scrape_most_starred():
+def scrape_most_starred(session=None):
     """抓取每日 Star 最多的仓库"""
-    HEADERS = get_headers()
-
     try:
         # 使用 GitHub API 获取最近创建的、按 star 数排序的仓库
         one_year_ago = (datetime.datetime.now() - datetime.timedelta(days=365)).strftime('%Y-%m-%d')
         url = f'https://api.github.com/search/repositories?q=created:>{one_year_ago}&sort=stars&order=desc&per_page=10'
-        
-        r = requests.get(url, headers=HEADERS)
-        r.raise_for_status()  # 检查响应状态
+
+        r = fetch(url, session=session)
         data = r.json()
         
         if 'items' not in data:
@@ -167,17 +244,14 @@ def scrape_most_starred():
         return []
 
 
-def scrape_most_forked():
+def scrape_most_forked(session=None):
     """抓取每日 Fork 最多的仓库"""
-    HEADERS = get_headers()
-
     try:
         # 使用 GitHub API 获取最近更新的、按 forks 数排序的仓库
         one_year_ago = (datetime.datetime.now() - datetime.timedelta(days=365)).strftime('%Y-%m-%d')
         url = f'https://api.github.com/search/repositories?q=pushed:>{one_year_ago}&sort=forks&order=desc&per_page=10'
-        
-        r = requests.get(url, headers=HEADERS)
-        r.raise_for_status()  # 检查响应状态
+
+        r = fetch(url, session=session)
         data = r.json()
         
         if 'items' not in data:
