@@ -1,0 +1,391 @@
+{
+  "date": "20250320",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 92649,
+          "forks": 15058
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 86968,
+          "forks": 11223
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 46494,
+          "forks": 4787
+        },
+        {
+          "rank": 4,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 41129,
+          "forks": 932
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 40542,
+          "forks": 1906
+        },
+        {
+          "rank": 6,
+          "name": "mannaandpoem/OpenManus",
+          "url": "https://github.com/mannaandpoem/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 37978,
+          "forks": 6213
+        },
+        {
+          "rank": 7,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 33783,
+          "forks": 2920
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/LLM101n",
+          "url": "https://github.com/karpathy/LLM101n",
+          "description": "LLM101n: Let's build a Storyteller",
+          "language": "N/A",
+          "stars": 32813,
+          "forks": 1794
+        },
+        {
+          "rank": 9,
+          "name": "shardeum/shardeum",
+          "url": "https://github.com/shardeum/shardeum",
+          "description": "Shardeum is an EVM based autoscaling blockchain",
+          "language": "TypeScript",
+          "stars": 31963,
+          "forks": 682
+        },
+        {
+          "rank": 10,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 24671,
+          "forks": 1451
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 844,
+          "forks": 143873
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 313422,
+          "forks": 78192
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1781,
+          "forks": 76701
+        },
+        {
+          "rank": 4,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56698
+        },
+        {
+          "rank": 5,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 189929,
+          "forks": 55470
+        },
+        {
+          "rank": 6,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37097,
+          "forks": 54403
+        },
+        {
+          "rank": 7,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 198546,
+          "forks": 46418
+        },
+        {
+          "rank": 8,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 148794,
+          "forks": 45771
+        },
+        {
+          "rank": 9,
+          "name": "google/it-cert-automation-practice",
+          "url": "https://github.com/google/it-cert-automation-practice",
+          "description": "Google IT Automation with Python Professional Certificate - Practice files",
+          "language": "Python",
+          "stars": 917,
+          "forks": 45171
+        },
+        {
+          "rank": 10,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 76492,
+          "forks": 40997
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "SakanaAI/AI-Scientist",
+          "url": "https://github.com/SakanaAI/AI-Scientist",
+          "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
+          "language": "Jupyter Notebook",
+          "stars": 9551,
+          "forks": 1428
+        },
+        {
+          "rank": 2,
+          "name": "sinclairtarget/git-who",
+          "url": "https://github.com/sinclairtarget/git-who",
+          "description": "Git blame for file trees",
+          "language": "Go",
+          "stars": 809,
+          "forks": 14
+        },
+        {
+          "rank": 3,
+          "name": "kekingcn/kkFileView",
+          "url": "https://github.com/kekingcn/kkFileView",
+          "description": "Universal File Online Preview Project based on Spring-Boot",
+          "language": "Java",
+          "stars": 11718,
+          "forks": 2869
+        },
+        {
+          "rank": 4,
+          "name": "satnaing/shadcn-admin",
+          "url": "https://github.com/satnaing/shadcn-admin",
+          "description": "Admin Dashboard UI built with Shadcn and Vite.",
+          "language": "TypeScript",
+          "stars": 5156,
+          "forks": 681
+        },
+        {
+          "rank": 5,
+          "name": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base ...",
+          "language": "TypeScript",
+          "stars": 47890,
+          "forks": 3159
+        },
+        {
+          "rank": 6,
+          "name": "hotheadhacker/awesome-selfhost-docker",
+          "url": "https://github.com/hotheadhacker/awesome-selfhost-docker",
+          "description": "🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Yo...",
+          "language": "HTML",
+          "stars": 1170,
+          "forks": 48
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/data-formulator",
+          "url": "https://github.com/microsoft/data-formulator",
+          "description": "🪄 Create rich visualizations with AI",
+          "language": "TypeScript",
+          "stars": 9911,
+          "forks": 776
+        },
+        {
+          "rank": 8,
+          "name": "subframe7536/maple-font",
+          "url": "https://github.com/subframe7536/maple-font",
+          "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and ter...",
+          "language": "Python",
+          "stars": 10685,
+          "forks": 224
+        },
+        {
+          "rank": 9,
+          "name": "yangshun/tech-interview-handbook",
+          "url": "https://github.com/yangshun/tech-interview-handbook",
+          "description": "💯 Curated coding interview preparation materials for busy software engineers",
+          "language": "TypeScript",
+          "stars": 123629,
+          "forks": 15153
+        },
+        {
+          "rank": 10,
+          "name": "cloudflare/mcp-server-cloudflare",
+          "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 649,
+          "forks": 46
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "subframe7536/maple-font",
+          "url": "https://github.com/subframe7536/maple-font",
+          "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and ter...",
+          "language": "Python",
+          "stars": 10685,
+          "forks": 224
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empow...",
+          "language": "Python",
+          "stars": 17273,
+          "forks": 2921
+        },
+        {
+          "rank": 3,
+          "name": "localstack/localstack",
+          "url": "https://github.com/localstack/localstack",
+          "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+          "language": "Python",
+          "stars": 58103,
+          "forks": 4116
+        },
+        {
+          "rank": 4,
+          "name": "open-mmlab/Amphion",
+          "url": "https://github.com/open-mmlab/Amphion",
+          "description": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to supp...",
+          "language": "Python",
+          "stars": 8783,
+          "forks": 683
+        },
+        {
+          "rank": 5,
+          "name": "bytedance/LatentSync",
+          "url": "https://github.com/bytedance/LatentSync",
+          "description": "Taming Stable Diffusion for Lip Sync!",
+          "language": "Python",
+          "stars": 3103,
+          "forks": 464
+        },
+        {
+          "rank": 6,
+          "name": "Azure/azure-sdk-for-python",
+          "url": "https://github.com/Azure/azure-sdk-for-python",
+          "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK w...",
+          "language": "Python",
+          "stars": 4828,
+          "forks": 2930
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 40542,
+          "forks": 1906
+        },
+        {
+          "rank": 8,
+          "name": "sqlalchemy/sqlalchemy",
+          "url": "https://github.com/sqlalchemy/sqlalchemy",
+          "description": "The Database Toolkit for Python",
+          "language": "Python",
+          "stars": 10178,
+          "forks": 1492
+        },
+        {
+          "rank": 9,
+          "name": "NVIDIA/physicsnemo",
+          "url": "https://github.com/NVIDIA/physicsnemo",
+          "description": "Open-source deep-learning framework for building, training, and fine-tuning deep learning models ...",
+          "language": "Python",
+          "stars": 1271,
+          "forks": 294
+        },
+        {
+          "rank": 10,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 11773,
+          "forks": 1149
+        }
+      ]
+    }
+  ]
+}

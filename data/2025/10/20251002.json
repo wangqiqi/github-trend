@@ -1,0 +1,391 @@
+{
+  "date": "20251002",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99534,
+          "forks": 16253
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91233,
+          "forks": 11751
+        },
+        {
+          "rank": 3,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 71801,
+          "forks": 5942
+        },
+        {
+          "rank": 4,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70751,
+          "forks": 8307
+        },
+        {
+          "rank": 5,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 69382,
+          "forks": 8212
+        },
+        {
+          "rank": 6,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50114,
+          "forks": 8781
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 41565,
+          "forks": 13437
+        },
+        {
+          "rank": 8,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 41547,
+          "forks": 7306
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 40404,
+          "forks": 3788
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36818,
+          "forks": 417
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50639,
+          "forks": 92040
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2488,
+          "forks": 84878
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 330517,
+          "forks": 80809
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191887,
+          "forks": 74891
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 371262,
+          "forks": 64456
+        },
+        {
+          "rank": 6,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8218,
+          "forks": 58855
+        },
+        {
+          "rank": 7,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37278,
+          "forks": 54089
+        },
+        {
+          "rank": 8,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 321782,
+          "forks": 52538
+        },
+        {
+          "rank": 9,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 151975,
+          "forks": 45999
+        },
+        {
+          "rank": 10,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 178801,
+          "forks": 45999
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nextcloud/server",
+          "url": "https://github.com/nextcloud/server",
+          "description": "☁️ Nextcloud server, a safe home for all your data",
+          "language": "PHP",
+          "stars": 31816,
+          "forks": 4497
+        },
+        {
+          "rank": 2,
+          "name": "google/tunix",
+          "url": "https://github.com/google/tunix",
+          "description": "A JAX-native LLM Post-Training Library",
+          "language": "Python",
+          "stars": 465,
+          "forks": 56
+        },
+        {
+          "rank": 3,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 43882,
+          "forks": 1337
+        },
+        {
+          "rank": 4,
+          "name": "cjpais/Handy",
+          "url": "https://github.com/cjpais/Handy",
+          "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+          "language": "TypeScript",
+          "stars": 1356,
+          "forks": 80
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-agent-sdk-python",
+          "url": "https://github.com/anthropics/claude-agent-sdk-python",
+          "description": "",
+          "language": "Python",
+          "stars": 1903,
+          "forks": 246
+        },
+        {
+          "rank": 6,
+          "name": "atuinsh/desktop",
+          "url": "https://github.com/atuinsh/desktop",
+          "description": "📖 Runbooks that run",
+          "language": "TypeScript",
+          "stars": 761,
+          "forks": 22
+        },
+        {
+          "rank": 7,
+          "name": "SDWebImage/SDWebImage",
+          "url": "https://github.com/SDWebImage/SDWebImage",
+          "description": "Asynchronous image downloader with cache support as a UIImageView category",
+          "language": "Objective-C",
+          "stars": 25680,
+          "forks": 5997
+        },
+        {
+          "rank": 8,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 8152,
+          "forks": 729
+        },
+        {
+          "rank": 9,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 34723,
+          "forks": 4241
+        },
+        {
+          "rank": 10,
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "description": "High performance self-hosted photo and video management solution.",
+          "language": "TypeScript",
+          "stars": 78495,
+          "forks": 4137
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "google/tunix",
+          "url": "https://github.com/google/tunix",
+          "description": "A JAX-native LLM Post-Training Library",
+          "language": "Python",
+          "stars": 465,
+          "forks": 56
+        },
+        {
+          "rank": 2,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 43882,
+          "forks": 1337
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-agent-sdk-python",
+          "url": "https://github.com/anthropics/claude-agent-sdk-python",
+          "description": "",
+          "language": "Python",
+          "stars": 1903,
+          "forks": 246
+        },
+        {
+          "rank": 4,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 8152,
+          "forks": 729
+        },
+        {
+          "rank": 5,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 45417,
+          "forks": 6353
+        },
+        {
+          "rank": 6,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 7631,
+          "forks": 1877
+        },
+        {
+          "rank": 7,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 70342,
+          "forks": 15996
+        },
+        {
+          "rank": 8,
+          "name": "YILING0013/AI_NovelGenerator",
+          "url": "https://github.com/YILING0013/AI_NovelGenerator",
+          "description": "使用ai生成多章节的长篇小说，自动衔接上下文、伏笔",
+          "language": "Python",
+          "stars": 2299,
+          "forks": 453
+        },
+        {
+          "rank": 9,
+          "name": "Cinnamon/kotaemon",
+          "url": "https://github.com/Cinnamon/kotaemon",
+          "description": "An open-source RAG-based tool for chatting with your documents.",
+          "language": "Python",
+          "stars": 24453,
+          "forks": 1999
+        },
+        {
+          "rank": 10,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 78995,
+          "forks": 17835
+        }
+      ]
+    }
+  ]
+}

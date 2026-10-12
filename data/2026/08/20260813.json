@@ -1,0 +1,391 @@
+{
+  "date": "20260813",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 386162,
+          "forks": 81165
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 271528,
+          "forks": 24279
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 215885,
+          "forks": 18615
+        },
+        {
+          "rank": 4,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 127781,
+          "forks": 19239
+        },
+        {
+          "rank": 5,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 93784,
+          "forks": 13300
+        },
+        {
+          "rank": 6,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 79189,
+          "forks": 6650
+        },
+        {
+          "rank": 7,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 75981,
+          "forks": 4781
+        },
+        {
+          "rank": 8,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 70926,
+          "forks": 11051
+        },
+        {
+          "rank": 9,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 64709,
+          "forks": 5468
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 57164,
+          "forks": 7920
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 364304,
+          "forks": 44772
+        },
+        {
+          "rank": 2,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42459
+        },
+        {
+          "rank": 3,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1161,
+          "forks": 41902
+        },
+        {
+          "rank": 4,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1181,
+          "forks": 37774
+        },
+        {
+          "rank": 5,
+          "name": "apache/spark",
+          "url": "https://github.com/apache/spark",
+          "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+          "language": "Scala",
+          "stars": 43864,
+          "forks": 29335
+        },
+        {
+          "rank": 6,
+          "name": "airbnb/javascript",
+          "url": "https://github.com/airbnb/javascript",
+          "description": "JavaScript Style Guide",
+          "language": "JavaScript",
+          "stars": 148146,
+          "forks": 26614
+        },
+        {
+          "rank": 7,
+          "name": "react/react-native",
+          "url": "https://github.com/react/react-native",
+          "description": "A framework for building native applications using React",
+          "language": "C++",
+          "stars": 126340,
+          "forks": 25217
+        },
+        {
+          "rank": 8,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 271528,
+          "forks": 24279
+        },
+        {
+          "rank": 9,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 88953,
+          "forks": 20640
+        },
+        {
+          "rank": 10,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19681
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "language": "HTML",
+          "stars": 12842,
+          "forks": 778
+        },
+        {
+          "rank": 2,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 6109,
+          "forks": 657
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 168748,
+          "forks": 20105
+        },
+        {
+          "rank": 4,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars": 4656,
+          "forks": 322
+        },
+        {
+          "rank": 5,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. ...",
+          "language": "Swift",
+          "stars": 9677,
+          "forks": 653
+        },
+        {
+          "rank": 6,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemm...",
+          "language": "Python",
+          "stars": 70810,
+          "forks": 6393
+        },
+        {
+          "rank": 7,
+          "name": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-link...",
+          "language": "Rust",
+          "stars": 2406,
+          "forks": 262
+        },
+        {
+          "rank": 8,
+          "name": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and wil...",
+          "language": "Python",
+          "stars": 12195,
+          "forks": 1648
+        },
+        {
+          "rank": 9,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 20503,
+          "forks": 3308
+        },
+        {
+          "rank": 10,
+          "name": "NVIDIA-NeMo/Switchyard",
+          "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+          "description": "",
+          "language": "Rust",
+          "stars": 1021,
+          "forks": 98
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 6109,
+          "forks": 657
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 168748,
+          "forks": 20105
+        },
+        {
+          "rank": 3,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars": 4656,
+          "forks": 322
+        },
+        {
+          "rank": 4,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemm...",
+          "language": "Python",
+          "stars": 70810,
+          "forks": 6393
+        },
+        {
+          "rank": 5,
+          "name": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and wil...",
+          "language": "Python",
+          "stars": 12195,
+          "forks": 1648
+        },
+        {
+          "rank": 6,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 20503,
+          "forks": 3308
+        },
+        {
+          "rank": 7,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars": 90670,
+          "forks": 7517
+        },
+        {
+          "rank": 8,
+          "name": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+          "language": "Python",
+          "stars": 8816,
+          "forks": 1400
+        },
+        {
+          "rank": 9,
+          "name": "index-tts/index-tts",
+          "url": "https://github.com/index-tts/index-tts",
+          "description": "An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System",
+          "language": "Python",
+          "stars": 22800,
+          "forks": 2767
+        },
+        {
+          "rank": 10,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 37064,
+          "forks": 6158
+        }
+      ]
+    }
+  ]
+}

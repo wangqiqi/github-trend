@@ -1,0 +1,364 @@
+{
+  "date": "20260421",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 361628,
+          "forks": 73805
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 162784,
+          "forks": 25286
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 162517,
+          "forks": 14190
+        },
+        {
+          "rank": 4,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 146913,
+          "forks": 16736
+        },
+        {
+          "rank": 5,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 107206,
+          "forks": 15378
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 89824,
+          "forks": 7729
+        },
+        {
+          "rank": 7,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 79144,
+          "forks": 11381
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 75161,
+          "forks": 10944
+        },
+        {
+          "rank": 9,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 70277,
+          "forks": 6375
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 64861,
+          "forks": 5460
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1156,
+          "forks": 42152
+        },
+        {
+          "rank": 2,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 168,
+          "forks": 19873
+        },
+        {
+          "rank": 3,
+          "name": "mrsmookie/btcrecover",
+          "url": "https://github.com/mrsmookie/btcrecover",
+          "description": "An open source Bitcoin wallet password and seed recovery tool designed for the case where you alr...",
+          "language": "Python",
+          "stars": 2,
+          "forks": 14458
+        },
+        {
+          "rank": 4,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 3,
+          "forks": 13902
+        },
+        {
+          "rank": 5,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 137,
+          "forks": 13829
+        },
+        {
+          "rank": 6,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9777
+        },
+        {
+          "rank": 7,
+          "name": "aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "url": "https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "description": "Sample web application for the AWS DevOps Engineer Learning Path.",
+          "language": "JavaScript",
+          "stars": 106,
+          "forks": 9354
+        },
+        {
+          "rank": 8,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8952
+        },
+        {
+          "rank": 9,
+          "name": "CrunchyData/postgres-operator-examples",
+          "url": "https://github.com/CrunchyData/postgres-operator-examples",
+          "description": "Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data",
+          "language": "Go Template",
+          "stars": 226,
+          "forks": 6491
+        },
+        {
+          "rank": 10,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 13,
+          "forks": 6629
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment re...",
+          "language": "Python",
+          "stars": 10898,
+          "forks": 1448
+        },
+        {
+          "rank": 2,
+          "name": "thunderbird/thunderbolt",
+          "url": "https://github.com/thunderbird/thunderbolt",
+          "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+          "language": "TypeScript",
+          "stars": 3171,
+          "forks": 191
+        },
+        {
+          "rank": 3,
+          "name": "zilliztech/claude-context",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "language": "TypeScript",
+          "stars": 6251,
+          "forks": 545
+        },
+        {
+          "rank": 4,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital...",
+          "language": "Rust",
+          "stars": 48661,
+          "forks": 6492
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 57269,
+          "forks": 19834
+        },
+        {
+          "rank": 6,
+          "name": "dayanch96/YTLite",
+          "url": "https://github.com/dayanch96/YTLite",
+          "description": "A flexible enhancer for YouTube on iOS",
+          "language": "Logos",
+          "stars": 4718,
+          "forks": 20114
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "language": "Python",
+          "stars": 16544,
+          "forks": 1987
+        },
+        {
+          "rank": 8,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 53302,
+          "forks": 23508
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment re...",
+          "language": "Python",
+          "stars": 10898,
+          "forks": 1448
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "language": "Python",
+          "stars": 16544,
+          "forks": 1987
+        },
+        {
+          "rank": 3,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 53302,
+          "forks": 23508
+        },
+        {
+          "rank": 4,
+          "name": "OthmanAdi/planning-with-files",
+          "url": "https://github.com/OthmanAdi/planning-with-files",
+          "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern be...",
+          "language": "Python",
+          "stars": 19245,
+          "forks": 1721
+        },
+        {
+          "rank": 5,
+          "name": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "description": "Give your agents the power of the Hugging Face ecosystem",
+          "language": "Python",
+          "stars": 10257,
+          "forks": 641
+        },
+        {
+          "rank": 6,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars": 8000,
+          "forks": 895
+        },
+        {
+          "rank": 7,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 77053,
+          "forks": 16863
+        },
+        {
+          "rank": 8,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars": 24269,
+          "forks": 3725
+        },
+        {
+          "rank": 9,
+          "name": "PrefectHQ/fastmcp",
+          "url": "https://github.com/PrefectHQ/fastmcp",
+          "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+          "language": "Python",
+          "stars": 24727,
+          "forks": 1942
+        }
+      ]
+    }
+  ]
+}

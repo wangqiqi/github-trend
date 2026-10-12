@@ -1,0 +1,391 @@
+{
+  "date": "20250325",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 36500,
+          "forks": 3754
+        },
+        {
+          "rank": 2,
+          "name": "mendableai/firecrawl",
+          "url": "https://github.com/mendableai/firecrawl",
+          "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with...",
+          "language": "TypeScript",
+          "stars": 32640,
+          "forks": 2807
+        },
+        {
+          "rank": 3,
+          "name": "shardeum/shardeum",
+          "url": "https://github.com/shardeum/shardeum",
+          "description": "Shardeum is an EVM based autoscaling blockchain",
+          "language": "TypeScript",
+          "stars": 31963,
+          "forks": 681
+        },
+        {
+          "rank": 4,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 25250,
+          "forks": 1505
+        },
+        {
+          "rank": 5,
+          "name": "huggingface/open-r1",
+          "url": "https://github.com/huggingface/open-r1",
+          "description": "Fully open reproduction of DeepSeek-R1",
+          "language": "Python",
+          "stars": 23284,
+          "forks": 2118
+        },
+        {
+          "rank": 6,
+          "name": "Dokploy/dokploy",
+          "url": "https://github.com/Dokploy/dokploy",
+          "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+          "language": "TypeScript",
+          "stars": 18292,
+          "forks": 952
+        },
+        {
+          "rank": 7,
+          "name": "PatrickJS/awesome-cursorrules",
+          "url": "https://github.com/PatrickJS/awesome-cursorrules",
+          "description": "📄 A curated list of awesome .cursorrules files",
+          "language": "N/A",
+          "stars": 17683,
+          "forks": 1248
+        },
+        {
+          "rank": 8,
+          "name": "aidenybai/react-scan",
+          "url": "https://github.com/aidenybai/react-scan",
+          "description": "Scan for React performance issues and eliminate slow renders in your app",
+          "language": "TypeScript",
+          "stars": 17239,
+          "forks": 253
+        },
+        {
+          "rank": 9,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 15188,
+          "forks": 993
+        },
+        {
+          "rank": 10,
+          "name": "richards199999/Thinking-Claude",
+          "url": "https://github.com/richards199999/Thinking-Claude",
+          "description": "Let your Claude able to think",
+          "language": "TypeScript",
+          "stars": 14809,
+          "forks": 1722
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6590,
+          "forks": 243687
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 844,
+          "forks": 143887
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 313578,
+          "forks": 78226
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2496,
+          "forks": 72095
+        },
+        {
+          "rank": 5,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56721
+        },
+        {
+          "rank": 6,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 162903,
+          "forks": 53254
+        },
+        {
+          "rank": 7,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 173790,
+          "forks": 45446
+        },
+        {
+          "rank": 8,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 284,
+          "forks": 43364
+        },
+        {
+          "rank": 9,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 18906,
+          "forks": 40951
+        },
+        {
+          "rank": 10,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 312505,
+          "forks": 40697
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 47745,
+          "forks": 7045
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/TensorRT-LLM",
+          "url": "https://github.com/NVIDIA/TensorRT-LLM",
+          "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs)...",
+          "language": "C++",
+          "stars": 9812,
+          "forks": 1238
+        },
+        {
+          "rank": 3,
+          "name": "ageerle/ruoyi-ai",
+          "url": "https://github.com/ageerle/ruoyi-ai",
+          "description": "RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。",
+          "language": "Java",
+          "stars": 1688,
+          "forks": 403
+        },
+        {
+          "rank": 4,
+          "name": "alibaba/spring-ai-alibaba",
+          "url": "https://github.com/alibaba/spring-ai-alibaba",
+          "description": "Agentic AI Framework for Java Developers",
+          "language": "Java",
+          "stars": 1315,
+          "forks": 311
+        },
+        {
+          "rank": 5,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 21082,
+          "forks": 2472
+        },
+        {
+          "rank": 6,
+          "name": "joanrod/star-vector",
+          "url": "https://github.com/joanrod/star-vector",
+          "description": "StarVector is a foundation model for SVG generation that transforms vectorization into a code gen...",
+          "language": "Python",
+          "stars": 2115,
+          "forks": 112
+        },
+        {
+          "rank": 7,
+          "name": "NirDiamant/GenAI_Agents",
+          "url": "https://github.com/NirDiamant/GenAI_Agents",
+          "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques...",
+          "language": "Jupyter Notebook",
+          "stars": 9752,
+          "forks": 1253
+        },
+        {
+          "rank": 8,
+          "name": "nf-core/modules",
+          "url": "https://github.com/nf-core/modules",
+          "description": "Repository to host tool-specific module files for the Nextflow DSL2 community!",
+          "language": "Nextflow",
+          "stars": 302,
+          "forks": 807
+        },
+        {
+          "rank": 9,
+          "name": "Cryakl/Ultimate-RAT-Collection",
+          "url": "https://github.com/Cryakl/Ultimate-RAT-Collection",
+          "description": "For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders includin...",
+          "language": "C++",
+          "stars": 1558,
+          "forks": 305
+        },
+        {
+          "rank": 10,
+          "name": "ocrmypdf/OCRmyPDF",
+          "url": "https://github.com/ocrmypdf/OCRmyPDF",
+          "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+          "language": "Python",
+          "stars": 24608,
+          "forks": 1622
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 47745,
+          "forks": 7045
+        },
+        {
+          "rank": 2,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 21082,
+          "forks": 2472
+        },
+        {
+          "rank": 3,
+          "name": "joanrod/star-vector",
+          "url": "https://github.com/joanrod/star-vector",
+          "description": "StarVector is a foundation model for SVG generation that transforms vectorization into a code gen...",
+          "language": "Python",
+          "stars": 2115,
+          "forks": 112
+        },
+        {
+          "rank": 4,
+          "name": "ocrmypdf/OCRmyPDF",
+          "url": "https://github.com/ocrmypdf/OCRmyPDF",
+          "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+          "language": "Python",
+          "stars": 24608,
+          "forks": 1622
+        },
+        {
+          "rank": 5,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 71220,
+          "forks": 15979
+        },
+        {
+          "rank": 6,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 77342,
+          "forks": 33014
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 48183,
+          "forks": 5021
+        },
+        {
+          "rank": 8,
+          "name": "agno-agi/agno",
+          "url": "https://github.com/agno-agi/agno",
+          "description": "Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API an...",
+          "language": "Python",
+          "stars": 21907,
+          "forks": 2869
+        },
+        {
+          "rank": 9,
+          "name": "joke2k/faker",
+          "url": "https://github.com/joke2k/faker",
+          "description": "Faker is a Python package that generates fake data for you.",
+          "language": "Python",
+          "stars": 18189,
+          "forks": 1974
+        },
+        {
+          "rank": 10,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 39359,
+          "forks": 3513
+        }
+      ]
+    }
+  ]
+}

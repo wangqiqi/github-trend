@@ -1,0 +1,295 @@
+{
+  "date": "20250904",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99152,
+          "forks": 16174
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91038,
+          "forks": 11738
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 72827,
+          "forks": 4009
+        },
+        {
+          "rank": 4,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 69201,
+          "forks": 8049
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 68596,
+          "forks": 5597
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 66794,
+          "forks": 7842
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49413,
+          "forks": 8658
+        },
+        {
+          "rank": 8,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39766,
+          "forks": 7020
+        },
+        {
+          "rank": 9,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 38486,
+          "forks": 4439
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36815,
+          "forks": 410
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "bytebot-ai/bytebot",
+          "url": "https://github.com/bytebot-ai/bytebot",
+          "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language ...",
+          "language": "TypeScript",
+          "stars": 4312,
+          "forks": 428
+        },
+        {
+          "rank": 2,
+          "name": "LukeGus/Termix",
+          "url": "https://github.com/LukeGus/Termix",
+          "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing c...",
+          "language": "TypeScript",
+          "stars": 2728,
+          "forks": 99
+        },
+        {
+          "rank": 3,
+          "name": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamVie...",
+          "language": "Rust",
+          "stars": 97437,
+          "forks": 14284
+        },
+        {
+          "rank": 4,
+          "name": "crewAIInc/crewAI",
+          "url": "https://github.com/crewAIInc/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intell...",
+          "language": "Python",
+          "stars": 37468,
+          "forks": 4946
+        },
+        {
+          "rank": 5,
+          "name": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...",
+          "language": "Go",
+          "stars": 28289,
+          "forks": 2706
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "description": "Windows system utilities to maximize productivity",
+          "language": "C#",
+          "stars": 123103,
+          "forks": 7334
+        },
+        {
+          "rank": 7,
+          "name": "pedroslopez/whatsapp-web.js",
+          "url": "https://github.com/pedroslopez/whatsapp-web.js",
+          "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+          "language": "JavaScript",
+          "stars": 19069,
+          "forks": 4448
+        },
+        {
+          "rank": 8,
+          "name": "trufflesecurity/trufflehog",
+          "url": "https://github.com/trufflesecurity/trufflehog",
+          "description": "Find, verify, and analyze leaked credentials",
+          "language": "Go",
+          "stars": 20448,
+          "forks": 1971
+        },
+        {
+          "rank": 9,
+          "name": "eriklindernoren/ML-From-Scratch",
+          "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+          "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and al...",
+          "language": "Python",
+          "stars": 27793,
+          "forks": 4848
+        },
+        {
+          "rank": 10,
+          "name": "pocketbase/pocketbase",
+          "url": "https://github.com/pocketbase/pocketbase",
+          "description": "Open Source realtime backend in 1 file",
+          "language": "Go",
+          "stars": 50301,
+          "forks": 2605
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "crewAIInc/crewAI",
+          "url": "https://github.com/crewAIInc/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intell...",
+          "language": "Python",
+          "stars": 37468,
+          "forks": 4946
+        },
+        {
+          "rank": 2,
+          "name": "eriklindernoren/ML-From-Scratch",
+          "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+          "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and al...",
+          "language": "Python",
+          "stars": 27793,
+          "forks": 4848
+        },
+        {
+          "rank": 3,
+          "name": "weaviate/elysia",
+          "url": "https://github.com/weaviate/elysia",
+          "description": "Python package and backend for the Elysia platform app.",
+          "language": "Python",
+          "stars": 1247,
+          "forks": 161
+        },
+        {
+          "rank": 4,
+          "name": "socfortress/Wazuh-Rules",
+          "url": "https://github.com/socfortress/Wazuh-Rules",
+          "description": "Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own W...",
+          "language": "Python",
+          "stars": 917,
+          "forks": 241
+        },
+        {
+          "rank": 5,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 66175,
+          "forks": 24072
+        },
+        {
+          "rank": 6,
+          "name": "oraios/serena",
+          "url": "https://github.com/oraios/serena",
+          "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server...",
+          "language": "Python",
+          "stars": 11360,
+          "forks": 797
+        },
+        {
+          "rank": 7,
+          "name": "NVIDIA-NeMo/NeMo",
+          "url": "https://github.com/NVIDIA-NeMo/NeMo",
+          "description": "A scalable generative AI framework built for researchers and developers working on Large Language...",
+          "language": "Python",
+          "stars": 15601,
+          "forks": 3083
+        },
+        {
+          "rank": 8,
+          "name": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description": "Developer-first error tracking and performance monitoring",
+          "language": "Python",
+          "stars": 41890,
+          "forks": 4422
+        },
+        {
+          "rank": 9,
+          "name": "slavakurilyak/awesome-ai-agents",
+          "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+          "description": "Awesome list of 300+ agentic AI resources",
+          "language": "Python",
+          "stars": 997,
+          "forks": 141
+        },
+        {
+          "rank": 10,
+          "name": "SigmaHQ/sigma",
+          "url": "https://github.com/SigmaHQ/sigma",
+          "description": "Main Sigma Rule Repository",
+          "language": "Python",
+          "stars": 9581,
+          "forks": 2409
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260913",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 286067,
+          "forks": 25596
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 261002,
+          "forks": 22023
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 152066,
+          "forks": 24498
+        },
+        {
+          "rank": 4,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 93898,
+          "forks": 9985
+        },
+        {
+          "rank": 5,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 80258,
+          "forks": 6973
+        },
+        {
+          "rank": 6,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 80147,
+          "forks": 5075
+        },
+        {
+          "rank": 7,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 74945,
+          "forks": 8657
+        },
+        {
+          "rank": 8,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 58183,
+          "forks": 7329
+        },
+        {
+          "rank": 9,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) fro...",
+          "language": "Python",
+          "stars": 54768,
+          "forks": 8750
+        },
+        {
+          "rank": 10,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 49389,
+          "forks": 4507
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 175751,
+          "forks": 82196
+        },
+        {
+          "rank": 2,
+          "name": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+          "language": "C#",
+          "stars": 27013,
+          "forks": 68637
+        },
+        {
+          "rank": 3,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 91036,
+          "forks": 34252
+        },
+        {
+          "rank": 4,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 142269,
+          "forks": 31904
+        },
+        {
+          "rank": 5,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 178927,
+          "forks": 31088
+        },
+        {
+          "rank": 6,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Docker等部署方式",
+          "language": "TypeScript",
+          "stars": 13878,
+          "forks": 27489
+        },
+        {
+          "rank": 7,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 77913,
+          "forks": 26064
+        },
+        {
+          "rank": 8,
+          "name": "laravel/laravel",
+          "url": "https://github.com/laravel/laravel",
+          "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the fo...",
+          "language": "Blade",
+          "stars": 84951,
+          "forks": 24870
+        },
+        {
+          "rank": 9,
+          "name": "UseInterstellar/Interstellar",
+          "url": "https://github.com/UseInterstellar/Interstellar",
+          "description": "One of the most popular modern web proxies with blazing fast speeds and a variety of games.",
+          "language": "JavaScript",
+          "stars": 2127,
+          "forks": 24634
+        },
+        {
+          "rank": 10,
+          "name": "dotnet/AspNetCore.Docs",
+          "url": "https://github.com/dotnet/AspNetCore.Docs",
+          "description": "Documentation for ASP.NET Core",
+          "language": "C#",
+          "stars": 13135,
+          "forks": 24592
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from di...",
+          "language": "C",
+          "stars": 29168,
+          "forks": 3188
+        },
+        {
+          "rank": 2,
+          "name": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+          "language": "TypeScript",
+          "stars": 4736,
+          "forks": 917
+        },
+        {
+          "rank": 3,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial inte...",
+          "language": "JavaScript",
+          "stars": 31219,
+          "forks": 6260
+        },
+        {
+          "rank": 4,
+          "name": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claud...",
+          "language": "TypeScript",
+          "stars": 5476,
+          "forks": 492
+        },
+        {
+          "rank": 5,
+          "name": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternati...",
+          "language": "TypeScript",
+          "stars": 2061,
+          "forks": 578
+        },
+        {
+          "rank": 6,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 58183,
+          "forks": 7329
+        },
+        {
+          "rank": 7,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. O...",
+          "language": "JavaScript",
+          "stars": 65808,
+          "forks": 10784
+        },
+        {
+          "rank": 8,
+          "name": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "language": "Go",
+          "stars": 23759,
+          "forks": 3088
+        },
+        {
+          "rank": 9,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars": 7579,
+          "forks": 850
+        },
+        {
+          "rank": 10,
+          "name": "yuliskov/SmartTube",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "description": "Browse media content with your own rules on Android TV",
+          "language": "Java",
+          "stars": 33346,
+          "forks": 2024
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 58183,
+          "forks": 7329
+        },
+        {
+          "rank": 2,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars": 7579,
+          "forks": 850
+        },
+        {
+          "rank": 3,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 25846,
+          "forks": 3200
+        },
+        {
+          "rank": 4,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills syste...",
+          "language": "Python",
+          "stars": 3929,
+          "forks": 575
+        },
+        {
+          "rank": 5,
+          "name": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modelin...",
+          "language": "Python",
+          "stars": 5296,
+          "forks": 404
+        },
+        {
+          "rank": 6,
+          "name": "jiji262/douyin-downloader",
+          "url": "https://github.com/jiji262/douyin-downloader",
+          "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress dis...",
+          "language": "Python",
+          "stars": 11276,
+          "forks": 1745
+        },
+        {
+          "rank": 7,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 165338,
+          "forks": 34543
+        },
+        {
+          "rank": 8,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 30694,
+          "forks": 3481
+        },
+        {
+          "rank": 9,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+          "language": "Python",
+          "stars": 137858,
+          "forks": 20265
+        },
+        {
+          "rank": 10,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 83039,
+          "forks": 8575
+        }
+      ]
+    }
+  ]
+}

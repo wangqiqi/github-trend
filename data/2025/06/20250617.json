@@ -1,0 +1,364 @@
+{
+  "date": "20250617",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97649,
+          "forks": 15881
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90132,
+          "forks": 11639
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 63365,
+          "forks": 7168
+        },
+        {
+          "rank": 4,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 58128,
+          "forks": 17603
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 55477,
+          "forks": 4216
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 54227,
+          "forks": 6192
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 46884,
+          "forks": 8189
+        },
+        {
+          "rank": 8,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 45792,
+          "forks": 5712
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 36676,
+          "forks": 6353
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36553,
+          "forks": 403
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6610,
+          "forks": 243617
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13072,
+          "forks": 151743
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 856,
+          "forks": 143934
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48924,
+          "forks": 87261
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28531,
+          "forks": 86805
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 167287,
+          "forks": 83051
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1852,
+          "forks": 80410
+        },
+        {
+          "rank": 8,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 320703,
+          "forks": 79253
+        },
+        {
+          "rank": 9,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172417,
+          "forks": 79136
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190382,
+          "forks": 74702
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/fluentui-system-icons",
+          "url": "https://github.com/microsoft/fluentui-system-icons",
+          "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
+          "language": "HTML",
+          "stars": 7586,
+          "forks": 610
+        },
+        {
+          "rank": 2,
+          "name": "menloresearch/jan",
+          "url": "https://github.com/menloresearch/jan",
+          "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+          "language": "TypeScript",
+          "stars": 29766,
+          "forks": 1775
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/anthropic-cookbook",
+          "url": "https://github.com/anthropics/anthropic-cookbook",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "language": "Jupyter Notebook",
+          "stars": 14486,
+          "forks": 1616
+        },
+        {
+          "rank": 4,
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document unde...",
+          "language": "Python",
+          "stars": 56117,
+          "forks": 5522
+        },
+        {
+          "rank": 5,
+          "name": "deepseek-ai/DeepEP",
+          "url": "https://github.com/deepseek-ai/DeepEP",
+          "description": "DeepEP: an efficient expert-parallel communication library",
+          "language": "Cuda",
+          "stars": 7784,
+          "forks": 794
+        },
+        {
+          "rank": 6,
+          "name": "automatisch/automatisch",
+          "url": "https://github.com/automatisch/automatisch",
+          "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+          "language": "JavaScript",
+          "stars": 9027,
+          "forks": 691
+        },
+        {
+          "rank": 7,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 43610,
+          "forks": 4915
+        },
+        {
+          "rank": 8,
+          "name": "continuedev/continue",
+          "url": "https://github.com/continuedev/continue",
+          "description": "⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of...",
+          "language": "TypeScript",
+          "stars": 26969,
+          "forks": 2968
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document unde...",
+          "language": "Python",
+          "stars": 56117,
+          "forks": 5522
+        },
+        {
+          "rank": 2,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 43610,
+          "forks": 4915
+        },
+        {
+          "rank": 3,
+          "name": "DLR-RM/stable-baselines3",
+          "url": "https://github.com/DLR-RM/stable-baselines3",
+          "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.",
+          "language": "Python",
+          "stars": 10897,
+          "forks": 1854
+        },
+        {
+          "rank": 4,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+          "language": "Python",
+          "stars": 35221,
+          "forks": 2868
+        },
+        {
+          "rank": 5,
+          "name": "isaac-sim/IsaacLab",
+          "url": "https://github.com/isaac-sim/IsaacLab",
+          "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+          "language": "Python",
+          "stars": 3911,
+          "forks": 1878
+        },
+        {
+          "rank": 6,
+          "name": "jlowin/fastmcp",
+          "url": "https://github.com/jlowin/fastmcp",
+          "description": "🚀 The fast, Pythonic way to build MCP servers and clients",
+          "language": "Python",
+          "stars": 12695,
+          "forks": 764
+        },
+        {
+          "rank": 7,
+          "name": "vanna-ai/vanna",
+          "url": "https://github.com/vanna-ai/vanna",
+          "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+          "language": "Python",
+          "stars": 18215,
+          "forks": 1641
+        },
+        {
+          "rank": 8,
+          "name": "facebookresearch/vggt",
+          "url": "https://github.com/facebookresearch/vggt",
+          "description": "[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer",
+          "language": "Python",
+          "stars": 8220,
+          "forks": 816
+        },
+        {
+          "rank": 9,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 66033,
+          "forks": 15452
+        }
+      ]
+    }
+  ]
+}

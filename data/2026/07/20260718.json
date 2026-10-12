@@ -1,0 +1,391 @@
+{
+  "date": "20260718",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 230804,
+          "forks": 35219
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194818,
+          "forks": 109617
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 132704,
+          "forks": 21727
+        },
+        {
+          "rank": 4,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 122558,
+          "forks": 18320
+        },
+        {
+          "rank": 5,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 102838,
+          "forks": 11833
+        },
+        {
+          "rank": 6,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 90617,
+          "forks": 8847
+        },
+        {
+          "rank": 7,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 90456,
+          "forks": 5119
+        },
+        {
+          "rank": 8,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 79073,
+          "forks": 8505
+        },
+        {
+          "rank": 9,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 74102,
+          "forks": 13783
+        },
+        {
+          "rank": 10,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "language": "TypeScript",
+          "stars": 72300,
+          "forks": 8923
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194818,
+          "forks": 109617
+        },
+        {
+          "rank": 2,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 392394,
+          "forks": 66539
+        },
+        {
+          "rank": 3,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 358063,
+          "forks": 57257
+        },
+        {
+          "rank": 4,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1160,
+          "forks": 41961
+        },
+        {
+          "rank": 5,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 540,
+          "forks": 33525
+        },
+        {
+          "rank": 6,
+          "name": "bia-pain-bache/BPB-Worker-Panel",
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private...",
+          "language": "TypeScript",
+          "stars": 12476,
+          "forks": 31487
+        },
+        {
+          "rank": 7,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 164211,
+          "forks": 30419
+        },
+        {
+          "rank": 8,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 101744,
+          "forks": 28432
+        },
+        {
+          "rank": 9,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13544,
+          "forks": 27252
+        },
+        {
+          "rank": 10,
+          "name": "scikit-learn/scikit-learn",
+          "url": "https://github.com/scikit-learn/scikit-learn",
+          "description": "scikit-learn: machine learning in Python",
+          "language": "Python",
+          "stars": 66715,
+          "forks": 27194
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+          "language": "Python",
+          "stars": 12474,
+          "forks": 1309
+        },
+        {
+          "rank": 2,
+          "name": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata...",
+          "language": "Python",
+          "stars": 1176,
+          "forks": 146
+        },
+        {
+          "rank": 3,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 36385,
+          "forks": 3018
+        },
+        {
+          "rank": 4,
+          "name": "ibelick/ui-skills",
+          "url": "https://github.com/ibelick/ui-skills",
+          "description": "Skills for Design Engineers",
+          "language": "TypeScript",
+          "stars": 4712,
+          "forks": 200
+        },
+        {
+          "rank": 5,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 38887,
+          "forks": 6523
+        },
+        {
+          "rank": 6,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 19960,
+          "forks": 2114
+        },
+        {
+          "rank": 7,
+          "name": "elder-plinius/G0DM0D3",
+          "url": "https://github.com/elder-plinius/G0DM0D3",
+          "description": "LIBERATED AI CHAT",
+          "language": "TypeScript",
+          "stars": 9367,
+          "forks": 2245
+        },
+        {
+          "rank": 8,
+          "name": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "language": "Jupyter Notebook",
+          "stars": 23149,
+          "forks": 2642
+        },
+        {
+          "rank": 9,
+          "name": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No...",
+          "language": "TypeScript",
+          "stars": 960,
+          "forks": 73
+        },
+        {
+          "rank": 10,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 527933,
+          "forks": 49955
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+          "language": "Python",
+          "stars": 12474,
+          "forks": 1309
+        },
+        {
+          "rank": 2,
+          "name": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata...",
+          "language": "Python",
+          "stars": 1176,
+          "forks": 146
+        },
+        {
+          "rank": 3,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 36385,
+          "forks": 3018
+        },
+        {
+          "rank": 4,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 38887,
+          "forks": 6523
+        },
+        {
+          "rank": 5,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 19960,
+          "forks": 2114
+        },
+        {
+          "rank": 6,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars": 9289,
+          "forks": 1153
+        },
+        {
+          "rank": 7,
+          "name": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+          "language": "Python",
+          "stars": 1953,
+          "forks": 178
+        },
+        {
+          "rank": 8,
+          "name": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "description": "Common User Passwords Profiler (CUPP)",
+          "language": "Python",
+          "stars": 6414,
+          "forks": 2226
+        },
+        {
+          "rank": 9,
+          "name": "fastapi/fastapi",
+          "url": "https://github.com/fastapi/fastapi",
+          "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+          "language": "Python",
+          "stars": 100634,
+          "forks": 9635
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 162282,
+          "forks": 19225
+        }
+      ]
+    }
+  ]
+}

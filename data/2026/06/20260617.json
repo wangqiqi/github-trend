@@ -1,0 +1,391 @@
+{
+  "date": "20260617",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 379173,
+          "forks": 79357
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 230679,
+          "forks": 20512
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 217111,
+          "forks": 33333
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 195950,
+          "forks": 34448
+        },
+        {
+          "rank": 5,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 193953,
+          "forks": 109958
+        },
+        {
+          "rank": 6,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 177437,
+          "forks": 18107
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 152020,
+          "forks": 17923
+        },
+        {
+          "rank": 8,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 132952,
+          "forks": 11557
+        },
+        {
+          "rank": 9,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 114087,
+          "forks": 18638
+        },
+        {
+          "rank": 10,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 113029,
+          "forks": 9973
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 89230,
+          "forks": 56661
+        },
+        {
+          "rank": 2,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1160,
+          "forks": 42033
+        },
+        {
+          "rank": 3,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 87771,
+          "forks": 37695
+        },
+        {
+          "rank": 4,
+          "name": "samqin123/MoonTV",
+          "url": "https://github.com/samqin123/MoonTV",
+          "description": "No description",
+          "language": "TypeScript",
+          "stars": 1977,
+          "forks": 30639
+        },
+        {
+          "rank": 5,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 59560,
+          "forks": 24683
+        },
+        {
+          "rank": 6,
+          "name": "is-a-dev/register",
+          "url": "https://github.com/is-a-dev/register",
+          "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+          "language": "JavaScript",
+          "stars": 10510,
+          "forks": 22971
+        },
+        {
+          "rank": 7,
+          "name": "criimera/steam-mass-comment-bot",
+          "url": "https://github.com/criimera/steam-mass-comment-bot",
+          "description": "💬 Easily comment under a ton of steam profiles, groups, sharedfiles & discussions with one account!",
+          "language": "JavaScript",
+          "stars": 5,
+          "forks": 21254
+        },
+        {
+          "rank": 8,
+          "name": "element-plus/element-plus",
+          "url": "https://github.com/element-plus/element-plus",
+          "description": "🎉 A Vue.js 3 UI Library made by Element team",
+          "language": "TypeScript",
+          "stars": 27532,
+          "forks": 19875
+        },
+        {
+          "rank": 9,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19776
+        },
+        {
+          "rank": 10,
+          "name": "rafaballerini/rafaballerini",
+          "url": "https://github.com/rafaballerini/rafaballerini",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 2690,
+          "forks": 18946
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge grap...",
+          "language": "C",
+          "stars": 4509,
+          "forks": 437
+        },
+        {
+          "rank": 2,
+          "name": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+          "language": "Rust",
+          "stars": 9520,
+          "forks": 443
+        },
+        {
+          "rank": 3,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 32805,
+          "forks": 2644
+        },
+        {
+          "rank": 4,
+          "name": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "description": "Meshery, the cloud native manager",
+          "language": "TypeScript",
+          "stars": 10957,
+          "forks": 3454
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 230679,
+          "forks": 20512
+        },
+        {
+          "rank": 6,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 21598,
+          "forks": 2110
+        },
+        {
+          "rank": 7,
+          "name": "RocketChat/Rocket.Chat",
+          "url": "https://github.com/RocketChat/Rocket.Chat",
+          "description": "The Secure CommsOS™ for mission-critical operations",
+          "language": "TypeScript",
+          "stars": 45516,
+          "forks": 13656
+        },
+        {
+          "rank": 8,
+          "name": "continuedev/continue",
+          "url": "https://github.com/continuedev/continue",
+          "description": "open-source coding agent",
+          "language": "TypeScript",
+          "stars": 33802,
+          "forks": 4685
+        },
+        {
+          "rank": 9,
+          "name": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "description": "Penpot: The open-source design tool for design and code collaboration",
+          "language": "Clojure",
+          "stars": 49940,
+          "forks": 3228
+        },
+        {
+          "rank": 10,
+          "name": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Ru...",
+          "language": "Java",
+          "stars": 127375,
+          "forks": 15175
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 32805,
+          "forks": 2644
+        },
+        {
+          "rank": 2,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 21598,
+          "forks": 2110
+        },
+        {
+          "rank": 3,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 5031,
+          "forks": 991
+        },
+        {
+          "rank": 4,
+          "name": "alexzhang13/rlm",
+          "url": "https://github.com/alexzhang13/rlm",
+          "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various ...",
+          "language": "Python",
+          "stars": 4834,
+          "forks": 820
+        },
+        {
+          "rank": 5,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 30378,
+          "forks": 3434
+        },
+        {
+          "rank": 6,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming servi...",
+          "language": "Python",
+          "stars": 2657,
+          "forks": 454
+        },
+        {
+          "rank": 7,
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR tool...",
+          "language": "Python",
+          "stars": 82765,
+          "forks": 10808
+        },
+        {
+          "rank": 8,
+          "name": "roboflow/rf-detr",
+          "url": "https://github.com/roboflow/rf-detr",
+          "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow...",
+          "language": "Python",
+          "stars": 7866,
+          "forks": 1003
+        },
+        {
+          "rank": 9,
+          "name": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "language": "Python",
+          "stars": 161733,
+          "forks": 12185
+        },
+        {
+          "rank": 10,
+          "name": "fivetran/great_expectations",
+          "url": "https://github.com/fivetran/great_expectations",
+          "description": "Always know what to expect from your data.",
+          "language": "Python",
+          "stars": 11567,
+          "forks": 1763
+        }
+      ]
+    }
+  ]
+}

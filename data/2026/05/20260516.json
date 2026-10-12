@@ -1,0 +1,382 @@
+{
+  "date": "20260516",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 131758,
+          "forks": 13420
+        },
+        {
+          "rank": 2,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 98237,
+          "forks": 16300
+        },
+        {
+          "rank": 3,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 97825,
+          "forks": 14544
+        },
+        {
+          "rank": 4,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "TypeScript",
+          "stars": 76092,
+          "forks": 6530
+        },
+        {
+          "rank": 5,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 60878,
+          "forks": 9512
+        },
+        {
+          "rank": 6,
+          "name": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+          "language": "HTML",
+          "stars": 53238,
+          "forks": 5327
+        },
+        {
+          "rank": 7,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 50010,
+          "forks": 6032
+        },
+        {
+          "rank": 8,
+          "name": "chenglou/pretext",
+          "url": "https://github.com/chenglou/pretext",
+          "description": "Fast, accurate & comprehensive text measurement & layout",
+          "language": "TypeScript",
+          "stars": 47011,
+          "forks": 2595
+        },
+        {
+          "rank": 9,
+          "name": "sickn33/antigravity-awesome-skills",
+          "url": "https://github.com/sickn33/antigravity-awesome-skills",
+          "description": "Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CL...",
+          "language": "Python",
+          "stars": 37687,
+          "forks": 6164
+        },
+        {
+          "rank": 10,
+          "name": "sipeed/picoclaw",
+          "url": "https://github.com/sipeed/picoclaw",
+          "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+          "language": "Go",
+          "stars": 29012,
+          "forks": 4153
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 191666,
+          "forks": 109891
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2635,
+          "forks": 90649
+        },
+        {
+          "rank": 3,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 372312,
+          "forks": 77135
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195120,
+          "forks": 75300
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19489,
+          "forks": 67070
+        },
+        {
+          "rank": 6,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 233382,
+          "forks": 62328
+        },
+        {
+          "rank": 7,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88002,
+          "forks": 59716
+        },
+        {
+          "rank": 8,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 348823,
+          "forks": 56246
+        },
+        {
+          "rank": 9,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 98050,
+          "forks": 54612
+        },
+        {
+          "rank": 10,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37349,
+          "forks": 53570
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Rust",
+          "stars": 90813,
+          "forks": 4523
+        },
+        {
+          "rank": 2,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 22819,
+          "forks": 2462
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 193474,
+          "forks": 17205
+        },
+        {
+          "rank": 4,
+          "name": "Anil-matcha/Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+...",
+          "language": "JavaScript",
+          "stars": 14096,
+          "forks": 2480
+        },
+        {
+          "rank": 5,
+          "name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "language": "Swift",
+          "stars": 6419,
+          "forks": 645
+        },
+        {
+          "rank": 6,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars": 10022,
+          "forks": 856
+        },
+        {
+          "rank": 7,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 57919,
+          "forks": 7577
+        },
+        {
+          "rank": 8,
+          "name": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "description": "Why is this running?",
+          "language": "Go",
+          "stars": 16573,
+          "forks": 499
+        },
+        {
+          "rank": 9,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+          "language": "TypeScript",
+          "stars": 2143,
+          "forks": 191
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 22819,
+          "forks": 2462
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 135609,
+          "forks": 15983
+        },
+        {
+          "rank": 3,
+          "name": "awslabs/agent-plugins",
+          "url": "https://github.com/awslabs/agent-plugins",
+          "description": "Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and o...",
+          "language": "Python",
+          "stars": 716,
+          "forks": 101
+        },
+        {
+          "rank": 4,
+          "name": "PurpleAILAB/Decepticon",
+          "url": "https://github.com/PurpleAILAB/Decepticon",
+          "description": "Autonomous Hacking Agent for Red Team",
+          "language": "Python",
+          "stars": 3845,
+          "forks": 764
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 35020,
+          "forks": 3438
+        },
+        {
+          "rank": 6,
+          "name": "rossant/awesome-math",
+          "url": "https://github.com/rossant/awesome-math",
+          "description": "A curated list of awesome mathematics resources",
+          "language": "Python",
+          "stars": 15211,
+          "forks": 1498
+        },
+        {
+          "rank": 7,
+          "name": "dograh-hq/dograh",
+          "url": "https://github.com/dograh-hq/dograh",
+          "description": "Open Source Voice Agent Platform",
+          "language": "Python",
+          "stars": 1205,
+          "forks": 278
+        },
+        {
+          "rank": 8,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 16278,
+          "forks": 2425
+        },
+        {
+          "rank": 9,
+          "name": "cheahjs/free-llm-api-resources",
+          "url": "https://github.com/cheahjs/free-llm-api-resources",
+          "description": "A list of free LLM inference resources accessible via API.",
+          "language": "Python",
+          "stars": 21628,
+          "forks": 2195
+        },
+        {
+          "rank": 10,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 15462,
+          "forks": 1432
+        }
+      ]
+    }
+  ]
+}

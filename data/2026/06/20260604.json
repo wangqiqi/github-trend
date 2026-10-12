@@ -1,0 +1,391 @@
+{
+  "date": "20260604",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 206738,
+          "forks": 31736
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 193244,
+          "forks": 109973
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 180368,
+          "forks": 30927
+        },
+        {
+          "rank": 4,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 167492,
+          "forks": 17124
+        },
+        {
+          "rank": 5,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 106997,
+          "forks": 15908
+        },
+        {
+          "rank": 6,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 91515,
+          "forks": 5961
+        },
+        {
+          "rank": 7,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 87369,
+          "forks": 10452
+        },
+        {
+          "rank": 8,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 70678,
+          "forks": 9447
+        },
+        {
+          "rank": 9,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 69046,
+          "forks": 12806
+        },
+        {
+          "rank": 10,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 68727,
+          "forks": 3866
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 54329,
+          "forks": 103625
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2648,
+          "forks": 91118
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 174263,
+          "forks": 82443
+        },
+        {
+          "rank": 4,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8582,
+          "forks": 60150
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 111664,
+          "forks": 59946
+        },
+        {
+          "rank": 6,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 191071,
+          "forks": 58268
+        },
+        {
+          "rank": 7,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 87772,
+          "forks": 56570
+        },
+        {
+          "rank": 8,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 511793,
+          "forks": 48506
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 439300,
+          "forks": 48137
+        },
+        {
+          "rank": 10,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1626,
+          "forks": 46798
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens...",
+          "language": "Python",
+          "stars": 11674,
+          "forks": 760
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 180368,
+          "forks": 30927
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 206738,
+          "forks": 31736
+        },
+        {
+          "rank": 4,
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR tool...",
+          "language": "Python",
+          "stars": 79633,
+          "forks": 10589
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 108336,
+          "forks": 9583
+        },
+        {
+          "rank": 6,
+          "name": "NVIDIA/cosmos",
+          "url": "https://github.com/NVIDIA/cosmos",
+          "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to...",
+          "language": "Jupyter Notebook",
+          "stars": 8838,
+          "forks": 572
+        },
+        {
+          "rank": 7,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "TypeScript",
+          "stars": 24550,
+          "forks": 2867
+        },
+        {
+          "rank": 8,
+          "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face run...",
+          "language": "Python",
+          "stars": 9343,
+          "forks": 1136
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 349505,
+          "forks": 83206
+        },
+        {
+          "rank": 10,
+          "name": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "language": "Java",
+          "stars": 8853,
+          "forks": 1204
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens...",
+          "language": "Python",
+          "stars": 11674,
+          "forks": 760
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 180368,
+          "forks": 30927
+        },
+        {
+          "rank": 3,
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR tool...",
+          "language": "Python",
+          "stars": 79633,
+          "forks": 10589
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 108336,
+          "forks": 9583
+        },
+        {
+          "rank": 5,
+          "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face run...",
+          "language": "Python",
+          "stars": 9343,
+          "forks": 1136
+        },
+        {
+          "rank": 6,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 27348,
+          "forks": 2332
+        },
+        {
+          "rank": 7,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 52162,
+          "forks": 32676
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 10552,
+          "forks": 2063
+        },
+        {
+          "rank": 9,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 56413,
+          "forks": 6889
+        },
+        {
+          "rank": 10,
+          "name": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description": "",
+          "language": "Python",
+          "stars": 6700,
+          "forks": 1512
+        }
+      ]
+    }
+  ]
+}

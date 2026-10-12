@@ -1,0 +1,391 @@
+{
+  "date": "20260213",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 103760,
+          "forks": 10034
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 69454,
+          "forks": 6006
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 69170,
+          "forks": 6957
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 66565,
+          "forks": 5147
+        },
+        {
+          "rank": 5,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54449,
+          "forks": 9543
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 50833,
+          "forks": 3836
+        },
+        {
+          "rank": 7,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 46278,
+          "forks": 22171
+        },
+        {
+          "rank": 8,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45828,
+          "forks": 4677
+        },
+        {
+          "rank": 9,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 45636,
+          "forks": 2178
+        },
+        {
+          "rank": 10,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 34592,
+          "forks": 952
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18920,
+          "forks": 65969
+        },
+        {
+          "rank": 2,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 217249,
+          "forks": 60419
+        },
+        {
+          "rank": 3,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 242972,
+          "forks": 50569
+        },
+        {
+          "rank": 4,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 217647,
+          "forks": 50043
+        },
+        {
+          "rank": 5,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 181768,
+          "forks": 46241
+        },
+        {
+          "rank": 6,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1581,
+          "forks": 45136
+        },
+        {
+          "rank": 7,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 120472,
+          "forks": 42452
+        },
+        {
+          "rank": 8,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1147,
+          "forks": 42261
+        },
+        {
+          "rank": 9,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 59611,
+          "forks": 38914
+        },
+        {
+          "rank": 10,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 97796,
+          "forks": 32764
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "SynkraAI/aios-core",
+          "url": "https://github.com/SynkraAI/aios-core",
+          "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+          "language": "JavaScript",
+          "stars": 298,
+          "forks": 175
+        },
+        {
+          "rank": 2,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 24557,
+          "forks": 1461
+        },
+        {
+          "rank": 3,
+          "name": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+          "language": "TypeScript",
+          "stars": 7801,
+          "forks": 1109
+        },
+        {
+          "rank": 4,
+          "name": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "language": "Jupyter Notebook",
+          "stars": 29010,
+          "forks": 4732
+        },
+        {
+          "rank": 5,
+          "name": "TelegramMessenger/MTProxy",
+          "url": "https://github.com/TelegramMessenger/MTProxy",
+          "description": "",
+          "language": "C",
+          "stars": 5805,
+          "forks": 994
+        },
+        {
+          "rank": 6,
+          "name": "google-deepmind/superhuman",
+          "url": "https://github.com/google-deepmind/superhuman",
+          "description": "",
+          "language": "TeX",
+          "stars": 274,
+          "forks": 21
+        },
+        {
+          "rank": 7,
+          "name": "cheahjs/free-llm-api-resources",
+          "url": "https://github.com/cheahjs/free-llm-api-resources",
+          "description": "A list of free LLM inference resources accessible via API.",
+          "language": "Python",
+          "stars": 10337,
+          "forks": 1001
+        },
+        {
+          "rank": 8,
+          "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+          "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+          "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+          "language": "Jupyter Notebook",
+          "stars": 21058,
+          "forks": 4984
+        },
+        {
+          "rank": 9,
+          "name": "THUDM/slime",
+          "url": "https://github.com/THUDM/slime",
+          "description": "slime is an LLM post-training framework for RL Scaling.",
+          "language": "Python",
+          "stars": 3994,
+          "forks": 523
+        },
+        {
+          "rank": 10,
+          "name": "DebugSwift/DebugSwift",
+          "url": "https://github.com/DebugSwift/DebugSwift",
+          "description": "A toolkit to make debugging iOS applications easier 🚀",
+          "language": "Swift",
+          "stars": 1278,
+          "forks": 119
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cheahjs/free-llm-api-resources",
+          "url": "https://github.com/cheahjs/free-llm-api-resources",
+          "description": "A list of free LLM inference resources accessible via API.",
+          "language": "Python",
+          "stars": 10337,
+          "forks": 1001
+        },
+        {
+          "rank": 2,
+          "name": "THUDM/slime",
+          "url": "https://github.com/THUDM/slime",
+          "description": "slime is an LLM post-training framework for RL Scaling.",
+          "language": "Python",
+          "stars": 3994,
+          "forks": 523
+        },
+        {
+          "rank": 3,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 43168,
+          "forks": 5601
+        },
+        {
+          "rank": 4,
+          "name": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "description": "A set of ready to use scientific skills for Claude",
+          "language": "Python",
+          "stars": 8606,
+          "forks": 1017
+        },
+        {
+          "rank": 5,
+          "name": "coleam00/context-engineering-intro",
+          "url": "https://github.com/coleam00/context-engineering-intro",
+          "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants w...",
+          "language": "Python",
+          "stars": 12439,
+          "forks": 2618
+        },
+        {
+          "rank": 6,
+          "name": "agiresearch/AIOS",
+          "url": "https://github.com/agiresearch/AIOS",
+          "description": "AIOS: AI Agent Operating System",
+          "language": "Python",
+          "stars": 5076,
+          "forks": 686
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/nanoGPT",
+          "url": "https://github.com/karpathy/nanoGPT",
+          "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+          "language": "Python",
+          "stars": 53077,
+          "forks": 8982
+        },
+        {
+          "rank": 8,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 13768,
+          "forks": 2006
+        },
+        {
+          "rank": 9,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 69454,
+          "forks": 6006
+        },
+        {
+          "rank": 10,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description": "The authentication glue you need.",
+          "language": "Python",
+          "stars": 20099,
+          "forks": 1472
+        }
+      ]
+    }
+  ]
+}

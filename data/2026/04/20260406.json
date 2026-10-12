@@ -1,0 +1,373 @@
+{
+  "date": "20260406",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 172581,
+          "forks": 104512
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 85579,
+          "forks": 7355
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 72628,
+          "forks": 11292
+        },
+        {
+          "rank": 4,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 58468,
+          "forks": 7322
+        },
+        {
+          "rank": 5,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 50961,
+          "forks": 22964
+        },
+        {
+          "rank": 6,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 48891,
+          "forks": 7903
+        },
+        {
+          "rank": 7,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo; the best agent harness - previously oh-my-opencode",
+          "language": "TypeScript",
+          "stars": 48745,
+          "forks": 3836
+        },
+        {
+          "rank": 8,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "Open-source orchestration for zero-human companies",
+          "language": "TypeScript",
+          "stars": 48277,
+          "forks": 7792
+        },
+        {
+          "rank": 9,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 46900,
+          "forks": 7567
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 45722,
+          "forks": 3476
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2616,
+          "forks": 89837
+        },
+        {
+          "rank": 2,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 385076,
+          "forks": 66088
+        },
+        {
+          "rank": 3,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 486569,
+          "forks": 45784
+        },
+        {
+          "rank": 4,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 30098,
+          "forks": 45326
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 183479,
+          "forks": 39047
+        },
+        {
+          "rank": 6,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 88704,
+          "forks": 38882
+        },
+        {
+          "rank": 7,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 111784,
+          "forks": 36319
+        },
+        {
+          "rank": 8,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 116565,
+          "forks": 35263
+        },
+        {
+          "rank": 9,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184519,
+          "forks": 33604
+        },
+        {
+          "rank": 10,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 98020,
+          "forks": 32688
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 22937,
+          "forks": 2606
+        },
+        {
+          "rank": 2,
+          "name": "google-ai-edge/gallery",
+          "url": "https://github.com/google-ai-edge/gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models loc...",
+          "language": "Kotlin",
+          "stars": 17507,
+          "forks": 1615
+        },
+        {
+          "rank": 3,
+          "name": "block/goose",
+          "url": "https://github.com/block/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, a...",
+          "language": "Rust",
+          "stars": 37642,
+          "forks": 3629
+        },
+        {
+          "rank": 4,
+          "name": "google-ai-edge/LiteRT-LM",
+          "url": "https://github.com/google-ai-edge/LiteRT-LM",
+          "description": "",
+          "language": "C++",
+          "stars": 1806,
+          "forks": 201
+        },
+        {
+          "rank": 5,
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "description": "High performance self-hosted photo and video management solution.",
+          "language": "TypeScript",
+          "stars": 96570,
+          "forks": 5277
+        },
+        {
+          "rank": 6,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes ...",
+          "language": "TypeScript",
+          "stars": 36045,
+          "forks": 3756
+        },
+        {
+          "rank": 7,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 27192,
+          "forks": 3563
+        },
+        {
+          "rank": 8,
+          "name": "tobi/qmd",
+          "url": "https://github.com/tobi/qmd",
+          "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current ...",
+          "language": "TypeScript",
+          "stars": 18364,
+          "forks": 1120
+        },
+        {
+          "rank": 9,
+          "name": "TelegramMessenger/Telegram-iOS",
+          "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+          "description": "Telegram-iOS",
+          "language": "Swift",
+          "stars": 8234,
+          "forks": 2518
+        },
+        {
+          "rank": 10,
+          "name": "kepano/obsidian-skills",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+          "language": "N/A",
+          "stars": 20125,
+          "forks": 1254
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 27192,
+          "forks": 3563
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/personaplex",
+          "url": "https://github.com/NVIDIA/personaplex",
+          "description": "PersonaPlex code.",
+          "language": "Python",
+          "stars": 7005,
+          "forks": 1055
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "language": "Python",
+          "stars": 11478,
+          "forks": 1580
+        },
+        {
+          "rank": 4,
+          "name": "Blaizzy/mlx-vlm",
+          "url": "https://github.com/Blaizzy/mlx-vlm",
+          "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac u...",
+          "language": "Python",
+          "stars": 4076,
+          "forks": 433
+        },
+        {
+          "rank": 5,
+          "name": "teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py",
+          "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to Notebo...",
+          "language": "Python",
+          "stars": 9297,
+          "forks": 1203
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 341582,
+          "forks": 55220
+        },
+        {
+          "rank": 7,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 25326,
+          "forks": 3382
+        },
+        {
+          "rank": 8,
+          "name": "Jeffallan/claude-skills",
+          "url": "https://github.com/Jeffallan/claude-skills",
+          "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair prog...",
+          "language": "Python",
+          "stars": 7882,
+          "forks": 604
+        }
+      ]
+    }
+  ]
+}

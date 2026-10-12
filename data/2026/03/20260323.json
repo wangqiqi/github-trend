@@ -1,0 +1,391 @@
+{
+  "date": "20260323",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 106816,
+          "forks": 8575
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 81241,
+          "forks": 6926
+        },
+        {
+          "rank": 3,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 50261,
+          "forks": 2378
+        },
+        {
+          "rank": 4,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 49609,
+          "forks": 22764
+        },
+        {
+          "rank": 5,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 47124,
+          "forks": 4833
+        },
+        {
+          "rank": 6,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo; the best agent harness - previously oh-my-opencode",
+          "language": "TypeScript",
+          "stars": 42693,
+          "forks": 3174
+        },
+        {
+          "rank": 7,
+          "name": "VoltAgent/awesome-openclaw-skills",
+          "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+          "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the offici...",
+          "language": "N/A",
+          "stars": 41151,
+          "forks": 3931
+        },
+        {
+          "rank": 8,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 40558,
+          "forks": 5028
+        },
+        {
+          "rank": 9,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 40420,
+          "forks": 5485
+        },
+        {
+          "rank": 10,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital...",
+          "language": "Rust",
+          "stars": 39893,
+          "forks": 5463
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 53124,
+          "forks": 100012
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2610,
+          "forks": 89494
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174111,
+          "forks": 79036
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 384487,
+          "forks": 66047
+        },
+        {
+          "rank": 5,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8520,
+          "forks": 60332
+        },
+        {
+          "rank": 6,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 182748,
+          "forks": 46224
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1600,
+          "forks": 45757
+        },
+        {
+          "rank": 8,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 29936,
+          "forks": 45127
+        },
+        {
+          "rank": 9,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 438757,
+          "forks": 43747
+        },
+        {
+          "rank": 10,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 121328,
+          "forks": 42719
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 21525,
+          "forks": 2226
+        },
+        {
+          "rank": 2,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes...",
+          "language": "Python",
+          "stars": 37474,
+          "forks": 4452
+        },
+        {
+          "rank": 3,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, kno...",
+          "language": "TypeScript",
+          "stars": 11992,
+          "forks": 1119
+        },
+        {
+          "rank": 4,
+          "name": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "language": "Go",
+          "stars": 12628,
+          "forks": 1571
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 83213,
+          "forks": 9699
+        },
+        {
+          "rank": 6,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 38511,
+          "forks": 7218
+        },
+        {
+          "rank": 7,
+          "name": "tinygrad/tinygrad",
+          "url": "https://github.com/tinygrad/tinygrad",
+          "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+          "language": "Python",
+          "stars": 31790,
+          "forks": 3978
+        },
+        {
+          "rank": 8,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 100442,
+          "forks": 13067
+        },
+        {
+          "rank": 9,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 10890,
+          "forks": 1350
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 42390,
+          "forks": 5101
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 21526,
+          "forks": 2226
+        },
+        {
+          "rank": 2,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes...",
+          "language": "Python",
+          "stars": 37474,
+          "forks": 4452
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 83213,
+          "forks": 9699
+        },
+        {
+          "rank": 4,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 38511,
+          "forks": 7218
+        },
+        {
+          "rank": 5,
+          "name": "tinygrad/tinygrad",
+          "url": "https://github.com/tinygrad/tinygrad",
+          "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+          "language": "Python",
+          "stars": 31790,
+          "forks": 3978
+        },
+        {
+          "rank": 6,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 10890,
+          "forks": 1350
+        },
+        {
+          "rank": 7,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 42390,
+          "forks": 5101
+        },
+        {
+          "rank": 8,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 20178,
+          "forks": 4264
+        },
+        {
+          "rank": 9,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and p...",
+          "language": "Python",
+          "stars": 30495,
+          "forks": 2132
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 30264,
+          "forks": 4333
+        }
+      ]
+    }
+  ]
+}

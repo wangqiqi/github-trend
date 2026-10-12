@@ -1,0 +1,391 @@
+{
+  "date": "20260812",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent bec...",
+          "language": "TypeScript",
+          "stars": 85249,
+          "forks": 9985
+        },
+        {
+          "rank": 2,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own s...",
+          "language": "TypeScript",
+          "stars": 43401,
+          "forks": 3030
+        },
+        {
+          "rank": 3,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars": 42137,
+          "forks": 3355
+        },
+        {
+          "rank": 4,
+          "name": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "language": "Python",
+          "stars": 28269,
+          "forks": 2226
+        },
+        {
+          "rank": 5,
+          "name": "baidu/Unlimited-OCR",
+          "url": "https://github.com/baidu/Unlimited-OCR",
+          "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+          "language": "Python",
+          "stars": 23570,
+          "forks": 2406
+        },
+        {
+          "rank": 6,
+          "name": "2025Emma/vibe-coding-cn",
+          "url": "https://github.com/2025Emma/vibe-coding-cn",
+          "description": "No description",
+          "language": "Python",
+          "stars": 22716,
+          "forks": 2398
+        },
+        {
+          "rank": 7,
+          "name": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+          "language": "Swift",
+          "stars": 19983,
+          "forks": 1695
+        },
+        {
+          "rank": 8,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks,...",
+          "language": "Python",
+          "stars": 14541,
+          "forks": 1218
+        },
+        {
+          "rank": 9,
+          "name": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, se...",
+          "language": "TypeScript",
+          "stars": 14065,
+          "forks": 1854
+        },
+        {
+          "rank": 10,
+          "name": "superset-sh/superset",
+          "url": "https://github.com/superset-sh/superset",
+          "description": "Superset is agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your ow...",
+          "language": "TypeScript",
+          "stars": 12875,
+          "forks": 1185
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2690,
+          "forks": 93179
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 358471,
+          "forks": 84603
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174578,
+          "forks": 78678
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 196968,
+          "forks": 75999
+        },
+        {
+          "rank": 5,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 62519,
+          "forks": 52591
+        },
+        {
+          "rank": 6,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 229362,
+          "forks": 45243
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77663,
+          "forks": 44911
+        },
+        {
+          "rank": 8,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42461
+        },
+        {
+          "rank": 9,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1161,
+          "forks": 41905
+        },
+        {
+          "rank": 10,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 89874,
+          "forks": 39285
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "language": "HTML",
+          "stars": 8370,
+          "forks": 553
+        },
+        {
+          "rank": 2,
+          "name": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-link...",
+          "language": "Rust",
+          "stars": 1203,
+          "forks": 186
+        },
+        {
+          "rank": 3,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 5413,
+          "forks": 599
+        },
+        {
+          "rank": 4,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own s...",
+          "language": "TypeScript",
+          "stars": 43401,
+          "forks": 3030
+        },
+        {
+          "rank": 5,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 144243,
+          "forks": 23386
+        },
+        {
+          "rank": 6,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 36828,
+          "forks": 6136
+        },
+        {
+          "rank": 7,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 61838,
+          "forks": 12108
+        },
+        {
+          "rank": 8,
+          "name": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a...",
+          "language": "Python",
+          "stars": 45176,
+          "forks": 3694
+        },
+        {
+          "rank": 9,
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-e...",
+          "language": "Go",
+          "stars": 87376,
+          "forks": 10297
+        },
+        {
+          "rank": 10,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 77476,
+          "forks": 14281
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 5413,
+          "forks": 599
+        },
+        {
+          "rank": 2,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 36828,
+          "forks": 6136
+        },
+        {
+          "rank": 3,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 61838,
+          "forks": 12108
+        },
+        {
+          "rank": 4,
+          "name": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a...",
+          "language": "Python",
+          "stars": 45176,
+          "forks": 3694
+        },
+        {
+          "rank": 5,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 20226,
+          "forks": 3285
+        },
+        {
+          "rank": 6,
+          "name": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+          "language": "Python",
+          "stars": 8615,
+          "forks": 1389
+        },
+        {
+          "rank": 7,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars": 3886,
+          "forks": 294
+        },
+        {
+          "rank": 8,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 89301,
+          "forks": 10475
+        },
+        {
+          "rank": 9,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars": 90498,
+          "forks": 7506
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 168438,
+          "forks": 20062
+        }
+      ]
+    }
+  ]
+}

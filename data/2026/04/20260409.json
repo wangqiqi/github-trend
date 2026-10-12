@@ -1,0 +1,391 @@
+{
+  "date": "20260409",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 46551,
+          "forks": 3576
+        },
+        {
+          "rank": 2,
+          "name": "chenglou/pretext",
+          "url": "https://github.com/chenglou/pretext",
+          "description": "Fast, accurate & comprehensive text measurement & layout",
+          "language": "TypeScript",
+          "stars": 42104,
+          "forks": 2274
+        },
+        {
+          "rank": 3,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes ...",
+          "language": "TypeScript",
+          "stars": 37766,
+          "forks": 4025
+        },
+        {
+          "rank": 4,
+          "name": "router-for-me/CLIProxyAPI",
+          "url": "https://github.com/router-for-me/CLIProxyAPI",
+          "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Cl...",
+          "language": "Go",
+          "stars": 24389,
+          "forks": 4079
+        },
+        {
+          "rank": 5,
+          "name": "toon-format/toon",
+          "url": "https://github.com/toon-format/toon",
+          "description": "🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prom...",
+          "language": "TypeScript",
+          "stars": 23705,
+          "forks": 1060
+        },
+        {
+          "rank": 6,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 23297,
+          "forks": 2522
+        },
+        {
+          "rank": 7,
+          "name": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as opencla...",
+          "language": "Python",
+          "stars": 21791,
+          "forks": 1562
+        },
+        {
+          "rank": 8,
+          "name": "coze-dev/coze-studio",
+          "url": "https://github.com/coze-dev/coze-studio",
+          "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugg...",
+          "language": "TypeScript",
+          "stars": 20455,
+          "forks": 2955
+        },
+        {
+          "rank": 9,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 19921,
+          "forks": 1624
+        },
+        {
+          "rank": 10,
+          "name": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "description": "Specification and documentation for Agent Skills",
+          "language": "Python",
+          "stars": 15556,
+          "forks": 911
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 168,
+          "forks": 19904
+        },
+        {
+          "rank": 2,
+          "name": "mrsmookie/btcrecover",
+          "url": "https://github.com/mrsmookie/btcrecover",
+          "description": "An open source Bitcoin wallet password and seed recovery tool designed for the case where you alr...",
+          "language": "Python",
+          "stars": 2,
+          "forks": 14458
+        },
+        {
+          "rank": 3,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 137,
+          "forks": 13839
+        },
+        {
+          "rank": 4,
+          "name": "Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "url": "https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "description": "cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo created by GitHub Classroom",
+          "language": "C",
+          "stars": 35,
+          "forks": 13741
+        },
+        {
+          "rank": 5,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9778
+        },
+        {
+          "rank": 6,
+          "name": "aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "url": "https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "description": "Sample web application for the AWS DevOps Engineer Learning Path.",
+          "language": "JavaScript",
+          "stars": 106,
+          "forks": 9357
+        },
+        {
+          "rank": 7,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8935
+        },
+        {
+          "rank": 8,
+          "name": "javahometech/my-app",
+          "url": "https://github.com/javahometech/my-app",
+          "description": "No description",
+          "language": "Java",
+          "stars": 88,
+          "forks": 8720
+        },
+        {
+          "rank": 9,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 13,
+          "forks": 6605
+        },
+        {
+          "rank": 10,
+          "name": "mate-academy/layout_moyo-header",
+          "url": "https://github.com/mate-academy/layout_moyo-header",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 11,
+          "forks": 6274
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 41971,
+          "forks": 5364
+        },
+        {
+          "rank": 2,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 9838,
+          "forks": 669
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "language": "Python",
+          "stars": 14201,
+          "forks": 1922
+        },
+        {
+          "rank": 4,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 7355,
+          "forks": 884
+        },
+        {
+          "rank": 5,
+          "name": "opendataloader-project/opendataloader-pdf",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+          "language": "Java",
+          "stars": 13186,
+          "forks": 1113
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 142929,
+          "forks": 12188
+        },
+        {
+          "rank": 7,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 4950,
+          "forks": 738
+        },
+        {
+          "rank": 8,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+          "language": "TypeScript",
+          "stars": 14096,
+          "forks": 2424
+        },
+        {
+          "rank": 9,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 11895,
+          "forks": 2483
+        },
+        {
+          "rank": 10,
+          "name": "YishenTu/claudian",
+          "url": "https://github.com/YishenTu/claudian",
+          "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+          "language": "TypeScript",
+          "stars": 6544,
+          "forks": 385
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 41971,
+          "forks": 5364
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "language": "Python",
+          "stars": 14201,
+          "forks": 1922
+        },
+        {
+          "rank": 3,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 7355,
+          "forks": 884
+        },
+        {
+          "rank": 4,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 4950,
+          "forks": 738
+        },
+        {
+          "rank": 5,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 11895,
+          "forks": 2483
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 38012,
+          "forks": 3386
+        },
+        {
+          "rank": 7,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 50935,
+          "forks": 8828
+        },
+        {
+          "rank": 8,
+          "name": "atilaahmettaner/tradingview-mcp",
+          "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+          "description": "Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screenin...",
+          "language": "Python",
+          "stars": 1417,
+          "forks": 319
+        },
+        {
+          "rank": 9,
+          "name": "z-lab/dflash",
+          "url": "https://github.com/z-lab/dflash",
+          "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+          "language": "Python",
+          "stars": 936,
+          "forks": 60
+        },
+        {
+          "rank": 10,
+          "name": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "language": "Python",
+          "stars": 149774,
+          "forks": 11375
+        }
+      ]
+    }
+  ]
+}

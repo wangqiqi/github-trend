@@ -1,0 +1,391 @@
+{
+  "date": "20260208",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 175267,
+          "forks": 28713
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 113727,
+          "forks": 29497
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 100074,
+          "forks": 9554
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 93929,
+          "forks": 11073
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 68324,
+          "forks": 5892
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 65598,
+          "forks": 6514
+        },
+        {
+          "rank": 7,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 59517,
+          "forks": 7799
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 51062,
+          "forks": 6334
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 45742,
+          "forks": 22083
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 42563,
+          "forks": 5497
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 172315,
+          "forks": 82859
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173975,
+          "forks": 79133
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2673,
+          "forks": 72918
+        },
+        {
+          "rank": 4,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8462,
+          "forks": 60226
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 106202,
+          "forks": 56906
+        },
+        {
+          "rank": 6,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 178572,
+          "forks": 55389
+        },
+        {
+          "rank": 7,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 348725,
+          "forks": 43700
+        },
+        {
+          "rank": 8,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20107,
+          "forks": 43477
+        },
+        {
+          "rank": 9,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 436895,
+          "forks": 43335
+        },
+        {
+          "rank": 10,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 396392,
+          "forks": 42413
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15...",
+          "language": "TypeScript",
+          "stars": 11376,
+          "forks": 1387
+        },
+        {
+          "rank": 2,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 6614,
+          "forks": 373
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/litebox",
+          "url": "https://github.com/microsoft/litebox",
+          "description": "A security-focused library OS supporting kernel- and user-mode execution",
+          "language": "Rust",
+          "stars": 1263,
+          "forks": 55
+        },
+        {
+          "rank": 4,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 4852,
+          "forks": 463
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 47362,
+          "forks": 3599
+        },
+        {
+          "rank": 6,
+          "name": "OpenBMB/MiniCPM-o",
+          "url": "https://github.com/OpenBMB/MiniCPM-o",
+          "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Yo...",
+          "language": "Python",
+          "stars": 23288,
+          "forks": 1774
+        },
+        {
+          "rank": 7,
+          "name": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...",
+          "language": "Go",
+          "stars": 31755,
+          "forks": 2932
+        },
+        {
+          "rank": 8,
+          "name": "wavetermdev/waveterm",
+          "url": "https://github.com/wavetermdev/waveterm",
+          "description": "An open-source, cross-platform terminal for seamless workflows",
+          "language": "Go",
+          "stars": 17213,
+          "forks": 767
+        },
+        {
+          "rank": 9,
+          "name": "viarotel-org/escrcpy",
+          "url": "https://github.com/viarotel-org/escrcpy",
+          "description": "📱 Display and control your Android device graphically with scrcpy.",
+          "language": "JavaScript",
+          "stars": 7954,
+          "forks": 577
+        },
+        {
+          "rank": 10,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 32399,
+          "forks": 3100
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 6614,
+          "forks": 373
+        },
+        {
+          "rank": 2,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 4852,
+          "forks": 463
+        },
+        {
+          "rank": 3,
+          "name": "OpenBMB/MiniCPM-o",
+          "url": "https://github.com/OpenBMB/MiniCPM-o",
+          "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Yo...",
+          "language": "Python",
+          "stars": 23288,
+          "forks": 1774
+        },
+        {
+          "rank": 4,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 32400,
+          "forks": 3100
+        },
+        {
+          "rank": 5,
+          "name": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
+          "language": "Python",
+          "stars": 1206,
+          "forks": 362
+        },
+        {
+          "rank": 6,
+          "name": "hao-ai-lab/FastVideo",
+          "url": "https://github.com/hao-ai-lab/FastVideo",
+          "description": "A unified inference and post-training framework for accelerated video generation.",
+          "language": "Python",
+          "stars": 3059,
+          "forks": 260
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 10869,
+          "forks": 1253
+        },
+        {
+          "rank": 8,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "Universal memory layer for AI Agents",
+          "language": "Python",
+          "stars": 46855,
+          "forks": 5164
+        },
+        {
+          "rank": 9,
+          "name": "airbytehq/airbyte",
+          "url": "https://github.com/airbytehq/airbyte",
+          "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files t...",
+          "language": "Python",
+          "stars": 20656,
+          "forks": 5048
+        },
+        {
+          "rank": 10,
+          "name": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estima...",
+          "language": "Python",
+          "stars": 5802,
+          "forks": 526
+        }
+      ]
+    }
+  ]
+}

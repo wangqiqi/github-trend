@@ -1,0 +1,382 @@
+{
+  "date": "20260503",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 189749,
+          "forks": 109616
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 176992,
+          "forks": 15687
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 172394,
+          "forks": 26712
+        },
+        {
+          "rank": 4,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 90833,
+          "forks": 14844
+        },
+        {
+          "rank": 5,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 71294,
+          "forks": 6118
+        },
+        {
+          "rank": 6,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 64558,
+          "forks": 8494
+        },
+        {
+          "rank": 7,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "Open-source orchestration for zero-human companies",
+          "language": "TypeScript",
+          "stars": 61901,
+          "forks": 10969
+        },
+        {
+          "rank": 8,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & G...",
+          "language": "Rust",
+          "stars": 58229,
+          "forks": 3779
+        },
+        {
+          "rank": 9,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo; the best agent harness - previously oh-my-opencode",
+          "language": "TypeScript",
+          "stars": 55552,
+          "forks": 4504
+        },
+        {
+          "rank": 10,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Python",
+          "stars": 52763,
+          "forks": 2855
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8567,
+          "forks": 60302
+        },
+        {
+          "rank": 2,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 444065,
+          "forks": 44448
+        },
+        {
+          "rank": 3,
+          "name": "DefinitelyTyped/DefinitelyTyped",
+          "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+          "description": "The repository for high quality TypeScript type definitions.",
+          "language": "TypeScript",
+          "stars": 51208,
+          "forks": 30511
+        },
+        {
+          "rank": 4,
+          "name": "lewagon/dotfiles",
+          "url": "https://github.com/lewagon/dotfiles",
+          "description": "Default configuration for Le Wagon's students",
+          "language": "Shell",
+          "stars": 21769,
+          "forks": 28667
+        },
+        {
+          "rank": 5,
+          "name": "danielmiessler/SecLists",
+          "url": "https://github.com/danielmiessler/SecLists",
+          "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used du...",
+          "language": "PHP",
+          "stars": 70646,
+          "forks": 24982
+        },
+        {
+          "rank": 6,
+          "name": "MicrosoftDocs/azure-docs",
+          "url": "https://github.com/MicrosoftDocs/azure-docs",
+          "description": "Open source documentation of Microsoft Azure",
+          "language": "Markdown",
+          "stars": 10831,
+          "forks": 21830
+        },
+        {
+          "rank": 7,
+          "name": "sanbuphy/learn-coding-agent",
+          "url": "https://github.com/sanbuphy/learn-coding-agent",
+          "description": "Research on Coding Agents",
+          "language": "N/A",
+          "stars": 11781,
+          "forks": 19738
+        },
+        {
+          "rank": 8,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 77431,
+          "forks": 16918
+        },
+        {
+          "rank": 9,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 103359,
+          "forks": 16731
+        },
+        {
+          "rank": 10,
+          "name": "mrsmookie/btcrecover",
+          "url": "https://github.com/mrsmookie/btcrecover",
+          "description": "An open source Bitcoin wallet password and seed recovery tool designed for the case where you alr...",
+          "language": "Python",
+          "stars": 3,
+          "forks": 14458
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coo...",
+          "language": "TypeScript",
+          "stars": 37659,
+          "forks": 4304
+        },
+        {
+          "rank": 2,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 64174,
+          "forks": 12424
+        },
+        {
+          "rank": 3,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 23281,
+          "forks": 1637
+        },
+        {
+          "rank": 4,
+          "name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "language": "Rust",
+          "stars": 1828,
+          "forks": 102
+        },
+        {
+          "rank": 5,
+          "name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 9462,
+          "forks": 1490
+        },
+        {
+          "rank": 6,
+          "name": "browserbase/skills",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "language": "JavaScript",
+          "stars": 1663,
+          "forks": 107
+        },
+        {
+          "rank": 7,
+          "name": "czlonkowski/n8n-mcp",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "language": "TypeScript",
+          "stars": 19257,
+          "forks": 3219
+        },
+        {
+          "rank": 8,
+          "name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "language": "Rust",
+          "stars": 3159,
+          "forks": 282
+        },
+        {
+          "rank": 9,
+          "name": "openwrt/openwrt",
+          "url": "https://github.com/openwrt/openwrt",
+          "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference on...",
+          "language": "C",
+          "stars": 26505,
+          "forks": 12339
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 64174,
+          "forks": 12424
+        },
+        {
+          "rank": 2,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 23281,
+          "forks": 1637
+        },
+        {
+          "rank": 3,
+          "name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 9462,
+          "forks": 1490
+        },
+        {
+          "rank": 4,
+          "name": "Q00/ouroboros",
+          "url": "https://github.com/Q00/ouroboros",
+          "description": "Agent OS: Stop prompting. Start specifying.",
+          "language": "Python",
+          "stars": 3152,
+          "forks": 303
+        },
+        {
+          "rank": 5,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 17121,
+          "forks": 2036
+        },
+        {
+          "rank": 6,
+          "name": "cocoindex-io/cocoindex",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+          "language": "Python",
+          "stars": 7604,
+          "forks": 565
+        },
+        {
+          "rank": 7,
+          "name": "dreammis/social-auto-upload",
+          "url": "https://github.com/dreammis/social-auto-upload",
+          "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+          "language": "Python",
+          "stars": 10536,
+          "forks": 1897
+        },
+        {
+          "rank": 8,
+          "name": "hiddify/Hiddify-Manager",
+          "url": "https://github.com/hiddify/Hiddify-Manager",
+          "description": "Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 prot...",
+          "language": "Python",
+          "stars": 8753,
+          "forks": 972
+        },
+        {
+          "rank": 9,
+          "name": "LearningCircuit/local-deep-research",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "description": "Local Deep Research achieves ~95% on SimpleQA benchmark (tested with Qwen 3.6). Supports local an...",
+          "language": "Python",
+          "stars": 4553,
+          "forks": 431
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Resear...",
+          "language": "Python",
+          "stars": 41892,
+          "forks": 6584
+        }
+      ]
+    }
+  ]
+}

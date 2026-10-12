@@ -1,0 +1,391 @@
+{
+  "date": "20250517",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 96842,
+          "forks": 15744
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 89282,
+          "forks": 11539
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 60442,
+          "forks": 6676
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 57324,
+          "forks": 2930
+        },
+        {
+          "rank": 5,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 53664,
+          "forks": 1087
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 49592,
+          "forks": 3695
+        },
+        {
+          "rank": 7,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 47841,
+          "forks": 14680
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 46845,
+          "forks": 5265
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 45710,
+          "forks": 7941
+        },
+        {
+          "rank": 10,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 43830,
+          "forks": 5133
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6599,
+          "forks": 243593
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13008,
+          "forks": 150999
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 852,
+          "forks": 143928
+        },
+        {
+          "rank": 4,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28361,
+          "forks": 86624
+        },
+        {
+          "rank": 5,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48423,
+          "forks": 86089
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 166498,
+          "forks": 83091
+        },
+        {
+          "rank": 7,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172315,
+          "forks": 79101
+        },
+        {
+          "rank": 8,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1821,
+          "forks": 78929
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 317604,
+          "forks": 78773
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 189969,
+          "forks": 74663
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars": 21437,
+          "forks": 4325
+        },
+        {
+          "rank": 2,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 340805,
+          "forks": 35946
+        },
+        {
+          "rank": 3,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 27839,
+          "forks": 4813
+        },
+        {
+          "rank": 4,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memor...",
+          "language": "Python",
+          "stars": 31050,
+          "forks": 3004
+        },
+        {
+          "rank": 5,
+          "name": "f/awesome-chatgpt-prompts",
+          "url": "https://github.com/f/awesome-chatgpt-prompts",
+          "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+          "language": "JavaScript",
+          "stars": 124588,
+          "forks": 16662
+        },
+        {
+          "rank": 6,
+          "name": "happycola233/tchMaterial-parser",
+          "url": "https://github.com/happycola233/tchMaterial-parser",
+          "description": "国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。",
+          "language": "Python",
+          "stars": 1602,
+          "forks": 167
+        },
+        {
+          "rank": 7,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "c/ua is the Docker Container for Computer-Use AI Agents.",
+          "language": "Python",
+          "stars": 7235,
+          "forks": 286
+        },
+        {
+          "rank": 8,
+          "name": "xming521/WeClone",
+          "url": "https://github.com/xming521/WeClone",
+          "description": "🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA",
+          "language": "Python",
+          "stars": 9985,
+          "forks": 767
+        },
+        {
+          "rank": 9,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 94887,
+          "forks": 25991
+        },
+        {
+          "rank": 10,
+          "name": "Capsize-Games/airunner",
+          "url": "https://github.com/Capsize-Games/airunner",
+          "description": "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automat...",
+          "language": "Python",
+          "stars": 885,
+          "forks": 71
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 340805,
+          "forks": 35946
+        },
+        {
+          "rank": 2,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 27839,
+          "forks": 4813
+        },
+        {
+          "rank": 3,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memor...",
+          "language": "Python",
+          "stars": 31050,
+          "forks": 3004
+        },
+        {
+          "rank": 4,
+          "name": "happycola233/tchMaterial-parser",
+          "url": "https://github.com/happycola233/tchMaterial-parser",
+          "description": "国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。",
+          "language": "Python",
+          "stars": 1602,
+          "forks": 167
+        },
+        {
+          "rank": 5,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "c/ua is the Docker Container for Computer-Use AI Agents.",
+          "language": "Python",
+          "stars": 7235,
+          "forks": 286
+        },
+        {
+          "rank": 6,
+          "name": "xming521/WeClone",
+          "url": "https://github.com/xming521/WeClone",
+          "description": "🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA",
+          "language": "Python",
+          "stars": 9985,
+          "forks": 767
+        },
+        {
+          "rank": 7,
+          "name": "Capsize-Games/airunner",
+          "url": "https://github.com/Capsize-Games/airunner",
+          "description": "Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automat...",
+          "language": "Python",
+          "stars": 885,
+          "forks": 71
+        },
+        {
+          "rank": 8,
+          "name": "facebookresearch/fairchem",
+          "url": "https://github.com/facebookresearch/fairchem",
+          "description": "FAIR Chemistry's library of machine learning methods for chemistry",
+          "language": "Python",
+          "stars": 1295,
+          "forks": 310
+        },
+        {
+          "rank": 9,
+          "name": "localstack/localstack",
+          "url": "https://github.com/localstack/localstack",
+          "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+          "language": "Python",
+          "stars": 58945,
+          "forks": 4147
+        },
+        {
+          "rank": 10,
+          "name": "frappe/hrms",
+          "url": "https://github.com/frappe/hrms",
+          "description": "Open Source HR and Payroll Software",
+          "language": "Python",
+          "stars": 2125,
+          "forks": 1057
+        }
+      ]
+    }
+  ]
+}

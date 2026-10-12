@@ -1,0 +1,391 @@
+{
+  "date": "20250815",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98632,
+          "forks": 16065
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90869,
+          "forks": 11727
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 76488,
+          "forks": 21427
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 71558,
+          "forks": 3903
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 69571,
+          "forks": 7000
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 67663,
+          "forks": 7827
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 66109,
+          "forks": 5309
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 64397,
+          "forks": 7501
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 48991,
+          "forks": 8590
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39311,
+          "forks": 6917
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13162,
+          "forks": 152684
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49897,
+          "forks": 89813
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2413,
+          "forks": 83283
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168662,
+          "forks": 83026
+        },
+        {
+          "rank": 5,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 324288,
+          "forks": 79863
+        },
+        {
+          "rank": 6,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172844,
+          "forks": 79125
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191186,
+          "forks": 74768
+        },
+        {
+          "rank": 8,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2573,
+          "forks": 72518
+        },
+        {
+          "rank": 9,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 365085,
+          "forks": 63906
+        },
+        {
+          "rank": 10,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17717,
+          "forks": 62882
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tadata-org/fastapi_mcp",
+          "url": "https://github.com/tadata-org/fastapi_mcp",
+          "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+          "language": "Python",
+          "stars": 8545,
+          "forks": 668
+        },
+        {
+          "rank": 2,
+          "name": "ubicloud/ubicloud",
+          "url": "https://github.com/ubicloud/ubicloud",
+          "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and loa...",
+          "language": "Ruby",
+          "stars": 9304,
+          "forks": 394
+        },
+        {
+          "rank": 3,
+          "name": "budtmo/docker-android",
+          "url": "https://github.com/budtmo/docker-android",
+          "description": "Android in docker solution with noVNC supported and video recording",
+          "language": "Python",
+          "stars": 11889,
+          "forks": 1435
+        },
+        {
+          "rank": 4,
+          "name": "manycore-research/SpatialLM",
+          "url": "https://github.com/manycore-research/SpatialLM",
+          "description": "SpatialLM: Training Large Language Models for Structured Indoor Modeling",
+          "language": "Python",
+          "stars": 3621,
+          "forks": 277
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/magentic-ui",
+          "url": "https://github.com/microsoft/magentic-ui",
+          "description": "A research prototype of a human-centered web agent",
+          "language": "Python",
+          "stars": 7110,
+          "forks": 734
+        },
+        {
+          "rank": 6,
+          "name": "datalab-to/marker",
+          "url": "https://github.com/datalab-to/marker",
+          "description": "Convert PDF to markdown + JSON quickly with high accuracy",
+          "language": "Python",
+          "stars": 27553,
+          "forks": 1807
+        },
+        {
+          "rank": 7,
+          "name": "redis/go-redis",
+          "url": "https://github.com/redis/go-redis",
+          "description": "Redis Go client",
+          "language": "Go",
+          "stars": 21341,
+          "forks": 2483
+        },
+        {
+          "rank": 8,
+          "name": "qarmin/czkawka",
+          "url": "https://github.com/qarmin/czkawka",
+          "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+          "language": "Rust",
+          "stars": 24986,
+          "forks": 778
+        },
+        {
+          "rank": 9,
+          "name": "Librum-Reader/Librum",
+          "url": "https://github.com/Librum-Reader/Librum",
+          "description": "The Librum client application",
+          "language": "C++",
+          "stars": 4865,
+          "forks": 163
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 71558,
+          "forks": 3903
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tadata-org/fastapi_mcp",
+          "url": "https://github.com/tadata-org/fastapi_mcp",
+          "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+          "language": "Python",
+          "stars": 8545,
+          "forks": 668
+        },
+        {
+          "rank": 2,
+          "name": "budtmo/docker-android",
+          "url": "https://github.com/budtmo/docker-android",
+          "description": "Android in docker solution with noVNC supported and video recording",
+          "language": "Python",
+          "stars": 11889,
+          "forks": 1435
+        },
+        {
+          "rank": 3,
+          "name": "manycore-research/SpatialLM",
+          "url": "https://github.com/manycore-research/SpatialLM",
+          "description": "SpatialLM: Training Large Language Models for Structured Indoor Modeling",
+          "language": "Python",
+          "stars": 3621,
+          "forks": 277
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/magentic-ui",
+          "url": "https://github.com/microsoft/magentic-ui",
+          "description": "A research prototype of a human-centered web agent",
+          "language": "Python",
+          "stars": 7110,
+          "forks": 734
+        },
+        {
+          "rank": 5,
+          "name": "datalab-to/marker",
+          "url": "https://github.com/datalab-to/marker",
+          "description": "Convert PDF to markdown + JSON quickly with high accuracy",
+          "language": "Python",
+          "stars": 27553,
+          "forks": 1807
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 71558,
+          "forks": 3903
+        },
+        {
+          "rank": 7,
+          "name": "instaloader/instaloader",
+          "url": "https://github.com/instaloader/instaloader",
+          "description": "Download pictures (or videos) along with their captions and other metadata from Instagram.",
+          "language": "Python",
+          "stars": 10545,
+          "forks": 1368
+        },
+        {
+          "rank": 8,
+          "name": "dreammis/social-auto-upload",
+          "url": "https://github.com/dreammis/social-auto-upload",
+          "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+          "language": "Python",
+          "stars": 5782,
+          "forks": 988
+        },
+        {
+          "rank": 9,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 31446,
+          "forks": 875
+        },
+        {
+          "rank": 10,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 361358,
+          "forks": 37924
+        }
+      ]
+    }
+  ]
+}

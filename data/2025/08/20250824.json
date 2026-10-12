@@ -1,0 +1,391 @@
+{
+  "date": "20250824",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98914,
+          "forks": 16106
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90969,
+          "forks": 11733
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSC...",
+          "language": "N/A",
+          "stars": 78643,
+          "forks": 22052
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 72209,
+          "forks": 3936
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 71500,
+          "forks": 7352
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 68518,
+          "forks": 7942
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 67173,
+          "forks": 5434
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 65495,
+          "forks": 7654
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49178,
+          "forks": 8619
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39519,
+          "forks": 6962
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50022,
+          "forks": 90177
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28842,
+          "forks": 87184
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2442,
+          "forks": 83628
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168849,
+          "forks": 83010
+        },
+        {
+          "rank": 5,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 324752,
+          "forks": 79921
+        },
+        {
+          "rank": 6,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172898,
+          "forks": 79124
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191301,
+          "forks": 74790
+        },
+        {
+          "rank": 8,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2580,
+          "forks": 72539
+        },
+        {
+          "rank": 9,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 365954,
+          "forks": 63946
+        },
+        {
+          "rank": 10,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17757,
+          "forks": 63012
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "winapps-org/winapps",
+          "url": "https://github.com/winapps-org/winapps",
+          "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they...",
+          "language": "Shell",
+          "stars": 5125,
+          "forks": 168
+        },
+        {
+          "rank": 2,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "Vue",
+          "stars": 8696,
+          "forks": 636
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 2026,
+          "forks": 255
+        },
+        {
+          "rank": 4,
+          "name": "scottpetrovic/mesh2motion-app",
+          "url": "https://github.com/scottpetrovic/mesh2motion-app",
+          "description": "Import a 3D Model and automatically assign and export animations",
+          "language": "TypeScript",
+          "stars": 886,
+          "forks": 77
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 365954,
+          "forks": 63946
+        },
+        {
+          "rank": 6,
+          "name": "plait-board/drawnix",
+          "url": "https://github.com/plait-board/drawnix",
+          "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, f...",
+          "language": "TypeScript",
+          "stars": 6199,
+          "forks": 485
+        },
+        {
+          "rank": 7,
+          "name": "midday-ai/midday",
+          "url": "https://github.com/midday-ai/midday",
+          "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant m...",
+          "language": "TypeScript",
+          "stars": 11135,
+          "forks": 1013
+        },
+        {
+          "rank": 8,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 123581,
+          "forks": 9853
+        },
+        {
+          "rank": 9,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 84673,
+          "forks": 32850
+        },
+        {
+          "rank": 10,
+          "name": "nunchaku-tech/ComfyUI-nunchaku",
+          "url": "https://github.com/nunchaku-tech/ComfyUI-nunchaku",
+          "description": "ComfyUI Plugin of Nunchaku",
+          "language": "Python",
+          "stars": 1946,
+          "forks": 68
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 2027,
+          "forks": 255
+        },
+        {
+          "rank": 2,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 365954,
+          "forks": 63946
+        },
+        {
+          "rank": 3,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 123581,
+          "forks": 9853
+        },
+        {
+          "rank": 4,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 84673,
+          "forks": 32850
+        },
+        {
+          "rank": 5,
+          "name": "nunchaku-tech/ComfyUI-nunchaku",
+          "url": "https://github.com/nunchaku-tech/ComfyUI-nunchaku",
+          "description": "ComfyUI Plugin of Nunchaku",
+          "language": "Python",
+          "stars": 1946,
+          "forks": 68
+        },
+        {
+          "rank": 6,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 3741,
+          "forks": 461
+        },
+        {
+          "rank": 7,
+          "name": "MetaCubeX/mihomo",
+          "url": "https://github.com/MetaCubeX/mihomo",
+          "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.",
+          "language": "Python",
+          "stars": 22461,
+          "forks": 3229
+        },
+        {
+          "rank": 8,
+          "name": "NVIDIA-NeMo/RL",
+          "url": "https://github.com/NVIDIA-NeMo/RL",
+          "description": "Scalable toolkit for efficient model reinforcement",
+          "language": "Python",
+          "stars": 796,
+          "forks": 114
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 362689,
+          "forks": 38063
+        },
+        {
+          "rank": 10,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars": 80066,
+          "forks": 6849
+        }
+      ]
+    }
+  ]
+}

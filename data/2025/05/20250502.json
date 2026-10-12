@@ -1,0 +1,391 @@
+{
+  "date": "20250502",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 96332,
+          "forks": 15668
+        },
+        {
+          "rank": 2,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 38107,
+          "forks": 1582
+        },
+        {
+          "rank": 3,
+          "name": "inkonchain/docs",
+          "url": "https://github.com/inkonchain/docs",
+          "description": "Ink Documentation",
+          "language": "MDX",
+          "stars": 36640,
+          "forks": 396
+        },
+        {
+          "rank": 4,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 26851,
+          "forks": 4618
+        },
+        {
+          "rank": 5,
+          "name": "XiaoMi/ha_xiaomi_home",
+          "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+          "description": "Xiaomi Home Integration for Home Assistant",
+          "language": "Python",
+          "stars": 19486,
+          "forks": 987
+        },
+        {
+          "rank": 6,
+          "name": "huggingface/smolagents",
+          "url": "https://github.com/huggingface/smolagents",
+          "description": "🤗 smolagents: a barebones library for agents that think in python code.",
+          "language": "Python",
+          "stars": 17867,
+          "forks": 1556
+        },
+        {
+          "rank": 7,
+          "name": "deepseek-ai/Janus",
+          "url": "https://github.com/deepseek-ai/Janus",
+          "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+          "language": "Python",
+          "stars": 17187,
+          "forks": 2234
+        },
+        {
+          "rank": 8,
+          "name": "elizaOS/eliza",
+          "url": "https://github.com/elizaOS/eliza",
+          "description": "Autonomous agents for everyone",
+          "language": "TypeScript",
+          "stars": 15700,
+          "forks": 5105
+        },
+        {
+          "rank": 9,
+          "name": "mastra-ai/mastra",
+          "url": "https://github.com/mastra-ai/mastra",
+          "description": "The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Cla...",
+          "language": "TypeScript",
+          "stars": 12614,
+          "forks": 672
+        },
+        {
+          "rank": 10,
+          "name": "mindverse/Second-Me",
+          "url": "https://github.com/mindverse/Second-Me",
+          "description": "Train your AI self, amplify you, bridge the world",
+          "language": "Python",
+          "stars": 11655,
+          "forks": 815
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 297721,
+          "forks": 49485
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37071
+        },
+        {
+          "rank": 3,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 106001,
+          "forks": 35728
+        },
+        {
+          "rank": 4,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 24252,
+          "forks": 32847
+        },
+        {
+          "rank": 5,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 110922,
+          "forks": 31419
+        },
+        {
+          "rank": 6,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 151932,
+          "forks": 28264
+        },
+        {
+          "rank": 7,
+          "name": "vagabond-systems/jpmc-task-1",
+          "url": "https://github.com/vagabond-systems/jpmc-task-1",
+          "description": "Starter repo for task 1 of the JPMC software engineering program",
+          "language": "Python",
+          "stars": 43,
+          "forks": 22328
+        },
+        {
+          "rank": 8,
+          "name": "yankils/hello-world",
+          "url": "https://github.com/yankils/hello-world",
+          "description": "No description",
+          "language": "Java",
+          "stars": 259,
+          "forks": 22693
+        },
+        {
+          "rank": 9,
+          "name": "mdn/content",
+          "url": "https://github.com/mdn/content",
+          "description": "The content behind MDN Web Docs",
+          "language": "Markdown",
+          "stars": 9494,
+          "forks": 22658
+        },
+        {
+          "rank": 10,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 166,
+          "forks": 20564
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 56959,
+          "forks": 8118
+        },
+        {
+          "rank": 2,
+          "name": "aipotheosis-labs/aci",
+          "url": "https://github.com/aipotheosis-labs/aci",
+          "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with m...",
+          "language": "Python",
+          "stars": 936,
+          "forks": 67
+        },
+        {
+          "rank": 3,
+          "name": "MODSetter/SurfSense",
+          "url": "https://github.com/MODSetter/SurfSense",
+          "description": "Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as...",
+          "language": "TypeScript",
+          "stars": 1828,
+          "forks": 148
+        },
+        {
+          "rank": 4,
+          "name": "cloudflare/mcp-server-cloudflare",
+          "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 1485,
+          "forks": 113
+        },
+        {
+          "rank": 5,
+          "name": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file ed...",
+          "language": "TypeScript",
+          "stars": 2226,
+          "forks": 239
+        },
+        {
+          "rank": 6,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 17381,
+          "forks": 2079
+        },
+        {
+          "rank": 7,
+          "name": "Atmosphere-NX/Atmosphere",
+          "url": "https://github.com/Atmosphere-NX/Atmosphere",
+          "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+          "language": "C++",
+          "stars": 15793,
+          "forks": 1267
+        },
+        {
+          "rank": 8,
+          "name": "unionlabs/union",
+          "url": "https://github.com/unionlabs/union",
+          "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem...",
+          "language": "Rust",
+          "stars": 56094,
+          "forks": 2816
+        },
+        {
+          "rank": 9,
+          "name": "cloudflare/agents",
+          "url": "https://github.com/cloudflare/agents",
+          "description": "Build and deploy AI Agents on Cloudflare",
+          "language": "TypeScript",
+          "stars": 1663,
+          "forks": 113
+        },
+        {
+          "rank": 10,
+          "name": "DiceDB/dice",
+          "url": "https://github.com/DiceDB/dice",
+          "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+          "language": "Go",
+          "stars": 10256,
+          "forks": 1356
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 56959,
+          "forks": 8118
+        },
+        {
+          "rank": 2,
+          "name": "aipotheosis-labs/aci",
+          "url": "https://github.com/aipotheosis-labs/aci",
+          "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with m...",
+          "language": "Python",
+          "stars": 936,
+          "forks": 67
+        },
+        {
+          "rank": 3,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpret...",
+          "language": "Python",
+          "stars": 7654,
+          "forks": 656
+        },
+        {
+          "rank": 4,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 297721,
+          "forks": 49485
+        },
+        {
+          "rank": 5,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 41961,
+          "forks": 3831
+        },
+        {
+          "rank": 6,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance syste...",
+          "language": "Python",
+          "stars": 53270,
+          "forks": 9677
+        },
+        {
+          "rank": 7,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https:/...",
+          "language": "Python",
+          "stars": 28379,
+          "forks": 2709
+        },
+        {
+          "rank": 8,
+          "name": "Cinnamon/kotaemon",
+          "url": "https://github.com/Cinnamon/kotaemon",
+          "description": "An open-source RAG-based tool for chatting with your documents.",
+          "language": "Python",
+          "stars": 22143,
+          "forks": 1749
+        },
+        {
+          "rank": 9,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 151932,
+          "forks": 28264
+        },
+        {
+          "rank": 10,
+          "name": "coleam00/ottomator-agents",
+          "url": "https://github.com/coleam00/ottomator-agents",
+          "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+          "language": "Python",
+          "stars": 1676,
+          "forks": 821
+        }
+      ]
+    }
+  ]
+}

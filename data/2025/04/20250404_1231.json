@@ -1,0 +1,391 @@
+{
+  "date": "20250404",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 95033,
+          "forks": 15388
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 88032,
+          "forks": 11370
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 52765,
+          "forks": 5586
+        },
+        {
+          "rank": 4,
+          "name": "mannaandpoem/OpenManus",
+          "url": "https://github.com/mannaandpoem/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 41809,
+          "forks": 7093
+        },
+        {
+          "rank": 5,
+          "name": "inkonchain/node",
+          "url": "https://github.com/inkonchain/node",
+          "description": "How to run an Ink Node",
+          "language": "Shell",
+          "stars": 36075,
+          "forks": 553
+        },
+        {
+          "rank": 6,
+          "name": "karpathy/LLM101n",
+          "url": "https://github.com/karpathy/LLM101n",
+          "description": "LLM101n: Let's build a Storyteller",
+          "language": "N/A",
+          "stars": 33061,
+          "forks": 1807
+        },
+        {
+          "rank": 7,
+          "name": "shardeum/shardeum",
+          "url": "https://github.com/shardeum/shardeum",
+          "description": "Shardeum is an EVM based autoscaling blockchain",
+          "language": "TypeScript",
+          "stars": 31948,
+          "forks": 682
+        },
+        {
+          "rank": 8,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artific...",
+          "language": "Python",
+          "stars": 27832,
+          "forks": 4159
+        },
+        {
+          "rank": 9,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 27383,
+          "forks": 1690
+        },
+        {
+          "rank": 10,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 26989,
+          "forks": 3039
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 165485,
+          "forks": 83083
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56737
+        },
+        {
+          "rank": 3,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 6945,
+          "forks": 50392
+        },
+        {
+          "rank": 4,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 284,
+          "forks": 43350
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-...",
+          "language": "Jupyter Notebook",
+          "stars": 77674,
+          "forks": 40006
+        },
+        {
+          "rank": 6,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+          "language": "TypeScript",
+          "stars": 415120,
+          "forks": 39636
+        },
+        {
+          "rank": 7,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 28282,
+          "forks": 39079
+        },
+        {
+          "rank": 8,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 334864,
+          "forks": 35427
+        },
+        {
+          "rank": 9,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 181605,
+          "forks": 33604
+        },
+        {
+          "rank": 10,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 83026,
+          "forks": 32443
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 83663,
+          "forks": 8489
+        },
+        {
+          "rank": 2,
+          "name": "elie222/inbox-zero",
+          "url": "https://github.com/elie222/inbox-zero",
+          "description": "Open source email app to reach inbox zero fast.",
+          "language": "TypeScript",
+          "stars": 4800,
+          "forks": 527
+        },
+        {
+          "rank": 3,
+          "name": "alibaba/higress",
+          "url": "https://github.com/alibaba/higress",
+          "description": "🤖 AI Gateway | AI Native API Gateway",
+          "language": "Go",
+          "stars": 4565,
+          "forks": 611
+        },
+        {
+          "rank": 4,
+          "name": "browser-use/web-ui",
+          "url": "https://github.com/browser-use/web-ui",
+          "description": "Run AI Agent in your browser.",
+          "language": "Python",
+          "stars": 10781,
+          "forks": 1776
+        },
+        {
+          "rank": 5,
+          "name": "chiphuyen/aie-book",
+          "url": "https://github.com/chiphuyen/aie-book",
+          "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering ...",
+          "language": "Jupyter Notebook",
+          "stars": 3435,
+          "forks": 419
+        },
+        {
+          "rank": 6,
+          "name": "fleetdm/fleet",
+          "url": "https://github.com/fleetdm/fleet",
+          "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, ...",
+          "language": "Go",
+          "stars": 4015,
+          "forks": 514
+        },
+        {
+          "rank": 7,
+          "name": "symfony/symfony",
+          "url": "https://github.com/symfony/symfony",
+          "description": "The Symfony PHP framework",
+          "language": "PHP",
+          "stars": 30224,
+          "forks": 9596
+        },
+        {
+          "rank": 8,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 36845,
+          "forks": 1548
+        },
+        {
+          "rank": 9,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 52765,
+          "forks": 5586
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 189017,
+          "forks": 74627
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "browser-use/web-ui",
+          "url": "https://github.com/browser-use/web-ui",
+          "description": "Run AI Agent in your browser.",
+          "language": "Python",
+          "stars": 10781,
+          "forks": 1776
+        },
+        {
+          "rank": 2,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 52765,
+          "forks": 5586
+        },
+        {
+          "rank": 3,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 36861,
+          "forks": 3248
+        },
+        {
+          "rank": 4,
+          "name": "coleam00/ottomator-agents",
+          "url": "https://github.com/coleam00/ottomator-agents",
+          "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+          "language": "Python",
+          "stars": 1359,
+          "forks": 677
+        },
+        {
+          "rank": 5,
+          "name": "wagtail/wagtail",
+          "url": "https://github.com/wagtail/wagtail",
+          "description": "A Django content management system focused on flexibility and user experience",
+          "language": "Python",
+          "stars": 19003,
+          "forks": 4045
+        },
+        {
+          "rank": 6,
+          "name": "huggingface/lerobot",
+          "url": "https://github.com/huggingface/lerobot",
+          "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+          "language": "Python",
+          "stars": 11675,
+          "forks": 1278
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empow...",
+          "language": "Python",
+          "stars": 18248,
+          "forks": 3041
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/anthropic-sdk-python",
+          "url": "https://github.com/anthropics/anthropic-sdk-python",
+          "description": "",
+          "language": "Python",
+          "stars": 1832,
+          "forks": 245
+        },
+        {
+          "rank": 9,
+          "name": "mesonbuild/meson",
+          "url": "https://github.com/mesonbuild/meson",
+          "description": "The Meson Build System",
+          "language": "Python",
+          "stars": 5947,
+          "forks": 1708
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/autogen",
+          "url": "https://github.com/microsoft/autogen",
+          "description": "A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-...",
+          "language": "Python",
+          "stars": 42662,
+          "forks": 6389
+        }
+      ]
+    }
+  ]
+}

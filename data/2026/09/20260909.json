@@ -1,0 +1,391 @@
+{
+  "date": "20260909",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 389286,
+          "forks": 81808
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 254884,
+          "forks": 38182
+        },
+        {
+          "rank": 3,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195198,
+          "forks": 108623
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 175383,
+          "forks": 20763
+        },
+        {
+          "rank": 5,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 151225,
+          "forks": 24338
+        },
+        {
+          "rank": 6,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 126334,
+          "forks": 13498
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 95473,
+          "forks": 13410
+        },
+        {
+          "rank": 8,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 93167,
+          "forks": 9920
+        },
+        {
+          "rank": 9,
+          "name": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 87052,
+          "forks": 828
+        },
+        {
+          "rank": 10,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "JavaScript",
+          "stars": 85691,
+          "forks": 5857
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19628
+        },
+        {
+          "rank": 2,
+          "name": "udacity/course-collaboration-travel-plans",
+          "url": "https://github.com/udacity/course-collaboration-travel-plans",
+          "description": "No description",
+          "language": "CSS",
+          "stars": 1187,
+          "forks": 17400
+        },
+        {
+          "rank": 3,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 14,
+          "forks": 13908
+        },
+        {
+          "rank": 4,
+          "name": "MithunTechnologiesDevOps/Maven-Web-Application",
+          "url": "https://github.com/MithunTechnologiesDevOps/Maven-Web-Application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 124,
+          "forks": 13302
+        },
+        {
+          "rank": 5,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9757
+        },
+        {
+          "rank": 6,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 216,
+          "forks": 9682
+        },
+        {
+          "rank": 7,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8910
+        },
+        {
+          "rank": 8,
+          "name": "javahometech/my-app",
+          "url": "https://github.com/javahometech/my-app",
+          "description": "No description",
+          "language": "Java",
+          "stars": 89,
+          "forks": 8703
+        },
+        {
+          "rank": 9,
+          "name": "Cursos-TI/template_desafio-do-cadastro-das-cartas-SuperTrunfo",
+          "url": "https://github.com/Cursos-TI/template_desafio-do-cadastro-das-cartas-SuperTrunfo",
+          "description": "introducao-a-programacao-de-computadores-desafio-do-cadastro-das-cartas-no-super-trunfo-CartasSup...",
+          "language": "C",
+          "stars": 10,
+          "forks": 8604
+        },
+        {
+          "rank": 10,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 14,
+          "forks": 6874
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 33477,
+          "forks": 1978
+        },
+        {
+          "rank": 2,
+          "name": "Tencent/teamai-cli",
+          "url": "https://github.com/Tencent/teamai-cli",
+          "description": "Make Every Team AI Native",
+          "language": "TypeScript",
+          "stars": 2789,
+          "forks": 176
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 283836,
+          "forks": 25401
+        },
+        {
+          "rank": 4,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars": 22763,
+          "forks": 2888
+        },
+        {
+          "rank": 5,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "A library of agent skills for CAD, CAE and CAM",
+          "language": "Python",
+          "stars": 14915,
+          "forks": 1559
+        },
+        {
+          "rank": 6,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows....",
+          "language": "HTML",
+          "stars": 36234,
+          "forks": 2281
+        },
+        {
+          "rank": 7,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 103697,
+          "forks": 19947
+        },
+        {
+          "rank": 8,
+          "name": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+          "language": "N/A",
+          "stars": 17715,
+          "forks": 3369
+        },
+        {
+          "rank": 9,
+          "name": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "description": "OpenAI Plugins",
+          "language": "JavaScript",
+          "stars": 6099,
+          "forks": 816
+        },
+        {
+          "rank": 10,
+          "name": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "language": "JavaScript",
+          "stars": 29832,
+          "forks": 2875
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 33477,
+          "forks": 1978
+        },
+        {
+          "rank": 2,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "A library of agent skills for CAD, CAE and CAM",
+          "language": "Python",
+          "stars": 14915,
+          "forks": 1559
+        },
+        {
+          "rank": 3,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 103697,
+          "forks": 19947
+        },
+        {
+          "rank": 4,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 53468,
+          "forks": 9357
+        },
+        {
+          "rank": 5,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 477977,
+          "forks": 52769
+        },
+        {
+          "rank": 6,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal...",
+          "language": "Python",
+          "stars": 54157,
+          "forks": 8674
+        },
+        {
+          "rank": 7,
+          "name": "experientiallabs/experiential",
+          "url": "https://github.com/experientiallabs/experiential",
+          "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace ...",
+          "language": "Python",
+          "stars": 3602,
+          "forks": 152
+        },
+        {
+          "rank": 8,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 21976,
+          "forks": 3548
+        },
+        {
+          "rank": 9,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 26747,
+          "forks": 1794
+        },
+        {
+          "rank": 10,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Agents that use the browser.",
+          "language": "Python",
+          "stars": 113913,
+          "forks": 12514
+        }
+      ]
+    }
+  ]
+}

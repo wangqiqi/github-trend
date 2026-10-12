@@ -1,0 +1,391 @@
+{
+  "date": "20250701",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97933,
+          "forks": 15936
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90328,
+          "forks": 11656
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 64445,
+          "forks": 7353
+        },
+        {
+          "rank": 4,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 63662,
+          "forks": 18626
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 59699,
+          "forks": 3114
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 58874,
+          "forks": 4540
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "Python",
+          "stars": 57021,
+          "forks": 6587
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 47458,
+          "forks": 8278
+        },
+        {
+          "rank": 9,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 47413,
+          "forks": 3882
+        },
+        {
+          "rank": 10,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 46759,
+          "forks": 5967
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6613,
+          "forks": 243632
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13081,
+          "forks": 151966
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 856,
+          "forks": 143984
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49130,
+          "forks": 87731
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28580,
+          "forks": 86884
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 167611,
+          "forks": 83038
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1871,
+          "forks": 81052
+        },
+        {
+          "rank": 8,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 321683,
+          "forks": 79423
+        },
+        {
+          "rank": 9,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172464,
+          "forks": 79127
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190530,
+          "forks": 74733
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-f...",
+          "language": "Jupyter Notebook",
+          "stars": 87367,
+          "forks": 45762
+        },
+        {
+          "rank": 2,
+          "name": "GraphiteEditor/Graphite",
+          "url": "https://github.com/GraphiteEditor/Graphite",
+          "description": "An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic desig...",
+          "language": "Rust",
+          "stars": 16881,
+          "forks": 734
+        },
+        {
+          "rank": 3,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 8665,
+          "forks": 747
+        },
+        {
+          "rank": 4,
+          "name": "octra-labs/wallet-gen",
+          "url": "https://github.com/octra-labs/wallet-gen",
+          "description": "",
+          "language": "HTML",
+          "stars": 431,
+          "forks": 8407
+        },
+        {
+          "rank": 5,
+          "name": "ColorlibHQ/AdminLTE",
+          "url": "https://github.com/ColorlibHQ/AdminLTE",
+          "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+          "language": "CSS",
+          "stars": 44697,
+          "forks": 18223
+        },
+        {
+          "rank": 6,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "Building a modern alternative to Salesforce, powered by the community.",
+          "language": "TypeScript",
+          "stars": 32482,
+          "forks": 3601
+        },
+        {
+          "rank": 7,
+          "name": "actualbudget/actual",
+          "url": "https://github.com/actualbudget/actual",
+          "description": "A local-first personal finance app",
+          "language": "TypeScript",
+          "stars": 19742,
+          "forks": 1590
+        },
+        {
+          "rank": 8,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 24167,
+          "forks": 6610
+        },
+        {
+          "rank": 9,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 66872,
+          "forks": 15530
+        },
+        {
+          "rank": 10,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars": 42423,
+          "forks": 9452
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 8665,
+          "forks": 747
+        },
+        {
+          "rank": 2,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 24167,
+          "forks": 6610
+        },
+        {
+          "rank": 3,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 66872,
+          "forks": 15530
+        },
+        {
+          "rank": 4,
+          "name": "snailyp/gemini-balance",
+          "url": "https://github.com/snailyp/gemini-balance",
+          "description": "Gemini polling proxy service （gemini轮询代理服务）",
+          "language": "Python",
+          "stars": 2067,
+          "forks": 356
+        },
+        {
+          "rank": 5,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 37536,
+          "forks": 6546
+        },
+        {
+          "rank": 6,
+          "name": "fatihak/InkyPi",
+          "url": "https://github.com/fatihak/InkyPi",
+          "description": "E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with va...",
+          "language": "Python",
+          "stars": 1666,
+          "forks": 173
+        },
+        {
+          "rank": 7,
+          "name": "stanford-oval/storm",
+          "url": "https://github.com/stanford-oval/storm",
+          "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length repo...",
+          "language": "Python",
+          "stars": 25752,
+          "forks": 2317
+        },
+        {
+          "rank": 8,
+          "name": "predibase/lorax",
+          "url": "https://github.com/predibase/lorax",
+          "description": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+          "language": "Python",
+          "stars": 3214,
+          "forks": 241
+        },
+        {
+          "rank": 9,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 25319,
+          "forks": 2183
+        },
+        {
+          "rank": 10,
+          "name": "wyeeeee/hajimi",
+          "url": "https://github.com/wyeeeee/hajimi",
+          "description": "这是一个基于 FastAPI 构建的 Gemini API 代理",
+          "language": "Python",
+          "stars": 1109,
+          "forks": 3519
+        }
+      ]
+    }
+  ]
+}

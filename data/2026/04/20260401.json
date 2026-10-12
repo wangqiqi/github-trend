@@ -1,0 +1,373 @@
+{
+  "date": "20260401",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 344083,
+          "forks": 68185
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 129670,
+          "forks": 18286
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 108162,
+          "forks": 12033
+        },
+        {
+          "rank": 4,
+          "name": "instructkr/claw-code",
+          "url": "https://github.com/instructkr/claw-code",
+          "description": "The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after ...",
+          "language": "Rust",
+          "stars": 100195,
+          "forks": 91955
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 99836,
+          "forks": 12807
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 84322,
+          "forks": 7211
+        },
+        {
+          "rank": 7,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 71076,
+          "forks": 9919
+        },
+        {
+          "rank": 8,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 67928,
+          "forks": 10288
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 63155,
+          "forks": 8864
+        },
+        {
+          "rank": 10,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 60364,
+          "forks": 7936
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 53258,
+          "forks": 100536
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29473,
+          "forks": 87484
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 339998,
+          "forks": 81813
+        },
+        {
+          "rank": 4,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8533,
+          "forks": 60331
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 86875,
+          "forks": 56537
+        },
+        {
+          "rank": 6,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 183022,
+          "forks": 46221
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1602,
+          "forks": 45890
+        },
+        {
+          "rank": 8,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77679,
+          "forks": 45182
+        },
+        {
+          "rank": 9,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 440359,
+          "forks": 43947
+        },
+        {
+          "rank": 10,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 121428,
+          "forks": 42760
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 96881,
+          "forks": 14499
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 33936,
+          "forks": 3850
+        },
+        {
+          "rank": 3,
+          "name": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "practice made claude perfect",
+          "language": "HTML",
+          "stars": 29902,
+          "forks": 2584
+        },
+        {
+          "rank": 4,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 11647,
+          "forks": 957
+        },
+        {
+          "rank": 5,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy...",
+          "language": "Python",
+          "stars": 14775,
+          "forks": 1685
+        },
+        {
+          "rank": 6,
+          "name": "axios/axios",
+          "url": "https://github.com/axios/axios",
+          "description": "Promise based HTTP client for the browser and node.js",
+          "language": "JavaScript",
+          "stars": 108775,
+          "forks": 11578
+        },
+        {
+          "rank": 7,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 71076,
+          "forks": 9919
+        },
+        {
+          "rank": 8,
+          "name": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and...",
+          "language": "HTML",
+          "stars": 155605,
+          "forks": 20437
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 33936,
+          "forks": 3850
+        },
+        {
+          "rank": 2,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 11647,
+          "forks": 957
+        },
+        {
+          "rank": 3,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy...",
+          "language": "Python",
+          "stars": 14775,
+          "forks": 1685
+        },
+        {
+          "rank": 4,
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR tool...",
+          "language": "Python",
+          "stars": 74558,
+          "forks": 10144
+        },
+        {
+          "rank": 5,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 21104,
+          "forks": 2587
+        },
+        {
+          "rank": 6,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 75955,
+          "forks": 8922
+        },
+        {
+          "rank": 7,
+          "name": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation,...",
+          "language": "Python",
+          "stars": 2308,
+          "forks": 325
+        },
+        {
+          "rank": 8,
+          "name": "allenai/OLMo-core",
+          "url": "https://github.com/allenai/OLMo-core",
+          "description": "PyTorch building blocks for the OLMo ecosystem",
+          "language": "Python",
+          "stars": 1079,
+          "forks": 213
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 50446,
+          "forks": 22867
+        },
+        {
+          "rank": 10,
+          "name": "OpenBMB/ChatDev",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "language": "Python",
+          "stars": 32543,
+          "forks": 4010
+        }
+      ]
+    }
+  ]
+}

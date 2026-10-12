@@ -1,0 +1,391 @@
+{
+  "date": "20260305",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 116342,
+          "forks": 11815
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 71337,
+          "forks": 5498
+        },
+        {
+          "rank": 3,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+          "language": "HTML",
+          "stars": 33767,
+          "forks": 5391
+        },
+        {
+          "rank": 4,
+          "name": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "description": "Spec-driven development (SDD) for AI coding assistants.",
+          "language": "TypeScript",
+          "stars": 27777,
+          "forks": 1828
+        },
+        {
+          "rank": 5,
+          "name": "zama-ai/fhevm",
+          "url": "https://github.com/zama-ai/fhevm",
+          "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain ...",
+          "language": "Rust",
+          "stars": 25721,
+          "forks": 2239
+        },
+        {
+          "rank": 6,
+          "name": "firecrawl/open-lovable",
+          "url": "https://github.com/firecrawl/open-lovable",
+          "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+          "language": "TypeScript",
+          "stars": 24370,
+          "forks": 4742
+        },
+        {
+          "rank": 7,
+          "name": "zai-org/Open-AutoGLM",
+          "url": "https://github.com/zai-org/Open-AutoGLM",
+          "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+          "language": "Python",
+          "stars": 24012,
+          "forks": 3800
+        },
+        {
+          "rank": 8,
+          "name": "a2aproject/A2A",
+          "url": "https://github.com/a2aproject/A2A",
+          "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque ...",
+          "language": "Shell",
+          "stars": 22282,
+          "forks": 2274
+        },
+        {
+          "rank": 9,
+          "name": "OpenListTeam/OpenList",
+          "url": "https://github.com/OpenListTeam/OpenList",
+          "description": "A new AList Fork to Anti Trust Crisis",
+          "language": "Go",
+          "stars": 21146,
+          "forks": 1781
+        },
+        {
+          "rank": 10,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars": 19338,
+          "forks": 3210
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1149,
+          "forks": 42230
+        },
+        {
+          "rank": 2,
+          "name": "mdn/learning-area",
+          "url": "https://github.com/mdn/learning-area",
+          "description": "GitHub repo for the MDN Learning Area.",
+          "language": "HTML",
+          "stars": 7539,
+          "forks": 27405
+        },
+        {
+          "rank": 3,
+          "name": "udacity/course-collaboration-travel-plans",
+          "url": "https://github.com/udacity/course-collaboration-travel-plans",
+          "description": "No description",
+          "language": "CSS",
+          "stars": 1182,
+          "forks": 17480
+        },
+        {
+          "rank": 4,
+          "name": "zero-to-mastery/start-here-guidelines",
+          "url": "https://github.com/zero-to-mastery/start-here-guidelines",
+          "description": "Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playgro...",
+          "language": "Python",
+          "stars": 2828,
+          "forks": 17459
+        },
+        {
+          "rank": 5,
+          "name": "github/explore",
+          "url": "https://github.com/github/explore",
+          "description": "Community-curated topic and collection pages on GitHub",
+          "language": "Ruby",
+          "stars": 4689,
+          "forks": 14023
+        },
+        {
+          "rank": 6,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 1,
+          "forks": 13900
+        },
+        {
+          "rank": 7,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 136,
+          "forks": 13871
+        },
+        {
+          "rank": 8,
+          "name": "Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "url": "https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "description": "cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo created by GitHub Classroom",
+          "language": "C",
+          "stars": 24,
+          "forks": 13613
+        },
+        {
+          "rank": 9,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 216,
+          "forks": 9792
+        },
+        {
+          "rank": 10,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9786
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "N/A",
+          "stars": 6139,
+          "forks": 1000
+        },
+        {
+          "rank": 2,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 1296,
+          "forks": 286
+        },
+        {
+          "rank": 3,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) ...",
+          "language": "TypeScript",
+          "stars": 31436,
+          "forks": 3139
+        },
+        {
+          "rank": 4,
+          "name": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...",
+          "language": "Go",
+          "stars": 32785,
+          "forks": 62
+        },
+        {
+          "rank": 5,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "TypeScript",
+          "stars": 26401,
+          "forks": 2466
+        },
+        {
+          "rank": 6,
+          "name": "inclusionAI/AReaL",
+          "url": "https://github.com/inclusionAI/AReaL",
+          "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+          "language": "Python",
+          "stars": 3948,
+          "forks": 335
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/mcp-for-beginners",
+          "url": "https://github.com/microsoft/mcp-for-beginners",
+          "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through r...",
+          "language": "Jupyter Notebook",
+          "stars": 14704,
+          "forks": 4834
+        },
+        {
+          "rank": 8,
+          "name": "CodebuffAI/codebuff",
+          "url": "https://github.com/CodebuffAI/codebuff",
+          "description": "Generate code from the terminal!",
+          "language": "TypeScript",
+          "stars": 3728,
+          "forks": 447
+        },
+        {
+          "rank": 9,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 14491,
+          "forks": 1456
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/hve-core",
+          "url": "https://github.com/microsoft/hve-core",
+          "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to s...",
+          "language": "PowerShell",
+          "stars": 174,
+          "forks": 66
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 1296,
+          "forks": 286
+        },
+        {
+          "rank": 2,
+          "name": "inclusionAI/AReaL",
+          "url": "https://github.com/inclusionAI/AReaL",
+          "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+          "language": "Python",
+          "stars": 3948,
+          "forks": 335
+        },
+        {
+          "rank": 3,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 14491,
+          "forks": 1456
+        },
+        {
+          "rank": 4,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 404397,
+          "forks": 43636
+        },
+        {
+          "rank": 5,
+          "name": "Jeffallan/claude-skills",
+          "url": "https://github.com/Jeffallan/claude-skills",
+          "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair prog...",
+          "language": "Python",
+          "stars": 4918,
+          "forks": 311
+        },
+        {
+          "rank": 6,
+          "name": "Aider-AI/aider",
+          "url": "https://github.com/Aider-AI/aider",
+          "description": "aider is AI pair programming in your terminal",
+          "language": "Python",
+          "stars": 41490,
+          "forks": 3964
+        },
+        {
+          "rank": 7,
+          "name": "streamlit/streamlit",
+          "url": "https://github.com/streamlit/streamlit",
+          "description": "Streamlit — A faster way to build and share data apps.",
+          "language": "Python",
+          "stars": 43745,
+          "forks": 4109
+        },
+        {
+          "rank": 8,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 40944,
+          "forks": 4073
+        },
+        {
+          "rank": 9,
+          "name": "khoj-ai/khoj",
+          "url": "https://github.com/khoj-ai/khoj",
+          "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, ...",
+          "language": "Python",
+          "stars": 33103,
+          "forks": 2032
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 9048,
+          "forks": 895
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260519",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 197917,
+          "forks": 17658
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 191982,
+          "forks": 109953
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 187014,
+          "forks": 28956
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 157571,
+          "forks": 25431
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 137501,
+          "forks": 16224
+        },
+        {
+          "rank": 6,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 137323,
+          "forks": 14079
+        },
+        {
+          "rank": 7,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 102792,
+          "forks": 9032
+        },
+        {
+          "rank": 8,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 81226,
+          "forks": 9803
+        },
+        {
+          "rank": 9,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 80467,
+          "forks": 8286
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "TypeScript",
+          "stars": 76759,
+          "forks": 6597
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 191982,
+          "forks": 109953
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29552,
+          "forks": 87367
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 347060,
+          "forks": 82937
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 174005,
+          "forks": 82511
+        },
+        {
+          "rank": 5,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174257,
+          "forks": 78889
+        },
+        {
+          "rank": 6,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195173,
+          "forks": 75311
+        },
+        {
+          "rank": 7,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2754,
+          "forks": 73135
+        },
+        {
+          "rank": 8,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19511,
+          "forks": 67101
+        },
+        {
+          "rank": 9,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 388554,
+          "forks": 66310
+        },
+        {
+          "rank": 10,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8562,
+          "forks": 60246
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars": 19957,
+          "forks": 1757
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 37427,
+          "forks": 3589
+        },
+        {
+          "rank": 3,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars": 13710,
+          "forks": 1300
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 197917,
+          "forks": 17658
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 19917,
+          "forks": 2495
+        },
+        {
+          "rank": 6,
+          "name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "language": "TypeScript",
+          "stars": 13755,
+          "forks": 1156
+        },
+        {
+          "rank": 7,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source...",
+          "language": "Python",
+          "stars": 16140,
+          "forks": 1252
+        },
+        {
+          "rank": 8,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 50503,
+          "forks": 3083
+        },
+        {
+          "rank": 9,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 100931,
+          "forks": 16717
+        },
+        {
+          "rank": 10,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, few...",
+          "language": "TypeScript",
+          "stars": 5954,
+          "forks": 404
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 37427,
+          "forks": 3589
+        },
+        {
+          "rank": 2,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars": 13710,
+          "forks": 1300
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 19917,
+          "forks": 2495
+        },
+        {
+          "rank": 4,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source...",
+          "language": "Python",
+          "stars": 16140,
+          "forks": 1252
+        },
+        {
+          "rank": 5,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice suppor...",
+          "language": "Python",
+          "stars": 26036,
+          "forks": 3887
+        },
+        {
+          "rank": 6,
+          "name": "frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext",
+          "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+          "language": "Python",
+          "stars": 34106,
+          "forks": 11302
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/ViMax",
+          "url": "https://github.com/HKUDS/ViMax",
+          "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+          "language": "Python",
+          "stars": 5180,
+          "forks": 902
+        },
+        {
+          "rank": 8,
+          "name": "NVlabs/Sana",
+          "url": "https://github.com/NVlabs/Sana",
+          "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+          "language": "Python",
+          "stars": 6921,
+          "forks": 495
+        },
+        {
+          "rank": 9,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, ...",
+          "language": "Python",
+          "stars": 64669,
+          "forks": 5715
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 137501,
+          "forks": 16224
+        }
+      ]
+    }
+  ]
+}

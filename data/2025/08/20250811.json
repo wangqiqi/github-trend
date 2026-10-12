@@ -1,0 +1,391 @@
+{
+  "date": "20250811",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98585,
+          "forks": 16058
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90835,
+          "forks": 11720
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 74810,
+          "forks": 21059
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 68637,
+          "forks": 6810
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 67343,
+          "forks": 7779
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 65610,
+          "forks": 5253
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 63781,
+          "forks": 7415
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 48894,
+          "forks": 8569
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39223,
+          "forks": 6896
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36797,
+          "forks": 409
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13158,
+          "forks": 152608
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 863,
+          "forks": 144022
+        },
+        {
+          "rank": 3,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49839,
+          "forks": 89586
+        },
+        {
+          "rank": 4,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28767,
+          "forks": 87136
+        },
+        {
+          "rank": 5,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2401,
+          "forks": 83104
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168567,
+          "forks": 83029
+        },
+        {
+          "rank": 7,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 324110,
+          "forks": 79837
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172823,
+          "forks": 79121
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191133,
+          "forks": 74761
+        },
+        {
+          "rank": 10,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 364841,
+          "forks": 63887
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nomic-ai/gpt4all",
+          "url": "https://github.com/nomic-ai/gpt4all",
+          "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+          "language": "C++",
+          "stars": 74538,
+          "forks": 8110
+        },
+        {
+          "rank": 2,
+          "name": "tadata-org/fastapi_mcp",
+          "url": "https://github.com/tadata-org/fastapi_mcp",
+          "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+          "language": "Python",
+          "stars": 7296,
+          "forks": 600
+        },
+        {
+          "rank": 3,
+          "name": "trailofbits/buttercup",
+          "url": "https://github.com/trailofbits/buttercup",
+          "description": "",
+          "language": "Python",
+          "stars": 421,
+          "forks": 51
+        },
+        {
+          "rank": 4,
+          "name": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "language": "Jupyter Notebook",
+          "stars": 16363,
+          "forks": 2792
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 34169,
+          "forks": 3913
+        },
+        {
+          "rank": 6,
+          "name": "menloresearch/jan",
+          "url": "https://github.com/menloresearch/jan",
+          "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+          "language": "TypeScript",
+          "stars": 36077,
+          "forks": 2109
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-f...",
+          "language": "Jupyter Notebook",
+          "stars": 94474,
+          "forks": 49200
+        },
+        {
+          "rank": 8,
+          "name": "midday-ai/midday",
+          "url": "https://github.com/midday-ai/midday",
+          "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant m...",
+          "language": "TypeScript",
+          "stars": 9725,
+          "forks": 912
+        },
+        {
+          "rank": 9,
+          "name": "xiaoyaocz/dart_simple_live",
+          "url": "https://github.com/xiaoyaocz/dart_simple_live",
+          "description": "简简单单的看直播",
+          "language": "Dart",
+          "stars": 12243,
+          "forks": 916
+        },
+        {
+          "rank": 10,
+          "name": "fastapi/full-stack-fastapi-template",
+          "url": "https://github.com/fastapi/full-stack-fastapi-template",
+          "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, ...",
+          "language": "TypeScript",
+          "stars": 35746,
+          "forks": 6829
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tadata-org/fastapi_mcp",
+          "url": "https://github.com/tadata-org/fastapi_mcp",
+          "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+          "language": "Python",
+          "stars": 7296,
+          "forks": 600
+        },
+        {
+          "rank": 2,
+          "name": "trailofbits/buttercup",
+          "url": "https://github.com/trailofbits/buttercup",
+          "description": "",
+          "language": "Python",
+          "stars": 421,
+          "forks": 51
+        },
+        {
+          "rank": 3,
+          "name": "denizsafak/abogen",
+          "url": "https://github.com/denizsafak/abogen",
+          "description": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
+          "language": "Python",
+          "stars": 1915,
+          "forks": 96
+        },
+        {
+          "rank": 4,
+          "name": "instaloader/instaloader",
+          "url": "https://github.com/instaloader/instaloader",
+          "description": "Download pictures (or videos) along with their captions and other metadata from Instagram.",
+          "language": "Python",
+          "stars": 10380,
+          "forks": 1353
+        },
+        {
+          "rank": 5,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "Python",
+          "stars": 3210,
+          "forks": 320
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 315218,
+          "forks": 51719
+        },
+        {
+          "rank": 7,
+          "name": "omkarcloud/botasaurus",
+          "url": "https://github.com/omkarcloud/botasaurus",
+          "description": "The All in One Framework to Build Undefeatable Scrapers",
+          "language": "Python",
+          "stars": 2612,
+          "forks": 228
+        },
+        {
+          "rank": 8,
+          "name": "getzep/graphiti",
+          "url": "https://github.com/getzep/graphiti",
+          "description": "Build Real-Time Knowledge Graphs for AI Agents",
+          "language": "Python",
+          "stars": 16518,
+          "forks": 1429
+        },
+        {
+          "rank": 9,
+          "name": "mindverse/Second-Me",
+          "url": "https://github.com/mindverse/Second-Me",
+          "description": "Train your AI self, amplify you, bridge the world",
+          "language": "Python",
+          "stars": 13910,
+          "forks": 1031
+        },
+        {
+          "rank": 10,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 122014,
+          "forks": 9702
+        }
+      ]
+    }
+  ]
+}

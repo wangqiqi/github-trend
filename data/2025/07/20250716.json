@@ -1,0 +1,199 @@
+{
+  "date": "20250716",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 64098,
+          "forks": 3412
+        },
+        {
+          "rank": 2,
+          "name": "PromtEngineer/localGPT",
+          "url": "https://github.com/PromtEngineer/localGPT",
+          "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 10...",
+          "language": "Python",
+          "stars": 20901,
+          "forks": 2322
+        },
+        {
+          "rank": 3,
+          "name": "maotoumao/MusicFree",
+          "url": "https://github.com/maotoumao/MusicFree",
+          "description": "插件化、定制化、无广告的免费音乐播放器",
+          "language": "TypeScript",
+          "stars": 18094,
+          "forks": 1146
+        },
+        {
+          "rank": 4,
+          "name": "frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext",
+          "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+          "language": "Python",
+          "stars": 26709,
+          "forks": 8797
+        },
+        {
+          "rank": 5,
+          "name": "arc53/DocsGPT",
+          "url": "https://github.com/arc53/DocsGPT",
+          "description": "DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source,...",
+          "language": "TypeScript",
+          "stars": 15950,
+          "forks": 1691
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "PowerShell",
+          "stars": 23520,
+          "forks": 1276
+        },
+        {
+          "rank": 7,
+          "name": "OpenPipe/ART",
+          "url": "https://github.com/OpenPipe/ART",
+          "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your a...",
+          "language": "Python",
+          "stars": 2474,
+          "forks": 152
+        },
+        {
+          "rank": 8,
+          "name": "aws/amazon-q-developer-cli",
+          "url": "https://github.com/aws/amazon-q-developer-cli",
+          "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+          "language": "Rust",
+          "stars": 1075,
+          "forks": 192
+        },
+        {
+          "rank": 9,
+          "name": "vpnhood/VpnHood",
+          "url": "https://github.com/vpnhood/VpnHood",
+          "description": "Undetectable Fast Portable VPN",
+          "language": "C#",
+          "stars": 1339,
+          "forks": 181
+        },
+        {
+          "rank": 10,
+          "name": "lastmile-ai/mcp-agent",
+          "url": "https://github.com/lastmile-ai/mcp-agent",
+          "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+          "language": "Python",
+          "stars": 6327,
+          "forks": 623
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 64098,
+          "forks": 3412
+        },
+        {
+          "rank": 2,
+          "name": "PromtEngineer/localGPT",
+          "url": "https://github.com/PromtEngineer/localGPT",
+          "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 10...",
+          "language": "Python",
+          "stars": 20901,
+          "forks": 2322
+        },
+        {
+          "rank": 3,
+          "name": "frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext",
+          "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+          "language": "Python",
+          "stars": 26709,
+          "forks": 8797
+        },
+        {
+          "rank": 4,
+          "name": "OpenPipe/ART",
+          "url": "https://github.com/OpenPipe/ART",
+          "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your a...",
+          "language": "Python",
+          "stars": 2474,
+          "forks": 152
+        },
+        {
+          "rank": 5,
+          "name": "lastmile-ai/mcp-agent",
+          "url": "https://github.com/lastmile-ai/mcp-agent",
+          "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+          "language": "Python",
+          "stars": 6327,
+          "forks": 623
+        },
+        {
+          "rank": 6,
+          "name": "vanna-ai/vanna",
+          "url": "https://github.com/vanna-ai/vanna",
+          "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+          "language": "Python",
+          "stars": 18803,
+          "forks": 1729
+        },
+        {
+          "rank": 7,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 42888,
+          "forks": 3848
+        },
+        {
+          "rank": 8,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated...",
+          "language": "Python",
+          "stars": 34486,
+          "forks": 5565
+        },
+        {
+          "rank": 9,
+          "name": "getzep/graphiti",
+          "url": "https://github.com/getzep/graphiti",
+          "description": "Build Real-Time Knowledge Graphs for AI Agents",
+          "language": "Python",
+          "stars": 13810,
+          "forks": 1159
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Resear...",
+          "language": "Python",
+          "stars": 27140,
+          "forks": 4151
+        }
+      ]
+    }
+  ]
+}

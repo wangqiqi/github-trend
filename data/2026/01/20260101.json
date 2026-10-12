@@ -1,0 +1,391 @@
+{
+  "date": "20260101",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 104575,
+          "forks": 27712
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91622,
+          "forks": 11777
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 89335,
+          "forks": 10293
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 58928,
+          "forks": 5145
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 55023,
+          "forks": 7022
+        },
+        {
+          "rank": 6,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51784,
+          "forks": 9059
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 50234,
+          "forks": 3564
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48869,
+          "forks": 5735
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44726,
+          "forks": 4419
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），...",
+          "language": "Python",
+          "stars": 41860,
+          "forks": 21145
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 193136,
+          "forks": 75156
+        },
+        {
+          "rank": 2,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18616,
+          "forks": 65296
+        },
+        {
+          "rank": 3,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 212294,
+          "forks": 59685
+        },
+        {
+          "rank": 4,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 330946,
+          "forks": 53872
+        },
+        {
+          "rank": 5,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 241961,
+          "forks": 50243
+        },
+        {
+          "rank": 6,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 216352,
+          "forks": 49845
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77691,
+          "forks": 45349
+        },
+        {
+          "rank": 8,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1144,
+          "forks": 42175
+        },
+        {
+          "rank": 9,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1162,
+          "forks": 33890
+        },
+        {
+          "rank": 10,
+          "name": "trekhleb/javascript-algorithms",
+          "url": "https://github.com/trekhleb/javascript-algorithms",
+          "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further...",
+          "language": "JavaScript",
+          "stars": 195245,
+          "forks": 31098
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "awslabs/amazon-bedrock-agentcore-samples",
+          "url": "https://github.com/awslabs/amazon-bedrock-agentcore-samples",
+          "description": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and s...",
+          "language": "Jupyter Notebook",
+          "stars": 1900,
+          "forks": 716
+        },
+        {
+          "rank": 2,
+          "name": "BloopAI/vibe-kanban",
+          "url": "https://github.com/BloopAI/vibe-kanban",
+          "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+          "language": "Rust",
+          "stars": 10408,
+          "forks": 938
+        },
+        {
+          "rank": 3,
+          "name": "usememos/memos",
+          "url": "https://github.com/usememos/memos",
+          "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no trac...",
+          "language": "Go",
+          "stars": 47762,
+          "forks": 3445
+        },
+        {
+          "rank": 4,
+          "name": "organicmaps/organicmaps",
+          "url": "https://github.com/organicmaps/organicmaps",
+          "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cycl...",
+          "language": "C++",
+          "stars": 12674,
+          "forks": 1268
+        },
+        {
+          "rank": 5,
+          "name": "afkarxyz/SpotiFLAC",
+          "url": "https://github.com/afkarxyz/SpotiFLAC",
+          "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
+          "language": "TypeScript",
+          "stars": 1724,
+          "forks": 98
+        },
+        {
+          "rank": 6,
+          "name": "HQarroum/docker-android",
+          "url": "https://github.com/HQarroum/docker-android",
+          "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+          "language": "Shell",
+          "stars": 950,
+          "forks": 65
+        },
+        {
+          "rank": 7,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Introduction to Machine Learning Systems",
+          "language": "JavaScript",
+          "stars": 14184,
+          "forks": 1612
+        },
+        {
+          "rank": 8,
+          "name": "Polymarket/agents",
+          "url": "https://github.com/Polymarket/agents",
+          "description": "Trade autonomously on Polymarket using AI Agents",
+          "language": "Python",
+          "stars": 1281,
+          "forks": 352
+        },
+        {
+          "rank": 9,
+          "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+          "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+          "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+          "language": "Jupyter Notebook",
+          "stars": 19272,
+          "forks": 4592
+        },
+        {
+          "rank": 10,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 7591,
+          "forks": 699
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Polymarket/agents",
+          "url": "https://github.com/Polymarket/agents",
+          "description": "Trade autonomously on Polymarket using AI Agents",
+          "language": "Python",
+          "stars": 1281,
+          "forks": 352
+        },
+        {
+          "rank": 2,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 7591,
+          "forks": 699
+        },
+        {
+          "rank": 3,
+          "name": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "description": "A powerful framework for building realtime voice AI agents 🤖🎙️📹",
+          "language": "Python",
+          "stars": 8667,
+          "forks": 2308
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 31184,
+          "forks": 2833
+        },
+        {
+          "rank": 5,
+          "name": "alexta69/metube",
+          "url": "https://github.com/alexta69/metube",
+          "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+          "language": "Python",
+          "stars": 11724,
+          "forks": 793
+        },
+        {
+          "rank": 6,
+          "name": "emcie-co/parlant",
+          "url": "https://github.com/emcie-co/parlant",
+          "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+          "language": "Python",
+          "stars": 17056,
+          "forks": 1439
+        },
+        {
+          "rank": 7,
+          "name": "OpenMind/OM1",
+          "url": "https://github.com/OpenMind/OM1",
+          "description": "Modular AI runtime for robots",
+          "language": "Python",
+          "stars": 2323,
+          "forks": 620
+        },
+        {
+          "rank": 8,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gem...",
+          "language": "Python",
+          "stars": 50197,
+          "forks": 4145
+        },
+        {
+          "rank": 9,
+          "name": "dgtlmoon/changedetection.io",
+          "url": "https://github.com/dgtlmoon/changedetection.io",
+          "description": "Best and simplest tool for website change detection, web page monitoring, and website change aler...",
+          "language": "Python",
+          "stars": 29566,
+          "forks": 1635
+        },
+        {
+          "rank": 10,
+          "name": "google-gemini/computer-use-preview",
+          "url": "https://github.com/google-gemini/computer-use-preview",
+          "description": "",
+          "language": "Python",
+          "stars": 2401,
+          "forks": 308
+        }
+      ]
+    }
+  ]
+}

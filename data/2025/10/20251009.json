@@ -1,0 +1,391 @@
+{
+  "date": "20251009",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91258,
+          "forks": 11752
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 90374,
+          "forks": 24609
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 80667,
+          "forks": 4467
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 78405,
+          "forks": 8494
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 72297,
+          "forks": 6010
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70985,
+          "forks": 8355
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 69845,
+          "forks": 8306
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50189,
+          "forks": 8792
+        },
+        {
+          "rank": 9,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 46620,
+          "forks": 5590
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 42193,
+          "forks": 13811
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2489,
+          "forks": 85090
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 169905,
+          "forks": 83011
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191966,
+          "forks": 74902
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2617,
+          "forks": 72671
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 372020,
+          "forks": 64669
+        },
+        {
+          "rank": 6,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17987,
+          "forks": 63609
+        },
+        {
+          "rank": 7,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 86033,
+          "forks": 60945
+        },
+        {
+          "rank": 8,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8237,
+          "forks": 58968
+        },
+        {
+          "rank": 9,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 204525,
+          "forks": 58064
+        },
+        {
+          "rank": 10,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 173081,
+          "forks": 54679
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Stremio/stremio-web",
+          "url": "https://github.com/Stremio/stremio-web",
+          "description": "Stremio - Freedom to Stream",
+          "language": "JavaScript",
+          "stars": 6221,
+          "forks": 750
+        },
+        {
+          "rank": 2,
+          "name": "MODSetter/SurfSense",
+          "url": "https://github.com/MODSetter/SurfSense",
+          "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search ...",
+          "language": "Python",
+          "stars": 8706,
+          "forks": 662
+        },
+        {
+          "rank": 3,
+          "name": "google/computer-use-preview",
+          "url": "https://github.com/google/computer-use-preview",
+          "description": "",
+          "language": "Python",
+          "stars": 495,
+          "forks": 64
+        },
+        {
+          "rank": 4,
+          "name": "TibixDev/winboat",
+          "url": "https://github.com/TibixDev/winboat",
+          "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+          "language": "TypeScript",
+          "stars": 7581,
+          "forks": 195
+        },
+        {
+          "rank": 5,
+          "name": "timelinize/timelinize",
+          "url": "https://github.com/timelinize/timelinize",
+          "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own comp...",
+          "language": "Go",
+          "stars": 1958,
+          "forks": 58
+        },
+        {
+          "rank": 6,
+          "name": "rust-lang/rustfmt",
+          "url": "https://github.com/rust-lang/rustfmt",
+          "description": "Format Rust code",
+          "language": "Rust",
+          "stars": 6498,
+          "forks": 955
+        },
+        {
+          "rank": 7,
+          "name": "PixelGuys/Cubyz",
+          "url": "https://github.com/PixelGuys/Cubyz",
+          "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool gra...",
+          "language": "Zig",
+          "stars": 923,
+          "forks": 92
+        },
+        {
+          "rank": 8,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars": 15812,
+          "forks": 2634
+        },
+        {
+          "rank": 9,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars": 52017,
+          "forks": 11688
+        },
+        {
+          "rank": 10,
+          "name": "browserbase/stagehand",
+          "url": "https://github.com/browserbase/stagehand",
+          "description": "The AI Browser Automation Framework",
+          "language": "TypeScript",
+          "stars": 17743,
+          "forks": 1114
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "MODSetter/SurfSense",
+          "url": "https://github.com/MODSetter/SurfSense",
+          "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search ...",
+          "language": "Python",
+          "stars": 8706,
+          "forks": 662
+        },
+        {
+          "rank": 2,
+          "name": "google/computer-use-preview",
+          "url": "https://github.com/google/computer-use-preview",
+          "description": "",
+          "language": "Python",
+          "stars": 495,
+          "forks": 64
+        },
+        {
+          "rank": 3,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars": 15812,
+          "forks": 2634
+        },
+        {
+          "rank": 4,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 35609,
+          "forks": 2833
+        },
+        {
+          "rank": 5,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 16230,
+          "forks": 1121
+        },
+        {
+          "rank": 6,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, ...",
+          "language": "Python",
+          "stars": 29679,
+          "forks": 4324
+        },
+        {
+          "rank": 7,
+          "name": "BeehiveInnovations/zen-mcp-server",
+          "url": "https://github.com/BeehiveInnovations/zen-mcp-server",
+          "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / ...",
+          "language": "Python",
+          "stars": 8485,
+          "forks": 712
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/magentic-ui",
+          "url": "https://github.com/microsoft/magentic-ui",
+          "description": "A research prototype of a human-centered web agent",
+          "language": "Python",
+          "stars": 7775,
+          "forks": 799
+        },
+        {
+          "rank": 9,
+          "name": "sapientinc/HRM",
+          "url": "https://github.com/sapientinc/HRM",
+          "description": "Hierarchical Reasoning Model Official Release",
+          "language": "Python",
+          "stars": 10834,
+          "forks": 1605
+        },
+        {
+          "rank": 10,
+          "name": "WECENG/ticket-purchase",
+          "url": "https://github.com/WECENG/ticket-purchase",
+          "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+          "language": "Python",
+          "stars": 4328,
+          "forks": 569
+        }
+      ]
+    }
+  ]
+}

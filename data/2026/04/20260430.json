@@ -1,0 +1,391 @@
+{
+  "date": "20260430",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 189362,
+          "forks": 109533
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 126456,
+          "forks": 14829
+        },
+        {
+          "rank": 3,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 101799,
+          "forks": 9988
+        },
+        {
+          "rank": 4,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 72557,
+          "forks": 7472
+        },
+        {
+          "rank": 5,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "Open-source orchestration for zero-human companies",
+          "language": "TypeScript",
+          "stars": 60861,
+          "forks": 10684
+        },
+        {
+          "rank": 6,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 57580,
+          "forks": 9450
+        },
+        {
+          "rank": 7,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 53080,
+          "forks": 8514
+        },
+        {
+          "rank": 8,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Python",
+          "stars": 50976,
+          "forks": 2707
+        },
+        {
+          "rank": 9,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars": 50483,
+          "forks": 6637
+        },
+        {
+          "rank": 10,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 49629,
+          "forks": 1533
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87856,
+          "forks": 59781
+        },
+        {
+          "rank": 2,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97901,
+          "forks": 54597
+        },
+        {
+          "rank": 3,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 535,
+          "forks": 33276
+        },
+        {
+          "rank": 4,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 99554,
+          "forks": 27624
+        },
+        {
+          "rank": 5,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 170656,
+          "forks": 26452
+        },
+        {
+          "rank": 6,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 10507,
+          "forks": 25273
+        },
+        {
+          "rank": 7,
+          "name": "iam-veeramalla/terraform-zero-to-hero",
+          "url": "https://github.com/iam-veeramalla/terraform-zero-to-hero",
+          "description": "Master Terraform in 7 days using this Zero to Hero course.",
+          "language": "HCL",
+          "stars": 4003,
+          "forks": 18261
+        },
+        {
+          "rank": 8,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 108168,
+          "forks": 15941
+        },
+        {
+          "rank": 9,
+          "name": "Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "url": "https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "description": "cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo created by GitHub Classroom",
+          "language": "C",
+          "stars": 34,
+          "forks": 13744
+        },
+        {
+          "rank": 10,
+          "name": "ionic-team/ionic-framework",
+          "url": "https://github.com/ionic-team/ionic-framework",
+          "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive We...",
+          "language": "TypeScript",
+          "stars": 52485,
+          "forks": 13386
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "warpdotdev/warp",
+          "url": "https://github.com/warpdotdev/warp",
+          "description": "Warp is an agentic development environment, born out of the terminal.",
+          "language": "Rust",
+          "stars": 47610,
+          "forks": 3016
+        },
+        {
+          "rank": 2,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 56673,
+          "forks": 10634
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 47710,
+          "forks": 3873
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 174099,
+          "forks": 15355
+        },
+        {
+          "rank": 5,
+          "name": "lukilabs/craft-agents-oss",
+          "url": "https://github.com/lukilabs/craft-agents-oss",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 5481,
+          "forks": 733
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 429106,
+          "forks": 46837
+        },
+        {
+          "rank": 7,
+          "name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "language": "Rust",
+          "stars": 1721,
+          "forks": 154
+        },
+        {
+          "rank": 8,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 20594,
+          "forks": 1435
+        },
+        {
+          "rank": 9,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 11964,
+          "forks": 1615
+        },
+        {
+          "rank": 10,
+          "name": "iamgio/quarkdown",
+          "url": "https://github.com/iamgio/quarkdown",
+          "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge ...",
+          "language": "Kotlin",
+          "stars": 12765,
+          "forks": 343
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 56673,
+          "forks": 10634
+        },
+        {
+          "rank": 2,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 429106,
+          "forks": 46837
+        },
+        {
+          "rank": 3,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 20594,
+          "forks": 1435
+        },
+        {
+          "rank": 4,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 11964,
+          "forks": 1615
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 387406,
+          "forks": 66205
+        },
+        {
+          "rank": 6,
+          "name": "nikopueringer/CorridorKey",
+          "url": "https://github.com/nikopueringer/CorridorKey",
+          "description": "Perfect Green Screen Keys",
+          "language": "Python",
+          "stars": 12454,
+          "forks": 754
+        },
+        {
+          "rank": 7,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 36273,
+          "forks": 2489
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 45977,
+          "forks": 5075
+        },
+        {
+          "rank": 9,
+          "name": "ComposioHQ/awesome-codex-skills",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "language": "Python",
+          "stars": 5101,
+          "forks": 313
+        },
+        {
+          "rank": 10,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 25173,
+          "forks": 5296
+        }
+      ]
+    }
+  ]
+}

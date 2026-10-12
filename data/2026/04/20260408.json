@@ -1,0 +1,199 @@
+{
+  "date": "20260408",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "",
+          "language": "N/A",
+          "stars": 8476,
+          "forks": 585
+        },
+        {
+          "rank": 2,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 4247,
+          "forks": 681
+        },
+        {
+          "rank": 3,
+          "name": "google-ai-edge/gallery",
+          "url": "https://github.com/google-ai-edge/gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models loc...",
+          "language": "Kotlin",
+          "stars": 19233,
+          "forks": 1797
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA/personaplex",
+          "url": "https://github.com/NVIDIA/personaplex",
+          "description": "PersonaPlex code.",
+          "language": "Python",
+          "stars": 8248,
+          "forks": 1188
+        },
+        {
+          "rank": 5,
+          "name": "google-ai-edge/LiteRT-LM",
+          "url": "https://github.com/google-ai-edge/LiteRT-LM",
+          "description": "",
+          "language": "C++",
+          "stars": 2814,
+          "forks": 265
+        },
+        {
+          "rank": 6,
+          "name": "elebumm/RedditVideoMakerBot",
+          "url": "https://github.com/elebumm/RedditVideoMakerBot",
+          "description": "Create Reddit Videos with just✨ one command ✨",
+          "language": "Python",
+          "stars": 10298,
+          "forks": 2553
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 140692,
+          "forks": 11992
+        },
+        {
+          "rank": 8,
+          "name": "newton-physics/newton",
+          "url": "https://github.com/newton-physics/newton",
+          "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically ta...",
+          "language": "Python",
+          "stars": 3926,
+          "forks": 412
+        },
+        {
+          "rank": 9,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 25043,
+          "forks": 2790
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 50483,
+          "forks": 8766
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 4247,
+          "forks": 681
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/personaplex",
+          "url": "https://github.com/NVIDIA/personaplex",
+          "description": "PersonaPlex code.",
+          "language": "Python",
+          "stars": 8248,
+          "forks": 1188
+        },
+        {
+          "rank": 3,
+          "name": "elebumm/RedditVideoMakerBot",
+          "url": "https://github.com/elebumm/RedditVideoMakerBot",
+          "description": "Create Reddit Videos with just✨ one command ✨",
+          "language": "Python",
+          "stars": 10298,
+          "forks": 2553
+        },
+        {
+          "rank": 4,
+          "name": "newton-physics/newton",
+          "url": "https://github.com/newton-physics/newton",
+          "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically ta...",
+          "language": "Python",
+          "stars": 3926,
+          "forks": 412
+        },
+        {
+          "rank": 5,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 50483,
+          "forks": 8766
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "language": "Python",
+          "stars": 12910,
+          "forks": 1736
+        },
+        {
+          "rank": 7,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "Universal memory layer for AI Agents",
+          "language": "Python",
+          "stars": 52286,
+          "forks": 5860
+        },
+        {
+          "rank": 8,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 35425,
+          "forks": 4508
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 37789,
+          "forks": 3361
+        },
+        {
+          "rank": 10,
+          "name": "atilaahmettaner/tradingview-mcp",
+          "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+          "description": "Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screenin...",
+          "language": "Python",
+          "stars": 1186,
+          "forks": 277
+        }
+      ]
+    }
+  ]
+}

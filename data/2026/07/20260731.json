@@ -1,0 +1,391 @@
+{
+  "date": "20260731",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 384683,
+          "forks": 80849
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 264282,
+          "forks": 23595
+        },
+        {
+          "rank": 3,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194958,
+          "forks": 109385
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 165402,
+          "forks": 19663
+        },
+        {
+          "rank": 5,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 137793,
+          "forks": 22492
+        },
+        {
+          "rank": 6,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 125435,
+          "forks": 18817
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 112093,
+          "forks": 11956
+        },
+        {
+          "rank": 8,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 94809,
+          "forks": 5427
+        },
+        {
+          "rank": 9,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 92807,
+          "forks": 5098
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 92640,
+          "forks": 13188
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 55290,
+          "forks": 107026
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 175072,
+          "forks": 82311
+        },
+        {
+          "rank": 3,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 384683,
+          "forks": 80849
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 196633,
+          "forks": 75733
+        },
+        {
+          "rank": 5,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2796,
+          "forks": 73291
+        },
+        {
+          "rank": 6,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 20587,
+          "forks": 68084
+        },
+        {
+          "rank": 7,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 241232,
+          "forks": 63637
+        },
+        {
+          "rank": 8,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8618,
+          "forks": 60185
+        },
+        {
+          "rank": 9,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 198838,
+          "forks": 59804
+        },
+        {
+          "rank": 10,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88565,
+          "forks": 59349
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-pow...",
+          "language": "PowerShell",
+          "stars": 10165,
+          "forks": 1564
+        },
+        {
+          "rank": 2,
+          "name": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+          "language": "TypeScript",
+          "stars": 19181,
+          "forks": 1940
+        },
+        {
+          "rank": 3,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 55910,
+          "forks": 4809
+        },
+        {
+          "rank": 4,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...",
+          "language": "Python",
+          "stars": 11522,
+          "forks": 1445
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "language": "Jupyter Notebook",
+          "stars": 54966,
+          "forks": 11106
+        },
+        {
+          "rank": 6,
+          "name": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "language": "Java",
+          "stars": 10075,
+          "forks": 1366
+        },
+        {
+          "rank": 7,
+          "name": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Sal...",
+          "language": "Ruby",
+          "stars": 34989,
+          "forks": 8424
+        },
+        {
+          "rank": 8,
+          "name": "agavra/tuicr",
+          "url": "https://github.com/agavra/tuicr",
+          "description": "a code review TUI with vim keybindings",
+          "language": "Rust",
+          "stars": 2036,
+          "forks": 167
+        },
+        {
+          "rank": 9,
+          "name": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against...",
+          "language": "TypeScript",
+          "stars": 4706,
+          "forks": 427
+        },
+        {
+          "rank": 10,
+          "name": "geo-tp/ESP32-Bit-Pirate",
+          "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+          "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+          "language": "C++",
+          "stars": 4734,
+          "forks": 385
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 55910,
+          "forks": 4809
+        },
+        {
+          "rank": 2,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...",
+          "language": "Python",
+          "stars": 11522,
+          "forks": 1445
+        },
+        {
+          "rank": 3,
+          "name": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "description": "Deepfakes Software For All",
+          "language": "Python",
+          "stars": 56805,
+          "forks": 13463
+        },
+        {
+          "rank": 4,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 14086,
+          "forks": 1541
+        },
+        {
+          "rank": 5,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 9620,
+          "forks": 1176
+        },
+        {
+          "rank": 6,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 100752,
+          "forks": 15005
+        },
+        {
+          "rank": 7,
+          "name": "trailofbits/skills",
+          "url": "https://github.com/trailofbits/skills",
+          "description": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
+          "language": "Python",
+          "stars": 6363,
+          "forks": 548
+        },
+        {
+          "rank": 8,
+          "name": "kangarooking/cangjie-skill",
+          "url": "https://github.com/kangarooking/cangjie-skill",
+          "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+          "language": "Python",
+          "stars": 5764,
+          "forks": 731
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 453737,
+          "forks": 49991
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/TRELLIS.2",
+          "url": "https://github.com/microsoft/TRELLIS.2",
+          "description": "Native and Compact Structured Latents for 3D Generation",
+          "language": "Python",
+          "stars": 9691,
+          "forks": 1175
+        }
+      ]
+    }
+  ]
+}

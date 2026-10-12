@@ -1,0 +1,391 @@
+{
+  "date": "20250409",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 34364,
+          "forks": 2393
+        },
+        {
+          "rank": 2,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artific...",
+          "language": "Python",
+          "stars": 27878,
+          "forks": 4164
+        },
+        {
+          "rank": 3,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 27585,
+          "forks": 3098
+        },
+        {
+          "rank": 4,
+          "name": "PatrickJS/awesome-cursorrules",
+          "url": "https://github.com/PatrickJS/awesome-cursorrules",
+          "description": "📄 A curated list of awesome .cursorrules files",
+          "language": "N/A",
+          "stars": 20883,
+          "forks": 1560
+        },
+        {
+          "rank": 5,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 20787,
+          "forks": 3768
+        },
+        {
+          "rank": 6,
+          "name": "deepseek-ai/Janus",
+          "url": "https://github.com/deepseek-ai/Janus",
+          "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+          "language": "Python",
+          "stars": 17067,
+          "forks": 2224
+        },
+        {
+          "rank": 7,
+          "name": "KindXiaoming/pykan",
+          "url": "https://github.com/KindXiaoming/pykan",
+          "description": "Kolmogorov Arnold Networks",
+          "language": "Jupyter Notebook",
+          "stars": 15572,
+          "forks": 1469
+        },
+        {
+          "rank": 8,
+          "name": "elizaOS/eliza",
+          "url": "https://github.com/elizaOS/eliza",
+          "description": "Autonomous agents for everyone",
+          "language": "TypeScript",
+          "stars": 15437,
+          "forks": 5038
+        },
+        {
+          "rank": 9,
+          "name": "dzhng/deep-research",
+          "url": "https://github.com/dzhng/deep-research",
+          "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining...",
+          "language": "TypeScript",
+          "stars": 15377,
+          "forks": 1580
+        },
+        {
+          "rank": 10,
+          "name": "richards199999/Thinking-Claude",
+          "url": "https://github.com/richards199999/Thinking-Claude",
+          "description": "Let your Claude able to think",
+          "language": "TypeScript",
+          "stars": 14942,
+          "forks": 1738
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 295862,
+          "forks": 49185
+        },
+        {
+          "rank": 2,
+          "name": "academicpages/academicpages.github.io",
+          "url": "https://github.com/academicpages/academicpages.github.io",
+          "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
+          "language": "HTML",
+          "stars": 13783,
+          "forks": 46614
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37074
+        },
+        {
+          "rank": 4,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 105591,
+          "forks": 35685
+        },
+        {
+          "rank": 5,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "TypeScript",
+          "stars": 95299,
+          "forks": 32539
+        },
+        {
+          "rank": 6,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 23598,
+          "forks": 31591
+        },
+        {
+          "rank": 7,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 110537,
+          "forks": 31227
+        },
+        {
+          "rank": 8,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 150881,
+          "forks": 28092
+        },
+        {
+          "rank": 9,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 184,
+          "forks": 27449
+        },
+        {
+          "rank": 10,
+          "name": "vagabond-systems/jpmc-task-1",
+          "url": "https://github.com/vagabond-systems/jpmc-task-1",
+          "description": "Starter repo for task 1 of the JPMC software engineering program",
+          "language": "Python",
+          "stars": 43,
+          "forks": 22415
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 46967,
+          "forks": 2214
+        },
+        {
+          "rank": 2,
+          "name": "supabase-community/supabase-mcp",
+          "url": "https://github.com/supabase-community/supabase-mcp",
+          "description": "Connect Supabase to your AI assistants",
+          "language": "TypeScript",
+          "stars": 875,
+          "forks": 49
+        },
+        {
+          "rank": 3,
+          "name": "datawhalechina/llm-cookbook",
+          "url": "https://github.com/datawhalechina/llm-cookbook",
+          "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+          "language": "Jupyter Notebook",
+          "stars": 17840,
+          "forks": 2196
+        },
+        {
+          "rank": 4,
+          "name": "swiftlang/swift",
+          "url": "https://github.com/swiftlang/swift",
+          "description": "The Swift Programming Language",
+          "language": "C++",
+          "stars": 68338,
+          "forks": 10448
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 14321,
+          "forks": 1997
+        },
+        {
+          "rank": 6,
+          "name": "jiji262/douyin-downloader",
+          "url": "https://github.com/jiji262/douyin-downloader",
+          "description": "抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！",
+          "language": "Python",
+          "stars": 2865,
+          "forks": 429
+        },
+        {
+          "rank": 7,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars": 67160,
+          "forks": 15665
+        },
+        {
+          "rank": 8,
+          "name": "activepieces/activepieces",
+          "url": "https://github.com/activepieces/activepieces",
+          "description": "AI agents & MCPs & workflow automation • (280+ MCP servers for AI agents) • AI automation with MC...",
+          "language": "TypeScript",
+          "stars": 13255,
+          "forks": 1717
+        },
+        {
+          "rank": 9,
+          "name": "girafe-ai/ml-course",
+          "url": "https://github.com/girafe-ai/ml-course",
+          "description": "Open Machine Learning course",
+          "language": "Jupyter Notebook",
+          "stars": 2522,
+          "forks": 1166
+        },
+        {
+          "rank": 10,
+          "name": "LC044/WeChatMsg",
+          "url": "https://github.com/LC044/WeChatMsg",
+          "description": "提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+          "language": "Python",
+          "stars": 38848,
+          "forks": 4005
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 46967,
+          "forks": 2214
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 14321,
+          "forks": 1997
+        },
+        {
+          "rank": 3,
+          "name": "jiji262/douyin-downloader",
+          "url": "https://github.com/jiji262/douyin-downloader",
+          "description": "抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！",
+          "language": "Python",
+          "stars": 2865,
+          "forks": 429
+        },
+        {
+          "rank": 4,
+          "name": "LC044/WeChatMsg",
+          "url": "https://github.com/LC044/WeChatMsg",
+          "description": "提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+          "language": "Python",
+          "stars": 38848,
+          "forks": 4005
+        },
+        {
+          "rank": 5,
+          "name": "DataDog/integrations-core",
+          "url": "https://github.com/DataDog/integrations-core",
+          "description": "Core integrations of the Datadog Agent",
+          "language": "Python",
+          "stars": 996,
+          "forks": 1453
+        },
+        {
+          "rank": 6,
+          "name": "RockChinQ/LangBot",
+          "url": "https://github.com/RockChinQ/LangBot",
+          "description": "😎简单易用、🧩丰富生态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 \\...",
+          "language": "Python",
+          "stars": 10363,
+          "forks": 758
+        },
+        {
+          "rank": 7,
+          "name": "agno-agi/agno",
+          "url": "https://github.com/agno-agi/agno",
+          "description": "Build Reasoning Agents with memory, knowledge, tools and native multi-modal support.",
+          "language": "Python",
+          "stars": 24396,
+          "forks": 3106
+        },
+        {
+          "rank": 8,
+          "name": "squidfunk/mkdocs-material",
+          "url": "https://github.com/squidfunk/mkdocs-material",
+          "description": "Documentation that simply works",
+          "language": "Python",
+          "stars": 22777,
+          "forks": 3708
+        },
+        {
+          "rank": 9,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 26017,
+          "forks": 3817
+        },
+        {
+          "rank": 10,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 88776,
+          "forks": 23799
+        }
+      ]
+    }
+  ]
+}

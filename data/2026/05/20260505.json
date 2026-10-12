@@ -1,0 +1,391 @@
+{
+  "date": "20260505",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 178903,
+          "forks": 15892
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 128353,
+          "forks": 15105
+        },
+        {
+          "rank": 3,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 112906,
+          "forks": 11299
+        },
+        {
+          "rank": 4,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 74081,
+          "forks": 7648
+        },
+        {
+          "rank": 5,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 65037,
+          "forks": 8588
+        },
+        {
+          "rank": 6,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 58168,
+          "forks": 9541
+        },
+        {
+          "rank": 7,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo; the best agent harness - previously oh-my-opencode",
+          "language": "TypeScript",
+          "stars": 55877,
+          "forks": 4544
+        },
+        {
+          "rank": 8,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 51739,
+          "forks": 6876
+        },
+        {
+          "rank": 9,
+          "name": "VoltAgent/awesome-openclaw-skills",
+          "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+          "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the offici...",
+          "language": "N/A",
+          "stars": 47959,
+          "forks": 4704
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 46566,
+          "forks": 5164
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 137,
+          "forks": 13821
+        },
+        {
+          "rank": 2,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9774
+        },
+        {
+          "rank": 3,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8960
+        },
+        {
+          "rank": 4,
+          "name": "jenkins-docs/simple-node-js-react-npm-app",
+          "url": "https://github.com/jenkins-docs/simple-node-js-react-npm-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Node.js and React applicatio...",
+          "language": "Shell",
+          "stars": 224,
+          "forks": 8406
+        },
+        {
+          "rank": 5,
+          "name": "apache/zookeeper",
+          "url": "https://github.com/apache/zookeeper",
+          "description": "Apache ZooKeeper",
+          "language": "Java",
+          "stars": 12764,
+          "forks": 7323
+        },
+        {
+          "rank": 6,
+          "name": "twilio-grok/react-twilio-phone",
+          "url": "https://github.com/twilio-grok/react-twilio-phone",
+          "description": "A Twilio Client based web phone, built with React",
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 6450
+        },
+        {
+          "rank": 7,
+          "name": "CrunchyData/postgres-operator-examples",
+          "url": "https://github.com/CrunchyData/postgres-operator-examples",
+          "description": "Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data",
+          "language": "Go Template",
+          "stars": 226,
+          "forks": 6495
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-python-pyinstaller-app",
+          "url": "https://github.com/jenkins-docs/simple-python-pyinstaller-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Python application with PyIn...",
+          "language": "Python",
+          "stars": 100,
+          "forks": 6158
+        },
+        {
+          "rank": 9,
+          "name": "mate-academy/layout_moyo-header",
+          "url": "https://github.com/mate-academy/layout_moyo-header",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 11,
+          "forks": 6318
+        },
+        {
+          "rank": 10,
+          "name": "ironhack-labs/lab-javascript-basic-algorithms",
+          "url": "https://github.com/ironhack-labs/lab-javascript-basic-algorithms",
+          "description": "An exercise designed to learn basic JS algorithms (variables, loops, etc...)",
+          "language": "HTML",
+          "stars": 111,
+          "forks": 5872
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "language": "Rust",
+          "stars": 5739,
+          "forks": 430
+        },
+        {
+          "rank": 2,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coo...",
+          "language": "TypeScript",
+          "stars": 42645,
+          "forks": 4757
+        },
+        {
+          "rank": 3,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars": 23506,
+          "forks": 2876
+        },
+        {
+          "rank": 4,
+          "name": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "language": "Ruby",
+          "stars": 13668,
+          "forks": 1239
+        },
+        {
+          "rank": 5,
+          "name": "bwya77/vscode-dark-islands",
+          "url": "https://github.com/bwya77/vscode-dark-islands",
+          "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+          "language": "PowerShell",
+          "stars": 7605,
+          "forks": 229
+        },
+        {
+          "rank": 6,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+          "language": "TypeScript",
+          "stars": 12742,
+          "forks": 879
+        },
+        {
+          "rank": 7,
+          "name": "cocoindex-io/cocoindex",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+          "language": "Python",
+          "stars": 8210,
+          "forks": 606
+        },
+        {
+          "rank": 8,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 93217,
+          "forks": 15338
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 345526,
+          "forks": 82694
+        },
+        {
+          "rank": 10,
+          "name": "Arindam200/awesome-ai-apps",
+          "url": "https://github.com/Arindam200/awesome-ai-apps",
+          "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+          "language": "Python",
+          "stars": 10930,
+          "forks": 1453
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cocoindex-io/cocoindex",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+          "language": "Python",
+          "stars": 8210,
+          "forks": 606
+        },
+        {
+          "rank": 2,
+          "name": "Arindam200/awesome-ai-apps",
+          "url": "https://github.com/Arindam200/awesome-ai-apps",
+          "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+          "language": "Python",
+          "stars": 10930,
+          "forks": 1453
+        },
+        {
+          "rank": 3,
+          "name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 11316,
+          "forks": 1753
+        },
+        {
+          "rank": 4,
+          "name": "LearningCircuit/local-deep-research",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Olla...",
+          "language": "Python",
+          "stars": 4920,
+          "forks": 461
+        },
+        {
+          "rank": 5,
+          "name": "PriorLabs/TabPFN",
+          "url": "https://github.com/PriorLabs/TabPFN",
+          "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+          "language": "Python",
+          "stars": 6275,
+          "forks": 636
+        },
+        {
+          "rank": 6,
+          "name": "ccxt/ccxt",
+          "url": "https://github.com/ccxt/ccxt",
+          "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C...",
+          "language": "Python",
+          "stars": 42255,
+          "forks": 8645
+        },
+        {
+          "rank": 7,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 68714,
+          "forks": 13205
+        },
+        {
+          "rank": 8,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 431926,
+          "forks": 47188
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 120599,
+          "forks": 8053
+        },
+        {
+          "rank": 10,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 65037,
+          "forks": 8588
+        }
+      ]
+    }
+  ]
+}

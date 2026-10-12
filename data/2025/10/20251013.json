@@ -1,0 +1,391 @@
+{
+  "date": "20251013",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 70151,
+          "forks": 8341
+        },
+        {
+          "rank": 2,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50260,
+          "forks": 8794
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 42447,
+          "forks": 13956
+        },
+        {
+          "rank": 4,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 41782,
+          "forks": 7369
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "TypeScript",
+          "stars": 38449,
+          "forks": 2407
+        },
+        {
+          "rank": 6,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "JavaScript",
+          "stars": 33498,
+          "forks": 1671
+        },
+        {
+          "rank": 7,
+          "name": "yuaotian/go-cursor-help",
+          "url": "https://github.com/yuaotian/go-cursor-help",
+          "description": "解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious ac...",
+          "language": "Shell",
+          "stars": 24789,
+          "forks": 3006
+        },
+        {
+          "rank": 8,
+          "name": "zama-ai/fhevm",
+          "url": "https://github.com/zama-ai/fhevm",
+          "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain ...",
+          "language": "Rust",
+          "stars": 23734,
+          "forks": 1153
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/smolagents",
+          "url": "https://github.com/huggingface/smolagents",
+          "description": "🤗 smolagents: a barebones library for agents that think in code.",
+          "language": "Python",
+          "stars": 23358,
+          "forks": 2046
+        },
+        {
+          "rank": 10,
+          "name": "huggingface/agents-course",
+          "url": "https://github.com/huggingface/agents-course",
+          "description": "This repository contains the Hugging Face Agents Course.",
+          "language": "MDX",
+          "stars": 22964,
+          "forks": 1606
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 517,
+          "forks": 32054
+        },
+        {
+          "rank": 2,
+          "name": "freeCodeCamp/boilerplate-npm",
+          "url": "https://github.com/freeCodeCamp/boilerplate-npm",
+          "description": "A boilerplate for the freeCodeCamp curriculum.",
+          "language": "JavaScript",
+          "stars": 752,
+          "forks": 9866
+        },
+        {
+          "rank": 3,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 10,
+          "forks": 9822
+        },
+        {
+          "rank": 4,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 216,
+          "forks": 9651
+        },
+        {
+          "rank": 5,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 9016
+        },
+        {
+          "rank": 6,
+          "name": "javahometech/my-app",
+          "url": "https://github.com/javahometech/my-app",
+          "description": "No description",
+          "language": "Java",
+          "stars": 87,
+          "forks": 8692
+        },
+        {
+          "rank": 7,
+          "name": "jenkins-docs/simple-node-js-react-npm-app",
+          "url": "https://github.com/jenkins-docs/simple-node-js-react-npm-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Node.js and React applicatio...",
+          "language": "Shell",
+          "stars": 219,
+          "forks": 8330
+        },
+        {
+          "rank": 8,
+          "name": "learn-co-curriculum/phase-1-tasklister-mini-project",
+          "url": "https://github.com/learn-co-curriculum/phase-1-tasklister-mini-project",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 3,
+          "forks": 8295
+        },
+        {
+          "rank": 9,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "HTML",
+          "stars": 40,
+          "forks": 7382
+        },
+        {
+          "rank": 10,
+          "name": "barbarauckmh/AttackMachine",
+          "url": "https://github.com/barbarauckmh/AttackMachine",
+          "description": "AIO Software for interaction with LayerZero, Wormhole, zkSync, Starknet, Scroll, Base, Linea, Zor...",
+          "language": "Python",
+          "stars": 1,
+          "forks": 6301
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/prompt-eng-interactive-tutorial",
+          "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+          "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+          "language": "Jupyter Notebook",
+          "stars": 19811,
+          "forks": 1914
+        },
+        {
+          "rank": 2,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+          "language": "Python",
+          "stars": 12592,
+          "forks": 2188
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "TypeScript",
+          "stars": 38449,
+          "forks": 2407
+        },
+        {
+          "rank": 4,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+          "language": "JavaScript",
+          "stars": 22079,
+          "forks": 3410
+        },
+        {
+          "rank": 5,
+          "name": "Klavis-AI/klavis",
+          "url": "https://github.com/Klavis-AI/klavis",
+          "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale",
+          "language": "Python",
+          "stars": 4924,
+          "forks": 460
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 368729,
+          "forks": 38815
+        },
+        {
+          "rank": 7,
+          "name": "clash-verge-rev/clash-verge-rev",
+          "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+          "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored prox...",
+          "language": "TypeScript",
+          "stars": 77722,
+          "forks": 5808
+        },
+        {
+          "rank": 8,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Zig",
+          "stars": 81185,
+          "forks": 3386
+        },
+        {
+          "rank": 9,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description": "LLM inference in C/C++",
+          "language": "C++",
+          "stars": 87598,
+          "forks": 13311
+        },
+        {
+          "rank": 10,
+          "name": "PixelGuys/Cubyz",
+          "url": "https://github.com/PixelGuys/Cubyz",
+          "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool gra...",
+          "language": "Zig",
+          "stars": 2240,
+          "forks": 131
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+          "language": "Python",
+          "stars": 12592,
+          "forks": 2188
+        },
+        {
+          "rank": 2,
+          "name": "Klavis-AI/klavis",
+          "url": "https://github.com/Klavis-AI/klavis",
+          "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale",
+          "language": "Python",
+          "stars": 4924,
+          "forks": 460
+        },
+        {
+          "rank": 3,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 368729,
+          "forks": 38815
+        },
+        {
+          "rank": 4,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 130477,
+          "forks": 10473
+        },
+        {
+          "rank": 5,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Introduction to Machine Learning Systems",
+          "language": "Python",
+          "stars": 2912,
+          "forks": 332
+        },
+        {
+          "rank": 6,
+          "name": "p1ngul1n0/blackbird",
+          "url": "https://github.com/p1ngul1n0/blackbird",
+          "description": "An OSINT tool to search for accounts by username and email in social networks.",
+          "language": "Python",
+          "stars": 4833,
+          "forks": 570
+        },
+        {
+          "rank": 7,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 81923,
+          "forks": 35480
+        },
+        {
+          "rank": 8,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 53356,
+          "forks": 5117
+        },
+        {
+          "rank": 9,
+          "name": "LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+          "url": "https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+          "description": "This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+          "language": "Python",
+          "stars": 6404,
+          "forks": 1408
+        },
+        {
+          "rank": 10,
+          "name": "sentient-agi/ROMA",
+          "url": "https://github.com/sentient-agi/ROMA",
+          "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-age...",
+          "language": "Python",
+          "stars": 4053,
+          "forks": 605
+        }
+      ]
+    }
+  ]
+}

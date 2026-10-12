@@ -1,0 +1,391 @@
+{
+  "date": "20260828",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 243952,
+          "forks": 36895
+        },
+        {
+          "rank": 2,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 208392,
+          "forks": 21231
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 201972,
+          "forks": 23199
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195140,
+          "forks": 108865
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 172275,
+          "forks": 20478
+        },
+        {
+          "rank": 6,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 122551,
+          "forks": 13124
+        },
+        {
+          "rank": 7,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 115262,
+          "forks": 6302
+        },
+        {
+          "rank": 8,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 111084,
+          "forks": 12634
+        },
+        {
+          "rank": 9,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 92507,
+          "forks": 8128
+        },
+        {
+          "rank": 10,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first ...",
+          "language": "N/A",
+          "stars": 92369,
+          "forks": 10646
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195140,
+          "forks": 108865
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2698,
+          "forks": 93588
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174667,
+          "forks": 78634
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2810,
+          "forks": 73332
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 118714,
+          "forks": 62593
+        },
+        {
+          "rank": 6,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88659,
+          "forks": 59180
+        },
+        {
+          "rank": 7,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 366575,
+          "forks": 58118
+        },
+        {
+          "rank": 8,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 185704,
+          "forks": 55706
+        },
+        {
+          "rank": 9,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 99245,
+          "forks": 54699
+        },
+        {
+          "rank": 10,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37329,
+          "forks": 53298
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle ...",
+          "language": "JavaScript",
+          "stars": 27045,
+          "forks": 1714
+        },
+        {
+          "rank": 2,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+...",
+          "language": "Python",
+          "stars": 36460,
+          "forks": 3473
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 34994,
+          "forks": 3934
+        },
+        {
+          "rank": 4,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial inte...",
+          "language": "JavaScript",
+          "stars": 10904,
+          "forks": 2219
+        },
+        {
+          "rank": 5,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 46135,
+          "forks": 5099
+        },
+        {
+          "rank": 6,
+          "name": "JetBrains/go-modern-guidelines",
+          "url": "https://github.com/JetBrains/go-modern-guidelines",
+          "description": "Help AI coding agents write modern Go",
+          "language": "Go",
+          "stars": 2561,
+          "forks": 78
+        },
+        {
+          "rank": 7,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 53231,
+          "forks": 6639
+        },
+        {
+          "rank": 8,
+          "name": "abi/screenshot-to-code",
+          "url": "https://github.com/abi/screenshot-to-code",
+          "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+          "language": "Python",
+          "stars": 75503,
+          "forks": 9217
+        },
+        {
+          "rank": 9,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 5923,
+          "forks": 479
+        },
+        {
+          "rank": 10,
+          "name": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "language": "JavaScript",
+          "stars": 24196,
+          "forks": 2393
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+...",
+          "language": "Python",
+          "stars": 36460,
+          "forks": 3473
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 34994,
+          "forks": 3934
+        },
+        {
+          "rank": 3,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 53231,
+          "forks": 6639
+        },
+        {
+          "rank": 4,
+          "name": "abi/screenshot-to-code",
+          "url": "https://github.com/abi/screenshot-to-code",
+          "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+          "language": "Python",
+          "stars": 75503,
+          "forks": 9217
+        },
+        {
+          "rank": 5,
+          "name": "marin-community/marin",
+          "url": "https://github.com/marin-community/marin",
+          "description": "Open-source framework for the research and development of foundation models.",
+          "language": "Python",
+          "stars": 2878,
+          "forks": 239
+        },
+        {
+          "rank": 6,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 50590,
+          "forks": 8778
+        },
+        {
+          "rank": 7,
+          "name": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+          "language": "Python",
+          "stars": 13307,
+          "forks": 3630
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/AI-Trader",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "language": "Python",
+          "stars": 21768,
+          "forks": 3314
+        },
+        {
+          "rank": 9,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 111969,
+          "forks": 10886
+        },
+        {
+          "rank": 10,
+          "name": "goldmansachs/gs-quant",
+          "url": "https://github.com/goldmansachs/gs-quant",
+          "description": "Python toolkit for quantitative finance",
+          "language": "Python",
+          "stars": 12781,
+          "forks": 1725
+        }
+      ]
+    }
+  ]
+}

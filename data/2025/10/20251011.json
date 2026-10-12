@@ -1,0 +1,199 @@
+{
+  "date": "20251011",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "TypeScript",
+          "stars": 36430,
+          "forks": 2290
+        },
+        {
+          "rank": 2,
+          "name": "QwenLM/Qwen3-VL",
+          "url": "https://github.com/QwenLM/Qwen3-VL",
+          "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+          "language": "Jupyter Notebook",
+          "stars": 13948,
+          "forks": 1062
+        },
+        {
+          "rank": 3,
+          "name": "MODSetter/SurfSense",
+          "url": "https://github.com/MODSetter/SurfSense",
+          "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search ...",
+          "language": "Python",
+          "stars": 9226,
+          "forks": 712
+        },
+        {
+          "rank": 4,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "JavaScript",
+          "stars": 7054,
+          "forks": 626
+        },
+        {
+          "rank": 5,
+          "name": "timelinize/timelinize",
+          "url": "https://github.com/timelinize/timelinize",
+          "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own comp...",
+          "language": "Go",
+          "stars": 2434,
+          "forks": 71
+        },
+        {
+          "rank": 6,
+          "name": "PixelGuys/Cubyz",
+          "url": "https://github.com/PixelGuys/Cubyz",
+          "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool gra...",
+          "language": "Zig",
+          "stars": 1658,
+          "forks": 116
+        },
+        {
+          "rank": 7,
+          "name": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "language": "TypeScript",
+          "stars": 11622,
+          "forks": 1213
+        },
+        {
+          "rank": 8,
+          "name": "evershopcommerce/evershop",
+          "url": "https://github.com/evershopcommerce/evershop",
+          "description": "🛍️ Typescript E-commerce Platform",
+          "language": "TypeScript",
+          "stars": 6556,
+          "forks": 1812
+        },
+        {
+          "rank": 9,
+          "name": "CapSoftware/Cap",
+          "url": "https://github.com/CapSoftware/Cap",
+          "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+          "language": "TypeScript",
+          "stars": 12547,
+          "forks": 854
+        },
+        {
+          "rank": 10,
+          "name": "dataease/SQLBot",
+          "url": "https://github.com/dataease/SQLBot",
+          "description": "🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+          "language": "Python",
+          "stars": 3743,
+          "forks": 373
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "MODSetter/SurfSense",
+          "url": "https://github.com/MODSetter/SurfSense",
+          "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search ...",
+          "language": "Python",
+          "stars": 9226,
+          "forks": 712
+        },
+        {
+          "rank": 2,
+          "name": "dataease/SQLBot",
+          "url": "https://github.com/dataease/SQLBot",
+          "description": "🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+          "language": "Python",
+          "stars": 3743,
+          "forks": 373
+        },
+        {
+          "rank": 3,
+          "name": "Genesis-Embodied-AI/Genesis",
+          "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+          "description": "A generative world for general-purpose robotics & embodied AI learning.",
+          "language": "Python",
+          "stars": 27372,
+          "forks": 2513
+        },
+        {
+          "rank": 4,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "language": "Python",
+          "stars": 45632,
+          "forks": 3794
+        },
+        {
+          "rank": 5,
+          "name": "sapientinc/HRM",
+          "url": "https://github.com/sapientinc/HRM",
+          "description": "Hierarchical Reasoning Model Official Release",
+          "language": "Python",
+          "stars": 10919,
+          "forks": 1613
+        },
+        {
+          "rank": 6,
+          "name": "Ksuriuri/index-tts-vllm",
+          "url": "https://github.com/Ksuriuri/index-tts-vllm",
+          "description": "Added vLLM support to IndexTTS for faster inference.",
+          "language": "Python",
+          "stars": 690,
+          "forks": 96
+        },
+        {
+          "rank": 7,
+          "name": "cython/cython",
+          "url": "https://github.com/cython/cython",
+          "description": "The most widely used Python to C compiler",
+          "language": "Python",
+          "stars": 10337,
+          "forks": 1572
+        },
+        {
+          "rank": 8,
+          "name": "OpenRLHF/OpenRLHF",
+          "url": "https://github.com/OpenRLHF/OpenRLHF",
+          "description": "An Easy-to-use, Scalable and High-performance RLHF Framework based on Ray (PPO & GRPO & REINFORCE...",
+          "language": "Python",
+          "stars": 8124,
+          "forks": 794
+        },
+        {
+          "rank": 9,
+          "name": "OpenMind/OM1",
+          "url": "https://github.com/OpenMind/OM1",
+          "description": "Modular AI runtime for robots",
+          "language": "Python",
+          "stars": 706,
+          "forks": 141
+        },
+        {
+          "rank": 10,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A curated list of awesome commands, files, and workflows for Claude Code",
+          "language": "Python",
+          "stars": 15278,
+          "forks": 849
+        }
+      ]
+    }
+  ]
+}

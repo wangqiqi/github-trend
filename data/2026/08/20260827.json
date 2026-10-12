@@ -1,0 +1,391 @@
+{
+  "date": "20260827",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 387830,
+          "forks": 81420
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 278614,
+          "forks": 24932
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 208035,
+          "forks": 21200
+        },
+        {
+          "rank": 4,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 200099,
+          "forks": 22859
+        },
+        {
+          "rank": 5,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195134,
+          "forks": 108875
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 148461,
+          "forks": 23954
+        },
+        {
+          "rank": 7,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 110870,
+          "forks": 12614
+        },
+        {
+          "rank": 8,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Go",
+          "stars": 101418,
+          "forks": 5887
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 94803,
+          "forks": 13364
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 92225,
+          "forks": 8107
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mdn/learning-area",
+          "url": "https://github.com/mdn/learning-area",
+          "description": "GitHub repo for the MDN Learning Area.",
+          "language": "HTML",
+          "stars": 7599,
+          "forks": 27239
+        },
+        {
+          "rank": 2,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19645
+        },
+        {
+          "rank": 3,
+          "name": "rafaballerini/rafaballerini",
+          "url": "https://github.com/rafaballerini/rafaballerini",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 2695,
+          "forks": 18900
+        },
+        {
+          "rank": 4,
+          "name": "Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "url": "https://github.com/Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "description": "⚡🦄Arbitrage between USDC/ETH 0.3% fee pool and USDC/ETH 0.05% fee pool",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 15975
+        },
+        {
+          "rank": 5,
+          "name": "mrsmookie/btcrecover",
+          "url": "https://github.com/mrsmookie/btcrecover",
+          "description": "An open source Bitcoin wallet password and seed recovery tool designed for the case where you alr...",
+          "language": "Python",
+          "stars": 7,
+          "forks": 14460
+        },
+        {
+          "rank": 6,
+          "name": "ccv-cat/cursor-unlimited",
+          "url": "https://github.com/ccv-cat/cursor-unlimited",
+          "description": "Cross-platform unlimited credits solution for Cursor Desktop.",
+          "language": "N/A",
+          "stars": 121,
+          "forks": 13891
+        },
+        {
+          "rank": 7,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 139,
+          "forks": 13752
+        },
+        {
+          "rank": 8,
+          "name": "MithunTechnologiesDevOps/Maven-Web-Application",
+          "url": "https://github.com/MithunTechnologiesDevOps/Maven-Web-Application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 124,
+          "forks": 13286
+        },
+        {
+          "rank": 9,
+          "name": "zaamrokk/Pokemon-Showdown",
+          "url": "https://github.com/zaamrokk/Pokemon-Showdown",
+          "description": "A Pokemon Showdown Battle AI",
+          "language": "Python",
+          "stars": 11,
+          "forks": 11551
+        },
+        {
+          "rank": 10,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9758
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial inte...",
+          "language": "JavaScript",
+          "stars": 7625,
+          "forks": 1759
+        },
+        {
+          "rank": 2,
+          "name": "zedeus/nitter",
+          "url": "https://github.com/zedeus/nitter",
+          "description": "Alternative Twitter front-end",
+          "language": "Nim",
+          "stars": 13826,
+          "forks": 1116
+        },
+        {
+          "rank": 3,
+          "name": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "language": "JavaScript",
+          "stars": 22933,
+          "forks": 2282
+        },
+        {
+          "rank": 4,
+          "name": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle ...",
+          "language": "JavaScript",
+          "stars": 22844,
+          "forks": 1477
+        },
+        {
+          "rank": 5,
+          "name": "JetBrains/go-modern-guidelines",
+          "url": "https://github.com/JetBrains/go-modern-guidelines",
+          "description": "Help AI coding agents write modern Go",
+          "language": "Go",
+          "stars": 2036,
+          "forks": 63
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 34647,
+          "forks": 3910
+        },
+        {
+          "rank": 7,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+...",
+          "language": "Python",
+          "stars": 35252,
+          "forks": 3389
+        },
+        {
+          "rank": 8,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 113933,
+          "forks": 6233
+        },
+        {
+          "rank": 9,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 52264,
+          "forks": 6548
+        },
+        {
+          "rank": 10,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 50117,
+          "forks": 8713
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 34647,
+          "forks": 3910
+        },
+        {
+          "rank": 2,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+...",
+          "language": "Python",
+          "stars": 35252,
+          "forks": 3389
+        },
+        {
+          "rank": 3,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 52264,
+          "forks": 6548
+        },
+        {
+          "rank": 4,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 50117,
+          "forks": 8713
+        },
+        {
+          "rank": 5,
+          "name": "AgriciDaniel/claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, lin...",
+          "language": "Python",
+          "stars": 13942,
+          "forks": 1423
+        },
+        {
+          "rank": 6,
+          "name": "marin-community/marin",
+          "url": "https://github.com/marin-community/marin",
+          "description": "Open-source framework for the research and development of foundation models.",
+          "language": "Python",
+          "stars": 2678,
+          "forks": 229
+        },
+        {
+          "rank": 7,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 73576,
+          "forks": 8437
+        },
+        {
+          "rank": 8,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 101145,
+          "forks": 19457
+        },
+        {
+          "rank": 9,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 16187,
+          "forks": 1715
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 172061,
+          "forks": 20448
+        }
+      ]
+    }
+  ]
+}

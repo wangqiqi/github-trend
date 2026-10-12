@@ -1,0 +1,391 @@
+{
+  "date": "20260630",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 223770,
+          "forks": 34249
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 206229,
+          "forks": 37275
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 151335,
+          "forks": 13078
+        },
+        {
+          "rank": 4,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 78165,
+          "forks": 4419
+        },
+        {
+          "rank": 5,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 68545,
+          "forks": 3518
+        },
+        {
+          "rank": 6,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur...",
+          "language": "TypeScript",
+          "stars": 56293,
+          "forks": 3469
+        },
+        {
+          "rank": 7,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 52295,
+          "forks": 45367
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+          "language": "Python",
+          "stars": 44890,
+          "forks": 7914
+        },
+        {
+          "rank": 9,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 42406,
+          "forks": 2365
+        },
+        {
+          "rank": 10,
+          "name": "siddharthvaddem/openscreen",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commer...",
+          "language": "TypeScript",
+          "stars": 39043,
+          "forks": 2827
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77676,
+          "forks": 45007
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 206229,
+          "forks": 37275
+        },
+        {
+          "rank": 3,
+          "name": "anuraghazra/github-readme-stats",
+          "url": "https://github.com/anuraghazra/github-readme-stats",
+          "description": ":zap: Dynamically generated stats for your github readmes",
+          "language": "JavaScript",
+          "stars": 79774,
+          "forks": 34496
+        },
+        {
+          "rank": 4,
+          "name": "langchain-ai/langchain",
+          "url": "https://github.com/langchain-ai/langchain",
+          "description": "The agent engineering platform.",
+          "language": "Python",
+          "stars": 140575,
+          "forks": 23333
+        },
+        {
+          "rank": 5,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 180810,
+          "forks": 22274
+        },
+        {
+          "rank": 6,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19757
+        },
+        {
+          "rank": 7,
+          "name": "Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "url": "https://github.com/Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "description": "⚡🦄Arbitrage between USDC/ETH 0.3% fee pool and USDC/ETH 0.05% fee pool",
+          "language": "JavaScript",
+          "stars": 7,
+          "forks": 15972
+        },
+        {
+          "rank": 8,
+          "name": "cloudflare/cloudflare-docs",
+          "url": "https://github.com/cloudflare/cloudflare-docs",
+          "description": "Cloudflare’s documentation",
+          "language": "MDX",
+          "stars": 4890,
+          "forks": 15416
+        },
+        {
+          "rank": 9,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 137,
+          "forks": 13783
+        },
+        {
+          "rank": 10,
+          "name": "Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "url": "https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "description": "cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo created by GitHub Classroom",
+          "language": "C",
+          "stars": 35,
+          "forks": 13746
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 27684,
+          "forks": 3098
+        },
+        {
+          "rank": 2,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 120159,
+          "forks": 19644
+        },
+        {
+          "rank": 3,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a lo...",
+          "language": "Swift",
+          "stars": 4729,
+          "forks": 292
+        },
+        {
+          "rank": 4,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code,...",
+          "language": "TypeScript",
+          "stars": 8178,
+          "forks": 1369
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 12353,
+          "forks": 1592
+        },
+        {
+          "rank": 6,
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire:...",
+          "language": "Python",
+          "stars": 7322,
+          "forks": 938
+        },
+        {
+          "rank": 7,
+          "name": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "description": "Common User Passwords Profiler (CUPP)",
+          "language": "Python",
+          "stars": 6025,
+          "forks": 2040
+        },
+        {
+          "rank": 8,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars": 127161,
+          "forks": 13293
+        },
+        {
+          "rank": 9,
+          "name": "google/agents-cli",
+          "url": "https://github.com/google/agents-cli",
+          "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and dep...",
+          "language": "Python",
+          "stars": 3874,
+          "forks": 438
+        },
+        {
+          "rank": 10,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars": 45754,
+          "forks": 4062
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 27684,
+          "forks": 3098
+        },
+        {
+          "rank": 2,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 12353,
+          "forks": 1592
+        },
+        {
+          "rank": 3,
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire:...",
+          "language": "Python",
+          "stars": 7322,
+          "forks": 938
+        },
+        {
+          "rank": 4,
+          "name": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "description": "Common User Passwords Profiler (CUPP)",
+          "language": "Python",
+          "stars": 6025,
+          "forks": 2040
+        },
+        {
+          "rank": 5,
+          "name": "google/agents-cli",
+          "url": "https://github.com/google/agents-cli",
+          "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and dep...",
+          "language": "Python",
+          "stars": 3874,
+          "forks": 438
+        },
+        {
+          "rank": 6,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars": 45754,
+          "forks": 4062
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 15565,
+          "forks": 2718
+        },
+        {
+          "rank": 8,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+          "language": "Python",
+          "stars": 8700,
+          "forks": 845
+        },
+        {
+          "rank": 9,
+          "name": "interviewstreet/hiring-agent",
+          "url": "https://github.com/interviewstreet/hiring-agent",
+          "description": "AI agent to evaluate and score resumes.",
+          "language": "Python",
+          "stars": 3923,
+          "forks": 781
+        },
+        {
+          "rank": 10,
+          "name": "shuvonsec/claude-bug-bounty",
+          "url": "https://github.com/shuvonsec/claude-bug-bounty",
+          "description": "AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, an...",
+          "language": "Python",
+          "stars": 3773,
+          "forks": 660
+        }
+      ]
+    }
+  ]
+}

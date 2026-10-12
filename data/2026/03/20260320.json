@@ -1,0 +1,382 @@
+{
+  "date": "20260320",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 126043,
+          "forks": 13309
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 100720,
+          "forks": 8038
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 89512,
+          "forks": 11724
+        },
+        {
+          "rank": 4,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 49874,
+          "forks": 2352
+        },
+        {
+          "rank": 5,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 49409,
+          "forks": 22726
+        },
+        {
+          "rank": 6,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 47147,
+          "forks": 4885
+        },
+        {
+          "rank": 7,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo; the best agent harness - previously oh-my-opencode",
+          "language": "TypeScript",
+          "stars": 41815,
+          "forks": 3119
+        },
+        {
+          "rank": 8,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 41485,
+          "forks": 5044
+        },
+        {
+          "rank": 9,
+          "name": "VoltAgent/awesome-openclaw-skills",
+          "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+          "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the offici...",
+          "language": "N/A",
+          "stars": 39975,
+          "forks": 3831
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "description": "\"🐈 nanobot: The Ultra-Lightweight OpenClaw\"",
+          "language": "Python",
+          "stars": 35091,
+          "forks": 5914
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2603,
+          "forks": 89426
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174110,
+          "forks": 79043
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2710,
+          "forks": 73024
+        },
+        {
+          "rank": 4,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 326439,
+          "forks": 63111
+        },
+        {
+          "rank": 5,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 224173,
+          "forks": 61084
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 108287,
+          "forks": 58037
+        },
+        {
+          "rank": 7,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 180160,
+          "forks": 55981
+        },
+        {
+          "rank": 8,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 179865,
+          "forks": 55515
+        },
+        {
+          "rank": 9,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 218896,
+          "forks": 50238
+        },
+        {
+          "rank": 10,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 182636,
+          "forks": 46231
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jarrodwatts/claude-hud",
+          "url": "https://github.com/jarrodwatts/claude-hud",
+          "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, a...",
+          "language": "JavaScript",
+          "stars": 9104,
+          "forks": 381
+        },
+        {
+          "rank": 2,
+          "name": "langchain-ai/open-swe",
+          "url": "https://github.com/langchain-ai/open-swe",
+          "description": "An Open-Source Asynchronous Coding Agent",
+          "language": "Python",
+          "stars": 7392,
+          "forks": 899
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 100720,
+          "forks": 8038
+        },
+        {
+          "rank": 4,
+          "name": "opendataloader-project/opendataloader-pdf",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+          "language": "Java",
+          "stars": 6573,
+          "forks": 476
+        },
+        {
+          "rank": 5,
+          "name": "louis-e/arnis",
+          "url": "https://github.com/louis-e/arnis",
+          "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+          "language": "Rust",
+          "stars": 11231,
+          "forks": 979
+        },
+        {
+          "rank": 6,
+          "name": "newton-physics/newton",
+          "url": "https://github.com/newton-physics/newton",
+          "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically ta...",
+          "language": "Python",
+          "stars": 3353,
+          "forks": 348
+        },
+        {
+          "rank": 7,
+          "name": "vas3k/TaxHacker",
+          "url": "https://github.com/vas3k/TaxHacker",
+          "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prom...",
+          "language": "TypeScript",
+          "stars": 1650,
+          "forks": 238
+        },
+        {
+          "rank": 8,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 33532,
+          "forks": 6472
+        },
+        {
+          "rank": 9,
+          "name": "openrocket/openrocket",
+          "url": "https://github.com/openrocket/openrocket",
+          "description": "Model-rocketry aerodynamics and trajectory simulation software",
+          "language": "Java",
+          "stars": 2065,
+          "forks": 569
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "langchain-ai/open-swe",
+          "url": "https://github.com/langchain-ai/open-swe",
+          "description": "An Open-Source Asynchronous Coding Agent",
+          "language": "Python",
+          "stars": 7392,
+          "forks": 899
+        },
+        {
+          "rank": 2,
+          "name": "newton-physics/newton",
+          "url": "https://github.com/newton-physics/newton",
+          "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically ta...",
+          "language": "Python",
+          "stars": 3353,
+          "forks": 348
+        },
+        {
+          "rank": 3,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 33532,
+          "forks": 6472
+        },
+        {
+          "rank": 4,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 16479,
+          "forks": 1739
+        },
+        {
+          "rank": 5,
+          "name": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "description": "Give your agents the power of the Hugging Face ecosystem",
+          "language": "Python",
+          "stars": 9477,
+          "forks": 569
+        },
+        {
+          "rank": 6,
+          "name": "astral-sh/ty",
+          "url": "https://github.com/astral-sh/ty",
+          "description": "An extremely fast Python type checker and language server, written in Rust.",
+          "language": "Python",
+          "stars": 17893,
+          "forks": 259
+        },
+        {
+          "rank": 7,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+          "language": "Python",
+          "stars": 57003,
+          "forks": 4787
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/apm",
+          "url": "https://github.com/microsoft/apm",
+          "description": "Agent Package Manager",
+          "language": "Python",
+          "stars": 607,
+          "forks": 44
+        },
+        {
+          "rank": 9,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars": 5041,
+          "forks": 570
+        },
+        {
+          "rank": 10,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 78814,
+          "forks": 6686
+        }
+      ]
+    }
+  ]
+}

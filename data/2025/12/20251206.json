@@ -1,0 +1,391 @@
+{
+  "date": "20251206",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100594,
+          "forks": 16400
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 99626,
+          "forks": 26688
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91552,
+          "forks": 11782
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 86031,
+          "forks": 9813
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 53694,
+          "forks": 4641
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 52026,
+          "forks": 6605
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51140,
+          "forks": 8916
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 47041,
+          "forks": 5251
+        },
+        {
+          "rank": 9,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 45215,
+          "forks": 5403
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 44797,
+          "forks": 3102
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 334458,
+          "forks": 81401
+        },
+        {
+          "rank": 2,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 192695,
+          "forks": 75027
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2634,
+          "forks": 72746
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 378329,
+          "forks": 65607
+        },
+        {
+          "rank": 5,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 175894,
+          "forks": 55038
+        },
+        {
+          "rank": 6,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37312,
+          "forks": 53980
+        },
+        {
+          "rank": 7,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 328665,
+          "forks": 53560
+        },
+        {
+          "rank": 8,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 160907,
+          "forks": 51524
+        },
+        {
+          "rank": 9,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 152916,
+          "forks": 46074
+        },
+        {
+          "rank": 10,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 344940,
+          "forks": 43478
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 10754,
+          "forks": 1379
+        },
+        {
+          "rank": 2,
+          "name": "rustfs/rustfs",
+          "url": "https://github.com/rustfs/rustfs",
+          "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-per...",
+          "language": "Rust",
+          "stars": 14905,
+          "forks": 643
+        },
+        {
+          "rank": 3,
+          "name": "RosettaCommons/foundry",
+          "url": "https://github.com/RosettaCommons/foundry",
+          "description": "Central repository for biomolecular foundation models with shared trainers and pipeline components",
+          "language": "Python",
+          "stars": 366,
+          "forks": 53
+        },
+        {
+          "rank": 4,
+          "name": "sinelaw/fresh",
+          "url": "https://github.com/sinelaw/fresh",
+          "description": "Text editor for your terminal: easy, powerful and fast",
+          "language": "Rust",
+          "stars": 655,
+          "forks": 19
+        },
+        {
+          "rank": 5,
+          "name": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "language": "Jupyter Notebook",
+          "stars": 21306,
+          "forks": 3545
+        },
+        {
+          "rank": 6,
+          "name": "psviderski/uncloud",
+          "url": "https://github.com/psviderski/uncloud",
+          "description": "A lightweight tool for deploying and managing containerised applications across a network of Dock...",
+          "language": "Go",
+          "stars": 3715,
+          "forks": 94
+        },
+        {
+          "rank": 7,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Zig",
+          "stars": 84266,
+          "forks": 3728
+        },
+        {
+          "rank": 8,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 241255,
+          "forks": 50015
+        },
+        {
+          "rank": 9,
+          "name": "lynx-family/lynx",
+          "url": "https://github.com/lynx-family/lynx",
+          "description": "Empower the Web community and invite more to build across platforms.",
+          "language": "C++",
+          "stars": 13732,
+          "forks": 476
+        },
+        {
+          "rank": 10,
+          "name": "DevCaress/guia-entrevistas-de-programacion",
+          "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
+          "description": "",
+          "language": "N/A",
+          "stars": 6676,
+          "forks": 921
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 10754,
+          "forks": 1379
+        },
+        {
+          "rank": 2,
+          "name": "RosettaCommons/foundry",
+          "url": "https://github.com/RosettaCommons/foundry",
+          "description": "Central repository for biomolecular foundation models with shared trainers and pipeline components",
+          "language": "Python",
+          "stars": 366,
+          "forks": 53
+        },
+        {
+          "rank": 3,
+          "name": "sapientinc/HRM",
+          "url": "https://github.com/sapientinc/HRM",
+          "description": "Hierarchical Reasoning Model Official Release",
+          "language": "Python",
+          "stars": 11991,
+          "forks": 1759
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "description": "A collection of projects designed to help developers quickly get started with building deployable...",
+          "language": "Python",
+          "stars": 10720,
+          "forks": 1953
+        },
+        {
+          "rank": 5,
+          "name": "zhu-xlab/GlobalBuildingAtlas",
+          "url": "https://github.com/zhu-xlab/GlobalBuildingAtlas",
+          "description": "",
+          "language": "Python",
+          "stars": 730,
+          "forks": 70
+        },
+        {
+          "rank": 6,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 17137,
+          "forks": 1213
+        },
+        {
+          "rank": 7,
+          "name": "fastapi/fastapi",
+          "url": "https://github.com/fastapi/fastapi",
+          "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+          "language": "Python",
+          "stars": 92758,
+          "forks": 8330
+        },
+        {
+          "rank": 8,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A curated list of awesome commands, files, and workflows for Claude Code",
+          "language": "Python",
+          "stars": 17665,
+          "forks": 999
+        },
+        {
+          "rank": 9,
+          "name": "MODSetter/SurfSense",
+          "url": "https://github.com/MODSetter/SurfSense",
+          "description": "Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, ...",
+          "language": "Python",
+          "stars": 11058,
+          "forks": 907
+        },
+        {
+          "rank": 10,
+          "name": "pytorch/executorch",
+          "url": "https://github.com/pytorch/executorch",
+          "description": "On-device AI across mobile, embedded and edge for PyTorch",
+          "language": "Python",
+          "stars": 3637,
+          "forks": 748
+        }
+      ]
+    }
+  ]
+}

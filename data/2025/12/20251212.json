@@ -1,0 +1,391 @@
+{
+  "date": "20251212",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 100382,
+          "forks": 26841
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91577,
+          "forks": 11779
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 87017,
+          "forks": 9951
+        },
+        {
+          "rank": 4,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 52379,
+          "forks": 6691
+        },
+        {
+          "rank": 5,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51252,
+          "forks": 8944
+        },
+        {
+          "rank": 6,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 47591,
+          "forks": 5398
+        },
+        {
+          "rank": 7,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 45698,
+          "forks": 5472
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 45602,
+          "forks": 3180
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44303,
+          "forks": 4312
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+...",
+          "language": "Python",
+          "stars": 38833,
+          "forks": 20409
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 51659,
+          "forks": 95186
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173782,
+          "forks": 79173
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 192760,
+          "forks": 75046
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2635,
+          "forks": 72757
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18449,
+          "forks": 64900
+        },
+        {
+          "rank": 6,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 86669,
+          "forks": 60680
+        },
+        {
+          "rank": 7,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 210489,
+          "forks": 58834
+        },
+        {
+          "rank": 8,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 176302,
+          "forks": 55117
+        },
+        {
+          "rank": 9,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 96938,
+          "forks": 54196
+        },
+        {
+          "rank": 10,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 162204,
+          "forks": 51904
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "JavaScript",
+          "stars": 4166,
+          "forks": 236
+        },
+        {
+          "rank": 2,
+          "name": "block/goose",
+          "url": "https://github.com/block/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, a...",
+          "language": "Rust",
+          "stars": 23947,
+          "forks": 2136
+        },
+        {
+          "rank": 3,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 8142,
+          "forks": 883
+        },
+        {
+          "rank": 4,
+          "name": "agentsmd/agents.md",
+          "url": "https://github.com/agentsmd/agents.md",
+          "description": "AGENTS.md — a simple, open format for guiding coding agents",
+          "language": "TypeScript",
+          "stars": 10637,
+          "forks": 803
+        },
+        {
+          "rank": 5,
+          "name": "GoogleCloudPlatform/agent-starter-pack",
+          "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
+          "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in C...",
+          "language": "Python",
+          "stars": 4263,
+          "forks": 1107
+        },
+        {
+          "rank": 6,
+          "name": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "description": "Experimental menu for GTA 5: Enhanced",
+          "language": "C++",
+          "stars": 779,
+          "forks": 220
+        },
+        {
+          "rank": 7,
+          "name": "refly-ai/refly",
+          "url": "https://github.com/refly-ai/refly",
+          "description": "Vibe Workflow Platform for Non-technical Creators.",
+          "language": "TypeScript",
+          "stars": 5083,
+          "forks": 465
+        },
+        {
+          "rank": 8,
+          "name": "HotCakeX/Harden-Windows-Security",
+          "url": "https://github.com/HotCakeX/Harden-Windows-Security",
+          "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation...",
+          "language": "C#",
+          "stars": 3626,
+          "forks": 278
+        },
+        {
+          "rank": 9,
+          "name": "DayuanJiang/next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows ...",
+          "language": "TypeScript",
+          "stars": 7961,
+          "forks": 847
+        },
+        {
+          "rank": 10,
+          "name": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "description": "Turso is an in-process SQL database, compatible with SQLite.",
+          "language": "Rust",
+          "stars": 15122,
+          "forks": 626
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 8142,
+          "forks": 883
+        },
+        {
+          "rank": 2,
+          "name": "GoogleCloudPlatform/agent-starter-pack",
+          "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
+          "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in C...",
+          "language": "Python",
+          "stars": 4263,
+          "forks": 1107
+        },
+        {
+          "rank": 3,
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-e...",
+          "language": "Python",
+          "stars": 69609,
+          "forks": 7551
+        },
+        {
+          "rank": 4,
+          "name": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "language": "Python",
+          "stars": 137026,
+          "forks": 10989
+        },
+        {
+          "rank": 5,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+          "language": "Python",
+          "stars": 37724,
+          "forks": 6048
+        },
+        {
+          "rank": 6,
+          "name": "THUDM/slime",
+          "url": "https://github.com/THUDM/slime",
+          "description": "slime is an LLM post-training framework for RL Scaling.",
+          "language": "Python",
+          "stars": 2807,
+          "forks": 324
+        },
+        {
+          "rank": 7,
+          "name": "SkyworkAI/SkyReels-V2",
+          "url": "https://github.com/SkyworkAI/SkyReels-V2",
+          "description": "SkyReels-V2: Infinite-length Film Generative model",
+          "language": "Python",
+          "stars": 5159,
+          "forks": 819
+        },
+        {
+          "rank": 8,
+          "name": "oomol-lab/pdf-craft",
+          "url": "https://github.com/oomol-lab/pdf-craft",
+          "description": "PDF craft can convert PDF files into various other formats. This project will focus on processing...",
+          "language": "Python",
+          "stars": 3615,
+          "forks": 214
+        },
+        {
+          "rank": 9,
+          "name": "TEN-framework/ten-framework",
+          "url": "https://github.com/TEN-framework/ten-framework",
+          "description": "Open-source framework for conversational voice AI agents",
+          "language": "Python",
+          "stars": 9111,
+          "forks": 1059
+        },
+        {
+          "rank": 10,
+          "name": "aurelio-labs/semantic-router",
+          "url": "https://github.com/aurelio-labs/semantic-router",
+          "description": "Superfast AI decision making and intelligent processing of multi-modal data.",
+          "language": "Python",
+          "stars": 3041,
+          "forks": 294
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260831",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 388259,
+          "forks": 81513
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 245106,
+          "forks": 37031
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 209101,
+          "forks": 21284
+        },
+        {
+          "rank": 4,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 206290,
+          "forks": 23929
+        },
+        {
+          "rank": 5,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195163,
+          "forks": 108810
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 172784,
+          "forks": 20524
+        },
+        {
+          "rank": 7,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 149264,
+          "forks": 24068
+        },
+        {
+          "rank": 8,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 123493,
+          "forks": 13221
+        },
+        {
+          "rank": 9,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 118121,
+          "forks": 6430
+        },
+        {
+          "rank": 10,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 112036,
+          "forks": 12730
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 198095,
+          "forks": 76228
+        },
+        {
+          "rank": 2,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 202959,
+          "forks": 60472
+        },
+        {
+          "rank": 3,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 64397,
+          "forks": 53999
+        },
+        {
+          "rank": 4,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 300,
+          "forks": 42415
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 190100,
+          "forks": 41913
+        },
+        {
+          "rank": 6,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1181,
+          "forks": 37904
+        },
+        {
+          "rank": 7,
+          "name": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabl...",
+          "language": "N/A",
+          "stars": 501663,
+          "forks": 36660
+        },
+        {
+          "rank": 8,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "language": "Python",
+          "stars": 281524,
+          "forks": 36094
+        },
+        {
+          "rank": 9,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 75308,
+          "forks": 35316
+        },
+        {
+          "rank": 10,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 143263,
+          "forks": 34845
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in jus...",
+          "language": "TypeScript",
+          "stars": 26595,
+          "forks": 4722
+        },
+        {
+          "rank": 2,
+          "name": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle ...",
+          "language": "JavaScript",
+          "stars": 38021,
+          "forks": 2445
+        },
+        {
+          "rank": 3,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+...",
+          "language": "Python",
+          "stars": 40570,
+          "forks": 3754
+        },
+        {
+          "rank": 4,
+          "name": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+          "language": "C#",
+          "stars": 23267,
+          "forks": 59362
+        },
+        {
+          "rank": 5,
+          "name": "majd/ipatool",
+          "url": "https://github.com/majd/ipatool",
+          "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS...",
+          "language": "Go",
+          "stars": 10466,
+          "forks": 894
+        },
+        {
+          "rank": 6,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+          "language": "Python",
+          "stars": 55947,
+          "forks": 7308
+        },
+        {
+          "rank": 7,
+          "name": "Osmantic/ODS",
+          "url": "https://github.com/Osmantic/ODS",
+          "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflo...",
+          "language": "Python",
+          "stars": 5357,
+          "forks": 768
+        },
+        {
+          "rank": 8,
+          "name": "checkstyle/checkstyle",
+          "url": "https://github.com/checkstyle/checkstyle",
+          "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding sta...",
+          "language": "Java",
+          "stars": 9368,
+          "forks": 4205
+        },
+        {
+          "rank": 9,
+          "name": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-pow...",
+          "language": "PowerShell",
+          "stars": 32988,
+          "forks": 4468
+        },
+        {
+          "rank": 10,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 245106,
+          "forks": 37031
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+...",
+          "language": "Python",
+          "stars": 40570,
+          "forks": 3754
+        },
+        {
+          "rank": 2,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+          "language": "Python",
+          "stars": 55947,
+          "forks": 7308
+        },
+        {
+          "rank": 3,
+          "name": "Osmantic/ODS",
+          "url": "https://github.com/Osmantic/ODS",
+          "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflo...",
+          "language": "Python",
+          "stars": 5357,
+          "forks": 768
+        },
+        {
+          "rank": 4,
+          "name": "kaifcodec/user-scanner",
+          "url": "https://github.com/kaifcodec/user-scanner",
+          "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Use...",
+          "language": "Python",
+          "stars": 4108,
+          "forks": 442
+        },
+        {
+          "rank": 5,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 29535,
+          "forks": 3240
+        },
+        {
+          "rank": 6,
+          "name": "handsomestWei/patent-disclosure-skill",
+          "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+          "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+          "language": "Python",
+          "stars": 6173,
+          "forks": 728
+        },
+        {
+          "rank": 7,
+          "name": "pollen-robotics/microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "description": "RL training environments for Microduck (mjlab)",
+          "language": "Python",
+          "stars": 1099,
+          "forks": 191
+        },
+        {
+          "rank": 8,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 22279,
+          "forks": 2758
+        },
+        {
+          "rank": 9,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 80570,
+          "forks": 8335
+        },
+        {
+          "rank": 10,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 21638,
+          "forks": 3492
+        }
+      ]
+    }
+  ]
+}

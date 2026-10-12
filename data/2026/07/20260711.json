@@ -1,0 +1,391 @@
+{
+  "date": "20260711",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 382564,
+          "forks": 80297
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 228418,
+          "forks": 35042
+        },
+        {
+          "rank": 3,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194710,
+          "forks": 109761
+        },
+        {
+          "rank": 4,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 190790,
+          "forks": 19581
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 160255,
+          "forks": 18917
+        },
+        {
+          "rank": 6,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 104243,
+          "forks": 11022
+        },
+        {
+          "rank": 7,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 100852,
+          "forks": 11658
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 90811,
+          "forks": 13058
+        },
+        {
+          "rank": 9,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 87993,
+          "forks": 5056
+        },
+        {
+          "rank": 10,
+          "name": "pewdiepie-archdaemon/odysseus",
+          "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 82240,
+          "forks": 10812
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2669,
+          "forks": 92275
+        },
+        {
+          "rank": 2,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 196289,
+          "forks": 75490
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2786,
+          "forks": 73241
+        },
+        {
+          "rank": 4,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 89823,
+          "forks": 56683
+        },
+        {
+          "rank": 5,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 184061,
+          "forks": 55684
+        },
+        {
+          "rank": 6,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 56621,
+          "forks": 48712
+        },
+        {
+          "rank": 7,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20526,
+          "forks": 44077
+        },
+        {
+          "rank": 8,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1159,
+          "forks": 41979
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 187427,
+          "forks": 41205
+        },
+        {
+          "rank": 10,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 88472,
+          "forks": 38021
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "catchorg/Catch2",
+          "url": "https://github.com/catchorg/Catch2",
+          "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (...",
+          "language": "C++",
+          "stars": 20711,
+          "forks": 3420
+        },
+        {
+          "rank": 2,
+          "name": "abseil/abseil-cpp",
+          "url": "https://github.com/abseil/abseil-cpp",
+          "description": "Abseil Common Libraries (C++)",
+          "language": "C++",
+          "stars": 17598,
+          "forks": 3206
+        },
+        {
+          "rank": 3,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 28882,
+          "forks": 3170
+        },
+        {
+          "rank": 4,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Age...",
+          "language": "TypeScript",
+          "stars": 6910,
+          "forks": 939
+        },
+        {
+          "rank": 5,
+          "name": "hashicorp/terraform",
+          "url": "https://github.com/hashicorp/terraform",
+          "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is...",
+          "language": "Go",
+          "stars": 49269,
+          "forks": 10683
+        },
+        {
+          "rank": 6,
+          "name": "zeux/meshoptimizer",
+          "url": "https://github.com/zeux/meshoptimizer",
+          "description": "Mesh optimization library that makes meshes smaller and faster to render",
+          "language": "C++",
+          "stars": 8081,
+          "forks": 788
+        },
+        {
+          "rank": 7,
+          "name": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "description": "OpenAI Plugins",
+          "language": "JavaScript",
+          "stars": 4314,
+          "forks": 643
+        },
+        {
+          "rank": 8,
+          "name": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file ed...",
+          "language": "TypeScript",
+          "stars": 7669,
+          "forks": 963
+        },
+        {
+          "rank": 9,
+          "name": "chriskohlhoff/asio",
+          "url": "https://github.com/chriskohlhoff/asio",
+          "description": "Asio C++ Library",
+          "language": "C++",
+          "stars": 6106,
+          "forks": 1509
+        },
+        {
+          "rank": 10,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Rust",
+          "stars": 94487,
+          "forks": 4958
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 28882,
+          "forks": 3170
+        },
+        {
+          "rank": 2,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 88472,
+          "forks": 38021
+        },
+        {
+          "rank": 3,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 69497,
+          "forks": 24270
+        },
+        {
+          "rank": 4,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 101733,
+          "forks": 28473
+        },
+        {
+          "rank": 5,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground. OpenManus is Coming.",
+          "language": "Python",
+          "stars": 57109,
+          "forks": 9942
+        },
+        {
+          "rank": 6,
+          "name": "Soju06/codex-lb",
+          "url": "https://github.com/Soju06/codex-lb",
+          "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode...",
+          "language": "Python",
+          "stars": 2256,
+          "forks": 349
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and ...",
+          "language": "Python",
+          "stars": 4819,
+          "forks": 845
+        },
+        {
+          "rank": 8,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 164175,
+          "forks": 30534
+        },
+        {
+          "rank": 9,
+          "name": "openai/openai-python",
+          "url": "https://github.com/openai/openai-python",
+          "description": "The official Python library for the OpenAI API",
+          "language": "Python",
+          "stars": 31232,
+          "forks": 5020
+        },
+        {
+          "rank": 10,
+          "name": "lllyasviel/Fooocus",
+          "url": "https://github.com/lllyasviel/Fooocus",
+          "description": "Focus on prompting and generating",
+          "language": "Python",
+          "stars": 50965,
+          "forks": 8337
+        }
+      ]
+    }
+  ]
+}

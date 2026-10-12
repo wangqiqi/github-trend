@@ -1,0 +1,391 @@
+{
+  "date": "20251024",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99923,
+          "forks": 16301
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 92984,
+          "forks": 25153
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91363,
+          "forks": 11766
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 82060,
+          "forks": 4592
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 80266,
+          "forks": 8837
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 73519,
+          "forks": 6139
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 71712,
+          "forks": 8492
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 71161,
+          "forks": 8493
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50455,
+          "forks": 8822
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 48729,
+          "forks": 5906
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50981,
+          "forks": 93114
+        },
+        {
+          "rank": 2,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18084,
+          "forks": 63875
+        },
+        {
+          "rank": 3,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 205586,
+          "forks": 58039
+        },
+        {
+          "rank": 4,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 240015,
+          "forks": 49645
+        },
+        {
+          "rank": 5,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 211931,
+          "forks": 48928
+        },
+        {
+          "rank": 6,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1141,
+          "forks": 42258
+        },
+        {
+          "rank": 7,
+          "name": "zizifn/edgetunnel",
+          "url": "https://github.com/zizifn/edgetunnel",
+          "description": "Running V2ray inside edge/serverless runtime",
+          "language": "JavaScript",
+          "stars": 8060,
+          "forks": 38982
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 517,
+          "forks": 32117
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 151549,
+          "forks": 30924
+        },
+        {
+          "rank": 10,
+          "name": "trekhleb/javascript-algorithms",
+          "url": "https://github.com/trekhleb/javascript-algorithms",
+          "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further...",
+          "language": "JavaScript",
+          "stars": 193635,
+          "forks": 30916
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 50600,
+          "forks": 2221
+        },
+        {
+          "rank": 2,
+          "name": "guofei9987/blind_watermark",
+          "url": "https://github.com/guofei9987/blind_watermark",
+          "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+          "language": "Python",
+          "stars": 9168,
+          "forks": 961
+        },
+        {
+          "rank": 3,
+          "name": "hoppscotch/hoppscotch",
+          "url": "https://github.com/hoppscotch/hoppscotch",
+          "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman...",
+          "language": "TypeScript",
+          "stars": 75526,
+          "forks": 5310
+        },
+        {
+          "rank": 4,
+          "name": "zephyrproject-rtos/zephyr",
+          "url": "https://github.com/zephyrproject-rtos/zephyr",
+          "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, s...",
+          "language": "C",
+          "stars": 13367,
+          "forks": 8099
+        },
+        {
+          "rank": 5,
+          "name": "minio/minio",
+          "url": "https://github.com/minio/minio",
+          "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+          "language": "Go",
+          "stars": 57056,
+          "forks": 6345
+        },
+        {
+          "rank": 6,
+          "name": "emcie-co/parlant",
+          "url": "https://github.com/emcie-co/parlant",
+          "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+          "language": "Python",
+          "stars": 14548,
+          "forks": 1182
+        },
+        {
+          "rank": 7,
+          "name": "zyronon/TypeWords",
+          "url": "https://github.com/zyronon/TypeWords",
+          "description": "练习英语，一次敲击，一点进步；Practice English, one strike, one step forward",
+          "language": "Vue",
+          "stars": 4532,
+          "forks": 533
+        },
+        {
+          "rank": 8,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 33285,
+          "forks": 2077
+        },
+        {
+          "rank": 9,
+          "name": "PowerShell/PowerShell",
+          "url": "https://github.com/PowerShell/PowerShell",
+          "description": "PowerShell for every system!",
+          "language": "C#",
+          "stars": 50432,
+          "forks": 8005
+        },
+        {
+          "rank": 10,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 8373,
+          "forks": 750
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "guofei9987/blind_watermark",
+          "url": "https://github.com/guofei9987/blind_watermark",
+          "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+          "language": "Python",
+          "stars": 9168,
+          "forks": 961
+        },
+        {
+          "rank": 2,
+          "name": "emcie-co/parlant",
+          "url": "https://github.com/emcie-co/parlant",
+          "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+          "language": "Python",
+          "stars": 14548,
+          "forks": 1182
+        },
+        {
+          "rank": 3,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 33285,
+          "forks": 2077
+        },
+        {
+          "rank": 4,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 8373,
+          "forks": 750
+        },
+        {
+          "rank": 5,
+          "name": "OpenMind/OM1",
+          "url": "https://github.com/OpenMind/OM1",
+          "description": "Modular AI runtime for robots",
+          "language": "Python",
+          "stars": 978,
+          "forks": 331
+        },
+        {
+          "rank": 6,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 132049,
+          "forks": 10613
+        },
+        {
+          "rank": 7,
+          "name": "isaac-sim/IsaacSim",
+          "url": "https://github.com/isaac-sim/IsaacSim",
+          "description": "NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, a...",
+          "language": "Python",
+          "stars": 1643,
+          "forks": 203
+        },
+        {
+          "rank": 8,
+          "name": "rossant/awesome-math",
+          "url": "https://github.com/rossant/awesome-math",
+          "description": "A curated list of awesome mathematics resources",
+          "language": "Python",
+          "stars": 11361,
+          "forks": 1137
+        },
+        {
+          "rank": 9,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 16532,
+          "forks": 1154
+        },
+        {
+          "rank": 10,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 60924,
+          "forks": 10750
+        }
+      ]
+    }
+  ]
+}

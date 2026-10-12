@@ -1,0 +1,421 @@
+{
+  "date": "20250403",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 94991,
+          "forks": 15375
+        },
+        {
+          "rank": 2,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 35868,
+          "forks": 375
+        },
+        {
+          "rank": 3,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 30156,
+          "forks": 3151
+        },
+        {
+          "rank": 4,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1",
+          "language": "TypeScript",
+          "stars": 21990,
+          "forks": 1857
+        },
+        {
+          "rank": 5,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21174,
+          "forks": 1497
+        },
+        {
+          "rank": 6,
+          "name": "ItzCrazyKns/Perplexica",
+          "url": "https://github.com/ItzCrazyKns/Perplexica",
+          "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+          "language": "TypeScript",
+          "stars": 21101,
+          "forks": 2132
+        },
+        {
+          "rank": 7,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 20473,
+          "forks": 3714
+        },
+        {
+          "rank": 8,
+          "name": "XiaoMi/ha_xiaomi_home",
+          "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+          "description": "Xiaomi Home Integration for Home Assistant",
+          "language": "Python",
+          "stars": 19183,
+          "forks": 960
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/typescript-go",
+          "url": "https://github.com/microsoft/typescript-go",
+          "description": "Staging repo for development of native port of TypeScript",
+          "language": "Go",
+          "stars": 18795,
+          "forks": 559
+        },
+        {
+          "rank": 10,
+          "name": "deepseek-ai/Janus",
+          "url": "https://github.com/deepseek-ai/Janus",
+          "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+          "language": "Python",
+          "stars": 17018,
+          "forks": 2221
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 12913,
+          "forks": 150228
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "JavaScript",
+          "stars": 171882,
+          "forks": 79059
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 313933,
+          "forks": 78297
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "HTML",
+          "stars": 354382,
+          "forks": 63140
+        },
+        {
+          "rank": 5,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 82460,
+          "forks": 61068
+        },
+        {
+          "rank": 6,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56740
+        },
+        {
+          "rank": 7,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 94155,
+          "forks": 51809
+        },
+        {
+          "rank": 8,
+          "name": "CyC2018/CS-Notes",
+          "url": "https://github.com/CyC2018/CS-Notes",
+          "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+          "language": "N/A",
+          "stars": 179634,
+          "forks": 51208
+        },
+        {
+          "rank": 9,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 6937,
+          "forks": 50344
+        },
+        {
+          "rank": 10,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 284,
+          "forks": 43354
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nuejs/nue",
+          "url": "https://github.com/nuejs/nue",
+          "description": "Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak",
+          "language": "JavaScript",
+          "stars": 7405,
+          "forks": 214
+        },
+        {
+          "rank": 2,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 36222,
+          "forks": 3178
+        },
+        {
+          "rank": 3,
+          "name": "elie222/inbox-zero",
+          "url": "https://github.com/elie222/inbox-zero",
+          "description": "Open source email app to reach inbox zero fast.",
+          "language": "TypeScript",
+          "stars": 4531,
+          "forks": 512
+        },
+        {
+          "rank": 4,
+          "name": "SLAM-Handbook-contributors/slam-handbook-public-release",
+          "url": "https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release",
+          "description": "Release repo for our SLAM Handbook",
+          "language": "N/A",
+          "stars": 2507,
+          "forks": 119
+        },
+        {
+          "rank": 5,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 83597,
+          "forks": 8477
+        },
+        {
+          "rank": 6,
+          "name": "arthenica/ffmpeg-kit",
+          "url": "https://github.com/arthenica/ffmpeg-kit",
+          "description": "FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS....",
+          "language": "C",
+          "stars": 5058,
+          "forks": 1359
+        },
+        {
+          "rank": 7,
+          "name": "unionlabs/union",
+          "url": "https://github.com/unionlabs/union",
+          "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem...",
+          "language": "Rust",
+          "stars": 51180,
+          "forks": 2569
+        },
+        {
+          "rank": 8,
+          "name": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+          "language": "TypeScript",
+          "stars": 19204,
+          "forks": 3057
+        },
+        {
+          "rank": 9,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 52253,
+          "forks": 5543
+        },
+        {
+          "rank": 10,
+          "name": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamVie...",
+          "language": "Rust",
+          "stars": 85896,
+          "forks": 12092
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 36222,
+          "forks": 3178
+        },
+        {
+          "rank": 2,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 52253,
+          "forks": 5543
+        },
+        {
+          "rank": 3,
+          "name": "All-Hands-AI/OpenHands",
+          "url": "https://github.com/All-Hands-AI/OpenHands",
+          "description": "🙌 OpenHands: Code Less, Make More",
+          "language": "Python",
+          "stars": 52174,
+          "forks": 5791
+        },
+        {
+          "rank": 4,
+          "name": "keephq/keep",
+          "url": "https://github.com/keephq/keep",
+          "description": "The open-source AIOps and alert management platform",
+          "language": "Python",
+          "stars": 9884,
+          "forks": 921
+        },
+        {
+          "rank": 5,
+          "name": "simular-ai/Agent-S",
+          "url": "https://github.com/simular-ai/Agent-S",
+          "description": "Agent S: an open agentic framework that uses computers like a human",
+          "language": "Python",
+          "stars": 1498,
+          "forks": 170
+        },
+        {
+          "rank": 6,
+          "name": "instructlab/instructlab",
+          "url": "https://github.com/instructlab/instructlab",
+          "description": "InstructLab Core package. Use this to chat with a model and execute the InstructLab workflow to t...",
+          "language": "Python",
+          "stars": 1215,
+          "forks": 405
+        },
+        {
+          "rank": 7,
+          "name": "run-llama/llama_cloud_services",
+          "url": "https://github.com/run-llama/llama_cloud_services",
+          "description": "Knowledge Agents and Management in the Cloud",
+          "language": "Python",
+          "stars": 3853,
+          "forks": 384
+        },
+        {
+          "rank": 8,
+          "name": "MetaCubeX/mihomo",
+          "url": "https://github.com/MetaCubeX/mihomo",
+          "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.",
+          "language": "Python",
+          "stars": 19294,
+          "forks": 2911
+        },
+        {
+          "rank": 9,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 18236,
+          "forks": 2039
+        },
+        {
+          "rank": 10,
+          "name": "VAST-AI-Research/TripoSR",
+          "url": "https://github.com/VAST-AI-Research/TripoSR",
+          "description": "TripoSR: Fast 3D Object Reconstruction from a Single Image",
+          "language": "Python",
+          "stars": 5176,
+          "forks": 606
+        }
+      ]
+    },
+    {
+      "id": "deep-learning",
+      "title": "Deep Learning",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Razor-AHRS/razor-9dof-ahrs",
+          "url": "https://github.com/Razor-AHRS/razor-9dof-ahrs",
+          "description": "AHRS Firmware for the SparkFun 9DOF Razor IMU and SparkFun 9DOF Sensor Stick",
+          "language": "Arduino",
+          "stars": 457,
+          "forks": 264
+        }
+      ]
+    },
+    {
+      "id": "machine-learning",
+      "title": "Machine Learning",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Razor-AHRS/razor-9dof-ahrs",
+          "url": "https://github.com/Razor-AHRS/razor-9dof-ahrs",
+          "description": "AHRS Firmware for the SparkFun 9DOF Razor IMU and SparkFun 9DOF Sensor Stick",
+          "language": "Arduino",
+          "stars": 457,
+          "forks": 264
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "date": "20260318",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 124533,
+          "forks": 13071
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 96574,
+          "forks": 10407
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 94626,
+          "forks": 7490
+        },
+        {
+          "rank": 4,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 49582,
+          "forks": 2343
+        },
+        {
+          "rank": 5,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 49220,
+          "forks": 22680
+        },
+        {
+          "rank": 6,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 44705,
+          "forks": 4296
+        },
+        {
+          "rank": 7,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 41222,
+          "forks": 1158
+        },
+        {
+          "rank": 8,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 41205,
+          "forks": 5024
+        },
+        {
+          "rank": 9,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital...",
+          "language": "Rust",
+          "stars": 37970,
+          "forks": 5202
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 37906,
+          "forks": 2723
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 215,
+          "forks": 27407
+        },
+        {
+          "rank": 2,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 168,
+          "forks": 19950
+        },
+        {
+          "rank": 3,
+          "name": "mrsmookie/btcrecover",
+          "url": "https://github.com/mrsmookie/btcrecover",
+          "description": "An open source Bitcoin wallet password and seed recovery tool designed for the case where you alr...",
+          "language": "Python",
+          "stars": 2,
+          "forks": 14458
+        },
+        {
+          "rank": 4,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 216,
+          "forks": 9782
+        },
+        {
+          "rank": 5,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9784
+        },
+        {
+          "rank": 6,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8923
+        },
+        {
+          "rank": 7,
+          "name": "javahometech/my-app",
+          "url": "https://github.com/javahometech/my-app",
+          "description": "No description",
+          "language": "Java",
+          "stars": 88,
+          "forks": 8713
+        },
+        {
+          "rank": 8,
+          "name": "Guru322/GURU-Ai",
+          "url": "https://github.com/Guru322/GURU-Ai",
+          "description": "SIMPLE YET COMPLICATED 🚩",
+          "language": "JavaScript",
+          "stars": 1155,
+          "forks": 8338
+        },
+        {
+          "rank": 9,
+          "name": "KinesisCorporation/Adv360-Pro-ZMK",
+          "url": "https://github.com/KinesisCorporation/Adv360-Pro-ZMK",
+          "description": "Production repository for the all-new Advantage360 Professional using ZMK engine",
+          "language": "Shell",
+          "stars": 579,
+          "forks": 8062
+        },
+        {
+          "rank": 10,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-deploy",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "HTML",
+          "stars": 41,
+          "forks": 7341
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jarrodwatts/claude-hud",
+          "url": "https://github.com/jarrodwatts/claude-hud",
+          "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, a...",
+          "language": "JavaScript",
+          "stars": 6214,
+          "forks": 272
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 94626,
+          "forks": 7490
+        },
+        {
+          "rank": 3,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.",
+          "language": "Python",
+          "stars": 55168,
+          "forks": 4635
+        },
+        {
+          "rank": 4,
+          "name": "newton-physics/newton",
+          "url": "https://github.com/newton-physics/newton",
+          "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically ta...",
+          "language": "Python",
+          "stars": 2752,
+          "forks": 306
+        },
+        {
+          "rank": 5,
+          "name": "shadps4-emu/shadPS4",
+          "url": "https://github.com/shadps4-emu/shadPS4",
+          "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+          "language": "C++",
+          "stars": 29564,
+          "forks": 2018
+        },
+        {
+          "rank": 6,
+          "name": "langchain-ai/open-swe",
+          "url": "https://github.com/langchain-ai/open-swe",
+          "description": "An Open-Source Asynchronous Coding Agent",
+          "language": "Python",
+          "stars": 5851,
+          "forks": 783
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.",
+          "language": "Python",
+          "stars": 55168,
+          "forks": 4635
+        },
+        {
+          "rank": 2,
+          "name": "newton-physics/newton",
+          "url": "https://github.com/newton-physics/newton",
+          "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically ta...",
+          "language": "Python",
+          "stars": 2752,
+          "forks": 306
+        },
+        {
+          "rank": 3,
+          "name": "langchain-ai/open-swe",
+          "url": "https://github.com/langchain-ai/open-swe",
+          "description": "An Open-Source Asynchronous Coding Agent",
+          "language": "Python",
+          "stars": 5851,
+          "forks": 783
+        },
+        {
+          "rank": 4,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 15551,
+          "forks": 1612
+        },
+        {
+          "rank": 5,
+          "name": "roboflow/trackers",
+          "url": "https://github.com/roboflow/trackers",
+          "description": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms ...",
+          "language": "Python",
+          "stars": 3073,
+          "forks": 296
+        },
+        {
+          "rank": 6,
+          "name": "coleam00/context-engineering-intro",
+          "url": "https://github.com/coleam00/context-engineering-intro",
+          "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants w...",
+          "language": "Python",
+          "stars": 12795,
+          "forks": 2657
+        },
+        {
+          "rank": 7,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 23681,
+          "forks": 3135
+        },
+        {
+          "rank": 8,
+          "name": "am-will/codex-skills",
+          "url": "https://github.com/am-will/codex-skills",
+          "description": "",
+          "language": "Python",
+          "stars": 768,
+          "forks": 41
+        },
+        {
+          "rank": 9,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product ...",
+          "language": "Python",
+          "stars": 32097,
+          "forks": 2408
+        },
+        {
+          "rank": 10,
+          "name": "1Panel-dev/MaxKB",
+          "url": "https://github.com/1Panel-dev/MaxKB",
+          "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. 强大易用的开源企业级智能体平台。",
+          "language": "Python",
+          "stars": 20421,
+          "forks": 2690
+        }
+      ]
+    }
+  ]
+}

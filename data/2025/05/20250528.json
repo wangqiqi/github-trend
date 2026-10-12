@@ -1,0 +1,391 @@
+{
+  "date": "20250528",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97208,
+          "forks": 15796
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 89502,
+          "forks": 11574
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 61733,
+          "forks": 6913
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 58037,
+          "forks": 2988
+        },
+        {
+          "rank": 5,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 56293,
+          "forks": 1113
+        },
+        {
+          "rank": 6,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 52874,
+          "forks": 16187
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 51826,
+          "forks": 3885
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 49558,
+          "forks": 5655
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 46180,
+          "forks": 8068
+        },
+        {
+          "rank": 10,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 44644,
+          "forks": 5348
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6601,
+          "forks": 243569
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13031,
+          "forks": 151304
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 854,
+          "forks": 143911
+        },
+        {
+          "rank": 4,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28407,
+          "forks": 86706
+        },
+        {
+          "rank": 5,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48616,
+          "forks": 86521
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 166844,
+          "forks": 83086
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1827,
+          "forks": 79457
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172347,
+          "forks": 79126
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 318201,
+          "forks": 78906
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190151,
+          "forks": 74688
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Fosowl/agenticSeek",
+          "url": "https://github.com/Fosowl/agenticSeek",
+          "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, brow...",
+          "language": "Python",
+          "stars": 10734,
+          "forks": 894
+        },
+        {
+          "rank": 2,
+          "name": "duixcom/Duix.mobile",
+          "url": "https://github.com/duixcom/Duix.mobile",
+          "description": "",
+          "language": "C++",
+          "stars": 6441,
+          "forks": 945
+        },
+        {
+          "rank": 3,
+          "name": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "description": "🎓 Path to a free self-taught education in Computer Science!",
+          "language": "HTML",
+          "stars": 183872,
+          "forks": 23093
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empow...",
+          "language": "Python",
+          "stars": 22818,
+          "forks": 3541
+        },
+        {
+          "rank": 5,
+          "name": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+          "language": "Python",
+          "stars": 65011,
+          "forks": 6599
+        },
+        {
+          "rank": 6,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 100013,
+          "forks": 27787
+        },
+        {
+          "rank": 7,
+          "name": "zhayujie/chatgpt-on-wechat",
+          "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+          "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问...",
+          "language": "Python",
+          "stars": 37032,
+          "forks": 9235
+        },
+        {
+          "rank": 8,
+          "name": "NomicFoundation/hardhat",
+          "url": "https://github.com/NomicFoundation/hardhat",
+          "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.",
+          "language": "TypeScript",
+          "stars": 7733,
+          "forks": 1557
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 5090,
+          "forks": 456
+        },
+        {
+          "rank": 10,
+          "name": "actions/runner-images",
+          "url": "https://github.com/actions/runner-images",
+          "description": "GitHub Actions runner images",
+          "language": "PowerShell",
+          "stars": 11128,
+          "forks": 3329
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Fosowl/agenticSeek",
+          "url": "https://github.com/Fosowl/agenticSeek",
+          "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, brow...",
+          "language": "Python",
+          "stars": 10734,
+          "forks": 894
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empow...",
+          "language": "Python",
+          "stars": 22818,
+          "forks": 3541
+        },
+        {
+          "rank": 3,
+          "name": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+          "language": "Python",
+          "stars": 65011,
+          "forks": 6599
+        },
+        {
+          "rank": 4,
+          "name": "zhayujie/chatgpt-on-wechat",
+          "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+          "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问...",
+          "language": "Python",
+          "stars": 37032,
+          "forks": 9235
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 5090,
+          "forks": 456
+        },
+        {
+          "rank": 6,
+          "name": "ccxt/ccxt",
+          "url": "https://github.com/ccxt/ccxt",
+          "description": "A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for mo...",
+          "language": "Python",
+          "stars": 36310,
+          "forks": 7914
+        },
+        {
+          "rank": 7,
+          "name": "sktime/sktime",
+          "url": "https://github.com/sktime/sktime",
+          "description": "A unified framework for machine learning with time series",
+          "language": "Python",
+          "stars": 8754,
+          "forks": 1578
+        },
+        {
+          "rank": 8,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 12542,
+          "forks": 882
+        },
+        {
+          "rank": 9,
+          "name": "kubernetes-client/python",
+          "url": "https://github.com/kubernetes-client/python",
+          "description": "Official Python client library for kubernetes",
+          "language": "Python",
+          "stars": 7111,
+          "forks": 3336
+        },
+        {
+          "rank": 10,
+          "name": "volcengine/verl",
+          "url": "https://github.com/volcengine/verl",
+          "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+          "language": "Python",
+          "stars": 8609,
+          "forks": 1073
+        }
+      ]
+    }
+  ]
+}

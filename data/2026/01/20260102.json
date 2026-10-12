@@ -1,0 +1,382 @@
+{
+  "date": "20260102",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 104809,
+          "forks": 27758
+        },
+        {
+          "rank": 2,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 89418,
+          "forks": 10304
+        },
+        {
+          "rank": 3,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 59089,
+          "forks": 5158
+        },
+        {
+          "rank": 4,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 55087,
+          "forks": 7032
+        },
+        {
+          "rank": 5,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51873,
+          "forks": 9092
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 50452,
+          "forks": 3598
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48955,
+          "forks": 5756
+        },
+        {
+          "rank": 8,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44752,
+          "forks": 4426
+        },
+        {
+          "rank": 9,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 40677,
+          "forks": 2008
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 39607,
+          "forks": 5055
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29248,
+          "forks": 87438
+        },
+        {
+          "rank": 2,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18627,
+          "forks": 65329
+        },
+        {
+          "rank": 3,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 86899,
+          "forks": 60595
+        },
+        {
+          "rank": 4,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 212367,
+          "forks": 59696
+        },
+        {
+          "rank": 5,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97144,
+          "forks": 54309
+        },
+        {
+          "rank": 6,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 166017,
+          "forks": 52925
+        },
+        {
+          "rank": 7,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 241979,
+          "forks": 50257
+        },
+        {
+          "rank": 8,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 216392,
+          "forks": 49851
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77692,
+          "forks": 45349
+        },
+        {
+          "rank": 10,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 346508,
+          "forks": 43585
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "HQarroum/docker-android",
+          "url": "https://github.com/HQarroum/docker-android",
+          "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+          "language": "Shell",
+          "stars": 1439,
+          "forks": 86
+        },
+        {
+          "rank": 2,
+          "name": "nocodb/nocodb",
+          "url": "https://github.com/nocodb/nocodb",
+          "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+          "language": "TypeScript",
+          "stars": 59807,
+          "forks": 4442
+        },
+        {
+          "rank": 3,
+          "name": "openai/openai-cookbook",
+          "url": "https://github.com/openai/openai-cookbook",
+          "description": "Examples and guides for using the OpenAI API",
+          "language": "Jupyter Notebook",
+          "stars": 70293,
+          "forks": 11801
+        },
+        {
+          "rank": 4,
+          "name": "ourongxing/newsnow",
+          "url": "https://github.com/ourongxing/newsnow",
+          "description": "Elegant reading of real-time and hottest news",
+          "language": "TypeScript",
+          "stars": 15863,
+          "forks": 4685
+        },
+        {
+          "rank": 5,
+          "name": "rossant/awesome-math",
+          "url": "https://github.com/rossant/awesome-math",
+          "description": "A curated list of awesome mathematics resources",
+          "language": "Python",
+          "stars": 12825,
+          "forks": 1262
+        },
+        {
+          "rank": 6,
+          "name": "usememos/memos",
+          "url": "https://github.com/usememos/memos",
+          "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no trac...",
+          "language": "Go",
+          "stars": 48441,
+          "forks": 3484
+        },
+        {
+          "rank": 7,
+          "name": "GitHubDaily/GitHubDaily",
+          "url": "https://github.com/GitHubDaily/GitHubDaily",
+          "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+          "language": "N/A",
+          "stars": 43654,
+          "forks": 4407
+        },
+        {
+          "rank": 8,
+          "name": "SYSTRAN/faster-whisper",
+          "url": "https://github.com/SYSTRAN/faster-whisper",
+          "description": "Faster Whisper transcription with CTranslate2",
+          "language": "Python",
+          "stars": 19933,
+          "forks": 1668
+        },
+        {
+          "rank": 9,
+          "name": "Koenkk/zigbee2mqtt",
+          "url": "https://github.com/Koenkk/zigbee2mqtt",
+          "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+          "language": "TypeScript",
+          "stars": 14449,
+          "forks": 1879
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rossant/awesome-math",
+          "url": "https://github.com/rossant/awesome-math",
+          "description": "A curated list of awesome mathematics resources",
+          "language": "Python",
+          "stars": 12825,
+          "forks": 1262
+        },
+        {
+          "rank": 2,
+          "name": "SYSTRAN/faster-whisper",
+          "url": "https://github.com/SYSTRAN/faster-whisper",
+          "description": "Faster Whisper transcription with CTranslate2",
+          "language": "Python",
+          "stars": 19933,
+          "forks": 1668
+        },
+        {
+          "rank": 3,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 7927,
+          "forks": 715
+        },
+        {
+          "rank": 4,
+          "name": "Bambu-Research-Group/RFID-Tag-Guide",
+          "url": "https://github.com/Bambu-Research-Group/RFID-Tag-Guide",
+          "description": "Instructions on how to read out the bambulab nfc tags",
+          "language": "Python",
+          "stars": 1424,
+          "forks": 128
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/computer-use-preview",
+          "url": "https://github.com/google-gemini/computer-use-preview",
+          "description": "",
+          "language": "Python",
+          "stars": 2436,
+          "forks": 311
+        },
+        {
+          "rank": 6,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 71299,
+          "forks": 8419
+        },
+        {
+          "rank": 7,
+          "name": "subframe7536/maple-font",
+          "url": "https://github.com/subframe7536/maple-font",
+          "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE a...",
+          "language": "Python",
+          "stars": 21995,
+          "forks": 822
+        },
+        {
+          "rank": 8,
+          "name": "OpenMind/OM1",
+          "url": "https://github.com/OpenMind/OM1",
+          "description": "Modular AI runtime for robots",
+          "language": "Python",
+          "stars": 2334,
+          "forks": 631
+        },
+        {
+          "rank": 9,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 9817,
+          "forks": 2089
+        },
+        {
+          "rank": 10,
+          "name": "kijai/ComfyUI-KJNodes",
+          "url": "https://github.com/kijai/ComfyUI-KJNodes",
+          "description": "Various custom nodes for ComfyUI",
+          "language": "Python",
+          "stars": 2128,
+          "forks": 227
+        }
+      ]
+    }
+  ]
+}

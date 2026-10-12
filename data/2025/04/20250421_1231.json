@@ -1,0 +1,382 @@
+{
+  "date": "20250421",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 88688,
+          "forks": 11455
+        },
+        {
+          "rank": 2,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 57131,
+          "forks": 6131
+        },
+        {
+          "rank": 3,
+          "name": "mannaandpoem/OpenManus",
+          "url": "https://github.com/mannaandpoem/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 44157,
+          "forks": 7544
+        },
+        {
+          "rank": 4,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 41197,
+          "forks": 4582
+        },
+        {
+          "rank": 5,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 37431,
+          "forks": 1558
+        },
+        {
+          "rank": 6,
+          "name": "inkonchain/docs",
+          "url": "https://github.com/inkonchain/docs",
+          "description": "Ink Documentation",
+          "language": "MDX",
+          "stars": 36739,
+          "forks": 395
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/LLM101n",
+          "url": "https://github.com/karpathy/LLM101n",
+          "description": "LLM101n: Let's build a Storyteller",
+          "language": "N/A",
+          "stars": 33227,
+          "forks": 1814
+        },
+        {
+          "rank": 8,
+          "name": "glanceapp/glance",
+          "url": "https://github.com/glanceapp/glance",
+          "description": "A self-hosted dashboard that puts all your feeds in one place",
+          "language": "Go",
+          "stars": 22705,
+          "forks": 844
+        },
+        {
+          "rank": 9,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 20225,
+          "forks": 2486
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 19552,
+          "forks": 2247
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 296866,
+          "forks": 49356
+        },
+        {
+          "rank": 2,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1132,
+          "forks": 42207
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37076
+        },
+        {
+          "rank": 4,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 105811,
+          "forks": 35712
+        },
+        {
+          "rank": 5,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 24011,
+          "forks": 32328
+        },
+        {
+          "rank": 6,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 110705,
+          "forks": 31344
+        },
+        {
+          "rank": 7,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 151545,
+          "forks": 28187
+        },
+        {
+          "rank": 8,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 184,
+          "forks": 27473
+        },
+        {
+          "rank": 9,
+          "name": "vagabond-systems/jpmc-task-1",
+          "url": "https://github.com/vagabond-systems/jpmc-task-1",
+          "description": "Starter repo for task 1 of the JPMC software engineering program",
+          "language": "Python",
+          "stars": 43,
+          "forks": 22374
+        },
+        {
+          "rank": 10,
+          "name": "mdn/content",
+          "url": "https://github.com/mdn/content",
+          "description": "The content behind MDN Web Docs",
+          "language": "Markdown",
+          "stars": 9473,
+          "forks": 22654
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 50983,
+          "forks": 2477
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "C++",
+          "stars": 15263,
+          "forks": 1078
+        },
+        {
+          "rank": 3,
+          "name": "elie222/inbox-zero",
+          "url": "https://github.com/elie222/inbox-zero",
+          "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+          "language": "TypeScript",
+          "stars": 6483,
+          "forks": 669
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 29025,
+          "forks": 3256
+        },
+        {
+          "rank": 5,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 11554,
+          "forks": 779
+        },
+        {
+          "rank": 6,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 108526,
+          "forks": 8526
+        },
+        {
+          "rank": 7,
+          "name": "drawdb-io/drawdb",
+          "url": "https://github.com/drawdb-io/drawdb",
+          "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+          "language": "JavaScript",
+          "stars": 27203,
+          "forks": 1930
+        },
+        {
+          "rank": 8,
+          "name": "nocobase/nocobase",
+          "url": "https://github.com/nocobase/nocobase",
+          "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business a...",
+          "language": "TypeScript",
+          "stars": 14928,
+          "forks": 1641
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 337027,
+          "forks": 35616
+        },
+        {
+          "rank": 10,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 315047,
+          "forks": 78487
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 50983,
+          "forks": 2477
+        },
+        {
+          "rank": 2,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 29025,
+          "forks": 3256
+        },
+        {
+          "rank": 3,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 11554,
+          "forks": 779
+        },
+        {
+          "rank": 4,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 108526,
+          "forks": 8526
+        },
+        {
+          "rank": 5,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 337028,
+          "forks": 35616
+        },
+        {
+          "rank": 6,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 21056,
+          "forks": 1782
+        },
+        {
+          "rank": 7,
+          "name": "jumpserver/jumpserver",
+          "url": "https://github.com/jumpserver/jumpserver",
+          "description": "JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT ...",
+          "language": "Python",
+          "stars": 26868,
+          "forks": 5445
+        },
+        {
+          "rank": 8,
+          "name": "oumi-ai/oumi",
+          "url": "https://github.com/oumi-ai/oumi",
+          "description": "Everything you need to build state-of-the-art foundation models, end-to-end.",
+          "language": "Python",
+          "stars": 7960,
+          "forks": 580
+        },
+        {
+          "rank": 9,
+          "name": "jixiaozhong/Sonic",
+          "url": "https://github.com/jixiaozhong/Sonic",
+          "description": "Official implementation of \"Sonic: Shifting Focus to Global Audio Perception in Portrait Animation\"",
+          "language": "Python",
+          "stars": 2545,
+          "forks": 220
+        }
+      ]
+    }
+  ]
+}

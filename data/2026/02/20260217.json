@@ -1,0 +1,391 @@
+{
+  "date": "20260217",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 70872,
+          "forks": 7222
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 67272,
+          "forks": 5242
+        },
+        {
+          "rank": 3,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54508,
+          "forks": 9537
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Bat...",
+          "language": "JavaScript",
+          "stars": 47210,
+          "forks": 5836
+        },
+        {
+          "rank": 5,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45879,
+          "forks": 4688
+        },
+        {
+          "rank": 6,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 36048,
+          "forks": 4489
+        },
+        {
+          "rank": 7,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 35408,
+          "forks": 3438
+        },
+        {
+          "rank": 8,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 35060,
+          "forks": 959
+        },
+        {
+          "rank": 9,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 32204,
+          "forks": 3206
+        },
+        {
+          "rank": 10,
+          "name": "code-yeongyu/oh-my-opencode",
+          "url": "https://github.com/code-yeongyu/oh-my-opencode",
+          "description": "the best agent harness",
+          "language": "TypeScript",
+          "stars": 31901,
+          "forks": 2387
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52652,
+          "forks": 98217
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 337040,
+          "forks": 81641
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173977,
+          "forks": 79105
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87301,
+          "forks": 60359
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 106482,
+          "forks": 57044
+        },
+        {
+          "rank": 6,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 86210,
+          "forks": 56532
+        },
+        {
+          "rank": 7,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 174883,
+          "forks": 54917
+        },
+        {
+          "rank": 8,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97534,
+          "forks": 54522
+        },
+        {
+          "rank": 9,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 181838,
+          "forks": 46219
+        },
+        {
+          "rank": 10,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1584,
+          "forks": 45195
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 6716,
+          "forks": 671
+        },
+        {
+          "rank": 2,
+          "name": "seerr-team/seerr",
+          "url": "https://github.com/seerr-team/seerr",
+          "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+          "language": "TypeScript",
+          "stars": 9173,
+          "forks": 608
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 53144,
+          "forks": 4037
+        },
+        {
+          "rank": 4,
+          "name": "steipete/gogcli",
+          "url": "https://github.com/steipete/gogcli",
+          "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+          "language": "Go",
+          "stars": 3707,
+          "forks": 316
+        },
+        {
+          "rank": 5,
+          "name": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "description": "A lightweight, lightning-fast, in-process vector database",
+          "language": "C++",
+          "stars": 4221,
+          "forks": 225
+        },
+        {
+          "rank": 6,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 203480,
+          "forks": 36740
+        },
+        {
+          "rank": 7,
+          "name": "SynkraAI/aios-core",
+          "url": "https://github.com/SynkraAI/aios-core",
+          "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+          "language": "JavaScript",
+          "stars": 1064,
+          "forks": 369
+        },
+        {
+          "rank": 8,
+          "name": "ashishps1/awesome-system-design-resources",
+          "url": "https://github.com/ashishps1/awesome-system-design-resources",
+          "description": "Learn System Design concepts and prepare for interviews using free resources.",
+          "language": "Java",
+          "stars": 32583,
+          "forks": 7282
+        },
+        {
+          "rank": 9,
+          "name": "steipete/summarize",
+          "url": "https://github.com/steipete/summarize",
+          "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+          "language": "TypeScript",
+          "stars": 3241,
+          "forks": 213
+        },
+        {
+          "rank": 10,
+          "name": "hummingbot/hummingbot",
+          "url": "https://github.com/hummingbot/hummingbot",
+          "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+          "language": "Python",
+          "stars": 16790,
+          "forks": 4408
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 6716,
+          "forks": 671
+        },
+        {
+          "rank": 2,
+          "name": "hummingbot/hummingbot",
+          "url": "https://github.com/hummingbot/hummingbot",
+          "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+          "language": "Python",
+          "stars": 16790,
+          "forks": 4408
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "description": "A collection of projects designed to help developers quickly get started with building deployable...",
+          "language": "Python",
+          "stars": 14285,
+          "forks": 2423
+        },
+        {
+          "rank": 4,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 20604,
+          "forks": 1926
+        },
+        {
+          "rank": 5,
+          "name": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estima...",
+          "language": "Python",
+          "stars": 6934,
+          "forks": 598
+        },
+        {
+          "rank": 6,
+          "name": "GH05TCREW/pentestagent",
+          "url": "https://github.com/GH05TCREW/pentestagent",
+          "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-...",
+          "language": "Python",
+          "stars": 1576,
+          "forks": 352
+        },
+        {
+          "rank": 7,
+          "name": "kaifcodec/user-scanner",
+          "url": "https://github.com/kaifcodec/user-scanner",
+          "description": "🕵️🫆 (2-in-1) Emaill and Username OSINT tool that analyzes username and email presence across mult...",
+          "language": "Python",
+          "stars": 709,
+          "forks": 72
+        },
+        {
+          "rank": 8,
+          "name": "freqtrade/freqtrade",
+          "url": "https://github.com/freqtrade/freqtrade",
+          "description": "Free, open source crypto trading bot",
+          "language": "Python",
+          "stars": 46890,
+          "forks": 9792
+        },
+        {
+          "rank": 9,
+          "name": "0x4m4/hexstrike-ai",
+          "url": "https://github.com/0x4m4/hexstrike-ai",
+          "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc....",
+          "language": "Python",
+          "stars": 6873,
+          "forks": 1529
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/AI-Trader",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description": "\"AI-Trader: Can AI Beat the Market?\" Live Trading Bench: https://ai4trade.ai Tech Report Link: ht...",
+          "language": "Python",
+          "stars": 11274,
+          "forks": 1887
+        }
+      ]
+    }
+  ]
+}

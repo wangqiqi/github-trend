@@ -1,0 +1,391 @@
+{
+  "date": "20251027",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 93320,
+          "forks": 25233
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91388,
+          "forks": 11766
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 82151,
+          "forks": 4607
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 80506,
+          "forks": 8892
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 73687,
+          "forks": 6167
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 71806,
+          "forks": 8508
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 71326,
+          "forks": 8529
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 48988,
+          "forks": 5973
+        },
+        {
+          "rank": 9,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Shell",
+          "stars": 42407,
+          "forks": 3627
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 42079,
+          "forks": 7446
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 75279,
+          "forks": 25579
+        },
+        {
+          "rank": 2,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 12193,
+          "forks": 25444
+        },
+        {
+          "rank": 3,
+          "name": "laravel/laravel",
+          "url": "https://github.com/laravel/laravel",
+          "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the fo...",
+          "language": "Blade",
+          "stars": 82555,
+          "forks": 24555
+        },
+        {
+          "rank": 4,
+          "name": "ultralytics/yolov5",
+          "url": "https://github.com/ultralytics/yolov5",
+          "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+          "language": "Python",
+          "stars": 55817,
+          "forks": 17256
+        },
+        {
+          "rank": 5,
+          "name": "josephmisiti/awesome-machine-learning",
+          "url": "https://github.com/josephmisiti/awesome-machine-learning",
+          "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+          "language": "Python",
+          "stars": 70388,
+          "forks": 15143
+        },
+        {
+          "rank": 6,
+          "name": "apache/kafka",
+          "url": "https://github.com/apache/kafka",
+          "description": "Mirror of Apache Kafka",
+          "language": "Java",
+          "stars": 31166,
+          "forks": 14745
+        },
+        {
+          "rank": 7,
+          "name": "apache/flink",
+          "url": "https://github.com/apache/flink",
+          "description": "Apache Flink",
+          "language": "Java",
+          "stars": 25411,
+          "forks": 13745
+        },
+        {
+          "rank": 8,
+          "name": "MithunTechnologiesDevOps/maven-web-application",
+          "url": "https://github.com/MithunTechnologiesDevOps/maven-web-application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 115,
+          "forks": 12844
+        },
+        {
+          "rank": 9,
+          "name": "android/architecture-samples",
+          "url": "https://github.com/android/architecture-samples",
+          "description": "A collection of samples to discuss and showcase different architectural tools and patterns for An...",
+          "language": "Kotlin",
+          "stars": 45363,
+          "forks": 11822
+        },
+        {
+          "rank": 10,
+          "name": "scrapy/scrapy",
+          "url": "https://github.com/scrapy/scrapy",
+          "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+          "language": "Python",
+          "stars": 58764,
+          "forks": 11132
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base ...",
+          "language": "TypeScript",
+          "stars": 56514,
+          "forks": 3876
+        },
+        {
+          "rank": 2,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 38494,
+          "forks": 4684
+        },
+        {
+          "rank": 3,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 430198,
+          "forks": 40391
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 2626,
+          "forks": 202
+        },
+        {
+          "rank": 5,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 54208,
+          "forks": 2388
+        },
+        {
+          "rank": 6,
+          "name": "rasbt/LLMs-from-scratch",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "language": "Jupyter Notebook",
+          "stars": 76492,
+          "forks": 11268
+        },
+        {
+          "rank": 7,
+          "name": "TheRobotStudio/SO-ARM100",
+          "url": "https://github.com/TheRobotStudio/SO-ARM100",
+          "description": "Standard Open Arm 100",
+          "language": "N/A",
+          "stars": 4018,
+          "forks": 331
+        },
+        {
+          "rank": 8,
+          "name": "coinbase/x402",
+          "url": "https://github.com/coinbase/x402",
+          "description": "A payments protocol for the internet. Built on HTTP.",
+          "language": "TypeScript",
+          "stars": 2908,
+          "forks": 454
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 373430,
+          "forks": 39400
+        },
+        {
+          "rank": 10,
+          "name": "bol-van/zapret",
+          "url": "https://github.com/bol-van/zapret",
+          "description": "DPI bypass multi platform",
+          "language": "C",
+          "stars": 12891,
+          "forks": 909
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 38494,
+          "forks": 4684
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 2626,
+          "forks": 202
+        },
+        {
+          "rank": 3,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 373430,
+          "forks": 39400
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 73411,
+          "forks": 9547
+        },
+        {
+          "rank": 5,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Introduction to Machine Learning Systems",
+          "language": "Python",
+          "stars": 6442,
+          "forks": 647
+        },
+        {
+          "rank": 6,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 11548,
+          "forks": 2480
+        },
+        {
+          "rank": 7,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 8373,
+          "forks": 1740
+        },
+        {
+          "rank": 8,
+          "name": "ahujasid/blender-mcp",
+          "url": "https://github.com/ahujasid/blender-mcp",
+          "description": "",
+          "language": "Python",
+          "stars": 13963,
+          "forks": 1321
+        },
+        {
+          "rank": 9,
+          "name": "vanna-ai/vanna",
+          "url": "https://github.com/vanna-ai/vanna",
+          "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+          "language": "Python",
+          "stars": 21179,
+          "forks": 1974
+        },
+        {
+          "rank": 10,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 33804,
+          "forks": 2108
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250319",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "2noise/ChatTTS",
+          "url": "https://github.com/2noise/ChatTTS",
+          "description": "A generative speech model for daily dialogue.",
+          "language": "Python",
+          "stars": 35196,
+          "forks": 3804
+        },
+        {
+          "rank": 2,
+          "name": "shardeum/shardeum",
+          "url": "https://github.com/shardeum/shardeum",
+          "description": "Shardeum is an EVM based autoscaling blockchain",
+          "language": "TypeScript",
+          "stars": 31965,
+          "forks": 681
+        },
+        {
+          "rank": 3,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application proc...",
+          "language": "Python",
+          "stars": 27656,
+          "forks": 4132
+        },
+        {
+          "rank": 4,
+          "name": "zen-browser/desktop",
+          "url": "https://github.com/zen-browser/desktop",
+          "description": "A calmer internet, without any gimmicks.",
+          "language": "JavaScript",
+          "stars": 27253,
+          "forks": 715
+        },
+        {
+          "rank": 5,
+          "name": "karpathy/llm.c",
+          "url": "https://github.com/karpathy/llm.c",
+          "description": "LLM training in simple, raw C/CUDA",
+          "language": "Cuda",
+          "stars": 26053,
+          "forks": 2991
+        },
+        {
+          "rank": 6,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 24445,
+          "forks": 1432
+        },
+        {
+          "rank": 7,
+          "name": "huggingface/open-r1",
+          "url": "https://github.com/huggingface/open-r1",
+          "description": "Fully open reproduction of DeepSeek-R1",
+          "language": "Python",
+          "stars": 23000,
+          "forks": 2089
+        },
+        {
+          "rank": 8,
+          "name": "Cinnamon/kotaemon",
+          "url": "https://github.com/Cinnamon/kotaemon",
+          "description": "An open-source RAG-based tool for chatting with your documents.",
+          "language": "Python",
+          "stars": 21718,
+          "forks": 1703
+        },
+        {
+          "rank": 9,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 19971,
+          "forks": 2337
+        },
+        {
+          "rank": 10,
+          "name": "Dokploy/dokploy",
+          "url": "https://github.com/Dokploy/dokploy",
+          "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+          "language": "TypeScript",
+          "stars": 18139,
+          "forks": 945
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6587,
+          "forks": 243700
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 844,
+          "forks": 143868
+        },
+        {
+          "rank": 3,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28136,
+          "forks": 86262
+        },
+        {
+          "rank": 4,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 313381,
+          "forks": 78184
+        },
+        {
+          "rank": 5,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2491,
+          "forks": 72080
+        },
+        {
+          "rank": 6,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 82047,
+          "forks": 61277
+        },
+        {
+          "rank": 7,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17127,
+          "forks": 61212
+        },
+        {
+          "rank": 8,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56697
+        },
+        {
+          "rank": 9,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 162613,
+          "forks": 53210
+        },
+        {
+          "rank": 10,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 94011,
+          "forks": 51616
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/data-formulator",
+          "url": "https://github.com/microsoft/data-formulator",
+          "description": "🪄 Create rich visualizations with AI",
+          "language": "TypeScript",
+          "stars": 9347,
+          "forks": 734
+        },
+        {
+          "rank": 2,
+          "name": "glanceapp/glance",
+          "url": "https://github.com/glanceapp/glance",
+          "description": "A self-hosted dashboard that puts all your feeds in one place",
+          "language": "Go",
+          "stars": 18642,
+          "forks": 663
+        },
+        {
+          "rank": 3,
+          "name": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base ...",
+          "language": "TypeScript",
+          "stars": 47277,
+          "forks": 3125
+        },
+        {
+          "rank": 4,
+          "name": "DiceDB/dice",
+          "url": "https://github.com/DiceDB/dice",
+          "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+          "language": "Go",
+          "stars": 9072,
+          "forks": 1253
+        },
+        {
+          "rank": 5,
+          "name": "subframe7536/maple-font",
+          "url": "https://github.com/subframe7536/maple-font",
+          "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and ter...",
+          "language": "Python",
+          "stars": 9861,
+          "forks": 204
+        },
+        {
+          "rank": 6,
+          "name": "langchain-ai/ollama-deep-researcher",
+          "url": "https://github.com/langchain-ai/ollama-deep-researcher",
+          "description": "Fully local web research and report writing assistant",
+          "language": "Python",
+          "stars": 5366,
+          "forks": 550
+        },
+        {
+          "rank": 7,
+          "name": "satnaing/shadcn-admin",
+          "url": "https://github.com/satnaing/shadcn-admin",
+          "description": "Admin Dashboard UI built with Shadcn and Vite.",
+          "language": "TypeScript",
+          "stars": 4736,
+          "forks": 651
+        },
+        {
+          "rank": 8,
+          "name": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "description": "",
+          "language": "Jupyter Notebook",
+          "stars": 5833,
+          "forks": 1074
+        },
+        {
+          "rank": 9,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 12124,
+          "forks": 795
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 3322,
+          "forks": 279
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "subframe7536/maple-font",
+          "url": "https://github.com/subframe7536/maple-font",
+          "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and ter...",
+          "language": "Python",
+          "stars": 9861,
+          "forks": 204
+        },
+        {
+          "rank": 2,
+          "name": "langchain-ai/ollama-deep-researcher",
+          "url": "https://github.com/langchain-ai/ollama-deep-researcher",
+          "description": "Fully local web research and report writing assistant",
+          "language": "Python",
+          "stars": 5366,
+          "forks": 550
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 3322,
+          "forks": 279
+        },
+        {
+          "rank": 4,
+          "name": "bytedance/LatentSync",
+          "url": "https://github.com/bytedance/LatentSync",
+          "description": "Taming Stable Diffusion for Lip Sync!",
+          "language": "Python",
+          "stars": 3053,
+          "forks": 458
+        },
+        {
+          "rank": 5,
+          "name": "mlfoundations/open_clip",
+          "url": "https://github.com/mlfoundations/open_clip",
+          "description": "An open source implementation of CLIP.",
+          "language": "Python",
+          "stars": 11272,
+          "forks": 1073
+        },
+        {
+          "rank": 6,
+          "name": "fatihak/InkyPi",
+          "url": "https://github.com/fatihak/InkyPi",
+          "description": "E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with va...",
+          "language": "Python",
+          "stars": 932,
+          "forks": 64
+        },
+        {
+          "rank": 7,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 37506,
+          "forks": 3389
+        },
+        {
+          "rank": 8,
+          "name": "prowler-cloud/prowler",
+          "url": "https://github.com/prowler-cloud/prowler",
+          "description": "Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos...",
+          "language": "Python",
+          "stars": 11375,
+          "forks": 1641
+        },
+        {
+          "rank": 9,
+          "name": "wmariuss/awesome-devops",
+          "url": "https://github.com/wmariuss/awesome-devops",
+          "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+          "language": "Python",
+          "stars": 2662,
+          "forks": 409
+        },
+        {
+          "rank": 10,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 63989,
+          "forks": 15147
+        }
+      ]
+    }
+  ]
+}

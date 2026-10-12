@@ -1,0 +1,391 @@
+{
+  "date": "20260506",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 368924,
+          "forks": 76055
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 190328,
+          "forks": 109707
+        },
+        {
+          "rank": 3,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 79233,
+          "forks": 11565
+        },
+        {
+          "rank": 4,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "Open-source orchestration for zero-human companies",
+          "language": "TypeScript",
+          "stars": 62908,
+          "forks": 11238
+        },
+        {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 62335,
+          "forks": 5377
+        },
+        {
+          "rank": 6,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & G...",
+          "language": "Rust",
+          "stars": 60890,
+          "forks": 3944
+        },
+        {
+          "rank": 7,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 60391,
+          "forks": 5138
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 54160,
+          "forks": 7096
+        },
+        {
+          "rank": 9,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 53614,
+          "forks": 8606
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 53002,
+          "forks": 7100
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 536,
+          "forks": 33376
+        },
+        {
+          "rank": 2,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 99682,
+          "forks": 27685
+        },
+        {
+          "rank": 3,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 10516,
+          "forks": 25290
+        },
+        {
+          "rank": 4,
+          "name": "springframeworkguru/spring5webapp",
+          "url": "https://github.com/springframeworkguru/spring5webapp",
+          "description": "Example Spring 5 Web Application",
+          "language": "Java",
+          "stars": 752,
+          "forks": 18762
+        },
+        {
+          "rank": 5,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 109018,
+          "forks": 16127
+        },
+        {
+          "rank": 6,
+          "name": "Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "url": "https://github.com/Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "description": "⚡🦄Arbitrage between USDC/ETH 0.3% fee pool and USDC/ETH 0.05% fee pool",
+          "language": "JavaScript",
+          "stars": 3,
+          "forks": 15971
+        },
+        {
+          "rank": 7,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 137,
+          "forks": 13821
+        },
+        {
+          "rank": 8,
+          "name": "WordPress/WordPress",
+          "url": "https://github.com/WordPress/WordPress",
+          "description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Pl...",
+          "language": "PHP",
+          "stars": 21088,
+          "forks": 12935
+        },
+        {
+          "rank": 9,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 115829,
+          "forks": 11596
+        },
+        {
+          "rank": 10,
+          "name": "hect0x7/JMComic-Crawler-Python",
+          "url": "https://github.com/hect0x7/JMComic-Crawler-Python",
+          "description": "Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀",
+          "language": "Python",
+          "stars": 5709,
+          "forks": 10473
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "language": "Rust",
+          "stars": 12138,
+          "forks": 917
+        },
+        {
+          "rank": 2,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars": 29381,
+          "forks": 3559
+        },
+        {
+          "rank": 3,
+          "name": "PriorLabs/TabPFN",
+          "url": "https://github.com/PriorLabs/TabPFN",
+          "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+          "language": "Python",
+          "stars": 6489,
+          "forks": 649
+        },
+        {
+          "rank": 4,
+          "name": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "language": "Ruby",
+          "stars": 14483,
+          "forks": 1311
+        },
+        {
+          "rank": 5,
+          "name": "LearningCircuit/local-deep-research",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Olla...",
+          "language": "Python",
+          "stars": 5462,
+          "forks": 498
+        },
+        {
+          "rank": 6,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 62847,
+          "forks": 2990
+        },
+        {
+          "rank": 7,
+          "name": "InsForge/InsForge",
+          "url": "https://github.com/InsForge/InsForge",
+          "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built ...",
+          "language": "TypeScript",
+          "stars": 8264,
+          "forks": 686
+        },
+        {
+          "rank": 8,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars": 24164,
+          "forks": 2943
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 8624,
+          "forks": 1164
+        },
+        {
+          "rank": 10,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coo...",
+          "language": "TypeScript",
+          "stars": 44771,
+          "forks": 4964
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "PriorLabs/TabPFN",
+          "url": "https://github.com/PriorLabs/TabPFN",
+          "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+          "language": "Python",
+          "stars": 6489,
+          "forks": 649
+        },
+        {
+          "rank": 2,
+          "name": "LearningCircuit/local-deep-research",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Olla...",
+          "language": "Python",
+          "stars": 5462,
+          "forks": 498
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 8624,
+          "forks": 1164
+        },
+        {
+          "rank": 4,
+          "name": "cheahjs/free-llm-api-resources",
+          "url": "https://github.com/cheahjs/free-llm-api-resources",
+          "description": "A list of free LLM inference resources accessible via API.",
+          "language": "Python",
+          "stars": 20251,
+          "forks": 2070
+        },
+        {
+          "rank": 5,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 23100,
+          "forks": 4048
+        },
+        {
+          "rank": 6,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 65384,
+          "forks": 8649
+        },
+        {
+          "rank": 7,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-sca...",
+          "language": "Python",
+          "stars": 45810,
+          "forks": 4234
+        },
+        {
+          "rank": 8,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 99682,
+          "forks": 27685
+        },
+        {
+          "rank": 9,
+          "name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 12580,
+          "forks": 1910
+        },
+        {
+          "rank": 10,
+          "name": "Q00/ouroboros",
+          "url": "https://github.com/Q00/ouroboros",
+          "description": "Agent OS: Stop prompting. Start specifying.",
+          "language": "Python",
+          "stars": 3495,
+          "forks": 342
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250818",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98663,
+          "forks": 16066
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90886,
+          "forks": 11735
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 77143,
+          "forks": 21587
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 71948,
+          "forks": 3922
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 70158,
+          "forks": 7105
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 67870,
+          "forks": 7857
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 66422,
+          "forks": 5343
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 64727,
+          "forks": 7542
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49045,
+          "forks": 8602
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39371,
+          "forks": 6932
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13172,
+          "forks": 152732
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49937,
+          "forks": 89916
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2425,
+          "forks": 83410
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168716,
+          "forks": 83019
+        },
+        {
+          "rank": 5,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 324465,
+          "forks": 79875
+        },
+        {
+          "rank": 6,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172852,
+          "forks": 79122
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191213,
+          "forks": 74772
+        },
+        {
+          "rank": 8,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2576,
+          "forks": 72530
+        },
+        {
+          "rank": 9,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 365290,
+          "forks": 63918
+        },
+        {
+          "rank": 10,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 85510,
+          "forks": 61077
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+          "language": "Python",
+          "stars": 8363,
+          "forks": 1530
+        },
+        {
+          "rank": 2,
+          "name": "emcie-co/parlant",
+          "url": "https://github.com/emcie-co/parlant",
+          "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+          "language": "Python",
+          "stars": 5450,
+          "forks": 490
+        },
+        {
+          "rank": 3,
+          "name": "DataExpert-io/data-engineer-handbook",
+          "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+          "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+          "language": "Jupyter Notebook",
+          "stars": 36591,
+          "forks": 7046
+        },
+        {
+          "rank": 4,
+          "name": "rasbt/LLMs-from-scratch",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+          "language": "Jupyter Notebook",
+          "stars": 64414,
+          "forks": 9038
+        },
+        {
+          "rank": 5,
+          "name": "enescingoz/awesome-n8n-templates",
+          "url": "https://github.com/enescingoz/awesome-n8n-templates",
+          "description": "Supercharge your workflow automation with this curated collection of n8n templates! Instantly con...",
+          "language": "N/A",
+          "stars": 8937,
+          "forks": 2684
+        },
+        {
+          "rank": 6,
+          "name": "PixiEditor/PixiEditor",
+          "url": "https://github.com/PixiEditor/PixiEditor",
+          "description": "PixiEditor is a Universal Editor for all your 2D needs",
+          "language": "C#",
+          "stars": 4312,
+          "forks": 175
+        },
+        {
+          "rank": 7,
+          "name": "immich-app/immich",
+          "url": "https://github.com/immich-app/immich",
+          "description": "High performance self-hosted photo and video management solution.",
+          "language": "TypeScript",
+          "stars": 73130,
+          "forks": 3859
+        },
+        {
+          "rank": 8,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 59316,
+          "forks": 7109
+        },
+        {
+          "rank": 9,
+          "name": "MotiaDev/motia",
+          "url": "https://github.com/MotiaDev/motia",
+          "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a sing...",
+          "language": "TypeScript",
+          "stars": 6364,
+          "forks": 497
+        },
+        {
+          "rank": 10,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data aggregator for humans and AI agents.",
+          "language": "Python",
+          "stars": 50083,
+          "forks": 4673
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+          "language": "Python",
+          "stars": 8363,
+          "forks": 1530
+        },
+        {
+          "rank": 2,
+          "name": "emcie-co/parlant",
+          "url": "https://github.com/emcie-co/parlant",
+          "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+          "language": "Python",
+          "stars": 5450,
+          "forks": 490
+        },
+        {
+          "rank": 3,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 59316,
+          "forks": 7109
+        },
+        {
+          "rank": 4,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data aggregator for humans and AI agents.",
+          "language": "Python",
+          "stars": 50083,
+          "forks": 4673
+        },
+        {
+          "rank": 5,
+          "name": "aliasrobotics/cai",
+          "url": "https://github.com/aliasrobotics/cai",
+          "description": "Cybersecurity AI (CAI), the framework for AI Security",
+          "language": "Python",
+          "stars": 2840,
+          "forks": 407
+        },
+        {
+          "rank": 6,
+          "name": "jianchang512/pyvideotrans",
+          "url": "https://github.com/jianchang512/pyvideotrans",
+          "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合...",
+          "language": "Python",
+          "stars": 13741,
+          "forks": 1569
+        },
+        {
+          "rank": 7,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 1805,
+          "forks": 305
+        },
+        {
+          "rank": 8,
+          "name": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+          "language": "Python",
+          "stars": 4653,
+          "forks": 514
+        },
+        {
+          "rank": 9,
+          "name": "commaai/opendbc",
+          "url": "https://github.com/commaai/opendbc",
+          "description": "a Python API for your car",
+          "language": "Python",
+          "stars": 2493,
+          "forks": 1527
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39371,
+          "forks": 6932
+        }
+      ]
+    }
+  ]
+}

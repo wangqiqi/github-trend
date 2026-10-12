@@ -1,0 +1,391 @@
+{
+  "date": "20250822",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98842,
+          "forks": 16097
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90953,
+          "forks": 11733
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 72161,
+          "forks": 3935
+        },
+        {
+          "rank": 4,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 68392,
+          "forks": 7925
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 66947,
+          "forks": 5397
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 65291,
+          "forks": 7613
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49157,
+          "forks": 8611
+        },
+        {
+          "rank": 8,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39489,
+          "forks": 6955
+        },
+        {
+          "rank": 9,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36798,
+          "forks": 410
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 35886,
+          "forks": 4120
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49990,
+          "forks": 90101
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28837,
+          "forks": 87176
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2436,
+          "forks": 83558
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168798,
+          "forks": 83013
+        },
+        {
+          "rank": 5,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 324666,
+          "forks": 79910
+        },
+        {
+          "rank": 6,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172892,
+          "forks": 79128
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191276,
+          "forks": 74785
+        },
+        {
+          "rank": 8,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2577,
+          "forks": 72533
+        },
+        {
+          "rank": 9,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 365691,
+          "forks": 63930
+        },
+        {
+          "rank": 10,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17747,
+          "forks": 62990
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "description": "Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way ...",
+          "language": "TypeScript",
+          "stars": 10524,
+          "forks": 1265
+        },
+        {
+          "rank": 2,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "Vue",
+          "stars": 6399,
+          "forks": 458
+        },
+        {
+          "rank": 3,
+          "name": "google/googletest",
+          "url": "https://github.com/google/googletest",
+          "description": "GoogleTest - Google Testing and Mocking Framework",
+          "language": "C++",
+          "stars": 36726,
+          "forks": 10470
+        },
+        {
+          "rank": 4,
+          "name": "dataease/SQLBot",
+          "url": "https://github.com/dataease/SQLBot",
+          "description": "基于大模型和 RAG 的智能问数系统。Intelligent questioning system based on LLMs and RAG.",
+          "language": "Python",
+          "stars": 766,
+          "forks": 97
+        },
+        {
+          "rank": 5,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on ...",
+          "language": "TypeScript",
+          "stars": 9974,
+          "forks": 902
+        },
+        {
+          "rank": 6,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 2854,
+          "forks": 382
+        },
+        {
+          "rank": 7,
+          "name": "puckeditor/puck",
+          "url": "https://github.com/puckeditor/puck",
+          "description": "The visual editor for React",
+          "language": "TypeScript",
+          "stars": 7649,
+          "forks": 533
+        },
+        {
+          "rank": 8,
+          "name": "Dokploy/dokploy",
+          "url": "https://github.com/Dokploy/dokploy",
+          "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+          "language": "TypeScript",
+          "stars": 23462,
+          "forks": 1309
+        },
+        {
+          "rank": 9,
+          "name": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "description": "JavaScript API for Chrome and Firefox",
+          "language": "TypeScript",
+          "stars": 92068,
+          "forks": 9280
+        },
+        {
+          "rank": 10,
+          "name": "SpecterOps/BloodHound",
+          "url": "https://github.com/SpecterOps/BloodHound",
+          "description": "Six Degrees of Domain Admin",
+          "language": "Go",
+          "stars": 2026,
+          "forks": 220
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "dataease/SQLBot",
+          "url": "https://github.com/dataease/SQLBot",
+          "description": "基于大模型和 RAG 的智能问数系统。Intelligent questioning system based on LLMs and RAG.",
+          "language": "Python",
+          "stars": 766,
+          "forks": 97
+        },
+        {
+          "rank": 2,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 2854,
+          "forks": 382
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 20979,
+          "forks": 1592
+        },
+        {
+          "rank": 4,
+          "name": "roboflow/rf-detr",
+          "url": "https://github.com/roboflow/rf-detr",
+          "description": "RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO an...",
+          "language": "Python",
+          "stars": 2832,
+          "forks": 320
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/presidio",
+          "url": "https://github.com/microsoft/presidio",
+          "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) ...",
+          "language": "Python",
+          "stars": 5316,
+          "forks": 716
+        },
+        {
+          "rank": 6,
+          "name": "codelion/openevolve",
+          "url": "https://github.com/codelion/openevolve",
+          "description": "Open-source implementation of AlphaEvolve",
+          "language": "Python",
+          "stars": 3682,
+          "forks": 514
+        },
+        {
+          "rank": 7,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "",
+          "language": "Python",
+          "stars": 98842,
+          "forks": 16097
+        },
+        {
+          "rank": 8,
+          "name": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "description": "A powerful framework for building realtime voice AI agents 🤖🎙️📹",
+          "language": "Python",
+          "stars": 7158,
+          "forks": 1191
+        },
+        {
+          "rank": 9,
+          "name": "wandb/wandb",
+          "url": "https://github.com/wandb/wandb",
+          "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models ...",
+          "language": "Python",
+          "stars": 10243,
+          "forks": 768
+        },
+        {
+          "rank": 10,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 68392,
+          "forks": 7925
+        }
+      ]
+    }
+  ]
+}

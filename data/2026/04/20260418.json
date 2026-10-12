@@ -1,0 +1,391 @@
+{
+  "date": "20260418",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 359800,
+          "forks": 73244
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 160062,
+          "forks": 24884
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 158404,
+          "forks": 13785
+        },
+        {
+          "rank": 4,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 145300,
+          "forks": 16469
+        },
+        {
+          "rank": 5,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 98242,
+          "forks": 13860
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 89078,
+          "forks": 7666
+        },
+        {
+          "rank": 7,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 82189,
+          "forks": 13135
+        },
+        {
+          "rank": 8,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 75591,
+          "forks": 10719
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 74007,
+          "forks": 10790
+        },
+        {
+          "rank": 10,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 62456,
+          "forks": 8069
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174179,
+          "forks": 78979
+        },
+        {
+          "rank": 2,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87742,
+          "forks": 59837
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 109471,
+          "forks": 58747
+        },
+        {
+          "rank": 4,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 87172,
+          "forks": 56556
+        },
+        {
+          "rank": 5,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97810,
+          "forks": 54591
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 424665,
+          "forks": 46256
+        },
+        {
+          "rank": 7,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 86080,
+          "forks": 37265
+        },
+        {
+          "rank": 8,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 98192,
+          "forks": 32682
+        },
+        {
+          "rank": 9,
+          "name": "bia-pain-bache/BPB-Worker-Panel",
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private...",
+          "language": "TypeScript",
+          "stars": 10262,
+          "forks": 31571
+        },
+        {
+          "rank": 10,
+          "name": "samqin123/MoonTV",
+          "url": "https://github.com/samqin123/MoonTV",
+          "description": "No description",
+          "language": "TypeScript",
+          "stars": 1905,
+          "forks": 30940
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "thunderbird/thunderbolt",
+          "url": "https://github.com/thunderbird/thunderbolt",
+          "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+          "language": "TypeScript",
+          "stars": 1218,
+          "forks": 61
+        },
+        {
+          "rank": 2,
+          "name": "BasedHardware/omi",
+          "url": "https://github.com/BasedHardware/omi",
+          "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "language": "Dart",
+          "stars": 10110,
+          "forks": 1690
+        },
+        {
+          "rank": 3,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars": 22051,
+          "forks": 3518
+        },
+        {
+          "rank": 4,
+          "name": "EvoMap/evolver",
+          "url": "https://github.com/EvoMap/evolver",
+          "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "language": "JavaScript",
+          "stars": 4744,
+          "forks": 462
+        },
+        {
+          "rank": 5,
+          "name": "deepseek-ai/DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+          "language": "Cuda",
+          "stars": 6413,
+          "forks": 871
+        },
+        {
+          "rank": 6,
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars": 31838,
+          "forks": 3877
+        },
+        {
+          "rank": 7,
+          "name": "aaddrick/claude-desktop-debian",
+          "url": "https://github.com/aaddrick/claude-desktop-debian",
+          "description": "Claude Desktop for Debian-based Linux distributions",
+          "language": "Shell",
+          "stars": 3375,
+          "forks": 378
+        },
+        {
+          "rank": 8,
+          "name": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamVie...",
+          "language": "Rust",
+          "stars": 111832,
+          "forks": 16745
+        },
+        {
+          "rank": 9,
+          "name": "SimoneAvogadro/android-reverse-engineering-skill",
+          "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+          "description": "Claude Code skill to support Android app's reverse engineering",
+          "language": "Shell",
+          "stars": 2954,
+          "forks": 300
+        },
+        {
+          "rank": 10,
+          "name": "tractorjuice/arc-kit",
+          "url": "https://github.com/tractorjuice/arc-kit",
+          "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+          "language": "HTML",
+          "stars": 595,
+          "forks": 90
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars": 22051,
+          "forks": 3518
+        },
+        {
+          "rank": 2,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+          "language": "Python",
+          "stars": 1651,
+          "forks": 180
+        },
+        {
+          "rank": 3,
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x ...",
+          "language": "Python",
+          "stars": 4049,
+          "forks": 426
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 106213,
+          "forks": 15550
+        },
+        {
+          "rank": 5,
+          "name": "nv-tlabs/lyra",
+          "url": "https://github.com/nv-tlabs/lyra",
+          "description": "Project Lyra: Open Generative 3D World Models",
+          "language": "Python",
+          "stars": 1466,
+          "forks": 117
+        },
+        {
+          "rank": 6,
+          "name": "google/magika",
+          "url": "https://github.com/google/magika",
+          "description": "Fast and accurate AI powered file content types detection",
+          "language": "Python",
+          "stars": 15721,
+          "forks": 874
+        },
+        {
+          "rank": 7,
+          "name": "AI4Finance-Foundation/FinRL-Trading",
+          "url": "https://github.com/AI4Finance-Foundation/FinRL-Trading",
+          "description": "FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading",
+          "language": "Python",
+          "stars": 2993,
+          "forks": 922
+        },
+        {
+          "rank": 8,
+          "name": "dimensionalOS/dimos",
+          "url": "https://github.com/dimensionalOS/dimos",
+          "description": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, d...",
+          "language": "Python",
+          "stars": 2989,
+          "forks": 489
+        },
+        {
+          "rank": 9,
+          "name": "saleor/saleor",
+          "url": "https://github.com/saleor/saleor",
+          "description": "Saleor Core: the high performance, composable, headless commerce API.",
+          "language": "Python",
+          "stars": 22806,
+          "forks": 5973
+        },
+        {
+          "rank": 10,
+          "name": "github/awesome-copilot",
+          "url": "https://github.com/github/awesome-copilot",
+          "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most ...",
+          "language": "Python",
+          "stars": 30300,
+          "forks": 3600
+        }
+      ]
+    }
+  ]
+}

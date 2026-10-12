@@ -1,0 +1,391 @@
+{
+  "date": "20260615",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 215998,
+          "forks": 33192
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 193840,
+          "forks": 109959
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 129829,
+          "forks": 11327
+        },
+        {
+          "rank": 4,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 110345,
+          "forks": 16410
+        },
+        {
+          "rank": 5,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 101593,
+          "forks": 6717
+        },
+        {
+          "rank": 6,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 90419,
+          "forks": 10740
+        },
+        {
+          "rank": 7,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 82495,
+          "forks": 7136
+        },
+        {
+          "rank": 8,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 72884,
+          "forks": 4111
+        },
+        {
+          "rank": 9,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 70502,
+          "forks": 13096
+        },
+        {
+          "rank": 10,
+          "name": "safishamsi/graphify",
+          "url": "https://github.com/safishamsi/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 67577,
+          "forks": 6836
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 193840,
+          "forks": 109959
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2663,
+          "forks": 91435
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 390305,
+          "forks": 66436
+        },
+        {
+          "rank": 4,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 353279,
+          "forks": 56726
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 186334,
+          "forks": 40437
+        },
+        {
+          "rank": 6,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 89427,
+          "forks": 39007
+        },
+        {
+          "rank": 7,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184532,
+          "forks": 33521
+        },
+        {
+          "rank": 8,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 161604,
+          "forks": 33514
+        },
+        {
+          "rank": 9,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 537,
+          "forks": 33453
+        },
+        {
+          "rank": 10,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 163729,
+          "forks": 30369
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars": 122630,
+          "forks": 6581
+        },
+        {
+          "rank": 2,
+          "name": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+          "language": "Elixir",
+          "stars": 8185,
+          "forks": 944
+        },
+        {
+          "rank": 3,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 29796,
+          "forks": 2426
+        },
+        {
+          "rank": 4,
+          "name": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "description": "Meshery, the cloud native manager",
+          "language": "TypeScript",
+          "stars": 10575,
+          "forks": 3431
+        },
+        {
+          "rank": 5,
+          "name": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Sal...",
+          "language": "Ruby",
+          "stars": 31561,
+          "forks": 7620
+        },
+        {
+          "rank": 6,
+          "name": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Ru...",
+          "language": "Java",
+          "stars": 126827,
+          "forks": 15132
+        },
+        {
+          "rank": 7,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 447740,
+          "forks": 44977
+        },
+        {
+          "rank": 8,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and ...",
+          "language": "HTML",
+          "stars": 18075,
+          "forks": 1169
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 352168,
+          "forks": 83549
+        },
+        {
+          "rank": 10,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 32901,
+          "forks": 5387
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 29796,
+          "forks": 2426
+        },
+        {
+          "rank": 2,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 32901,
+          "forks": 5387
+        },
+        {
+          "rank": 3,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming servi...",
+          "language": "Python",
+          "stars": 2347,
+          "forks": 442
+        },
+        {
+          "rank": 4,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 17190,
+          "forks": 2556
+        },
+        {
+          "rank": 5,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security ri...",
+          "language": "Python",
+          "stars": 6113,
+          "forks": 446
+        },
+        {
+          "rank": 6,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 30176,
+          "forks": 5179
+        },
+        {
+          "rank": 7,
+          "name": "pytest-dev/pytest",
+          "url": "https://github.com/pytest-dev/pytest",
+          "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional...",
+          "language": "Python",
+          "stars": 14132,
+          "forks": 3184
+        },
+        {
+          "rank": 8,
+          "name": "Flowseal/tg-ws-proxy",
+          "url": "https://github.com/Flowseal/tg-ws-proxy",
+          "description": "Local MTProto proxy server for partial bypassing of Telegram loading",
+          "language": "Python",
+          "stars": 7505,
+          "forks": 360
+        },
+        {
+          "rank": 9,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 14555,
+          "forks": 1517
+        },
+        {
+          "rank": 10,
+          "name": "ArchipelagoMW/Archipelago",
+          "url": "https://github.com/ArchipelagoMW/Archipelago",
+          "description": "Archipelago Multi-Game Randomizer and Server",
+          "language": "Python",
+          "stars": 1463,
+          "forks": 1851
+        }
+      ]
+    }
+  ]
+}

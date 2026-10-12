@@ -1,0 +1,391 @@
+{
+  "date": "20250504",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 55922,
+          "forks": 2838
+        },
+        {
+          "rank": 2,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 48136,
+          "forks": 1002
+        },
+        {
+          "rank": 3,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 42150,
+          "forks": 3858
+        },
+        {
+          "rank": 4,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36506,
+          "forks": 392
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/OmniParser",
+          "url": "https://github.com/microsoft/OmniParser",
+          "description": "A simple screen parsing tool towards pure vision based GUI agent",
+          "language": "Jupyter Notebook",
+          "stars": 21905,
+          "forks": 1838
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "TypeScript",
+          "stars": 21327,
+          "forks": 2072
+        },
+        {
+          "rank": 7,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 20329,
+          "forks": 2352
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/typescript-go",
+          "url": "https://github.com/microsoft/typescript-go",
+          "description": "Staging repo for development of native port of TypeScript",
+          "language": "Go",
+          "stars": 19475,
+          "forks": 588
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/agents-course",
+          "url": "https://github.com/huggingface/agents-course",
+          "description": "This repository contains the Hugging Face Agents Course.",
+          "language": "Jupyter Notebook",
+          "stars": 17155,
+          "forks": 1127
+        },
+        {
+          "rank": 10,
+          "name": "chartdb/chartdb",
+          "url": "https://github.com/chartdb/chartdb",
+          "description": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
+          "language": "TypeScript",
+          "stars": 16300,
+          "forks": 818
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 284,
+          "forks": 56726
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37066
+        },
+        {
+          "rank": 3,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": ":school: Identify email addresses or domains names that belong to colleges or universities. Help ...",
+          "language": "Ruby",
+          "stars": 1145,
+          "forks": 27557
+        },
+        {
+          "rank": 4,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 184,
+          "forks": 27496
+        },
+        {
+          "rank": 5,
+          "name": "vagabond-systems/jpmc-task-1",
+          "url": "https://github.com/vagabond-systems/jpmc-task-1",
+          "description": "Starter repo for task 1 of the JPMC software engineering program",
+          "language": "Python",
+          "stars": 43,
+          "forks": 22322
+        },
+        {
+          "rank": 6,
+          "name": "linuxacademy/devops-essentials-sample-app",
+          "url": "https://github.com/linuxacademy/devops-essentials-sample-app",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 139,
+          "forks": 18360
+        },
+        {
+          "rank": 7,
+          "name": "yankils/Simple-DevOps-Project",
+          "url": "https://github.com/yankils/Simple-DevOps-Project",
+          "description": "No description",
+          "language": "Dockerfile",
+          "stars": 887,
+          "forks": 16753
+        },
+        {
+          "rank": 8,
+          "name": "actionsdemos/calculator",
+          "url": "https://github.com/actionsdemos/calculator",
+          "description": "A node.js demo application",
+          "language": "JavaScript",
+          "stars": 86,
+          "forks": 12948
+        },
+        {
+          "rank": 9,
+          "name": "learn-co-curriculum/phase-0-html-experiencing-html-lab",
+          "url": "https://github.com/learn-co-curriculum/phase-0-html-experiencing-html-lab",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 6,
+          "forks": 11505
+        },
+        {
+          "rank": 10,
+          "name": "alexaorrico/AirBnB_clone_v2",
+          "url": "https://github.com/alexaorrico/AirBnB_clone_v2",
+          "description": "No description",
+          "language": "Python",
+          "stars": 106,
+          "forks": 11054
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 59978,
+          "forks": 8411
+        },
+        {
+          "rank": 2,
+          "name": "jj-vcs/jj",
+          "url": "https://github.com/jj-vcs/jj",
+          "description": "A Git-compatible VCS that is both simple and powerful",
+          "language": "Rust",
+          "stars": 13256,
+          "forks": 478
+        },
+        {
+          "rank": 3,
+          "name": "aipotheosis-labs/aci",
+          "url": "https://github.com/aipotheosis-labs/aci",
+          "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with m...",
+          "language": "Python",
+          "stars": 2042,
+          "forks": 148
+        },
+        {
+          "rank": 4,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 298028,
+          "forks": 49516
+        },
+        {
+          "rank": 5,
+          "name": "cloudflare/mcp-server-cloudflare",
+          "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 1781,
+          "forks": 128
+        },
+        {
+          "rank": 6,
+          "name": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "language": "Python",
+          "stars": 103291,
+          "forks": 9926
+        },
+        {
+          "rank": 7,
+          "name": "unionlabs/union",
+          "url": "https://github.com/unionlabs/union",
+          "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem...",
+          "language": "Rust",
+          "stars": 56966,
+          "forks": 2857
+        },
+        {
+          "rank": 8,
+          "name": "BasedHardware/omi",
+          "url": "https://github.com/BasedHardware/omi",
+          "description": "AI wearables. Put it on, speak, transcribe, automatically",
+          "language": "C",
+          "stars": 5456,
+          "forks": 783
+        },
+        {
+          "rank": 9,
+          "name": "daytonaio/daytona",
+          "url": "https://github.com/daytonaio/daytona",
+          "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+          "language": "TypeScript",
+          "stars": 19070,
+          "forks": 2036
+        },
+        {
+          "rank": 10,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 38316,
+          "forks": 1595
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 59978,
+          "forks": 8411
+        },
+        {
+          "rank": 2,
+          "name": "aipotheosis-labs/aci",
+          "url": "https://github.com/aipotheosis-labs/aci",
+          "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with m...",
+          "language": "Python",
+          "stars": 2042,
+          "forks": 148
+        },
+        {
+          "rank": 3,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 298028,
+          "forks": 49516
+        },
+        {
+          "rank": 4,
+          "name": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "language": "Python",
+          "stars": 103291,
+          "forks": 9926
+        },
+        {
+          "rank": 5,
+          "name": "jaakkopasanen/AutoEq",
+          "url": "https://github.com/jaakkopasanen/AutoEq",
+          "description": "Automatic headphone equalization from frequency responses",
+          "language": "Python",
+          "stars": 14149,
+          "forks": 2492
+        },
+        {
+          "rank": 6,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥",
+          "language": "Python",
+          "stars": 37997,
+          "forks": 2972
+        },
+        {
+          "rank": 7,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 65132,
+          "forks": 15301
+        },
+        {
+          "rank": 8,
+          "name": "sunnypilot/sunnypilot",
+          "url": "https://github.com/sunnypilot/sunnypilot",
+          "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique drivin...",
+          "language": "Python",
+          "stars": 1175,
+          "forks": 853
+        },
+        {
+          "rank": 9,
+          "name": "mingrammer/diagrams",
+          "url": "https://github.com/mingrammer/diagrams",
+          "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+          "language": "Python",
+          "stars": 40740,
+          "forks": 2615
+        },
+        {
+          "rank": 10,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description": "The authentication glue you need.",
+          "language": "Python",
+          "stars": 16009,
+          "forks": 1098
+        }
+      ]
+    }
+  ]
+}

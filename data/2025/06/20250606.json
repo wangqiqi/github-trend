@@ -1,0 +1,391 @@
+{
+  "date": "20250606",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97459,
+          "forks": 15830
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 89916,
+          "forks": 11616
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 62507,
+          "forks": 7043
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 58660,
+          "forks": 3023
+        },
+        {
+          "rank": 5,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 55467,
+          "forks": 16948
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 53419,
+          "forks": 4037
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "Python",
+          "stars": 51748,
+          "forks": 5925
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 46546,
+          "forks": 8143
+        },
+        {
+          "rank": 9,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 45251,
+          "forks": 5531
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36539,
+          "forks": 402
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6607,
+          "forks": 243582
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13048,
+          "forks": 151548
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 856,
+          "forks": 143920
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48762,
+          "forks": 86842
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28482,
+          "forks": 86741
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 167018,
+          "forks": 83073
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1838,
+          "forks": 79882
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172377,
+          "forks": 79140
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 319133,
+          "forks": 79020
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190246,
+          "forks": 74694
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "netbirdio/netbird",
+          "url": "https://github.com/netbirdio/netbird",
+          "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular ac...",
+          "language": "Go",
+          "stars": 14309,
+          "forks": 686
+        },
+        {
+          "rank": 2,
+          "name": "lastmile-ai/mcp-agent",
+          "url": "https://github.com/lastmile-ai/mcp-agent",
+          "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+          "language": "Python",
+          "stars": 5189,
+          "forks": 480
+        },
+        {
+          "rank": 3,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 5 lines of code",
+          "language": "Python",
+          "stars": 3145,
+          "forks": 278
+        },
+        {
+          "rank": 4,
+          "name": "stanfordnlp/dspy",
+          "url": "https://github.com/stanfordnlp/dspy",
+          "description": "DSPy: The framework for programming—not prompting—language models",
+          "language": "Python",
+          "stars": 24790,
+          "forks": 1930
+        },
+        {
+          "rank": 5,
+          "name": "codexu/note-gen",
+          "url": "https://github.com/codexu/note-gen",
+          "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and w...",
+          "language": "TypeScript",
+          "stars": 3120,
+          "forks": 213
+        },
+        {
+          "rank": 6,
+          "name": "unslothai/notebooks",
+          "url": "https://github.com/unslothai/notebooks",
+          "description": "Unsloth Fine-tuning Notebooks for Google Colab, Kaggle, Hugging Face and more.",
+          "language": "Jupyter Notebook",
+          "stars": 1144,
+          "forks": 198
+        },
+        {
+          "rank": 7,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 319133,
+          "forks": 79020
+        },
+        {
+          "rank": 8,
+          "name": "deepsense-ai/ragbits",
+          "url": "https://github.com/deepsense-ai/ragbits",
+          "description": "Building blocks for rapid development of GenAI applications",
+          "language": "Python",
+          "stars": 719,
+          "forks": 55
+        },
+        {
+          "rank": 9,
+          "name": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamVie...",
+          "language": "Rust",
+          "stars": 89871,
+          "forks": 12913
+        },
+        {
+          "rank": 10,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "Archon is an AI agent that is able to create other AI agents using an advanced agentic coding wor...",
+          "language": "Python",
+          "stars": 4620,
+          "forks": 916
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "lastmile-ai/mcp-agent",
+          "url": "https://github.com/lastmile-ai/mcp-agent",
+          "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+          "language": "Python",
+          "stars": 5189,
+          "forks": 480
+        },
+        {
+          "rank": 2,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 5 lines of code",
+          "language": "Python",
+          "stars": 3145,
+          "forks": 278
+        },
+        {
+          "rank": 3,
+          "name": "stanfordnlp/dspy",
+          "url": "https://github.com/stanfordnlp/dspy",
+          "description": "DSPy: The framework for programming—not prompting—language models",
+          "language": "Python",
+          "stars": 24790,
+          "forks": 1930
+        },
+        {
+          "rank": 4,
+          "name": "deepsense-ai/ragbits",
+          "url": "https://github.com/deepsense-ai/ragbits",
+          "description": "Building blocks for rapid development of GenAI applications",
+          "language": "Python",
+          "stars": 719,
+          "forks": 55
+        },
+        {
+          "rank": 5,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "Archon is an AI agent that is able to create other AI agents using an advanced agentic coding wor...",
+          "language": "Python",
+          "stars": 4620,
+          "forks": 916
+        },
+        {
+          "rank": 6,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, ...",
+          "language": "Python",
+          "stars": 23686,
+          "forks": 3121
+        },
+        {
+          "rank": 7,
+          "name": "fishaudio/fish-speech",
+          "url": "https://github.com/fishaudio/fish-speech",
+          "description": "SOTA Open Source TTS",
+          "language": "Python",
+          "stars": 21468,
+          "forks": 1731
+        },
+        {
+          "rank": 8,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 175916,
+          "forks": 45768
+        },
+        {
+          "rank": 9,
+          "name": "PKU-YuanGroup/UniWorld-V1",
+          "url": "https://github.com/PKU-YuanGroup/UniWorld-V1",
+          "description": "UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation",
+          "language": "Python",
+          "stars": 378,
+          "forks": 13
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 17159,
+          "forks": 2368
+        }
+      ]
+    }
+  ]
+}

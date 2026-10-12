@@ -1,0 +1,391 @@
+{
+  "date": "20250520",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 96951,
+          "forks": 15766
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 89349,
+          "forks": 11545
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 60812,
+          "forks": 6740
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 57600,
+          "forks": 2951
+        },
+        {
+          "rank": 5,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 54566,
+          "forks": 1097
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 50265,
+          "forks": 3745
+        },
+        {
+          "rank": 7,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 49499,
+          "forks": 15166
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 47538,
+          "forks": 5382
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 45826,
+          "forks": 7983
+        },
+        {
+          "rank": 10,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 44037,
+          "forks": 5180
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6599,
+          "forks": 243575
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13016,
+          "forks": 151057
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 854,
+          "forks": 143915
+        },
+        {
+          "rank": 4,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28374,
+          "forks": 86660
+        },
+        {
+          "rank": 5,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48471,
+          "forks": 86213
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 166602,
+          "forks": 83088
+        },
+        {
+          "rank": 7,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172324,
+          "forks": 79110
+        },
+        {
+          "rank": 8,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1821,
+          "forks": 79059
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 317787,
+          "forks": 78816
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190036,
+          "forks": 74672
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 30608,
+          "forks": 5261
+        },
+        {
+          "rank": 2,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 344858,
+          "forks": 36238
+        },
+        {
+          "rank": 3,
+          "name": "appwrite/appwrite",
+          "url": "https://github.com/appwrite/appwrite",
+          "description": "The open-source Vercel alternative",
+          "language": "TypeScript",
+          "stars": 48966,
+          "forks": 4331
+        },
+        {
+          "rank": 4,
+          "name": "usememos/memos",
+          "url": "https://github.com/usememos/memos",
+          "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful not...",
+          "language": "Go",
+          "stars": 39899,
+          "forks": 2853
+        },
+        {
+          "rank": 5,
+          "name": "ed-donner/llm_engineering",
+          "url": "https://github.com/ed-donner/llm_engineering",
+          "description": "Repo to accompany my mastering LLM engineering course",
+          "language": "Jupyter Notebook",
+          "stars": 2008,
+          "forks": 1768
+        },
+        {
+          "rank": 6,
+          "name": "HeyPuter/puter",
+          "url": "https://github.com/HeyPuter/puter",
+          "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+          "language": "JavaScript",
+          "stars": 31074,
+          "forks": 2342
+        },
+        {
+          "rank": 7,
+          "name": "ventoy/Ventoy",
+          "url": "https://github.com/ventoy/Ventoy",
+          "description": "A new bootable USB solution.",
+          "language": "C",
+          "stars": 67223,
+          "forks": 4293
+        },
+        {
+          "rank": 8,
+          "name": "kortix-ai/suna",
+          "url": "https://github.com/kortix-ai/suna",
+          "description": "Suna - Open Source Generalist AI Agent",
+          "language": "TypeScript",
+          "stars": 11910,
+          "forks": 1665
+        },
+        {
+          "rank": 9,
+          "name": "langgenius/dify",
+          "url": "https://github.com/langgenius/dify",
+          "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workf...",
+          "language": "TypeScript",
+          "stars": 97988,
+          "forks": 14704
+        },
+        {
+          "rank": 10,
+          "name": "colinhacks/zod",
+          "url": "https://github.com/colinhacks/zod",
+          "description": "TypeScript-first schema validation with static type inference",
+          "language": "TypeScript",
+          "stars": 37896,
+          "forks": 1435
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 30608,
+          "forks": 5261
+        },
+        {
+          "rank": 2,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 344858,
+          "forks": 36238
+        },
+        {
+          "rank": 3,
+          "name": "tinygrad/tinygrad",
+          "url": "https://github.com/tinygrad/tinygrad",
+          "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+          "language": "Python",
+          "stars": 29045,
+          "forks": 3384
+        },
+        {
+          "rank": 4,
+          "name": "disposable-email-domains/disposable-email-domains",
+          "url": "https://github.com/disposable-email-domains/disposable-email-domains",
+          "description": "a list of disposable email domains",
+          "language": "Python",
+          "stars": 3690,
+          "forks": 638
+        },
+        {
+          "rank": 5,
+          "name": "ccxt/ccxt",
+          "url": "https://github.com/ccxt/ccxt",
+          "description": "A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for mo...",
+          "language": "Python",
+          "stars": 36131,
+          "forks": 7889
+        },
+        {
+          "rank": 6,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 43786,
+          "forks": 4061
+        },
+        {
+          "rank": 7,
+          "name": "beeware/toga",
+          "url": "https://github.com/beeware/toga",
+          "description": "A Python native, OS native GUI toolkit.",
+          "language": "Python",
+          "stars": 4921,
+          "forks": 729
+        },
+        {
+          "rank": 8,
+          "name": "Azure/azure-sdk-for-python",
+          "url": "https://github.com/Azure/azure-sdk-for-python",
+          "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK w...",
+          "language": "Python",
+          "stars": 4925,
+          "forks": 2995
+        },
+        {
+          "rank": 9,
+          "name": "modelcontextprotocol/python-sdk",
+          "url": "https://github.com/modelcontextprotocol/python-sdk",
+          "description": "The official Python SDK for Model Context Protocol servers and clients",
+          "language": "Python",
+          "stars": 12556,
+          "forks": 1459
+        },
+        {
+          "rank": 10,
+          "name": "bilibili/Index-anisora",
+          "url": "https://github.com/bilibili/Index-anisora",
+          "description": "",
+          "language": "Python",
+          "stars": 560,
+          "forks": 23
+        }
+      ]
+    }
+  ]
+}

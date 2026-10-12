@@ -1,0 +1,391 @@
+{
+  "date": "20260112",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91689,
+          "forks": 11776
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 61863,
+          "forks": 5378
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 55578,
+          "forks": 4024
+        },
+        {
+          "rank": 4,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 52758,
+          "forks": 9279
+        },
+        {
+          "rank": 5,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44961,
+          "forks": 4472
+        },
+        {
+          "rank": 6,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析...",
+          "language": "Python",
+          "stars": 42824,
+          "forks": 21421
+        },
+        {
+          "rank": 7,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 41627,
+          "forks": 2032
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 38226,
+          "forks": 3484
+        },
+        {
+          "rank": 9,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 28321,
+          "forks": 755
+        },
+        {
+          "rank": 10,
+          "name": "zama-ai/fhevm",
+          "url": "https://github.com/zama-ai/fhevm",
+          "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain ...",
+          "language": "Rust",
+          "stars": 25997,
+          "forks": 2406
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29290,
+          "forks": 87465
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 171745,
+          "forks": 82926
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173912,
+          "forks": 79179
+        },
+        {
+          "rank": 4,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8422,
+          "forks": 60044
+        },
+        {
+          "rank": 5,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 213477,
+          "forks": 59892
+        },
+        {
+          "rank": 6,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85689,
+          "forks": 56471
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 105018,
+          "forks": 56043
+        },
+        {
+          "rank": 8,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 216772,
+          "forks": 49923
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77695,
+          "forks": 45343
+        },
+        {
+          "rank": 10,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 28987,
+          "forks": 43353
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "description": "Fullstack app framework for web, desktop, and mobile.",
+          "language": "Rust",
+          "stars": 33356,
+          "forks": 1459
+        },
+        {
+          "rank": 2,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 42009,
+          "forks": 9335
+        },
+        {
+          "rank": 3,
+          "name": "frankbria/ralph-claude-code",
+          "url": "https://github.com/frankbria/ralph-claude-code",
+          "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+          "language": "Shell",
+          "stars": 1949,
+          "forks": 137
+        },
+        {
+          "rank": 4,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars": 109208,
+          "forks": 5323
+        },
+        {
+          "rank": 5,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 77339,
+          "forks": 11298
+        },
+        {
+          "rank": 6,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars": 23052,
+          "forks": 2235
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "Claude Code superpowers: core skills library",
+          "language": "Shell",
+          "stars": 18060,
+          "forks": 1402
+        },
+        {
+          "rank": 8,
+          "name": "ruvnet/claude-flow",
+          "url": "https://github.com/ruvnet/claude-flow",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coo...",
+          "language": "JavaScript",
+          "stars": 11478,
+          "forks": 1475
+        },
+        {
+          "rank": 9,
+          "name": "home-assistant/home-assistant.io",
+          "url": "https://github.com/home-assistant/home-assistant.io",
+          "description": "📘 Home Assistant User documentation",
+          "language": "HTML",
+          "stars": 8049,
+          "forks": 8092
+        },
+        {
+          "rank": 10,
+          "name": "mpv-player/mpv",
+          "url": "https://github.com/mpv-player/mpv",
+          "description": "🎥 Command line media player",
+          "language": "C",
+          "stars": 33401,
+          "forks": 3191
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 42009,
+          "forks": 9335
+        },
+        {
+          "rank": 2,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 77339,
+          "forks": 11298
+        },
+        {
+          "rank": 3,
+          "name": "OpenBMB/ChatDev",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "language": "Python",
+          "stars": 28239,
+          "forks": 3575
+        },
+        {
+          "rank": 4,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 10088,
+          "forks": 1707
+        },
+        {
+          "rank": 5,
+          "name": "gyoridavid/ai_agents_az",
+          "url": "https://github.com/gyoridavid/ai_agents_az",
+          "description": "",
+          "language": "Python",
+          "stars": 2574,
+          "forks": 665
+        },
+        {
+          "rank": 6,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
+          "language": "Python",
+          "stars": 5255,
+          "forks": 412
+        },
+        {
+          "rank": 7,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 120364,
+          "forks": 16960
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49696,
+          "forks": 5987
+        },
+        {
+          "rank": 9,
+          "name": "JerBouma/FinanceDatabase",
+          "url": "https://github.com/JerBouma/FinanceDatabase",
+          "description": "This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cry...",
+          "language": "Python",
+          "stars": 6659,
+          "forks": 695
+        },
+        {
+          "rank": 10,
+          "name": "Anjok07/ultimatevocalremovergui",
+          "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+          "description": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+          "language": "Python",
+          "stars": 23133,
+          "forks": 1729
+        }
+      ]
+    }
+  ]
+}

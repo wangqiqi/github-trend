@@ -1,0 +1,391 @@
+{
+  "date": "20260416",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 158179,
+          "forks": 24593
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 118666,
+          "forks": 13705
+        },
+        {
+          "rank": 3,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 88501,
+          "forks": 7611
+        },
+        {
+          "rank": 4,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 73688,
+          "forks": 10420
+        },
+        {
+          "rank": 5,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 66188,
+          "forks": 6727
+        },
+        {
+          "rank": 6,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 58816,
+          "forks": 4793
+        },
+        {
+          "rank": 7,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 55546,
+          "forks": 8407
+        },
+        {
+          "rank": 8,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 55477,
+          "forks": 6861
+        },
+        {
+          "rank": 9,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 54234,
+          "forks": 5816
+        },
+        {
+          "rank": 10,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 53788,
+          "forks": 7010
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 185137,
+          "forks": 108407
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2622,
+          "forks": 90076
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 341005,
+          "forks": 81919
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174169,
+          "forks": 78983
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 194759,
+          "forks": 75282
+        },
+        {
+          "rank": 6,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2732,
+          "forks": 73094
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 109395,
+          "forks": 58700
+        },
+        {
+          "rank": 8,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 184308,
+          "forks": 56857
+        },
+        {
+          "rank": 9,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 87147,
+          "forks": 56555
+        },
+        {
+          "rank": 10,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 181471,
+          "forks": 55633
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 47210,
+          "forks": 3867
+        },
+        {
+          "rank": 2,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 58816,
+          "forks": 4793
+        },
+        {
+          "rank": 3,
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x ...",
+          "language": "Python",
+          "stars": 2473,
+          "forks": 293
+        },
+        {
+          "rank": 4,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source voice synthesis studio",
+          "language": "TypeScript",
+          "stars": 18767,
+          "forks": 2172
+        },
+        {
+          "rank": 5,
+          "name": "vercel-labs/open-agents",
+          "url": "https://github.com/vercel-labs/open-agents",
+          "description": "An open source template for building cloud agents.",
+          "language": "TypeScript",
+          "stars": 2985,
+          "forks": 320
+        },
+        {
+          "rank": 6,
+          "name": "google/magika",
+          "url": "https://github.com/google/magika",
+          "description": "Fast and accurate AI powered file content types detection",
+          "language": "Python",
+          "stars": 14288,
+          "forks": 747
+        },
+        {
+          "rank": 7,
+          "name": "steipete/wacli",
+          "url": "https://github.com/steipete/wacli",
+          "description": "WhatsApp CLI",
+          "language": "Go",
+          "stars": 1538,
+          "forks": 194
+        },
+        {
+          "rank": 8,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+          "language": "Python",
+          "stars": 15615,
+          "forks": 1612
+        },
+        {
+          "rank": 9,
+          "name": "z-lab/dflash",
+          "url": "https://github.com/z-lab/dflash",
+          "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+          "language": "Python",
+          "stars": 1464,
+          "forks": 102
+        },
+        {
+          "rank": 10,
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars": 30392,
+          "forks": 3681
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x ...",
+          "language": "Python",
+          "stars": 2473,
+          "forks": 293
+        },
+        {
+          "rank": 2,
+          "name": "google/magika",
+          "url": "https://github.com/google/magika",
+          "description": "Fast and accurate AI powered file content types detection",
+          "language": "Python",
+          "stars": 14288,
+          "forks": 747
+        },
+        {
+          "rank": 3,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+          "language": "Python",
+          "stars": 15615,
+          "forks": 1612
+        },
+        {
+          "rank": 4,
+          "name": "z-lab/dflash",
+          "url": "https://github.com/z-lab/dflash",
+          "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+          "language": "Python",
+          "stars": 1464,
+          "forks": 102
+        },
+        {
+          "rank": 5,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars": 20984,
+          "forks": 3433
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 424011,
+          "forks": 46150
+        },
+        {
+          "rank": 7,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 55520,
+          "forks": 9614
+        },
+        {
+          "rank": 8,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+          "language": "Python",
+          "stars": 954,
+          "forks": 136
+        },
+        {
+          "rank": 9,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the ...",
+          "language": "Python",
+          "stars": 10332,
+          "forks": 891
+        },
+        {
+          "rank": 10,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 17864,
+          "forks": 1714
+        }
+      ]
+    }
+  ]
+}

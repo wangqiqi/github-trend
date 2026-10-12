@@ -1,0 +1,391 @@
+{
+  "date": "20250726",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98377,
+          "forks": 16022
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90676,
+          "forks": 11701
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 71488,
+          "forks": 20267
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 69425,
+          "forks": 3712
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 66287,
+          "forks": 7617
+        },
+        {
+          "rank": 6,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 64246,
+          "forks": 6087
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 63359,
+          "forks": 5004
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 61507,
+          "forks": 7128
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 48368,
+          "forks": 8471
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 38477,
+          "forks": 6781
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6623,
+          "forks": 243578
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13126,
+          "forks": 152348
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 861,
+          "forks": 144013
+        },
+        {
+          "rank": 4,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28702,
+          "forks": 87062
+        },
+        {
+          "rank": 5,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168228,
+          "forks": 83048
+        },
+        {
+          "rank": 6,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2281,
+          "forks": 82342
+        },
+        {
+          "rank": 7,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172721,
+          "forks": 79124
+        },
+        {
+          "rank": 8,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190900,
+          "forks": 74767
+        },
+        {
+          "rank": 9,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2564,
+          "forks": 72461
+        },
+        {
+          "rank": 10,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 363710,
+          "forks": 63814
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "frappe/hrms",
+          "url": "https://github.com/frappe/hrms",
+          "description": "Open Source HR and Payroll Software",
+          "language": "Python",
+          "stars": 4435,
+          "forks": 1371
+        },
+        {
+          "rank": 2,
+          "name": "QwenLM/Qwen3-Coder",
+          "url": "https://github.com/QwenLM/Qwen3-Coder",
+          "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team,...",
+          "language": "Python",
+          "stars": 9123,
+          "forks": 645
+        },
+        {
+          "rank": 3,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 22802,
+          "forks": 3893
+        },
+        {
+          "rank": 4,
+          "name": "m1k1o/neko",
+          "url": "https://github.com/m1k1o/neko",
+          "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+          "language": "Go",
+          "stars": 13865,
+          "forks": 865
+        },
+        {
+          "rank": 5,
+          "name": "aaPanel/BillionMail",
+          "url": "https://github.com/aaPanel/BillionMail",
+          "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, de...",
+          "language": "Go",
+          "stars": 7845,
+          "forks": 659
+        },
+        {
+          "rank": 6,
+          "name": "keycloak/keycloak",
+          "url": "https://github.com/keycloak/keycloak",
+          "description": "Open Source Identity and Access Management For Modern Applications and Services",
+          "language": "Java",
+          "stars": 28493,
+          "forks": 7457
+        },
+        {
+          "rank": 7,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, ...",
+          "language": "Python",
+          "stars": 26169,
+          "forks": 3610
+        },
+        {
+          "rank": 8,
+          "name": "Infisical/infisical",
+          "url": "https://github.com/Infisical/infisical",
+          "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+          "language": "TypeScript",
+          "stars": 18970,
+          "forks": 1268
+        },
+        {
+          "rank": 9,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 9439,
+          "forks": 826
+        },
+        {
+          "rank": 10,
+          "name": "dataease/dataease",
+          "url": "https://github.com/dataease/dataease",
+          "description": "🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.",
+          "language": "Java",
+          "stars": 20725,
+          "forks": 3671
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "frappe/hrms",
+          "url": "https://github.com/frappe/hrms",
+          "description": "Open Source HR and Payroll Software",
+          "language": "Python",
+          "stars": 4435,
+          "forks": 1371
+        },
+        {
+          "rank": 2,
+          "name": "QwenLM/Qwen3-Coder",
+          "url": "https://github.com/QwenLM/Qwen3-Coder",
+          "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team,...",
+          "language": "Python",
+          "stars": 9123,
+          "forks": 645
+        },
+        {
+          "rank": 3,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, ...",
+          "language": "Python",
+          "stars": 26169,
+          "forks": 3610
+        },
+        {
+          "rank": 4,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 9439,
+          "forks": 826
+        },
+        {
+          "rank": 5,
+          "name": "Intelligent-Internet/ii-agent",
+          "url": "https://github.com/Intelligent-Internet/ii-agent",
+          "description": "II-Agent: a new open-source framework to build and deploy intelligent agents",
+          "language": "Python",
+          "stars": 2707,
+          "forks": 399
+        },
+        {
+          "rank": 6,
+          "name": "RVC-Boss/GPT-SoVITS",
+          "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+          "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+          "language": "Python",
+          "stars": 49254,
+          "forks": 5407
+        },
+        {
+          "rank": 7,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 46258,
+          "forks": 4194
+        },
+        {
+          "rank": 8,
+          "name": "infinition/Bjorn",
+          "url": "https://github.com/infinition/Bjorn",
+          "description": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13...",
+          "language": "Python",
+          "stars": 4310,
+          "forks": 233
+        },
+        {
+          "rank": 9,
+          "name": "KurtBestor/Hitomi-Downloader",
+          "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+          "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+          "language": "Python",
+          "stars": 25557,
+          "forks": 2311
+        },
+        {
+          "rank": 10,
+          "name": "googleapis/python-genai",
+          "url": "https://github.com/googleapis/python-genai",
+          "description": "Google Gen AI Python SDK provides an interface for developers to integrate Google's generative mo...",
+          "language": "Python",
+          "stars": 2129,
+          "forks": 461
+        }
+      ]
+    }
+  ]
+}

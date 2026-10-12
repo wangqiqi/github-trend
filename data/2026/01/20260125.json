@@ -1,0 +1,181 @@
+{
+  "date": "20260125",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 3695,
+          "forks": 305
+        },
+        {
+          "rank": 2,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 8762,
+          "forks": 647
+        },
+        {
+          "rank": 3,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 30078,
+          "forks": 1812
+        },
+        {
+          "rank": 4,
+          "name": "qarmin/czkawka",
+          "url": "https://github.com/qarmin/czkawka",
+          "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+          "language": "Rust",
+          "stars": 28348,
+          "forks": 925
+        },
+        {
+          "rank": 5,
+          "name": "OpenBMB/UltraRAG",
+          "url": "https://github.com/OpenBMB/UltraRAG",
+          "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+          "language": "Python",
+          "stars": 3698,
+          "forks": 271
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 21815,
+          "forks": 2374
+        },
+        {
+          "rank": 7,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 57254,
+          "forks": 7424
+        },
+        {
+          "rank": 8,
+          "name": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "language": "TypeScript",
+          "stars": 14497,
+          "forks": 1539
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 3695,
+          "forks": 305
+        },
+        {
+          "rank": 2,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 8762,
+          "forks": 647
+        },
+        {
+          "rank": 3,
+          "name": "OpenBMB/UltraRAG",
+          "url": "https://github.com/OpenBMB/UltraRAG",
+          "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+          "language": "Python",
+          "stars": 3698,
+          "forks": 271
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 21815,
+          "forks": 2374
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/ViMax",
+          "url": "https://github.com/HKUDS/ViMax",
+          "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+          "language": "Python",
+          "stars": 2060,
+          "forks": 380
+        },
+        {
+          "rank": 6,
+          "name": "business-science/ai-data-science-team",
+          "url": "https://github.com/business-science/ai-data-science-team",
+          "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
+          "language": "Python",
+          "stars": 3799,
+          "forks": 735
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 76986,
+          "forks": 9145
+        },
+        {
+          "rank": 8,
+          "name": "Asabeneh/30-Days-Of-Python",
+          "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+          "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programmi...",
+          "language": "Python",
+          "stars": 56530,
+          "forks": 10816
+        },
+        {
+          "rank": 9,
+          "name": "mikf/gallery-dl",
+          "url": "https://github.com/mikf/gallery-dl",
+          "description": "Command-line program to download image galleries and collections from several image hosting sites",
+          "language": "Python",
+          "stars": 16596,
+          "forks": 1311
+        },
+        {
+          "rank": 10,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 89272,
+          "forks": 12824
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260514",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 129296,
+          "forks": 13116
+        },
+        {
+          "rank": 2,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 60430,
+          "forks": 9889
+        },
+        {
+          "rank": 3,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 59780,
+          "forks": 6486
+        },
+        {
+          "rank": 4,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo; the best agent harness - previously oh-my-opencode",
+          "language": "TypeScript",
+          "stars": 57741,
+          "forks": 4684
+        },
+        {
+          "rank": 5,
+          "name": "VoltAgent/awesome-openclaw-skills",
+          "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+          "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the offici...",
+          "language": "N/A",
+          "stars": 48641,
+          "forks": 4762
+        },
+        {
+          "rank": 6,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, ...",
+          "language": "JavaScript",
+          "stars": 44643,
+          "forks": 9370
+        },
+        {
+          "rank": 7,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes ...",
+          "language": "TypeScript",
+          "stars": 41931,
+          "forks": 4749
+        },
+        {
+          "rank": 8,
+          "name": "sickn33/antigravity-awesome-skills",
+          "url": "https://github.com/sickn33/antigravity-awesome-skills",
+          "description": "Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CL...",
+          "language": "Python",
+          "stars": 37496,
+          "forks": 6138
+        },
+        {
+          "rank": 9,
+          "name": "siddharthvaddem/openscreen",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commer...",
+          "language": "TypeScript",
+          "stars": 36151,
+          "forks": 2465
+        },
+        {
+          "rank": 10,
+          "name": "wshobson/agents",
+          "url": "https://github.com/wshobson/agents",
+          "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+          "language": "Python",
+          "stars": 35354,
+          "forks": 3851
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 53961,
+          "forks": 102581
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2634,
+          "forks": 90596
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 346724,
+          "forks": 82893
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195113,
+          "forks": 75296
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19478,
+          "forks": 67054
+        },
+        {
+          "rank": 6,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 245016,
+          "forks": 51034
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1620,
+          "forks": 46474
+        },
+        {
+          "rank": 8,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 184295,
+          "forks": 46234
+        },
+        {
+          "rank": 9,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 30535,
+          "forks": 45902
+        },
+        {
+          "rank": 10,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1158,
+          "forks": 42102
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 55200,
+          "forks": 7339
+        },
+        {
+          "rank": 2,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars": 7248,
+          "forks": 575
+        },
+        {
+          "rank": 3,
+          "name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "language": "TypeScript",
+          "stars": 8659,
+          "forks": 716
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 190692,
+          "forks": 16958
+        },
+        {
+          "rank": 5,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 21544,
+          "forks": 2359
+        },
+        {
+          "rank": 6,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 24626,
+          "forks": 4316
+        },
+        {
+          "rank": 7,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars": 38738,
+          "forks": 3475
+        },
+        {
+          "rank": 8,
+          "name": "influxdata/telegraf",
+          "url": "https://github.com/influxdata/telegraf",
+          "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "language": "Go",
+          "stars": 17123,
+          "forks": 5789
+        },
+        {
+          "rank": 9,
+          "name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "language": "Swift",
+          "stars": 5011,
+          "forks": 485
+        },
+        {
+          "rank": 10,
+          "name": "Genymobile/scrcpy",
+          "url": "https://github.com/Genymobile/scrcpy",
+          "description": "Display and control your Android device",
+          "language": "C",
+          "stars": 141062,
+          "forks": 13034
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 21544,
+          "forks": 2359
+        },
+        {
+          "rank": 2,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 24626,
+          "forks": 4316
+        },
+        {
+          "rank": 3,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars": 38738,
+          "forks": 3475
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video ...",
+          "language": "Python",
+          "stars": 711,
+          "forks": 239
+        },
+        {
+          "rank": 5,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source...",
+          "language": "Python",
+          "stars": 10336,
+          "forks": 775
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 99061,
+          "forks": 8626
+        },
+        {
+          "rank": 7,
+          "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+          "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+          "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: c...",
+          "language": "Python",
+          "stars": 9320,
+          "forks": 884
+        },
+        {
+          "rank": 8,
+          "name": "OthmanAdi/planning-with-files",
+          "url": "https://github.com/OthmanAdi/planning-with-files",
+          "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern be...",
+          "language": "Python",
+          "stars": 21234,
+          "forks": 1884
+        },
+        {
+          "rank": 9,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars": 7079,
+          "forks": 812
+        },
+        {
+          "rank": 10,
+          "name": "MervinPraison/PraisonAI",
+          "url": "https://github.com/MervinPraison/PraisonAI",
+          "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous se...",
+          "language": "Python",
+          "stars": 7690,
+          "forks": 1170
+        }
+      ]
+    }
+  ]
+}

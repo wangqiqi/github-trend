@@ -1,0 +1,391 @@
+{
+  "date": "20251005",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91227,
+          "forks": 11751
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 89769,
+          "forks": 24457
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 80509,
+          "forks": 4449
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 77987,
+          "forks": 8450
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 71950,
+          "forks": 5969
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70818,
+          "forks": 8313
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 69519,
+          "forks": 8239
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 45977,
+          "forks": 5468
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 40648,
+          "forks": 3814
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36823,
+          "forks": 419
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50683,
+          "forks": 92177
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2487,
+          "forks": 84951
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 169820,
+          "forks": 83010
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191912,
+          "forks": 74901
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 371512,
+          "forks": 64570
+        },
+        {
+          "rank": 6,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17972,
+          "forks": 63553
+        },
+        {
+          "rank": 7,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 85997,
+          "forks": 60950
+        },
+        {
+          "rank": 8,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8227,
+          "forks": 58898
+        },
+        {
+          "rank": 9,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 204138,
+          "forks": 58017
+        },
+        {
+          "rank": 10,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37279,
+          "forks": 54081
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 22688,
+          "forks": 1777
+        },
+        {
+          "rank": 2,
+          "name": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "description": "",
+          "language": "Batchfile",
+          "stars": 16595,
+          "forks": 1180
+        },
+        {
+          "rank": 3,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 35918,
+          "forks": 4328
+        },
+        {
+          "rank": 4,
+          "name": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "description": "Meshery, the cloud native manager",
+          "language": "JavaScript",
+          "stars": 8471,
+          "forks": 2671
+        },
+        {
+          "rank": 5,
+          "name": "Stremio/stremio-web",
+          "url": "https://github.com/Stremio/stremio-web",
+          "description": "Stremio - Freedom to Stream",
+          "language": "JavaScript",
+          "stars": 1997,
+          "forks": 413
+        },
+        {
+          "rank": 6,
+          "name": "glide-browser/glide",
+          "url": "https://github.com/glide-browser/glide",
+          "description": "An extensible and keyboard-focused web browser",
+          "language": "TypeScript",
+          "stars": 607,
+          "forks": 15
+        },
+        {
+          "rank": 7,
+          "name": "comfyanonymous/ComfyUI",
+          "url": "https://github.com/comfyanonymous/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 90036,
+          "forks": 10071
+        },
+        {
+          "rank": 8,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 9161,
+          "forks": 2038
+        },
+        {
+          "rank": 9,
+          "name": "kestra-io/kestra",
+          "url": "https://github.com/kestra-io/kestra",
+          "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI ...",
+          "language": "Java",
+          "stars": 21890,
+          "forks": 1969
+        },
+        {
+          "rank": 10,
+          "name": "meshtastic/firmware",
+          "url": "https://github.com/meshtastic/firmware",
+          "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+          "language": "C++",
+          "stars": 5739,
+          "forks": 1559
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 22688,
+          "forks": 1777
+        },
+        {
+          "rank": 2,
+          "name": "comfyanonymous/ComfyUI",
+          "url": "https://github.com/comfyanonymous/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 90036,
+          "forks": 10071
+        },
+        {
+          "rank": 3,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 9161,
+          "forks": 2038
+        },
+        {
+          "rank": 4,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 44796,
+          "forks": 1369
+        },
+        {
+          "rank": 5,
+          "name": "xtekky/gpt4free",
+          "url": "https://github.com/xtekky/gpt4free",
+          "description": "The official gpt4free repository | various collection of powerful language models | o4, o3 and ...",
+          "language": "Python",
+          "stars": 65191,
+          "forks": 13691
+        },
+        {
+          "rank": 6,
+          "name": "airweave-ai/airweave",
+          "url": "https://github.com/airweave-ai/airweave",
+          "description": "Airweave lets agents search any app",
+          "language": "Python",
+          "stars": 3918,
+          "forks": 480
+        },
+        {
+          "rank": 7,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 371512,
+          "forks": 64570
+        },
+        {
+          "rank": 8,
+          "name": "Alvin9999/new-pac",
+          "url": "https://github.com/Alvin9999/new-pac",
+          "description": "翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/s...",
+          "language": "Python",
+          "stars": 69015,
+          "forks": 10397
+        },
+        {
+          "rank": 9,
+          "name": "freqtrade/freqtrade",
+          "url": "https://github.com/freqtrade/freqtrade",
+          "description": "Free, open source crypto trading bot",
+          "language": "Python",
+          "stars": 43313,
+          "forks": 8794
+        },
+        {
+          "rank": 10,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 157055,
+          "forks": 29152
+        }
+      ]
+    }
+  ]
+}

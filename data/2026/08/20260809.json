@@ -1,0 +1,391 @@
+{
+  "date": "20260809",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 127077,
+          "forks": 19138
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 125945,
+          "forks": 11249
+        },
+        {
+          "rank": 3,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 90146,
+          "forks": 7847
+        },
+        {
+          "rank": 4,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent bec...",
+          "language": "TypeScript",
+          "stars": 84656,
+          "forks": 9888
+        },
+        {
+          "rank": 5,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 72112,
+          "forks": 8180
+        },
+        {
+          "rank": 6,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 71778,
+          "forks": 8941
+        },
+        {
+          "rank": 7,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 70777,
+          "forks": 11010
+        },
+        {
+          "rank": 8,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 69369,
+          "forks": 5848
+        },
+        {
+          "rank": 9,
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens fo...",
+          "language": "Python",
+          "stars": 65588,
+          "forks": 5005
+        },
+        {
+          "rank": 10,
+          "name": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+          "language": "HTML",
+          "stars": 64199,
+          "forks": 6382
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2689,
+          "forks": 93110
+        },
+        {
+          "rank": 2,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 363987,
+          "forks": 44764
+        },
+        {
+          "rank": 3,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 89830,
+          "forks": 39264
+        },
+        {
+          "rank": 4,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 163494,
+          "forks": 34157
+        },
+        {
+          "rank": 5,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 541,
+          "forks": 33579
+        },
+        {
+          "rank": 6,
+          "name": "apache/spark",
+          "url": "https://github.com/apache/spark",
+          "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+          "language": "Scala",
+          "stars": 43831,
+          "forks": 29320
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 269533,
+          "forks": 24084
+        },
+        {
+          "rank": 8,
+          "name": "dayanch96/YTLite",
+          "url": "https://github.com/dayanch96/YTLite",
+          "description": "A flexible enhancer for YouTube on iOS",
+          "language": "Logos",
+          "stars": 5312,
+          "forks": 22288
+        },
+        {
+          "rank": 9,
+          "name": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and...",
+          "language": "HTML",
+          "stars": 166914,
+          "forks": 21543
+        },
+        {
+          "rank": 10,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 88579,
+          "forks": 20466
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "language": "TypeScript",
+          "stars": 9946,
+          "forks": 978
+        },
+        {
+          "rank": 2,
+          "name": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the...",
+          "language": "Python",
+          "stars": 2680,
+          "forks": 457
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 140086,
+          "forks": 22861
+        },
+        {
+          "rank": 4,
+          "name": "pranshuparmar/witr",
+          "url": "https://github.com/pranshuparmar/witr",
+          "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + ...",
+          "language": "Go",
+          "stars": 20251,
+          "forks": 677
+        },
+        {
+          "rank": 5,
+          "name": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "description": "",
+          "language": "Python",
+          "stars": 6922,
+          "forks": 913
+        },
+        {
+          "rank": 6,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 84866,
+          "forks": 9136
+        },
+        {
+          "rank": 7,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 60912,
+          "forks": 51906
+        },
+        {
+          "rank": 8,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description": "The authentication glue you need.",
+          "language": "Python",
+          "stars": 24124,
+          "forks": 1849
+        },
+        {
+          "rank": 9,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars": 16990,
+          "forks": 1384
+        },
+        {
+          "rank": 10,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 125120,
+          "forks": 14817
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the...",
+          "language": "Python",
+          "stars": 2680,
+          "forks": 457
+        },
+        {
+          "rank": 2,
+          "name": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "description": "",
+          "language": "Python",
+          "stars": 6922,
+          "forks": 913
+        },
+        {
+          "rank": 3,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 60912,
+          "forks": 51906
+        },
+        {
+          "rank": 4,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description": "The authentication glue you need.",
+          "language": "Python",
+          "stars": 24124,
+          "forks": 1849
+        },
+        {
+          "rank": 5,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars": 16990,
+          "forks": 1384
+        },
+        {
+          "rank": 6,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 125120,
+          "forks": 14817
+        },
+        {
+          "rank": 7,
+          "name": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+          "language": "Python",
+          "stars": 692,
+          "forks": 170
+        },
+        {
+          "rank": 8,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 9225,
+          "forks": 757
+        },
+        {
+          "rank": 9,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 19203,
+          "forks": 2059
+        },
+        {
+          "rank": 10,
+          "name": "vladmandic/sdnext",
+          "url": "https://github.com/vladmandic/sdnext",
+          "description": "SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing",
+          "language": "Python",
+          "stars": 7261,
+          "forks": 572
+        }
+      ]
+    }
+  ]
+}

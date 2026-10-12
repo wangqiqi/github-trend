@@ -1,0 +1,391 @@
+{
+  "date": "20261003",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 391230,
+          "forks": 82238
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 275143,
+          "forks": 23091
+        },
+        {
+          "rank": 3,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 97195,
+          "forks": 13537
+        },
+        {
+          "rank": 4,
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens fo...",
+          "language": "Python",
+          "stars": 74327,
+          "forks": 5748
+        },
+        {
+          "rank": 5,
+          "name": "career-ops-hq/career-ops",
+          "url": "https://github.com/career-ops-hq/career-ops",
+          "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your ...",
+          "language": "JavaScript",
+          "stars": 73377,
+          "forks": 13788
+        },
+        {
+          "rank": 6,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+          "language": "TypeScript",
+          "stars": 69768,
+          "forks": 5742
+        },
+        {
+          "rank": 7,
+          "name": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+          "language": "HTML",
+          "stars": 67031,
+          "forks": 6702
+        },
+        {
+          "rank": 8,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 64386,
+          "forks": 5434
+        },
+        {
+          "rank": 9,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars": 59400,
+          "forks": 7562
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 58400,
+          "forks": 8181
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14703
+        },
+        {
+          "rank": 2,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9755
+        },
+        {
+          "rank": 3,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8894
+        },
+        {
+          "rank": 4,
+          "name": "CaptainPawss/clob-client-v2",
+          "url": "https://github.com/CaptainPawss/clob-client-v2",
+          "description": "Library for development",
+          "language": "TypeScript",
+          "stars": 1,
+          "forks": 8101
+        },
+        {
+          "rank": 5,
+          "name": "stacksimplify/aws-eks-kubernetes-masterclass",
+          "url": "https://github.com/stacksimplify/aws-eks-kubernetes-masterclass",
+          "description": "AWS EKS Kubernetes - Masterclass | DevOps, Microservices",
+          "language": "Java",
+          "stars": 1824,
+          "forks": 7510
+        },
+        {
+          "rank": 6,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 14,
+          "forks": 6893
+        },
+        {
+          "rank": 7,
+          "name": "apache/skywalking",
+          "url": "https://github.com/apache/skywalking",
+          "description": "APM, Application Performance Monitoring System",
+          "language": "Java",
+          "stars": 24966,
+          "forks": 6632
+        },
+        {
+          "rank": 8,
+          "name": "mate-academy/layout_moyo-header",
+          "url": "https://github.com/mate-academy/layout_moyo-header",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 11,
+          "forks": 6560
+        },
+        {
+          "rank": 9,
+          "name": "yandex-praktikum/taski",
+          "url": "https://github.com/yandex-praktikum/taski",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 4,
+          "forks": 6223
+        },
+        {
+          "rank": 10,
+          "name": "mate-academy/layout_stars",
+          "url": "https://github.com/mate-academy/layout_stars",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 13,
+          "forks": 6041
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 152745,
+          "forks": 8196
+        },
+        {
+          "rank": 2,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 74885,
+          "forks": 4501
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 271919,
+          "forks": 40609
+        },
+        {
+          "rank": 4,
+          "name": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "description": "Build production-ready applications in TypeScript",
+          "language": "TypeScript",
+          "stars": 16723,
+          "forks": 809
+        },
+        {
+          "rank": 5,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65%...",
+          "language": "Go",
+          "stars": 109388,
+          "forks": 6326
+        },
+        {
+          "rank": 6,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 89502,
+          "forks": 7876
+        },
+        {
+          "rank": 7,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 24485,
+          "forks": 6393
+        },
+        {
+          "rank": 8,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during s...",
+          "language": "TypeScript",
+          "stars": 95362,
+          "forks": 8448
+        },
+        {
+          "rank": 9,
+          "name": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running ag...",
+          "language": "TypeScript",
+          "stars": 10454,
+          "forks": 1282
+        },
+        {
+          "rank": 10,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 100736,
+          "forks": 10587
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 89502,
+          "forks": 7876
+        },
+        {
+          "rank": 2,
+          "name": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description": "Developer-first error tracking and performance monitoring",
+          "language": "Python",
+          "stars": 45143,
+          "forks": 4895
+        },
+        {
+          "rank": 3,
+          "name": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description": "",
+          "language": "Python",
+          "stars": 9322,
+          "forks": 2061
+        },
+        {
+          "rank": 4,
+          "name": "meituan-longcat/LongCat-Video",
+          "url": "https://github.com/meituan-longcat/LongCat-Video",
+          "description": "",
+          "language": "Python",
+          "stars": 8650,
+          "forks": 1520
+        },
+        {
+          "rank": 5,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars": 12395,
+          "forks": 1250
+        },
+        {
+          "rank": 6,
+          "name": "handsomestWei/patent-disclosure-skill",
+          "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+          "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+          "language": "Python",
+          "stars": 10946,
+          "forks": 1159
+        },
+        {
+          "rank": 7,
+          "name": "kaifcodec/user-scanner",
+          "url": "https://github.com/kaifcodec/user-scanner",
+          "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction...",
+          "language": "Python",
+          "stars": 5194,
+          "forks": 525
+        },
+        {
+          "rank": 8,
+          "name": "agno-agi/agno",
+          "url": "https://github.com/agno-agi/agno",
+          "description": "Build, run, and manage agent platforms.",
+          "language": "Python",
+          "stars": 42529,
+          "forks": 6080
+        },
+        {
+          "rank": 9,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+          "language": "Python",
+          "stars": 11355,
+          "forks": 1662
+        },
+        {
+          "rank": 10,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 66283,
+          "forks": 7268
+        }
+      ]
+    }
+  ]
+}

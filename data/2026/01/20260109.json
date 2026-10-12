@@ -1,0 +1,391 @@
+{
+  "date": "20260109",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 106887,
+          "forks": 28130
+        },
+        {
+          "rank": 2,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 90237,
+          "forks": 10439
+        },
+        {
+          "rank": 3,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 55533,
+          "forks": 7145
+        },
+        {
+          "rank": 4,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49447,
+          "forks": 5928
+        },
+        {
+          "rank": 5,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44895,
+          "forks": 4458
+        },
+        {
+          "rank": 6,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 41343,
+          "forks": 2023
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 40005,
+          "forks": 5123
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 36289,
+          "forks": 3290
+        },
+        {
+          "rank": 9,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 28685,
+          "forks": 3892
+        },
+        {
+          "rank": 10,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 27231,
+          "forks": 717
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 193273,
+          "forks": 75144
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2649,
+          "forks": 72837
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 380166,
+          "forks": 65729
+        },
+        {
+          "rank": 4,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 177283,
+          "forks": 55237
+        },
+        {
+          "rank": 5,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 331748,
+          "forks": 53988
+        },
+        {
+          "rank": 6,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37324,
+          "forks": 53926
+        },
+        {
+          "rank": 7,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153390,
+          "forks": 46097
+        },
+        {
+          "rank": 8,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20021,
+          "forks": 43331
+        },
+        {
+          "rank": 9,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 79612,
+          "forks": 41782
+        },
+        {
+          "rank": 10,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1162,
+          "forks": 34046
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 19588,
+          "forks": 1201
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 53808,
+          "forks": 3873
+        },
+        {
+          "rank": 3,
+          "name": "tailwindlabs/tailwindcss",
+          "url": "https://github.com/tailwindlabs/tailwindcss",
+          "description": "A utility-first CSS framework for rapid UI development.",
+          "language": "TypeScript",
+          "stars": 92301,
+          "forks": 4915
+        },
+        {
+          "rank": 4,
+          "name": "netbirdio/netbird",
+          "url": "https://github.com/netbirdio/netbird",
+          "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular ac...",
+          "language": "Go",
+          "stars": 20754,
+          "forks": 1017
+        },
+        {
+          "rank": 5,
+          "name": "C4illin/ConvertX",
+          "url": "https://github.com/C4illin/ConvertX",
+          "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+          "language": "TypeScript",
+          "stars": 13706,
+          "forks": 730
+        },
+        {
+          "rank": 6,
+          "name": "Lightricks/ComfyUI-LTXVideo",
+          "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+          "description": "LTX-Video Support for ComfyUI",
+          "language": "Python",
+          "stars": 2730,
+          "forks": 270
+        },
+        {
+          "rank": 7,
+          "name": "MiroMindAI/MiroThinker",
+          "url": "https://github.com/MiroMindAI/MiroThinker",
+          "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-wor...",
+          "language": "Python",
+          "stars": 3785,
+          "forks": 242
+        },
+        {
+          "rank": 8,
+          "name": "google/googletest",
+          "url": "https://github.com/google/googletest",
+          "description": "GoogleTest - Google Testing and Mocking Framework",
+          "language": "C++",
+          "stars": 37898,
+          "forks": 10659
+        },
+        {
+          "rank": 9,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars": 21319,
+          "forks": 2060
+        },
+        {
+          "rank": 10,
+          "name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+          "url": "https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+          "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
+          "language": "N/A",
+          "stars": 21452,
+          "forks": 1397
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Lightricks/ComfyUI-LTXVideo",
+          "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+          "description": "LTX-Video Support for ComfyUI",
+          "language": "Python",
+          "stars": 2730,
+          "forks": 270
+        },
+        {
+          "rank": 2,
+          "name": "MiroMindAI/MiroThinker",
+          "url": "https://github.com/MiroMindAI/MiroThinker",
+          "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-wor...",
+          "language": "Python",
+          "stars": 3785,
+          "forks": 242
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 75116,
+          "forks": 8972
+        },
+        {
+          "rank": 4,
+          "name": "modelscope/ms-swift",
+          "url": "https://github.com/modelscope/ms-swift",
+          "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3, Qwen3-MoE, DeepSeek-R1, GLM4.5, ...",
+          "language": "Python",
+          "stars": 12062,
+          "forks": 1114
+        },
+        {
+          "rank": 5,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
+          "language": "Python",
+          "stars": 5019,
+          "forks": 384
+        },
+        {
+          "rank": 6,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 27785,
+          "forks": 5297
+        },
+        {
+          "rank": 7,
+          "name": "dbt-labs/dbt-core",
+          "url": "https://github.com/dbt-labs/dbt-core",
+          "description": "dbt enables data analysts and engineers to transform their data using the same practices that sof...",
+          "language": "Python",
+          "stars": 12069,
+          "forks": 2230
+        },
+        {
+          "rank": 8,
+          "name": "NVIDIA-NeMo/NeMo",
+          "url": "https://github.com/NVIDIA-NeMo/NeMo",
+          "description": "A scalable generative AI framework built for researchers and developers working on Large Language...",
+          "language": "Python",
+          "stars": 16476,
+          "forks": 3276
+        },
+        {
+          "rank": 9,
+          "name": "psf/black",
+          "url": "https://github.com/psf/black",
+          "description": "The uncompromising Python code formatter",
+          "language": "Python",
+          "stars": 41284,
+          "forks": 2699
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/VideoRAG",
+          "url": "https://github.com/HKUDS/VideoRAG",
+          "description": "[KDD'2026] \"VideoRAG: Chat with Your Videos\"",
+          "language": "Python",
+          "stars": 2210,
+          "forks": 296
+        }
+      ]
+    }
+  ]
+}

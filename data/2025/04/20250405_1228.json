@@ -1,0 +1,391 @@
+{
+  "date": "20250405",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 95069,
+          "forks": 15397
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 88064,
+          "forks": 11375
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 53146,
+          "forks": 5626
+        },
+        {
+          "rank": 4,
+          "name": "mannaandpoem/OpenManus",
+          "url": "https://github.com/mannaandpoem/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 41918,
+          "forks": 7124
+        },
+        {
+          "rank": 5,
+          "name": "karpathy/LLM101n",
+          "url": "https://github.com/karpathy/LLM101n",
+          "description": "LLM101n: Let's build a Storyteller",
+          "language": "N/A",
+          "stars": 33069,
+          "forks": 1809
+        },
+        {
+          "rank": 6,
+          "name": "glanceapp/glance",
+          "url": "https://github.com/glanceapp/glance",
+          "description": "A self-hosted dashboard that puts all your feeds in one place",
+          "language": "Go",
+          "stars": 21663,
+          "forks": 796
+        },
+        {
+          "rank": 7,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21202,
+          "forks": 1499
+        },
+        {
+          "rank": 8,
+          "name": "ItzCrazyKns/Perplexica",
+          "url": "https://github.com/ItzCrazyKns/Perplexica",
+          "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+          "language": "TypeScript",
+          "stars": 21139,
+          "forks": 2135
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 20612,
+          "forks": 3739
+        },
+        {
+          "rank": 10,
+          "name": "XiaoMi/ha_xiaomi_home",
+          "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+          "description": "Xiaomi Home Integration for Home Assistant",
+          "language": "Python",
+          "stars": 19203,
+          "forks": 962
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6597,
+          "forks": 243652
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 47741,
+          "forks": 84542
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2505,
+          "forks": 72124
+        },
+        {
+          "rank": 4,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 81507,
+          "forks": 56087
+        },
+        {
+          "rank": 5,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 284,
+          "forks": 43347
+        },
+        {
+          "rank": 6,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 28282,
+          "forks": 39084
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1403,
+          "forks": 37307
+        },
+        {
+          "rank": 8,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37075
+        },
+        {
+          "rank": 9,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 77871,
+          "forks": 33151
+        },
+        {
+          "rank": 10,
+          "name": "vagabond-systems/jpmc-task-1",
+          "url": "https://github.com/vagabond-systems/jpmc-task-1",
+          "description": "Starter repo for task 1 of the JPMC software engineering program",
+          "language": "Python",
+          "stars": 43,
+          "forks": 22436
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nuejs/nue",
+          "url": "https://github.com/nuejs/nue",
+          "description": "Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak",
+          "language": "JavaScript",
+          "stars": 7913,
+          "forks": 233
+        },
+        {
+          "rank": 2,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+          "language": "TypeScript",
+          "stars": 415235,
+          "forks": 39646
+        },
+        {
+          "rank": 3,
+          "name": "Azure/azure-sdk-for-net",
+          "url": "https://github.com/Azure/azure-sdk-for-net",
+          "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we ...",
+          "language": "C#",
+          "stars": 5694,
+          "forks": 4910
+        },
+        {
+          "rank": 4,
+          "name": "liam-hq/liam",
+          "url": "https://github.com/liam-hq/liam",
+          "description": "Automatically generates beautiful and easy-to-read ER diagrams from your database.",
+          "language": "TypeScript",
+          "stars": 1882,
+          "forks": 80
+        },
+        {
+          "rank": 5,
+          "name": "tenstorrent/tt-metal",
+          "url": "https://github.com/tenstorrent/tt-metal",
+          "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+          "language": "C++",
+          "stars": 721,
+          "forks": 130
+        },
+        {
+          "rank": 6,
+          "name": "kubernetes-sigs/headlamp",
+          "url": "https://github.com/kubernetes-sigs/headlamp",
+          "description": "A Kubernetes web UI that is fully-featured, user-friendly and extensible",
+          "language": "TypeScript",
+          "stars": 3198,
+          "forks": 260
+        },
+        {
+          "rank": 7,
+          "name": "google/googletest",
+          "url": "https://github.com/google/googletest",
+          "description": "GoogleTest - Google Testing and Mocking Framework",
+          "language": "C++",
+          "stars": 35747,
+          "forks": 10326
+        },
+        {
+          "rank": 8,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 638,
+          "forks": 38
+        },
+        {
+          "rank": 9,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "JavaScript",
+          "stars": 171900,
+          "forks": 79063
+        },
+        {
+          "rank": 10,
+          "name": "fleetdm/fleet",
+          "url": "https://github.com/fleetdm/fleet",
+          "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, ...",
+          "language": "Go",
+          "stars": 4227,
+          "forks": 523
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 638,
+          "forks": 38
+        },
+        {
+          "rank": 2,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 37225,
+          "forks": 3278
+        },
+        {
+          "rank": 3,
+          "name": "iam-veeramalla/aws-devops-zero-to-hero",
+          "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+          "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, ...",
+          "language": "Python",
+          "stars": 7714,
+          "forks": 10926
+        },
+        {
+          "rank": 4,
+          "name": "browser-use/web-ui",
+          "url": "https://github.com/browser-use/web-ui",
+          "description": "Run AI Agent in your browser.",
+          "language": "Python",
+          "stars": 11057,
+          "forks": 1798
+        },
+        {
+          "rank": 5,
+          "name": "Azure/azure-sdk-for-python",
+          "url": "https://github.com/Azure/azure-sdk-for-python",
+          "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK w...",
+          "language": "Python",
+          "stars": 4858,
+          "forks": 2950
+        },
+        {
+          "rank": 6,
+          "name": "dlt-hub/dlt",
+          "url": "https://github.com/dlt-hub/dlt",
+          "description": "data load tool (dlt) is an open source Python library that makes data loading easy 🛠️",
+          "language": "Python",
+          "stars": 3397,
+          "forks": 245
+        },
+        {
+          "rank": 7,
+          "name": "wagtail/wagtail",
+          "url": "https://github.com/wagtail/wagtail",
+          "description": "A Django content management system focused on flexibility and user experience",
+          "language": "Python",
+          "stars": 19019,
+          "forks": 4048
+        },
+        {
+          "rank": 8,
+          "name": "cookiecutter/cookiecutter-django",
+          "url": "https://github.com/cookiecutter/cookiecutter-django",
+          "description": "Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.",
+          "language": "Python",
+          "stars": 12636,
+          "forks": 2973
+        },
+        {
+          "rank": 9,
+          "name": "hatchet-dev/hatchet",
+          "url": "https://github.com/hatchet-dev/hatchet",
+          "description": "🪓 Run Background Tasks at Scale",
+          "language": "Python",
+          "stars": 5159,
+          "forks": 203
+        },
+        {
+          "rank": 10,
+          "name": "NVIDIA/cuda-python",
+          "url": "https://github.com/NVIDIA/cuda-python",
+          "description": "CUDA Python: Performance meets Productivity",
+          "language": "Python",
+          "stars": 1355,
+          "forks": 106
+        }
+      ]
+    }
+  ]
+}

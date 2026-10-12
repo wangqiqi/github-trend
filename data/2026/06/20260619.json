@@ -1,0 +1,391 @@
+{
+  "date": "20260619",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 379488,
+          "forks": 79442
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 197409,
+          "forks": 34916
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 136353,
+          "forks": 11817
+        },
+        {
+          "rank": 4,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 114519,
+          "forks": 18701
+        },
+        {
+          "rank": 5,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 111383,
+          "forks": 16559
+        },
+        {
+          "rank": 6,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 91461,
+          "forks": 10855
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 87651,
+          "forks": 12674
+        },
+        {
+          "rank": 8,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 74762,
+          "forks": 4212
+        },
+        {
+          "rank": 9,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 66812,
+          "forks": 10420
+        },
+        {
+          "rank": 10,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 65188,
+          "forks": 7235
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 54550,
+          "forks": 104582
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2664,
+          "forks": 91593
+        },
+        {
+          "rank": 3,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29615,
+          "forks": 87337
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 390508,
+          "forks": 66438
+        },
+        {
+          "rank": 5,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8593,
+          "forks": 60084
+        },
+        {
+          "rank": 6,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 517305,
+          "forks": 48950
+        },
+        {
+          "rank": 7,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 449762,
+          "forks": 45159
+        },
+        {
+          "rank": 8,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77665,
+          "forks": 45024
+        },
+        {
+          "rank": 9,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 357698,
+          "forks": 44239
+        },
+        {
+          "rank": 10,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 89487,
+          "forks": 39010
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge grap...",
+          "language": "C",
+          "stars": 7710,
+          "forks": 598
+        },
+        {
+          "rank": 2,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 23910,
+          "forks": 2257
+        },
+        {
+          "rank": 3,
+          "name": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description": "macOS video editor built for AI",
+          "language": "Swift",
+          "stars": 1517,
+          "forks": 168
+        },
+        {
+          "rank": 4,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 56946,
+          "forks": 9120
+        },
+        {
+          "rank": 5,
+          "name": "aishwaryanr/awesome-generative-ai-guide",
+          "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+          "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much...",
+          "language": "HTML",
+          "stars": 27478,
+          "forks": 5735
+        },
+        {
+          "rank": 6,
+          "name": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "description": "A framework for building agent-native applications.",
+          "language": "TypeScript",
+          "stars": 868,
+          "forks": 106
+        },
+        {
+          "rank": 7,
+          "name": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens...",
+          "language": "Python",
+          "stars": 37148,
+          "forks": 2529
+        },
+        {
+          "rank": 8,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 5988,
+          "forks": 1062
+        },
+        {
+          "rank": 9,
+          "name": "zai-org/GLM-5",
+          "url": "https://github.com/zai-org/GLM-5",
+          "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+          "language": "N/A",
+          "stars": 4391,
+          "forks": 448
+        },
+        {
+          "rank": 10,
+          "name": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "description": "The sandbox agent framework.",
+          "language": "TypeScript",
+          "stars": 5692,
+          "forks": 315
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 23910,
+          "forks": 2257
+        },
+        {
+          "rank": 2,
+          "name": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens...",
+          "language": "Python",
+          "stars": 37148,
+          "forks": 2529
+        },
+        {
+          "rank": 3,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 5988,
+          "forks": 1062
+        },
+        {
+          "rank": 4,
+          "name": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+          "language": "Python",
+          "stars": 7600,
+          "forks": 1217
+        },
+        {
+          "rank": 5,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+...",
+          "language": "Python",
+          "stars": 28744,
+          "forks": 2930
+        },
+        {
+          "rank": 6,
+          "name": "stanford-oval/storm",
+          "url": "https://github.com/stanford-oval/storm",
+          "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length repo...",
+          "language": "Python",
+          "stars": 28755,
+          "forks": 2639
+        },
+        {
+          "rank": 7,
+          "name": "VectifyAI/OpenKB",
+          "url": "https://github.com/VectifyAI/OpenKB",
+          "description": "OpenKB: Open LLM Knowledge Base",
+          "language": "Python",
+          "stars": 2358,
+          "forks": 258
+        },
+        {
+          "rank": 8,
+          "name": "santinic/audiblez",
+          "url": "https://github.com/santinic/audiblez",
+          "description": "Generate audiobooks from e-books",
+          "language": "Python",
+          "stars": 7762,
+          "forks": 665
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 442779,
+          "forks": 48516
+        },
+        {
+          "rank": 10,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 114065,
+          "forks": 10067
+        }
+      ]
+    }
+  ]
+}

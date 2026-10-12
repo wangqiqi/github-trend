@@ -1,0 +1,391 @@
+{
+  "date": "20260917",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 264210,
+          "forks": 22287
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 261015,
+          "forks": 39057
+        },
+        {
+          "rank": 3,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 133436,
+          "forks": 19888
+        },
+        {
+          "rank": 4,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 95939,
+          "forks": 10137
+        },
+        {
+          "rank": 5,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 83134,
+          "forks": 7011
+        },
+        {
+          "rank": 6,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 82794,
+          "forks": 7235
+        },
+        {
+          "rank": 7,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 75271,
+          "forks": 8708
+        },
+        {
+          "rank": 8,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 73901,
+          "forks": 11347
+        },
+        {
+          "rank": 9,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur...",
+          "language": "C",
+          "stars": 71301,
+          "forks": 4577
+        },
+        {
+          "rank": 10,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 62204,
+          "forks": 5427
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2717,
+          "forks": 93950
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174832,
+          "forks": 78591
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 246439,
+          "forks": 51580
+        },
+        {
+          "rank": 4,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 31472,
+          "forks": 46567
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77656,
+          "forks": 44832
+        },
+        {
+          "rank": 6,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 90188,
+          "forks": 39395
+        },
+        {
+          "rank": 7,
+          "name": "anuraghazra/github-readme-stats",
+          "url": "https://github.com/anuraghazra/github-readme-stats",
+          "description": ":zap: Dynamically generated stats for your github readmes",
+          "language": "JavaScript",
+          "stars": 79833,
+          "forks": 37817
+        },
+        {
+          "rank": 8,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 121983,
+          "forks": 37060
+        },
+        {
+          "rank": 9,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 115607,
+          "forks": 36559
+        },
+        {
+          "rank": 10,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Docker等部署方式",
+          "language": "TypeScript",
+          "stars": 13900,
+          "forks": 27491
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: determin...",
+          "language": "Go",
+          "stars": 34096,
+          "forks": 2424
+        },
+        {
+          "rank": 2,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readabl...",
+          "language": "JavaScript",
+          "stars": 9837,
+          "forks": 522
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 95939,
+          "forks": 10137
+        },
+        {
+          "rank": 4,
+          "name": "Tencent/BrowserSkill",
+          "url": "https://github.com/Tencent/BrowserSkill",
+          "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension fo...",
+          "language": "TypeScript",
+          "stars": 3869,
+          "forks": 276
+        },
+        {
+          "rank": 5,
+          "name": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "description": "Turn your coding agents into research agents",
+          "language": "Rust",
+          "stars": 4966,
+          "forks": 295
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "TypeScript",
+          "stars": 145850,
+          "forks": 23538
+        },
+        {
+          "rank": 7,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 78307,
+          "forks": 8671
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 24468,
+          "forks": 2934
+        },
+        {
+          "rank": 9,
+          "name": "Tencent/WeKnora",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reason...",
+          "language": "Go",
+          "stars": 26129,
+          "forks": 3543
+        },
+        {
+          "rank": 10,
+          "name": "abue-ammar/tinycast",
+          "url": "https://github.com/abue-ammar/tinycast",
+          "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+          "language": "Swift",
+          "stars": 6004,
+          "forks": 278
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 24468,
+          "forks": 2934
+        },
+        {
+          "rank": 2,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars": 50781,
+          "forks": 4825
+        },
+        {
+          "rank": 3,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 3302,
+          "forks": 346
+        },
+        {
+          "rank": 4,
+          "name": "arnegiacomo/fugleramme",
+          "url": "https://github.com/arnegiacomo/fugleramme",
+          "description": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered a...",
+          "language": "Python",
+          "stars": 2825,
+          "forks": 69
+        },
+        {
+          "rank": 5,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills syste...",
+          "language": "Python",
+          "stars": 6058,
+          "forks": 769
+        },
+        {
+          "rank": 6,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 32151,
+          "forks": 4477
+        },
+        {
+          "rank": 7,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 32971,
+          "forks": 3174
+        },
+        {
+          "rank": 8,
+          "name": "strands-agents/harness-sdk",
+          "url": "https://github.com/strands-agents/harness-sdk",
+          "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Pyt...",
+          "language": "Python",
+          "stars": 7317,
+          "forks": 1151
+        },
+        {
+          "rank": 9,
+          "name": "LLMQuant/quant-mind",
+          "url": "https://github.com/LLMQuant/quant-mind",
+          "description": "QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantit...",
+          "language": "Python",
+          "stars": 2976,
+          "forks": 481
+        },
+        {
+          "rank": 10,
+          "name": "wilbowes/EchoMuse",
+          "url": "https://github.com/wilbowes/EchoMuse",
+          "description": "Alexa replacement and controller for Echo Dot 2nd Generation device.",
+          "language": "Python",
+          "stars": 789,
+          "forks": 49
+        }
+      ]
+    }
+  ]
+}

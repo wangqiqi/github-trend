@@ -1,0 +1,391 @@
+{
+  "date": "20250924",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99398,
+          "forks": 16228
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91184,
+          "forks": 11746
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovab...",
+          "language": "N/A",
+          "stars": 87692,
+          "forks": 24028
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 79923,
+          "forks": 4404
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 76382,
+          "forks": 8181
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 71024,
+          "forks": 5858
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70405,
+          "forks": 8241
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 68712,
+          "forks": 8089
+        },
+        {
+          "rank": 9,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 44143,
+          "forks": 5157
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 41359,
+          "forks": 7273
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50489,
+          "forks": 91599
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2478,
+          "forks": 84660
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2599,
+          "forks": 72623
+        },
+        {
+          "rank": 4,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 203171,
+          "forks": 57874
+        },
+        {
+          "rank": 5,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 172629,
+          "forks": 54597
+        },
+        {
+          "rank": 6,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 208295,
+          "forks": 47992
+        },
+        {
+          "rank": 7,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 178659,
+          "forks": 45970
+        },
+        {
+          "rank": 8,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 140329,
+          "forks": 44803
+        },
+        {
+          "rank": 9,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19622,
+          "forks": 42607
+        },
+        {
+          "rank": 10,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1509,
+          "forks": 42408
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "gin-gonic/gin",
+          "url": "https://github.com/gin-gonic/gin",
+          "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but wi...",
+          "language": "Go",
+          "stars": 84653,
+          "forks": 8354
+        },
+        {
+          "rank": 2,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 48461,
+          "forks": 2099
+        },
+        {
+          "rank": 3,
+          "name": "gofiber/fiber",
+          "url": "https://github.com/gofiber/fiber",
+          "description": "⚡️ Express inspired web framework written in Go",
+          "language": "Go",
+          "stars": 37874,
+          "forks": 1871
+        },
+        {
+          "rank": 4,
+          "name": "eslint/eslint",
+          "url": "https://github.com/eslint/eslint",
+          "description": "Find and fix problems in your JavaScript code.",
+          "language": "JavaScript",
+          "stars": 26488,
+          "forks": 4809
+        },
+        {
+          "rank": 5,
+          "name": "fmtlib/fmt",
+          "url": "https://github.com/fmtlib/fmt",
+          "description": "A modern formatting library",
+          "language": "C++",
+          "stars": 22574,
+          "forks": 2723
+        },
+        {
+          "rank": 6,
+          "name": "mtdvio/every-programmer-should-know",
+          "url": "https://github.com/mtdvio/every-programmer-should-know",
+          "description": "A collection of (mostly) technical things every software developer should know about",
+          "language": "N/A",
+          "stars": 91232,
+          "forks": 8224
+        },
+        {
+          "rank": 7,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 87113,
+          "forks": 9325
+        },
+        {
+          "rank": 8,
+          "name": "OpenZeppelin/openzeppelin-contracts",
+          "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+          "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+          "language": "Solidity",
+          "stars": 26418,
+          "forks": 12194
+        },
+        {
+          "rank": 9,
+          "name": "Gar-b-age/CookLikeHOC",
+          "url": "https://github.com/Gar-b-age/CookLikeHOC",
+          "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+          "language": "JavaScript",
+          "stars": 17809,
+          "forks": 1754
+        },
+        {
+          "rank": 10,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 370226,
+          "forks": 64293
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 370226,
+          "forks": 64293
+        },
+        {
+          "rank": 2,
+          "name": "WECENG/ticket-purchase",
+          "url": "https://github.com/WECENG/ticket-purchase",
+          "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+          "language": "Python",
+          "stars": 3340,
+          "forks": 454
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/AI-Researcher",
+          "url": "https://github.com/HKUDS/AI-Researcher",
+          "description": "[NeurIPS2025] \"AI-Researcher: Autonomous Scientific Innovation\" -- A production-ready version: ht...",
+          "language": "Python",
+          "stars": 3043,
+          "forks": 342
+        },
+        {
+          "rank": 4,
+          "name": "Kludex/uvicorn",
+          "url": "https://github.com/Kludex/uvicorn",
+          "description": "An ASGI web server, for Python. 🦄",
+          "language": "Python",
+          "stars": 9809,
+          "forks": 852
+        },
+        {
+          "rank": 5,
+          "name": "ytdl-org/youtube-dl",
+          "url": "https://github.com/ytdl-org/youtube-dl",
+          "description": "Command-line program to download videos from YouTube.com and other video sites",
+          "language": "Python",
+          "stars": 137995,
+          "forks": 10493
+        },
+        {
+          "rank": 6,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 66528,
+          "forks": 24094
+        },
+        {
+          "rank": 7,
+          "name": "freqtrade/freqtrade",
+          "url": "https://github.com/freqtrade/freqtrade",
+          "description": "Free, open source crypto trading bot",
+          "language": "Python",
+          "stars": 42878,
+          "forks": 8695
+        },
+        {
+          "rank": 8,
+          "name": "OWASP/CheatSheetSeries",
+          "url": "https://github.com/OWASP/CheatSheetSeries",
+          "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value informatio...",
+          "language": "Python",
+          "stars": 30342,
+          "forks": 4249
+        },
+        {
+          "rank": 9,
+          "name": "malmeloo/FindMy.py",
+          "url": "https://github.com/malmeloo/FindMy.py",
+          "description": "🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!",
+          "language": "Python",
+          "stars": 2484,
+          "forks": 95
+        },
+        {
+          "rank": 10,
+          "name": "frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext",
+          "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+          "language": "Python",
+          "stars": 28462,
+          "forks": 9367
+        }
+      ]
+    }
+  ]
+}

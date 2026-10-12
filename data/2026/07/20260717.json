@@ -1,0 +1,391 @@
+{
+  "date": "20260717",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 383241,
+          "forks": 80502
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 161996,
+          "forks": 19180
+        },
+        {
+          "rank": 3,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 106859,
+          "forks": 11342
+        },
+        {
+          "rank": 4,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 91409,
+          "forks": 13098
+        },
+        {
+          "rank": 5,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 87588,
+          "forks": 7592
+        },
+        {
+          "rank": 6,
+          "name": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 83082,
+          "forks": 10960
+        },
+        {
+          "rank": 7,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent bec...",
+          "language": "TypeScript",
+          "stars": 79156,
+          "forks": 9114
+        },
+        {
+          "rank": 8,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 67945,
+          "forks": 7692
+        },
+        {
+          "rank": 9,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 64759,
+          "forks": 5478
+        },
+        {
+          "rank": 10,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "JavaScript",
+          "stars": 64486,
+          "forks": 4431
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194804,
+          "forks": 109634
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 55070,
+          "forks": 106260
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 356438,
+          "forks": 84312
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174478,
+          "forks": 78732
+        },
+        {
+          "rank": 5,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88492,
+          "forks": 59412
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 357917,
+          "forks": 57246
+        },
+        {
+          "rank": 7,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 98756,
+          "forks": 54662
+        },
+        {
+          "rank": 8,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 526868,
+          "forks": 49861
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77668,
+          "forks": 44957
+        },
+        {
+          "rank": 10,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 361301,
+          "forks": 44557
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 526868,
+          "forks": 49861
+        },
+        {
+          "rank": 2,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 36050,
+          "forks": 3004
+        },
+        {
+          "rank": 3,
+          "name": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "description": "Become a cracked AI/ML Research Engineer",
+          "language": "TypeScript",
+          "stars": 6410,
+          "forks": 795
+        },
+        {
+          "rank": 4,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 11641,
+          "forks": 578
+        },
+        {
+          "rank": 5,
+          "name": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "language": "Java",
+          "stars": 9748,
+          "forks": 1324
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/cwc-workshops",
+          "url": "https://github.com/anthropics/cwc-workshops",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 1500,
+          "forks": 478
+        },
+        {
+          "rank": 7,
+          "name": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "description": "Bonsai Demo",
+          "language": "Shell",
+          "stars": 1656,
+          "forks": 161
+        },
+        {
+          "rank": 8,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars": 71510,
+          "forks": 16190
+        },
+        {
+          "rank": 9,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 19613,
+          "forks": 2100
+        },
+        {
+          "rank": 10,
+          "name": "docusealco/docuseal",
+          "url": "https://github.com/docusealco/docuseal",
+          "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+          "language": "Ruby",
+          "stars": 17720,
+          "forks": 1761
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 36050,
+          "forks": 3004
+        },
+        {
+          "rank": 2,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 19613,
+          "forks": 2100
+        },
+        {
+          "rank": 3,
+          "name": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "language": "Python",
+          "stars": 13173,
+          "forks": 1167
+        },
+        {
+          "rank": 4,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 27190,
+          "forks": 3637
+        },
+        {
+          "rank": 5,
+          "name": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+          "language": "Python",
+          "stars": 1926,
+          "forks": 173
+        },
+        {
+          "rank": 6,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 123421,
+          "forks": 18187
+        },
+        {
+          "rank": 7,
+          "name": "android/skills",
+          "url": "https://github.com/android/skills",
+          "description": "",
+          "language": "Python",
+          "stars": 6237,
+          "forks": 353
+        },
+        {
+          "rank": 8,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 38699,
+          "forks": 6491
+        },
+        {
+          "rank": 9,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 89808,
+          "forks": 8765
+        },
+        {
+          "rank": 10,
+          "name": "ROCm/TheRock",
+          "url": "https://github.com/ROCm/TheRock",
+          "description": "The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm",
+          "language": "Python",
+          "stars": 1145,
+          "forks": 287
+        }
+      ]
+    }
+  ]
+}

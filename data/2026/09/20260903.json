@@ -1,0 +1,391 @@
+{
+  "date": "20260903",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 246841,
+          "forks": 37197
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 246600,
+          "forks": 20920
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 210782,
+          "forks": 24667
+        },
+        {
+          "rank": 4,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 209841,
+          "forks": 21340
+        },
+        {
+          "rank": 5,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195161,
+          "forks": 108743
+        },
+        {
+          "rank": 6,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 122995,
+          "forks": 6649
+        },
+        {
+          "rank": 7,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 114234,
+          "forks": 11100
+        },
+        {
+          "rank": 8,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Go",
+          "stars": 102952,
+          "forks": 5987
+        },
+        {
+          "rank": 9,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first ...",
+          "language": "TypeScript",
+          "stars": 93822,
+          "forks": 10821
+        },
+        {
+          "rank": 10,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 85471,
+          "forks": 12887
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2702,
+          "forks": 93702
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2813,
+          "forks": 73340
+        },
+        {
+          "rank": 3,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 20766,
+          "forks": 68542
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 119078,
+          "forks": 62742
+        },
+        {
+          "rank": 5,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 203229,
+          "forks": 60538
+        },
+        {
+          "rank": 6,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 185889,
+          "forks": 55716
+        },
+        {
+          "rank": 7,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 474844,
+          "forks": 52446
+        },
+        {
+          "rank": 8,
+          "name": "react/react",
+          "url": "https://github.com/react/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 249044,
+          "forks": 51272
+        },
+        {
+          "rank": 9,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1670,
+          "forks": 48408
+        },
+        {
+          "rank": 10,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 187100,
+          "forks": 46039
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "fmtlib/fmt",
+          "url": "https://github.com/fmtlib/fmt",
+          "description": "A modern formatting library",
+          "language": "C++",
+          "stars": 24848,
+          "forks": 3005
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 246600,
+          "forks": 20920
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 240624,
+          "forks": 49267
+        },
+        {
+          "rank": 4,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 122995,
+          "forks": 6649
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 173493,
+          "forks": 20592
+        },
+        {
+          "rank": 6,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 246841,
+          "forks": 37197
+        },
+        {
+          "rank": 7,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Go",
+          "stars": 102952,
+          "forks": 5987
+        },
+        {
+          "rank": 8,
+          "name": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "language": "Python",
+          "stars": 41190,
+          "forks": 3536
+        },
+        {
+          "rank": 9,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 30593,
+          "forks": 2919
+        },
+        {
+          "rank": 10,
+          "name": "averygan/reclip",
+          "url": "https://github.com/averygan/reclip",
+          "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean w...",
+          "language": "HTML",
+          "stars": 8235,
+          "forks": 1355
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 240624,
+          "forks": 49267
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 173493,
+          "forks": 20592
+        },
+        {
+          "rank": 3,
+          "name": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "language": "Python",
+          "stars": 41190,
+          "forks": 3536
+        },
+        {
+          "rank": 4,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 30593,
+          "forks": 2919
+        },
+        {
+          "rank": 5,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars": 45907,
+          "forks": 3599
+        },
+        {
+          "rank": 6,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 15839,
+          "forks": 2173
+        },
+        {
+          "rank": 7,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars": 92958,
+          "forks": 7640
+        },
+        {
+          "rank": 8,
+          "name": "sngyai/Sequoia-X",
+          "url": "https://github.com/sngyai/Sequoia-X",
+          "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+          "language": "Python",
+          "stars": 6472,
+          "forks": 1314
+        },
+        {
+          "rank": 9,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+          "language": "Python",
+          "stars": 58167,
+          "forks": 7559
+        },
+        {
+          "rank": 10,
+          "name": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+          "language": "Python",
+          "stars": 5063,
+          "forks": 749
+        }
+      ]
+    }
+  ]
+}

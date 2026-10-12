@@ -1,0 +1,391 @@
+{
+  "date": "20260822",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 387099,
+          "forks": 81307
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 275892,
+          "forks": 24665
+        },
+        {
+          "rank": 3,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195113,
+          "forks": 109007
+        },
+        {
+          "rank": 4,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 129147,
+          "forks": 19433
+        },
+        {
+          "rank": 5,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 109629,
+          "forks": 12512
+        },
+        {
+          "rank": 6,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 109395,
+          "forks": 10626
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 94435,
+          "forks": 13334
+        },
+        {
+          "rank": 8,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 91497,
+          "forks": 8009
+        },
+        {
+          "rank": 9,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 83741,
+          "forks": 12491
+        },
+        {
+          "rank": 10,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 80088,
+          "forks": 6722
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195113,
+          "forks": 109007
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2809,
+          "forks": 73322
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 394989,
+          "forks": 66677
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88641,
+          "forks": 59209
+        },
+        {
+          "rank": 5,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 365377,
+          "forks": 58000
+        },
+        {
+          "rank": 6,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 90549,
+          "forks": 56972
+        },
+        {
+          "rank": 7,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 185494,
+          "forks": 55694
+        },
+        {
+          "rank": 8,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 99143,
+          "forks": 54697
+        },
+        {
+          "rank": 9,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20648,
+          "forks": 44229
+        },
+        {
+          "rank": 10,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42434
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 230782,
+          "forks": 19713
+        },
+        {
+          "rank": 2,
+          "name": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+          "language": "Kotlin",
+          "stars": 2438,
+          "forks": 280
+        },
+        {
+          "rank": 3,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 114385,
+          "forks": 17364
+        },
+        {
+          "rank": 4,
+          "name": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI,...",
+          "language": "Rust",
+          "stars": 13404,
+          "forks": 361
+        },
+        {
+          "rank": 5,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 38431,
+          "forks": 3237
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+          "language": "Go",
+          "stars": 110448,
+          "forks": 13746
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 275892,
+          "forks": 24665
+        },
+        {
+          "rank": 8,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into ...",
+          "language": "JavaScript",
+          "stars": 67712,
+          "forks": 12887
+        },
+        {
+          "rank": 9,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 4534,
+          "forks": 372
+        },
+        {
+          "rank": 10,
+          "name": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "description": "The Modular Platform (includes MAX & Mojo)",
+          "language": "Mojo",
+          "stars": 28770,
+          "forks": 3060
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 114385,
+          "forks": 17364
+        },
+        {
+          "rank": 2,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 38431,
+          "forks": 3237
+        },
+        {
+          "rank": 3,
+          "name": "elder-plinius/OBLITERATUS",
+          "url": "https://github.com/elder-plinius/OBLITERATUS",
+          "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+          "language": "Python",
+          "stars": 7928,
+          "forks": 1439
+        },
+        {
+          "rank": 4,
+          "name": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan...",
+          "language": "Python",
+          "stars": 5352,
+          "forks": 512
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Python",
+          "stars": 142354,
+          "forks": 22824
+        },
+        {
+          "rank": 6,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 11153,
+          "forks": 1773
+        },
+        {
+          "rank": 7,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CS...",
+          "language": "Python",
+          "stars": 30586,
+          "forks": 3641
+        },
+        {
+          "rank": 8,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: eval...",
+          "language": "Python",
+          "stars": 32850,
+          "forks": 11549
+        },
+        {
+          "rank": 9,
+          "name": "google/adk-samples",
+          "url": "https://github.com/google/adk-samples",
+          "description": "A collection of sample agents built with Agent Development Kit (ADK)",
+          "language": "Python",
+          "stars": 10210,
+          "forks": 2823
+        },
+        {
+          "rank": 10,
+          "name": "Osmantic/ODS",
+          "url": "https://github.com/Osmantic/ODS",
+          "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflo...",
+          "language": "Python",
+          "stars": 4641,
+          "forks": 700
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250714",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98224,
+          "forks": 15980
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90529,
+          "forks": 11686
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 66778,
+          "forks": 19394
+        },
+        {
+          "rank": 4,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 65442,
+          "forks": 7494
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 61601,
+          "forks": 4809
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 60808,
+          "forks": 3227
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 59432,
+          "forks": 6876
+        },
+        {
+          "rank": 8,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 59160,
+          "forks": 5422
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 47938,
+          "forks": 8382
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 38086,
+          "forks": 6691
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6619,
+          "forks": 243616
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13100,
+          "forks": 152129
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 857,
+          "forks": 143999
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49333,
+          "forks": 88311
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28646,
+          "forks": 86996
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 167990,
+          "forks": 83057
+        },
+        {
+          "rank": 7,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 322694,
+          "forks": 79591
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172513,
+          "forks": 79106
+        },
+        {
+          "rank": 9,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2558,
+          "forks": 72424
+        },
+        {
+          "rank": 10,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17576,
+          "forks": 62393
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "PowerShell",
+          "stars": 21225,
+          "forks": 1173
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 60808,
+          "forks": 3227
+        },
+        {
+          "rank": 3,
+          "name": "gorhill/uBlock",
+          "url": "https://github.com/gorhill/uBlock",
+          "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+          "language": "JavaScript",
+          "stars": 55829,
+          "forks": 3572
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Resear...",
+          "language": "Python",
+          "stars": 26846,
+          "forks": 4121
+        },
+        {
+          "rank": 5,
+          "name": "vercel/commerce",
+          "url": "https://github.com/vercel/commerce",
+          "description": "Next.js Commerce",
+          "language": "TypeScript",
+          "stars": 13018,
+          "forks": 4872
+        },
+        {
+          "rank": 6,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated...",
+          "language": "Python",
+          "stars": 33954,
+          "forks": 5523
+        },
+        {
+          "rank": 7,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars": 105113,
+          "forks": 10984
+        },
+        {
+          "rank": 8,
+          "name": "leaningtech/webvm",
+          "url": "https://github.com/leaningtech/webvm",
+          "description": "Virtual Machine for the Web",
+          "language": "JavaScript",
+          "stars": 14750,
+          "forks": 2634
+        },
+        {
+          "rank": 9,
+          "name": "OpenPipe/ART",
+          "url": "https://github.com/OpenPipe/ART",
+          "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your a...",
+          "language": "Python",
+          "stars": 1584,
+          "forks": 110
+        },
+        {
+          "rank": 10,
+          "name": "trimstray/the-book-of-secret-knowledge",
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools an...",
+          "language": "N/A",
+          "stars": 177702,
+          "forks": 11072
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 60808,
+          "forks": 3227
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Resear...",
+          "language": "Python",
+          "stars": 26846,
+          "forks": 4121
+        },
+        {
+          "rank": 3,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated...",
+          "language": "Python",
+          "stars": 33954,
+          "forks": 5523
+        },
+        {
+          "rank": 4,
+          "name": "OpenPipe/ART",
+          "url": "https://github.com/OpenPipe/ART",
+          "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your a...",
+          "language": "Python",
+          "stars": 1584,
+          "forks": 110
+        },
+        {
+          "rank": 5,
+          "name": "comfyanonymous/ComfyUI",
+          "url": "https://github.com/comfyanonymous/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 82402,
+          "forks": 9136
+        },
+        {
+          "rank": 6,
+          "name": "getzep/graphiti",
+          "url": "https://github.com/getzep/graphiti",
+          "description": "Build Real-Time Knowledge Graphs for AI Agents",
+          "language": "Python",
+          "stars": 13143,
+          "forks": 1104
+        },
+        {
+          "rank": 7,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+          "language": "Python",
+          "stars": 39507,
+          "forks": 3243
+        },
+        {
+          "rank": 8,
+          "name": "landing-ai/agentic-doc",
+          "url": "https://github.com/landing-ai/agentic-doc",
+          "description": "Python library for Agentic Document Extraction from LandingAI",
+          "language": "Python",
+          "stars": 1220,
+          "forks": 111
+        },
+        {
+          "rank": 9,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 154469,
+          "forks": 28683
+        },
+        {
+          "rank": 10,
+          "name": "agno-agi/agno",
+          "url": "https://github.com/agno-agi/agno",
+          "description": "Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.",
+          "language": "Python",
+          "stars": 29882,
+          "forks": 3799
+        }
+      ]
+    }
+  ]
+}

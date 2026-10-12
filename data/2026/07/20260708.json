@@ -1,0 +1,391 @@
+{
+  "date": "20260708",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 382164,
+          "forks": 80186
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 249456,
+          "forks": 22139
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 227260,
+          "forks": 34740
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 211364,
+          "forks": 38822
+        },
+        {
+          "rank": 5,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194660,
+          "forks": 109800
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 129122,
+          "forks": 20992
+        },
+        {
+          "rank": 7,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 120445,
+          "forks": 17985
+        },
+        {
+          "rank": 8,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 118741,
+          "forks": 10520
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 90351,
+          "forks": 13027
+        },
+        {
+          "rank": 10,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 86604,
+          "forks": 4836
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77671,
+          "forks": 44992
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 211364,
+          "forks": 38822
+        },
+        {
+          "rank": 3,
+          "name": "anuraghazra/github-readme-stats",
+          "url": "https://github.com/anuraghazra/github-readme-stats",
+          "description": ":zap: Dynamically generated stats for your github readmes",
+          "language": "JavaScript",
+          "stars": 79781,
+          "forks": 34884
+        },
+        {
+          "rank": 4,
+          "name": "langchain-ai/langchain",
+          "url": "https://github.com/langchain-ai/langchain",
+          "description": "The agent engineering platform.",
+          "language": "Python",
+          "stars": 141302,
+          "forks": 23479
+        },
+        {
+          "rank": 5,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 183611,
+          "forks": 22804
+        },
+        {
+          "rank": 6,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19745
+        },
+        {
+          "rank": 7,
+          "name": "rafaballerini/rafaballerini",
+          "url": "https://github.com/rafaballerini/rafaballerini",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 2688,
+          "forks": 18956
+        },
+        {
+          "rank": 8,
+          "name": "wukongdaily/DockerTarBuilder",
+          "url": "https://github.com/wukongdaily/DockerTarBuilder",
+          "description": "它是一个工作流。可快速构建指定架构/平台的docker镜像",
+          "language": "N/A",
+          "stars": 1774,
+          "forks": 18770
+        },
+        {
+          "rank": 9,
+          "name": "zero-to-mastery/start-here-guidelines",
+          "url": "https://github.com/zero-to-mastery/start-here-guidelines",
+          "description": "Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playgro...",
+          "language": "Python",
+          "stars": 2876,
+          "forks": 17411
+        },
+        {
+          "rank": 10,
+          "name": "daattali/beautiful-jekyll",
+          "url": "https://github.com/daattali/beautiful-jekyll",
+          "description": "✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com",
+          "language": "HTML",
+          "stars": 5819,
+          "forks": 17333
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let...",
+          "language": "TypeScript",
+          "stars": 13758,
+          "forks": 4283
+        },
+        {
+          "rank": 2,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 73025,
+          "forks": 7889
+        },
+        {
+          "rank": 3,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 78877,
+          "forks": 10612
+        },
+        {
+          "rank": 4,
+          "name": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressi...",
+          "language": "TypeScript",
+          "stars": 7379,
+          "forks": 694
+        },
+        {
+          "rank": 5,
+          "name": "prisma/prisma",
+          "url": "https://github.com/prisma/prisma",
+          "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, M...",
+          "language": "TypeScript",
+          "stars": 46404,
+          "forks": 2273
+        },
+        {
+          "rank": 6,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 50519,
+          "forks": 4219
+        },
+        {
+          "rank": 7,
+          "name": "argoproj/argo-cd",
+          "url": "https://github.com/argoproj/argo-cd",
+          "description": "Declarative Continuous Deployment for Kubernetes",
+          "language": "Go",
+          "stars": 23367,
+          "forks": 7423
+        },
+        {
+          "rank": 8,
+          "name": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and autom...",
+          "language": "C#",
+          "stars": 11095,
+          "forks": 749
+        },
+        {
+          "rank": 9,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. O...",
+          "language": "JavaScript",
+          "stars": 53690,
+          "forks": 8748
+        },
+        {
+          "rank": 10,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 249456,
+          "forks": 22139
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 50519,
+          "forks": 4219
+        },
+        {
+          "rank": 2,
+          "name": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands...",
+          "language": "Python",
+          "stars": 5756,
+          "forks": 695
+        },
+        {
+          "rank": 3,
+          "name": "kyutai-labs/pocket-tts",
+          "url": "https://github.com/kyutai-labs/pocket-tts",
+          "description": "A TTS that fits in your CPU (and pocket)",
+          "language": "Python",
+          "stars": 6520,
+          "forks": 670
+        },
+        {
+          "rank": 4,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
+          "language": "Python",
+          "stars": 52982,
+          "forks": 6844
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/SkillOpt",
+          "url": "https://github.com/microsoft/SkillOpt",
+          "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM ag...",
+          "language": "Python",
+          "stars": 11586,
+          "forks": 1069
+        },
+        {
+          "rank": 6,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, cu...",
+          "language": "Python",
+          "stars": 21608,
+          "forks": 2890
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Python",
+          "stars": 136838,
+          "forks": 21993
+        },
+        {
+          "rank": 8,
+          "name": "googleanalytics/google-analytics-mcp",
+          "url": "https://github.com/googleanalytics/google-analytics-mcp",
+          "description": "",
+          "language": "Python",
+          "stars": 2604,
+          "forks": 575
+        },
+        {
+          "rank": 9,
+          "name": "freqtrade/freqtrade",
+          "url": "https://github.com/freqtrade/freqtrade",
+          "description": "Free, open source crypto trading bot",
+          "language": "Python",
+          "stars": 52166,
+          "forks": 10866
+        },
+        {
+          "rank": 10,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 80055,
+          "forks": 7889
+        }
+      ]
+    }
+  ]
+}

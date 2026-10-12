@@ -1,0 +1,391 @@
+{
+  "date": "20251015",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99673,
+          "forks": 16269
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 91372,
+          "forks": 24798
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91287,
+          "forks": 11752
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 81584,
+          "forks": 4534
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 79256,
+          "forks": 8648
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 72836,
+          "forks": 6069
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 71318,
+          "forks": 8428
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 70403,
+          "forks": 8367
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50296,
+          "forks": 8799
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 47589,
+          "forks": 5735
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50861,
+          "forks": 92692
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2495,
+          "forks": 85261
+        },
+        {
+          "rank": 3,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 86107,
+          "forks": 60940
+        },
+        {
+          "rank": 4,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 204953,
+          "forks": 57858
+        },
+        {
+          "rank": 5,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 96357,
+          "forks": 53782
+        },
+        {
+          "rank": 6,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 148895,
+          "forks": 47290
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1526,
+          "forks": 42818
+        },
+        {
+          "rank": 8,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 86187,
+          "forks": 38031
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 177567,
+          "forks": 35519
+        },
+        {
+          "rank": 10,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 183536,
+          "forks": 33659
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/prompt-eng-interactive-tutorial",
+          "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+          "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+          "language": "Jupyter Notebook",
+          "stars": 23713,
+          "forks": 2185
+        },
+        {
+          "rank": 2,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 27519,
+          "forks": 3259
+        },
+        {
+          "rank": 3,
+          "name": "nitrojs/nitro",
+          "url": "https://github.com/nitrojs/nitro",
+          "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them where...",
+          "language": "TypeScript",
+          "stars": 8647,
+          "forks": 704
+        },
+        {
+          "rank": 4,
+          "name": "langchain-ai/langchainjs",
+          "url": "https://github.com/langchain-ai/langchainjs",
+          "description": "🦜🔗 Build context-aware reasoning applications 🦜🔗",
+          "language": "TypeScript",
+          "stars": 15868,
+          "forks": 2794
+        },
+        {
+          "rank": 5,
+          "name": "karpathy/nanoGPT",
+          "url": "https://github.com/karpathy/nanoGPT",
+          "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+          "language": "Python",
+          "stars": 45628,
+          "forks": 7757
+        },
+        {
+          "rank": 6,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 87542,
+          "forks": 9418
+        },
+        {
+          "rank": 7,
+          "name": "envoyproxy/envoy",
+          "url": "https://github.com/envoyproxy/envoy",
+          "description": "Cloud-native high-performance edge/middle/service proxy",
+          "language": "C++",
+          "stars": 26698,
+          "forks": 5100
+        },
+        {
+          "rank": 8,
+          "name": "EvolutionAPI/evolution-api",
+          "url": "https://github.com/EvolutionAPI/evolution-api",
+          "description": "Evolution API is an open-source WhatsApp integration API",
+          "language": "TypeScript",
+          "stars": 5728,
+          "forks": 4497
+        },
+        {
+          "rank": 9,
+          "name": "devlikeapro/waha",
+          "url": "https://github.com/devlikeapro/waha",
+          "description": "WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser ...",
+          "language": "TypeScript",
+          "stars": 4480,
+          "forks": 926
+        },
+        {
+          "rank": 10,
+          "name": "enactic/openarm",
+          "url": "https://github.com/enactic/openarm",
+          "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environm...",
+          "language": "MDX",
+          "stars": 1111,
+          "forks": 131
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 27519,
+          "forks": 3259
+        },
+        {
+          "rank": 2,
+          "name": "karpathy/nanoGPT",
+          "url": "https://github.com/karpathy/nanoGPT",
+          "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+          "language": "Python",
+          "stars": 45628,
+          "forks": 7757
+        },
+        {
+          "rank": 3,
+          "name": "ChristianLempa/boilerplates",
+          "url": "https://github.com/ChristianLempa/boilerplates",
+          "description": "This is my personal template collection. Here you'll find templates, and configurations for vario...",
+          "language": "Python",
+          "stars": 6254,
+          "forks": 1764
+        },
+        {
+          "rank": 4,
+          "name": "TobikoData/sqlmesh",
+          "url": "https://github.com/TobikoData/sqlmesh",
+          "description": "Scalable and efficient data transformation framework - backwards compatible with dbt.",
+          "language": "Python",
+          "stars": 2661,
+          "forks": 293
+        },
+        {
+          "rank": 5,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+          "language": "Python",
+          "stars": 12825,
+          "forks": 2209
+        },
+        {
+          "rank": 6,
+          "name": "Azure-Samples/azure-search-openai-demo",
+          "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+          "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Sear...",
+          "language": "Python",
+          "stars": 7338,
+          "forks": 5017
+        },
+        {
+          "rank": 7,
+          "name": "cheahjs/free-llm-api-resources",
+          "url": "https://github.com/cheahjs/free-llm-api-resources",
+          "description": "A list of free LLM inference resources accessible via API.",
+          "language": "Python",
+          "stars": 6032,
+          "forks": 555
+        },
+        {
+          "rank": 8,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 60167,
+          "forks": 10560
+        },
+        {
+          "rank": 9,
+          "name": "coderamp-labs/gitingest",
+          "url": "https://github.com/coderamp-labs/gitingest",
+          "description": "Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase",
+          "language": "Python",
+          "stars": 12783,
+          "forks": 948
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Resear...",
+          "language": "Python",
+          "stars": 32187,
+          "forks": 4968
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260308",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 278428,
+          "forks": 53140
+        },
+        {
+          "rank": 2,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 96867,
+          "forks": 12021
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 86957,
+          "forks": 9213
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 74918,
+          "forks": 6391
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 73650,
+          "forks": 5669
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 63816,
+          "forks": 8498
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 52655,
+          "forks": 6773
+        },
+        {
+          "rank": 8,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 48108,
+          "forks": 2272
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 44860,
+          "forks": 5946
+        },
+        {
+          "rank": 10,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 41846,
+          "forks": 4170
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52886,
+          "forks": 99196
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174038,
+          "forks": 79061
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 194042,
+          "forks": 75222
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2696,
+          "forks": 72981
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19060,
+          "forks": 66260
+        },
+        {
+          "rank": 6,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 221448,
+          "forks": 60838
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 107663,
+          "forks": 57727
+        },
+        {
+          "rank": 8,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 86494,
+          "forks": 56529
+        },
+        {
+          "rank": 9,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 179384,
+          "forks": 55485
+        },
+        {
+          "rank": 10,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 337973,
+          "forks": 54746
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "GoogleCloudPlatform/generative-ai",
+          "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+          "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+          "language": "Jupyter Notebook",
+          "stars": 13773,
+          "forks": 3848
+        },
+        {
+          "rank": 2,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 6349,
+          "forks": 706
+        },
+        {
+          "rank": 3,
+          "name": "shadcn-ui/ui",
+          "url": "https://github.com/shadcn-ui/ui",
+          "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with...",
+          "language": "TypeScript",
+          "stars": 108401,
+          "forks": 8059
+        },
+        {
+          "rank": 4,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 278428,
+          "forks": 53140
+        },
+        {
+          "rank": 5,
+          "name": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base ...",
+          "language": "TypeScript",
+          "stars": 64904,
+          "forks": 4537
+        },
+        {
+          "rank": 6,
+          "name": "Ed1s0nZ/CyberStrikeAI",
+          "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+          "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security ...",
+          "language": "Go",
+          "stars": 2054,
+          "forks": 369
+        },
+        {
+          "rank": 7,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 23534,
+          "forks": 4385
+        },
+        {
+          "rank": 8,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 12986,
+          "forks": 727
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 46709,
+          "forks": 8132
+        },
+        {
+          "rank": 10,
+          "name": "is-a-dev/register",
+          "url": "https://github.com/is-a-dev/register",
+          "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+          "language": "JavaScript",
+          "stars": 9656,
+          "forks": 18727
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 6349,
+          "forks": 706
+        },
+        {
+          "rank": 2,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 12986,
+          "forks": 727
+        },
+        {
+          "rank": 3,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 46709,
+          "forks": 8132
+        },
+        {
+          "rank": 4,
+          "name": "teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py",
+          "description": "Unofficial Python API for Google NotebookLM",
+          "language": "Python",
+          "stars": 3520,
+          "forks": 456
+        },
+        {
+          "rank": 5,
+          "name": "lingfengQAQ/webnovel-writer",
+          "url": "https://github.com/lingfengQAQ/webnovel-writer",
+          "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+          "language": "Python",
+          "stars": 1034,
+          "forks": 223
+        },
+        {
+          "rank": 6,
+          "name": "Lightricks/ComfyUI-LTXVideo",
+          "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+          "description": "LTX-Video Support for ComfyUI",
+          "language": "Python",
+          "stars": 3211,
+          "forks": 329
+        },
+        {
+          "rank": 7,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Inte...",
+          "language": "Python",
+          "stars": 15160,
+          "forks": 1452
+        },
+        {
+          "rank": 8,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 10821,
+          "forks": 1104
+        },
+        {
+          "rank": 9,
+          "name": "the-momentum/open-wearables",
+          "url": "https://github.com/the-momentum/open-wearables",
+          "description": "Self-hosted platform to unify wearable health data through one AI-ready API.",
+          "language": "Python",
+          "stars": 870,
+          "forks": 103
+        },
+        {
+          "rank": 10,
+          "name": "Jeffallan/claude-skills",
+          "url": "https://github.com/Jeffallan/claude-skills",
+          "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair prog...",
+          "language": "Python",
+          "stars": 5621,
+          "forks": 365
+        }
+      ]
+    }
+  ]
+}

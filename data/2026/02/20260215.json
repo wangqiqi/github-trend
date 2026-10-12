@@ -1,0 +1,391 @@
+{
+  "date": "20260215",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 104866,
+          "forks": 10191
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 70054,
+          "forks": 7100
+        },
+        {
+          "rank": 3,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 69780,
+          "forks": 6024
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 66932,
+          "forks": 5188
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 60388,
+          "forks": 7959
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 51851,
+          "forks": 3920
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 51450,
+          "forks": 6464
+        },
+        {
+          "rank": 8,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 46378,
+          "forks": 22174
+        },
+        {
+          "rank": 9,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Bat...",
+          "language": "JavaScript",
+          "stars": 46274,
+          "forks": 5725
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45853,
+          "forks": 4682
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52625,
+          "forks": 98113
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2569,
+          "forks": 88688
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 382556,
+          "forks": 65904
+        },
+        {
+          "rank": 4,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 88132,
+          "forks": 38906
+        },
+        {
+          "rank": 5,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1165,
+          "forks": 34962
+        },
+        {
+          "rank": 6,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 526,
+          "forks": 32827
+        },
+        {
+          "rank": 7,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 156491,
+          "forks": 32077
+        },
+        {
+          "rank": 8,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13396,
+          "forks": 27368
+        },
+        {
+          "rank": 9,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 13128,
+          "forks": 26963
+        },
+        {
+          "rank": 10,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 76065,
+          "forks": 25795
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "A high-performance algorithmic trading platform and event-driven backtester",
+          "language": "Rust",
+          "stars": 19043,
+          "forks": 2276
+        },
+        {
+          "rank": 2,
+          "name": "steipete/gogcli",
+          "url": "https://github.com/steipete/gogcli",
+          "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+          "language": "Go",
+          "stars": 2615,
+          "forks": 236
+        },
+        {
+          "rank": 3,
+          "name": "rowboatlabs/rowboat",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "description": "Open-source AI coworker, with memory",
+          "language": "TypeScript",
+          "stars": 6403,
+          "forks": 538
+        },
+        {
+          "rank": 4,
+          "name": "github/gh-aw",
+          "url": "https://github.com/github/gh-aw",
+          "description": "GitHub Agentic Workflows",
+          "language": "Go",
+          "stars": 2494,
+          "forks": 182
+        },
+        {
+          "rank": 5,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 25237,
+          "forks": 1485
+        },
+        {
+          "rank": 6,
+          "name": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "description": "A lightweight, lightning-fast, in-process vector database",
+          "language": "C++",
+          "stars": 1678,
+          "forks": 84
+        },
+        {
+          "rank": 7,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 195611,
+          "forks": 33855
+        },
+        {
+          "rank": 8,
+          "name": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+          "language": "C",
+          "stars": 3572,
+          "forks": 174
+        },
+        {
+          "rank": 9,
+          "name": "brave/brave-browser",
+          "url": "https://github.com/brave/brave-browser",
+          "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+          "language": "N/A",
+          "stars": 21433,
+          "forks": 2968
+        },
+        {
+          "rank": 10,
+          "name": "SynkraAI/aios-core",
+          "url": "https://github.com/SynkraAI/aios-core",
+          "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+          "language": "JavaScript",
+          "stars": 674,
+          "forks": 255
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estima...",
+          "language": "Python",
+          "stars": 6308,
+          "forks": 563
+        },
+        {
+          "rank": 2,
+          "name": "Comfy-Org/ComfyUI-Manager",
+          "url": "https://github.com/Comfy-Org/ComfyUI-Manager",
+          "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers managemen...",
+          "language": "Python",
+          "stars": 13600,
+          "forks": 1949
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "language": "Python",
+          "stars": 13325,
+          "forks": 1599
+        },
+        {
+          "rank": 4,
+          "name": "Jeffallan/claude-skills",
+          "url": "https://github.com/Jeffallan/claude-skills",
+          "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair prog...",
+          "language": "Python",
+          "stars": 2607,
+          "forks": 166
+        },
+        {
+          "rank": 5,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 22645,
+          "forks": 2969
+        },
+        {
+          "rank": 6,
+          "name": "Zipstack/unstract",
+          "url": "https://github.com/Zipstack/unstract",
+          "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+          "language": "Python",
+          "stars": 6389,
+          "forks": 606
+        },
+        {
+          "rank": 7,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 147192,
+          "forks": 11920
+        },
+        {
+          "rank": 8,
+          "name": "plotly/dash",
+          "url": "https://github.com/plotly/dash",
+          "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+          "language": "Python",
+          "stars": 24476,
+          "forks": 2255
+        },
+        {
+          "rank": 9,
+          "name": "mistralai/mistral-vibe",
+          "url": "https://github.com/mistralai/mistral-vibe",
+          "description": "Minimal CLI coding agent by Mistral",
+          "language": "Python",
+          "stars": 3077,
+          "forks": 294
+        },
+        {
+          "rank": 10,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 84816,
+          "forks": 36748
+        }
+      ]
+    }
+  ]
+}

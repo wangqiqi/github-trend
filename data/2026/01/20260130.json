@@ -1,0 +1,391 @@
+{
+  "date": "20260130",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 112144,
+          "forks": 15854
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 112057,
+          "forks": 29205
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 93040,
+          "forks": 10896
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 58695,
+          "forks": 5745
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 58172,
+          "forks": 7550
+        },
+        {
+          "rank": 6,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 50618,
+          "forks": 6224
+        },
+        {
+          "rank": 7,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45371,
+          "forks": 4546
+        },
+        {
+          "rank": 8,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 44153,
+          "forks": 2116
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 41031,
+          "forks": 5322
+        },
+        {
+          "rank": 10,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 40313,
+          "forks": 3065
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2557,
+          "forks": 88218
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2671,
+          "forks": 72887
+        },
+        {
+          "rank": 3,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 178265,
+          "forks": 55353
+        },
+        {
+          "rank": 4,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 172125,
+          "forks": 54303
+        },
+        {
+          "rank": 5,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37340,
+          "forks": 53884
+        },
+        {
+          "rank": 6,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 181563,
+          "forks": 46281
+        },
+        {
+          "rank": 7,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153664,
+          "forks": 46106
+        },
+        {
+          "rank": 8,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1578,
+          "forks": 44900
+        },
+        {
+          "rank": 9,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 29225,
+          "forks": 43824
+        },
+        {
+          "rank": 10,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20088,
+          "forks": 43453
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 112144,
+          "forks": 15854
+        },
+        {
+          "rank": 2,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+          "language": "JavaScript",
+          "stars": 28200,
+          "forks": 4547
+        },
+        {
+          "rank": 3,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars": 5168,
+          "forks": 484
+        },
+        {
+          "rank": 4,
+          "name": "modelcontextprotocol/ext-apps",
+          "url": "https://github.com/modelcontextprotocol/ext-apps",
+          "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served...",
+          "language": "TypeScript",
+          "stars": 936,
+          "forks": 114
+        },
+        {
+          "rank": 5,
+          "name": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+          "language": "Python",
+          "stars": 6308,
+          "forks": 435
+        },
+        {
+          "rank": 6,
+          "name": "hashicorp/vault",
+          "url": "https://github.com/hashicorp/vault",
+          "description": "A tool for secrets management, encryption as a service, and privileged access management",
+          "language": "Go",
+          "stars": 34729,
+          "forks": 4566
+        },
+        {
+          "rank": 7,
+          "name": "badlogic/pi-mono",
+          "url": "https://github.com/badlogic/pi-mono",
+          "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+          "language": "TypeScript",
+          "stars": 3609,
+          "forks": 426
+        },
+        {
+          "rank": 8,
+          "name": "anomalyco/opencode-anthropic-auth",
+          "url": "https://github.com/anomalyco/opencode-anthropic-auth",
+          "description": "",
+          "language": "JavaScript",
+          "stars": 309,
+          "forks": 53
+        },
+        {
+          "rank": 9,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars": 70545,
+          "forks": 16025
+        },
+        {
+          "rank": 10,
+          "name": "pedroslopez/whatsapp-web.js",
+          "url": "https://github.com/pedroslopez/whatsapp-web.js",
+          "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+          "language": "JavaScript",
+          "stars": 20786,
+          "forks": 4814
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars": 5168,
+          "forks": 484
+        },
+        {
+          "rank": 2,
+          "name": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+          "language": "Python",
+          "stars": 6308,
+          "forks": 435
+        },
+        {
+          "rank": 3,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 91097,
+          "forks": 13145
+        },
+        {
+          "rank": 4,
+          "name": "OpenPipe/ART",
+          "url": "https://github.com/OpenPipe/ART",
+          "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your a...",
+          "language": "Python",
+          "stars": 8463,
+          "forks": 699
+        },
+        {
+          "rank": 5,
+          "name": "ostris/ai-toolkit",
+          "url": "https://github.com/ostris/ai-toolkit",
+          "description": "The ultimate training toolkit for finetuning diffusion models",
+          "language": "Python",
+          "stars": 9247,
+          "forks": 1080
+        },
+        {
+          "rank": 6,
+          "name": "GetStream/Vision-Agents",
+          "url": "https://github.com/GetStream/Vision-Agents",
+          "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses ...",
+          "language": "Python",
+          "stars": 4619,
+          "forks": 399
+        },
+        {
+          "rank": 7,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run frontier AI locally.",
+          "language": "Python",
+          "stars": 40801,
+          "forks": 2752
+        },
+        {
+          "rank": 8,
+          "name": "Epodonios/v2ray-configs",
+          "url": "https://github.com/Epodonios/v2ray-configs",
+          "description": "Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes",
+          "language": "Python",
+          "stars": 2396,
+          "forks": 340
+        },
+        {
+          "rank": 9,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars": 4681,
+          "forks": 529
+        },
+        {
+          "rank": 10,
+          "name": "huggingface/lerobot",
+          "url": "https://github.com/huggingface/lerobot",
+          "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+          "language": "Python",
+          "stars": 21296,
+          "forks": 3629
+        }
+      ]
+    }
+  ]
+}

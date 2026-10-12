@@ -1,0 +1,391 @@
+{
+  "date": "20251215",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100737,
+          "forks": 16418
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 100662,
+          "forks": 26909
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91589,
+          "forks": 11776
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 87401,
+          "forks": 9996
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 55554,
+          "forks": 4829
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 53714,
+          "forks": 6788
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 47771,
+          "forks": 5446
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 45956,
+          "forks": 3212
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44356,
+          "forks": 4327
+        },
+        {
+          "rank": 10,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 39317,
+          "forks": 1953
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 345403,
+          "forks": 43500
+        },
+        {
+          "rank": 2,
+          "name": "apache/spark",
+          "url": "https://github.com/apache/spark",
+          "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+          "language": "Scala",
+          "stars": 42494,
+          "forks": 28973
+        },
+        {
+          "rank": 3,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 210,
+          "forks": 27601
+        },
+        {
+          "rank": 4,
+          "name": "springframeworkguru/spring5webapp",
+          "url": "https://github.com/springframeworkguru/spring5webapp",
+          "description": "Example Spring 5 Web Application",
+          "language": "Java",
+          "stars": 749,
+          "forks": 18778
+        },
+        {
+          "rank": 5,
+          "name": "juice-shop/juice-shop",
+          "url": "https://github.com/juice-shop/juice-shop",
+          "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+          "language": "TypeScript",
+          "stars": 12146,
+          "forks": 15719
+        },
+        {
+          "rank": 6,
+          "name": "github/opensource.guide",
+          "url": "https://github.com/github/opensource.guide",
+          "description": "📚 Community guides for open source creators",
+          "language": "HTML",
+          "stars": 15068,
+          "forks": 15189
+        },
+        {
+          "rank": 7,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 134,
+          "forks": 13928
+        },
+        {
+          "rank": 8,
+          "name": "Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "url": "https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "description": "cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo created by GitHub Classroom",
+          "language": "C",
+          "stars": 24,
+          "forks": 13596
+        },
+        {
+          "rank": 9,
+          "name": "MithunTechnologiesDevOps/maven-web-application",
+          "url": "https://github.com/MithunTechnologiesDevOps/maven-web-application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 116,
+          "forks": 12921
+        },
+        {
+          "rank": 10,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 65443,
+          "forks": 11974
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "description": "Open-source platform to build and deploy AI agent workflows.",
+          "language": "TypeScript",
+          "stars": 21098,
+          "forks": 2687
+        },
+        {
+          "rank": 2,
+          "name": "ZJU-LLMs/Foundations-of-LLMs",
+          "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+          "description": "A book for Learning the Foundations of LLMs",
+          "language": "N/A",
+          "stars": 13962,
+          "forks": 1294
+        },
+        {
+          "rank": 3,
+          "name": "jellyfin/jellyfin-desktop",
+          "url": "https://github.com/jellyfin/jellyfin-desktop",
+          "description": "Jellyfin Desktop Client",
+          "language": "C++",
+          "stars": 4461,
+          "forks": 434
+        },
+        {
+          "rank": 4,
+          "name": "shadcn-ui/ui",
+          "url": "https://github.com/shadcn-ui/ui",
+          "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with...",
+          "language": "TypeScript",
+          "stars": 102527,
+          "forks": 7451
+        },
+        {
+          "rank": 5,
+          "name": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic...",
+          "language": "TypeScript",
+          "stars": 26641,
+          "forks": 3475
+        },
+        {
+          "rank": 6,
+          "name": "obsproject/obs-studio",
+          "url": "https://github.com/obsproject/obs-studio",
+          "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+          "language": "C",
+          "stars": 68769,
+          "forks": 8881
+        },
+        {
+          "rank": 7,
+          "name": "Morganamilo/paru",
+          "url": "https://github.com/Morganamilo/paru",
+          "description": "Feature packed AUR helper",
+          "language": "Rust",
+          "stars": 7853,
+          "forks": 290
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 12260,
+          "forks": 1638
+        },
+        {
+          "rank": 9,
+          "name": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well ...",
+          "language": "PowerShell",
+          "stars": 35217,
+          "forks": 1374
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 53714,
+          "forks": 6788
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 12260,
+          "forks": 1638
+        },
+        {
+          "rank": 2,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 42861,
+          "forks": 7621
+        },
+        {
+          "rank": 3,
+          "name": "theOehrly/Fast-F1",
+          "url": "https://github.com/theOehrly/Fast-F1",
+          "description": "FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data ...",
+          "language": "Python",
+          "stars": 3931,
+          "forks": 377
+        },
+        {
+          "rank": 4,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 384372,
+          "forks": 41023
+        },
+        {
+          "rank": 5,
+          "name": "Asabeneh/30-Days-Of-Python",
+          "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+          "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming l...",
+          "language": "Python",
+          "stars": 53717,
+          "forks": 10340
+        },
+        {
+          "rank": 6,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Inte...",
+          "language": "Python",
+          "stars": 12668,
+          "forks": 1174
+        },
+        {
+          "rank": 7,
+          "name": "kijai/ComfyUI-WanVideoWrapper",
+          "url": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
+          "description": "",
+          "language": "Python",
+          "stars": 5549,
+          "forks": 502
+        },
+        {
+          "rank": 8,
+          "name": "thinking-machines-lab/tinker-cookbook",
+          "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+          "description": "Post-training with Tinker",
+          "language": "Python",
+          "stars": 2509,
+          "forks": 234
+        },
+        {
+          "rank": 9,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 34892,
+          "forks": 2191
+        },
+        {
+          "rank": 10,
+          "name": "RVC-Boss/GPT-SoVITS",
+          "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+          "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+          "language": "Python",
+          "stars": 53165,
+          "forks": 5819
+        }
+      ]
+    }
+  ]
+}

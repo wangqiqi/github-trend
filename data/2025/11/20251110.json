@@ -1,0 +1,391 @@
+{
+  "date": "20251110",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100220,
+          "forks": 16327
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 95060,
+          "forks": 25623
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91463,
+          "forks": 11783
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 82781,
+          "forks": 4685
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 82020,
+          "forks": 9173
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 74597,
+          "forks": 6246
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 72275,
+          "forks": 8689
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50762,
+          "forks": 8856
+        },
+        {
+          "rank": 9,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 50160,
+          "forks": 6221
+        },
+        {
+          "rank": 10,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Shell",
+          "stars": 46821,
+          "forks": 3986
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2622,
+          "forks": 72710
+        },
+        {
+          "rank": 2,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 174249,
+          "forks": 54829
+        },
+        {
+          "rank": 3,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 179587,
+          "forks": 46112
+        },
+        {
+          "rank": 4,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1537,
+          "forks": 43360
+        },
+        {
+          "rank": 5,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19808,
+          "forks": 42943
+        },
+        {
+          "rank": 6,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 118502,
+          "forks": 41682
+        },
+        {
+          "rank": 7,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 59144,
+          "forks": 38820
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 178410,
+          "forks": 36057
+        },
+        {
+          "rank": 9,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 183759,
+          "forks": 33669
+        },
+        {
+          "rank": 10,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 208,
+          "forks": 27667
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+          "language": "Python",
+          "stars": 8236,
+          "forks": 758
+        },
+        {
+          "rank": 2,
+          "name": "umami-software/umami",
+          "url": "https://github.com/umami-software/umami",
+          "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+          "language": "TypeScript",
+          "stars": 33011,
+          "forks": 5823
+        },
+        {
+          "rank": 3,
+          "name": "thinking-machines-lab/tinker-cookbook",
+          "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+          "description": "Post-training with Tinker",
+          "language": "Python",
+          "stars": 1706,
+          "forks": 137
+        },
+        {
+          "rank": 4,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 97234,
+          "forks": 32723
+        },
+        {
+          "rank": 5,
+          "name": "google/adk-go",
+          "url": "https://github.com/google/adk-go",
+          "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI ag...",
+          "language": "Go",
+          "stars": 836,
+          "forks": 47
+        },
+        {
+          "rank": 6,
+          "name": "axios/axios",
+          "url": "https://github.com/axios/axios",
+          "description": "Promise based HTTP client for the browser and node.js",
+          "language": "JavaScript",
+          "stars": 108198,
+          "forks": 11403
+        },
+        {
+          "rank": 7,
+          "name": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "description": "Open-source platform to build and deploy AI agent workflows.",
+          "language": "TypeScript",
+          "stars": 17894,
+          "forks": 2379
+        },
+        {
+          "rank": 8,
+          "name": "airweave-ai/airweave",
+          "url": "https://github.com/airweave-ai/airweave",
+          "description": "Context retrieval for AI agents across apps and databases",
+          "language": "Python",
+          "stars": 5054,
+          "forks": 594
+        },
+        {
+          "rank": 9,
+          "name": "HyDE-Project/HyDE",
+          "url": "https://github.com/HyDE-Project/HyDE",
+          "description": "HyDE, your Development Environment 🖥️💻",
+          "language": "Shell",
+          "stars": 7017,
+          "forks": 491
+        },
+        {
+          "rank": 10,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 158088,
+          "forks": 29339
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+          "language": "Python",
+          "stars": 8236,
+          "forks": 758
+        },
+        {
+          "rank": 2,
+          "name": "thinking-machines-lab/tinker-cookbook",
+          "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+          "description": "Post-training with Tinker",
+          "language": "Python",
+          "stars": 1706,
+          "forks": 137
+        },
+        {
+          "rank": 3,
+          "name": "airweave-ai/airweave",
+          "url": "https://github.com/airweave-ai/airweave",
+          "description": "Context retrieval for AI agents across apps and databases",
+          "language": "Python",
+          "stars": 5054,
+          "forks": 594
+        },
+        {
+          "rank": 4,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 158088,
+          "forks": 29339
+        },
+        {
+          "rank": 5,
+          "name": "inventree/InvenTree",
+          "url": "https://github.com/inventree/InvenTree",
+          "description": "Open Source Inventory Management System",
+          "language": "Python",
+          "stars": 5988,
+          "forks": 1146
+        },
+        {
+          "rank": 6,
+          "name": "awslabs/mcp",
+          "url": "https://github.com/awslabs/mcp",
+          "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.",
+          "language": "Python",
+          "stars": 7343,
+          "forks": 1056
+        },
+        {
+          "rank": 7,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 3859,
+          "forks": 398
+        },
+        {
+          "rank": 8,
+          "name": "hanxi/xiaomusic",
+          "url": "https://github.com/hanxi/xiaomusic",
+          "description": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
+          "language": "Python",
+          "stars": 7621,
+          "forks": 788
+        },
+        {
+          "rank": 9,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 69776,
+          "forks": 33351
+        },
+        {
+          "rank": 10,
+          "name": "OpenHands/OpenHands",
+          "url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: Code Less, Make More",
+          "language": "Python",
+          "stars": 64869,
+          "forks": 7885
+        }
+      ]
+    }
+  ]
+}

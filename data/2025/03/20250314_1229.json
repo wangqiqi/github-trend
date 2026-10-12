@@ -1,0 +1,391 @@
+{
+  "date": "20250314",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 35657,
+          "forks": 1490
+        },
+        {
+          "rank": 2,
+          "name": "inkonchain/docs",
+          "url": "https://github.com/inkonchain/docs",
+          "description": "Ink Documentation",
+          "language": "MDX",
+          "stars": 34589,
+          "forks": 355
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/graphrag",
+          "url": "https://github.com/microsoft/graphrag",
+          "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+          "language": "Python",
+          "stars": 23433,
+          "forks": 2349
+        },
+        {
+          "rank": 4,
+          "name": "RSSNext/Follow",
+          "url": "https://github.com/RSSNext/Follow",
+          "description": "🧡 Follow everything in one place",
+          "language": "TypeScript",
+          "stars": 23205,
+          "forks": 974
+        },
+        {
+          "rank": 5,
+          "name": "ItzCrazyKns/Perplexica",
+          "url": "https://github.com/ItzCrazyKns/Perplexica",
+          "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+          "language": "TypeScript",
+          "stars": 20566,
+          "forks": 2063
+        },
+        {
+          "rank": 6,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 16734,
+          "forks": 2916
+        },
+        {
+          "rank": 7,
+          "name": "deepseek-ai/Janus",
+          "url": "https://github.com/deepseek-ai/Janus",
+          "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+          "language": "Python",
+          "stars": 16716,
+          "forks": 2198
+        },
+        {
+          "rank": 8,
+          "name": "elizaOS/eliza",
+          "url": "https://github.com/elizaOS/eliza",
+          "description": "Autonomous agents for everyone",
+          "language": "TypeScript",
+          "stars": 15049,
+          "forks": 4856
+        },
+        {
+          "rank": 9,
+          "name": "zhuima/awesome-cloudflare",
+          "url": "https://github.com/zhuima/awesome-cloudflare",
+          "description": "⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source proje...",
+          "language": "N/A",
+          "stars": 10380,
+          "forks": 797
+        },
+        {
+          "rank": 10,
+          "name": "mastra-ai/mastra",
+          "url": "https://github.com/mastra-ai/mastra",
+          "description": "The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Cla...",
+          "language": "TypeScript",
+          "stars": 10355,
+          "forks": 451
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 844,
+          "forks": 143840
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28120,
+          "forks": 86228
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 313186,
+          "forks": 78145
+        },
+        {
+          "rank": 4,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 282,
+          "forks": 56683
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77441,
+          "forks": 45662
+        },
+        {
+          "rank": 6,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 311640,
+          "forks": 40596
+        },
+        {
+          "rank": 7,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37044
+        },
+        {
+          "rank": 8,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 356712,
+          "forks": 33076
+        },
+        {
+          "rank": 9,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 82702,
+          "forks": 32368
+        },
+        {
+          "rank": 10,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 65752,
+          "forks": 31315
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "xpipe-io/xpipe",
+          "url": "https://github.com/xpipe-io/xpipe",
+          "description": "Access your entire server infrastructure from your local desktop",
+          "language": "Java",
+          "stars": 6630,
+          "forks": 212
+        },
+        {
+          "rank": 2,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+          "language": "TypeScript",
+          "stars": 412175,
+          "forks": 39274
+        },
+        {
+          "rank": 3,
+          "name": "glanceapp/glance",
+          "url": "https://github.com/glanceapp/glance",
+          "description": "A self-hosted dashboard that puts all your feeds in one place",
+          "language": "Go",
+          "stars": 12176,
+          "forks": 422
+        },
+        {
+          "rank": 4,
+          "name": "openai/openai-python",
+          "url": "https://github.com/openai/openai-python",
+          "description": "The official Python library for the OpenAI API",
+          "language": "Python",
+          "stars": 25139,
+          "forks": 3671
+        },
+        {
+          "rank": 5,
+          "name": "hpcaitech/Open-Sora",
+          "url": "https://github.com/hpcaitech/Open-Sora",
+          "description": "Open-Sora: Democratizing Efficient Video Production for All",
+          "language": "Python",
+          "stars": 24286,
+          "forks": 2388
+        },
+        {
+          "rank": 6,
+          "name": "YaLTeR/niri",
+          "url": "https://github.com/YaLTeR/niri",
+          "description": "A scrollable-tiling Wayland compositor.",
+          "language": "Rust",
+          "stars": 6077,
+          "forks": 199
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+          "language": "TypeScript",
+          "stars": 103251,
+          "forks": 12728
+        },
+        {
+          "rank": 8,
+          "name": "yuaotian/go-cursor-help",
+          "url": "https://github.com/yuaotian/go-cursor-help",
+          "description": "解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts...",
+          "language": "Shell",
+          "stars": 13694,
+          "forks": 1807
+        },
+        {
+          "rank": 9,
+          "name": "kern/filepizza",
+          "url": "https://github.com/kern/filepizza",
+          "description": "🍕 Peer-to-peer file transfers in your browser",
+          "language": "TypeScript",
+          "stars": 6044,
+          "forks": 396
+        },
+        {
+          "rank": 10,
+          "name": "AgentOps-AI/agentops",
+          "url": "https://github.com/AgentOps-AI/agentops",
+          "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with mo...",
+          "language": "Python",
+          "stars": 3714,
+          "forks": 327
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openai/openai-python",
+          "url": "https://github.com/openai/openai-python",
+          "description": "The official Python library for the OpenAI API",
+          "language": "Python",
+          "stars": 25139,
+          "forks": 3671
+        },
+        {
+          "rank": 2,
+          "name": "hpcaitech/Open-Sora",
+          "url": "https://github.com/hpcaitech/Open-Sora",
+          "description": "Open-Sora: Democratizing Efficient Video Production for All",
+          "language": "Python",
+          "stars": 24286,
+          "forks": 2388
+        },
+        {
+          "rank": 3,
+          "name": "AgentOps-AI/agentops",
+          "url": "https://github.com/AgentOps-AI/agentops",
+          "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with mo...",
+          "language": "Python",
+          "stars": 3714,
+          "forks": 327
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 2144,
+          "forks": 188
+        },
+        {
+          "rank": 5,
+          "name": "huggingface/lerobot",
+          "url": "https://github.com/huggingface/lerobot",
+          "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+          "language": "Python",
+          "stars": 10107,
+          "forks": 1120
+        },
+        {
+          "rank": 6,
+          "name": "VikParuchuri/surya",
+          "url": "https://github.com/VikParuchuri/surya",
+          "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+          "language": "Python",
+          "stars": 16754,
+          "forks": 1092
+        },
+        {
+          "rank": 7,
+          "name": "eosphoros-ai/DB-GPT",
+          "url": "https://github.com/eosphoros-ai/DB-GPT",
+          "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+          "language": "Python",
+          "stars": 15470,
+          "forks": 2086
+        },
+        {
+          "rank": 8,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 332544,
+          "forks": 35131
+        },
+        {
+          "rank": 9,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, ...",
+          "language": "Python",
+          "stars": 18947,
+          "forks": 2344
+        },
+        {
+          "rank": 10,
+          "name": "simular-ai/Agent-S",
+          "url": "https://github.com/simular-ai/Agent-S",
+          "description": "Agent S: an open agentic framework that uses computers like a human",
+          "language": "Python",
+          "stars": 1043,
+          "forks": 133
+        }
+      ]
+    }
+  ]
+}

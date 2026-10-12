@@ -1,0 +1,391 @@
+{
+  "date": "20250417",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 49183,
+          "forks": 2363
+        },
+        {
+          "rank": 2,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 41241,
+          "forks": 929
+        },
+        {
+          "rank": 3,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 39811,
+          "forks": 3568
+        },
+        {
+          "rank": 4,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36582,
+          "forks": 387
+        },
+        {
+          "rank": 5,
+          "name": "2noise/ChatTTS",
+          "url": "https://github.com/2noise/ChatTTS",
+          "description": "A generative speech model for daily dialogue.",
+          "language": "Python",
+          "stars": 35795,
+          "forks": 3886
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/OmniParser",
+          "url": "https://github.com/microsoft/OmniParser",
+          "description": "A simple screen parsing tool towards pure vision based GUI agent",
+          "language": "Jupyter Notebook",
+          "stars": 21599,
+          "forks": 1788
+        },
+        {
+          "rank": 7,
+          "name": "yuaotian/go-cursor-help",
+          "url": "https://github.com/yuaotian/go-cursor-help",
+          "description": "解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accou...",
+          "language": "Shell",
+          "stars": 19340,
+          "forks": 2419
+        },
+        {
+          "rank": 8,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 19183,
+          "forks": 2197
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/agents-course",
+          "url": "https://github.com/huggingface/agents-course",
+          "description": "This repository contains the Hugging Face Agents Course.",
+          "language": "Jupyter Notebook",
+          "stars": 16338,
+          "forks": 1069
+        },
+        {
+          "rank": 10,
+          "name": "raga-ai-hub/RagaAI-Catalyst",
+          "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+          "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features lik...",
+          "language": "Python",
+          "stars": 16159,
+          "forks": 3798
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 849,
+          "forks": 143902
+        },
+        {
+          "rank": 2,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17253,
+          "forks": 61535
+        },
+        {
+          "rank": 3,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 82809,
+          "forks": 61143
+        },
+        {
+          "rank": 4,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 94291,
+          "forks": 51985
+        },
+        {
+          "rank": 5,
+          "name": "CyC2018/CS-Notes",
+          "url": "https://github.com/CyC2018/CS-Notes",
+          "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+          "language": "N/A",
+          "stars": 179798,
+          "forks": 51209
+        },
+        {
+          "rank": 6,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 234648,
+          "forks": 48289
+        },
+        {
+          "rank": 7,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1132,
+          "forks": 42208
+        },
+        {
+          "rank": 8,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37078
+        },
+        {
+          "rank": 9,
+          "name": "zizifn/edgetunnel",
+          "url": "https://github.com/zizifn/edgetunnel",
+          "description": "Running V2ray inside edge/serverless runtime",
+          "language": "JavaScript",
+          "stars": 7770,
+          "forks": 34253
+        },
+        {
+          "rank": 10,
+          "name": "macrozheng/mall",
+          "url": "https://github.com/macrozheng/mall",
+          "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、...",
+          "language": "Java",
+          "stars": 79933,
+          "forks": 29177
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "CVEProject/cvelistV5",
+          "url": "https://github.com/CVEProject/cvelistV5",
+          "description": "CVE cache of the official CVE List in CVE JSON 5 format",
+          "language": "N/A",
+          "stars": 1271,
+          "forks": 389
+        },
+        {
+          "rank": 2,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 24829,
+          "forks": 4283
+        },
+        {
+          "rank": 3,
+          "name": "Anduin2017/HowToCook",
+          "url": "https://github.com/Anduin2017/HowToCook",
+          "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+          "language": "Dockerfile",
+          "stars": 74166,
+          "forks": 9149
+        },
+        {
+          "rank": 4,
+          "name": "NirDiamant/RAG_Techniques",
+          "url": "https://github.com/NirDiamant/RAG_Techniques",
+          "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) sy...",
+          "language": "Jupyter Notebook",
+          "stars": 14689,
+          "forks": 1490
+        },
+        {
+          "rank": 5,
+          "name": "vanna-ai/vanna",
+          "url": "https://github.com/vanna-ai/vanna",
+          "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+          "language": "Python",
+          "stars": 16175,
+          "forks": 1440
+        },
+        {
+          "rank": 6,
+          "name": "svcvit/Awesome-Dify-Workflow",
+          "url": "https://github.com/svcvit/Awesome-Dify-Workflow",
+          "description": "分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.",
+          "language": "N/A",
+          "stars": 6105,
+          "forks": 598
+        },
+        {
+          "rank": 7,
+          "name": "SigmaHQ/sigma",
+          "url": "https://github.com/SigmaHQ/sigma",
+          "description": "Main Sigma Rule Repository",
+          "language": "Python",
+          "stars": 8927,
+          "forks": 2310
+        },
+        {
+          "rank": 8,
+          "name": "docmost/docmost",
+          "url": "https://github.com/docmost/docmost",
+          "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alt...",
+          "language": "TypeScript",
+          "stars": 13454,
+          "forks": 652
+        },
+        {
+          "rank": 9,
+          "name": "midday-ai/midday",
+          "url": "https://github.com/midday-ai/midday",
+          "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant m...",
+          "language": "TypeScript",
+          "stars": 7501,
+          "forks": 735
+        },
+        {
+          "rank": 10,
+          "name": "SimplifyJobs/New-Grad-Positions",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions",
+          "description": "A collection of full time roles in SWE, Quant, and PM for new grads.",
+          "language": "N/A",
+          "stars": 12455,
+          "forks": 1095
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 24829,
+          "forks": 4283
+        },
+        {
+          "rank": 2,
+          "name": "vanna-ai/vanna",
+          "url": "https://github.com/vanna-ai/vanna",
+          "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+          "language": "Python",
+          "stars": 16175,
+          "forks": 1440
+        },
+        {
+          "rank": 3,
+          "name": "SigmaHQ/sigma",
+          "url": "https://github.com/SigmaHQ/sigma",
+          "description": "Main Sigma Rule Repository",
+          "language": "Python",
+          "stars": 8927,
+          "forks": 2310
+        },
+        {
+          "rank": 4,
+          "name": "elastic/detection-rules",
+          "url": "https://github.com/elastic/detection-rules",
+          "description": "",
+          "language": "Python",
+          "stars": 2124,
+          "forks": 550
+        },
+        {
+          "rank": 5,
+          "name": "potpie-ai/potpie",
+          "url": "https://github.com/potpie-ai/potpie",
+          "description": "Prompt-To-Agent : Create custom engineering agents for your codebase",
+          "language": "Python",
+          "stars": 3534,
+          "forks": 344
+        },
+        {
+          "rank": 6,
+          "name": "facebookresearch/detr",
+          "url": "https://github.com/facebookresearch/detr",
+          "description": "End-to-End Object Detection with Transformers",
+          "language": "Python",
+          "stars": 14229,
+          "forks": 2552
+        },
+        {
+          "rank": 7,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "A high-performance algorithmic trading platform and event-driven backtester",
+          "language": "Python",
+          "stars": 5550,
+          "forks": 793
+        },
+        {
+          "rank": 8,
+          "name": "jixiaozhong/Sonic",
+          "url": "https://github.com/jixiaozhong/Sonic",
+          "description": "Official implementation of \"Sonic: Shifting Focus to Global Audio Perception in Portrait Animation\"",
+          "language": "Python",
+          "stars": 2475,
+          "forks": 209
+        },
+        {
+          "rank": 9,
+          "name": "commaai/opendbc",
+          "url": "https://github.com/commaai/opendbc",
+          "description": "a Python API for your car",
+          "language": "Python",
+          "stars": 2279,
+          "forks": 1356
+        },
+        {
+          "rank": 10,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 40906,
+          "forks": 3641
+        }
+      ]
+    }
+  ]
+}

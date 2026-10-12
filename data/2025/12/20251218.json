@@ -1,0 +1,355 @@
+{
+  "date": "20251218",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 101004,
+          "forks": 26971
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100784,
+          "forks": 16422
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91595,
+          "forks": 11778
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 87879,
+          "forks": 10059
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 56287,
+          "forks": 4898
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 54243,
+          "forks": 6861
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51353,
+          "forks": 8960
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 47989,
+          "forks": 5505
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 46471,
+          "forks": 3256
+        },
+        {
+          "rank": 10,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 46085,
+          "forks": 5527
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 334855,
+          "forks": 81465
+        },
+        {
+          "rank": 2,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1144,
+          "forks": 42200
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 179753,
+          "forks": 36976
+        },
+        {
+          "rank": 4,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184113,
+          "forks": 33682
+        },
+        {
+          "rank": 5,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1160,
+          "forks": 33662
+        },
+        {
+          "rank": 6,
+          "name": "apache/spark",
+          "url": "https://github.com/apache/spark",
+          "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+          "language": "Scala",
+          "stars": 42513,
+          "forks": 28972
+        },
+        {
+          "rank": 7,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 210,
+          "forks": 27595
+        },
+        {
+          "rank": 8,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 95986,
+          "forks": 26274
+        },
+        {
+          "rank": 9,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 10389,
+          "forks": 25048
+        },
+        {
+          "rank": 10,
+          "name": "ArduPilot/ardupilot",
+          "url": "https://github.com/ArduPilot/ardupilot",
+          "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+          "language": "C++",
+          "stars": 14217,
+          "forks": 19905
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 46471,
+          "forks": 3256
+        },
+        {
+          "rank": 2,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 43505,
+          "forks": 7709
+        },
+        {
+          "rank": 3,
+          "name": "astral-sh/ty",
+          "url": "https://github.com/astral-sh/ty",
+          "description": "An extremely fast Python type checker and language server, written in Rust.",
+          "language": "Python",
+          "stars": 14583,
+          "forks": 148
+        },
+        {
+          "rank": 4,
+          "name": "letta-ai/letta",
+          "url": "https://github.com/letta-ai/letta",
+          "description": "Letta is the platform for building stateful agents: open AI with advanced memory that can learn a...",
+          "language": "Python",
+          "stars": 19702,
+          "forks": 2074
+        },
+        {
+          "rank": 5,
+          "name": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "description": "Easily and securely send things from one computer to another 🐊 📦",
+          "language": "Go",
+          "stars": 32534,
+          "forks": 1287
+        },
+        {
+          "rank": 6,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 16023,
+          "forks": 2212
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 43505,
+          "forks": 7709
+        },
+        {
+          "rank": 2,
+          "name": "astral-sh/ty",
+          "url": "https://github.com/astral-sh/ty",
+          "description": "An extremely fast Python type checker and language server, written in Rust.",
+          "language": "Python",
+          "stars": 14583,
+          "forks": 148
+        },
+        {
+          "rank": 3,
+          "name": "letta-ai/letta",
+          "url": "https://github.com/letta-ai/letta",
+          "description": "Letta is the platform for building stateful agents: open AI with advanced memory that can learn a...",
+          "language": "Python",
+          "stars": 19702,
+          "forks": 2074
+        },
+        {
+          "rank": 4,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 16023,
+          "forks": 2212
+        },
+        {
+          "rank": 5,
+          "name": "FunAudioLLM/CosyVoice",
+          "url": "https://github.com/FunAudioLLM/CosyVoice",
+          "description": "Multi-lingual large voice generation model, providing inference, training and deployment full-sta...",
+          "language": "Python",
+          "stars": 18019,
+          "forks": 2002
+        },
+        {
+          "rank": 6,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 55627,
+          "forks": 5405
+        },
+        {
+          "rank": 7,
+          "name": "Stability-AI/generative-models",
+          "url": "https://github.com/Stability-AI/generative-models",
+          "description": "Generative Models by Stability AI",
+          "language": "Python",
+          "stars": 26719,
+          "forks": 3013
+        },
+        {
+          "rank": 8,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 8783,
+          "forks": 1537
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 386385,
+          "forks": 41237
+        },
+        {
+          "rank": 10,
+          "name": "haotian-liu/LLaVA",
+          "url": "https://github.com/haotian-liu/LLaVA",
+          "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and b...",
+          "language": "Python",
+          "stars": 24176,
+          "forks": 2682
+        }
+      ]
+    }
+  ]
+}

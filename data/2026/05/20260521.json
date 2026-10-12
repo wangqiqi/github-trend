@@ -1,0 +1,391 @@
+{
+  "date": "20260521",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 373712,
+          "forks": 77626
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 201125,
+          "forks": 17918
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 188051,
+          "forks": 29106
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 160965,
+          "forks": 26160
+        },
+        {
+          "rank": 5,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 142501,
+          "forks": 14621
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 138694,
+          "forks": 16353
+        },
+        {
+          "rank": 7,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 104398,
+          "forks": 9193
+        },
+        {
+          "rank": 8,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 103406,
+          "forks": 17015
+        },
+        {
+          "rank": 9,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 100318,
+          "forks": 14925
+        },
+        {
+          "rank": 10,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 98388,
+          "forks": 8702
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2638,
+          "forks": 90764
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29560,
+          "forks": 87369
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174264,
+          "forks": 78874
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2755,
+          "forks": 73146
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19525,
+          "forks": 67125
+        },
+        {
+          "rank": 6,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88061,
+          "forks": 59705
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 111201,
+          "forks": 59652
+        },
+        {
+          "rank": 8,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 189014,
+          "forks": 57872
+        },
+        {
+          "rank": 9,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 87580,
+          "forks": 56578
+        },
+        {
+          "rank": 10,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 182684,
+          "forks": 55693
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 21539,
+          "forks": 2599
+        },
+        {
+          "rank": 2,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, few...",
+          "language": "TypeScript",
+          "stars": 12334,
+          "forks": 715
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 142501,
+          "forks": 14621
+        },
+        {
+          "rank": 4,
+          "name": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "description": "Repository for skills to assist AI coding agents with .NET and C#",
+          "language": "C#",
+          "stars": 2050,
+          "forks": 170
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 201125,
+          "forks": 17918
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 38925,
+          "forks": 3699
+        },
+        {
+          "rank": 7,
+          "name": "rmyndharis/OpenWA",
+          "url": "https://github.com/rmyndharis/OpenWA",
+          "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+          "language": "TypeScript",
+          "stars": 5222,
+          "forks": 1050
+        },
+        {
+          "rank": 8,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 40317,
+          "forks": 2566
+        },
+        {
+          "rank": 9,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 10406,
+          "forks": 2064
+        },
+        {
+          "rank": 10,
+          "name": "teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py",
+          "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to Notebo...",
+          "language": "Python",
+          "stars": 14240,
+          "forks": 1981
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 21539,
+          "forks": 2599
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 38925,
+          "forks": 3699
+        },
+        {
+          "rank": 3,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 10406,
+          "forks": 2064
+        },
+        {
+          "rank": 4,
+          "name": "teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py",
+          "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to Notebo...",
+          "language": "Python",
+          "stars": 14240,
+          "forks": 1981
+        },
+        {
+          "rank": 5,
+          "name": "antoinezambelli/forge",
+          "url": "https://github.com/antoinezambelli/forge",
+          "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+          "language": "Python",
+          "stars": 1370,
+          "forks": 69
+        },
+        {
+          "rank": 6,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars": 17828,
+          "forks": 1533
+        },
+        {
+          "rank": 7,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice suppor...",
+          "language": "Python",
+          "stars": 27224,
+          "forks": 4044
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 82499,
+          "forks": 11971
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 124313,
+          "forks": 8450
+        },
+        {
+          "rank": 10,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system...",
+          "language": "Python",
+          "stars": 38293,
+          "forks": 36986
+        }
+      ]
+    }
+  ]
+}

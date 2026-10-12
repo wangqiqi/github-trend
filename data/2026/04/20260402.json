@@ -1,0 +1,172 @@
+{
+  "date": "20260402",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 105200,
+          "forks": 16688
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 34953,
+          "forks": 3975
+        },
+        {
+          "rank": 3,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 12889,
+          "forks": 1061
+        },
+        {
+          "rank": 4,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy...",
+          "language": "Python",
+          "stars": 16607,
+          "forks": 1935
+        },
+        {
+          "rank": 5,
+          "name": "axios/axios",
+          "url": "https://github.com/axios/axios",
+          "description": "Promise based HTTP client for the browser and node.js",
+          "language": "JavaScript",
+          "stars": 108966,
+          "forks": 11592
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 72408,
+          "forks": 10134
+        },
+        {
+          "rank": 7,
+          "name": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and...",
+          "language": "HTML",
+          "stars": 156570,
+          "forks": 20549
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 34953,
+          "forks": 3975
+        },
+        {
+          "rank": 2,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 12889,
+          "forks": 1061
+        },
+        {
+          "rank": 3,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy...",
+          "language": "Python",
+          "stars": 16607,
+          "forks": 1935
+        },
+        {
+          "rank": 4,
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR tool...",
+          "language": "Python",
+          "stars": 74688,
+          "forks": 10162
+        },
+        {
+          "rank": 5,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 22198,
+          "forks": 2773
+        },
+        {
+          "rank": 6,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 76758,
+          "forks": 9021
+        },
+        {
+          "rank": 7,
+          "name": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation,...",
+          "language": "Python",
+          "stars": 2333,
+          "forks": 330
+        },
+        {
+          "rank": 8,
+          "name": "allenai/OLMo-core",
+          "url": "https://github.com/allenai/OLMo-core",
+          "description": "PyTorch building blocks for the OLMo ecosystem",
+          "language": "Python",
+          "stars": 1095,
+          "forks": 216
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 50600,
+          "forks": 22895
+        },
+        {
+          "rank": 10,
+          "name": "OpenBMB/ChatDev",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "language": "Python",
+          "stars": 32547,
+          "forks": 4019
+        }
+      ]
+    }
+  ]
+}

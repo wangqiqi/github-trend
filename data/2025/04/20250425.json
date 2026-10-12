@@ -1,0 +1,391 @@
+{
+  "date": "20250425",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 43032,
+          "forks": 3116
+        },
+        {
+          "rank": 2,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 40745,
+          "forks": 4440
+        },
+        {
+          "rank": 3,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.",
+          "language": "TypeScript",
+          "stars": 24739,
+          "forks": 2105
+        },
+        {
+          "rank": 4,
+          "name": "PatrickJS/awesome-cursorrules",
+          "url": "https://github.com/PatrickJS/awesome-cursorrules",
+          "description": "📄 A curated list of awesome .cursorrules files",
+          "language": "N/A",
+          "stars": 23404,
+          "forks": 1788
+        },
+        {
+          "rank": 5,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21476,
+          "forks": 1519
+        },
+        {
+          "rank": 6,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 19915,
+          "forks": 2292
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "C++",
+          "stars": 17179,
+          "forks": 1237
+        },
+        {
+          "rank": 8,
+          "name": "huggingface/agents-course",
+          "url": "https://github.com/huggingface/agents-course",
+          "description": "This repository contains the Hugging Face Agents Course.",
+          "language": "Jupyter Notebook",
+          "stars": 16727,
+          "forks": 1096
+        },
+        {
+          "rank": 9,
+          "name": "NirDiamant/RAG_Techniques",
+          "url": "https://github.com/NirDiamant/RAG_Techniques",
+          "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) sy...",
+          "language": "Jupyter Notebook",
+          "stars": 15647,
+          "forks": 1551
+        },
+        {
+          "rank": 10,
+          "name": "richards199999/Thinking-Claude",
+          "url": "https://github.com/richards199999/Thinking-Claude",
+          "description": "Let your Claude able to think",
+          "language": "TypeScript",
+          "stars": 15013,
+          "forks": 1742
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 284,
+          "forks": 56730
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37073
+        },
+        {
+          "rank": 3,
+          "name": "vagabond-systems/jpmc-task-1",
+          "url": "https://github.com/vagabond-systems/jpmc-task-1",
+          "description": "Starter repo for task 1 of the JPMC software engineering program",
+          "language": "Python",
+          "stars": 43,
+          "forks": 22349
+        },
+        {
+          "rank": 4,
+          "name": "yankils/hello-world",
+          "url": "https://github.com/yankils/hello-world",
+          "description": "No description",
+          "language": "Java",
+          "stars": 259,
+          "forks": 22677
+        },
+        {
+          "rank": 5,
+          "name": "linuxacademy/devops-essentials-sample-app",
+          "url": "https://github.com/linuxacademy/devops-essentials-sample-app",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 139,
+          "forks": 18369
+        },
+        {
+          "rank": 6,
+          "name": "coding-boot-camp/prework-about-me",
+          "url": "https://github.com/coding-boot-camp/prework-about-me",
+          "description": "No description",
+          "language": "CSS",
+          "stars": 63,
+          "forks": 15494
+        },
+        {
+          "rank": 7,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 126,
+          "forks": 14003
+        },
+        {
+          "rank": 8,
+          "name": "ibm-developer-skills-network/gkpbt-css-circle",
+          "url": "https://github.com/ibm-developer-skills-network/gkpbt-css-circle",
+          "description": "css-circle",
+          "language": "HTML",
+          "stars": 17,
+          "forks": 14140
+        },
+        {
+          "rank": 9,
+          "name": "learn-co-curriculum/phase-0-html-experiencing-html-lab",
+          "url": "https://github.com/learn-co-curriculum/phase-0-html-experiencing-html-lab",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 6,
+          "forks": 11505
+        },
+        {
+          "rank": 10,
+          "name": "vagabond-systems/jpmc-task-3",
+          "url": "https://github.com/vagabond-systems/jpmc-task-3",
+          "description": "Starter repo for task 3 of JPMC's Forage program",
+          "language": "Python",
+          "stars": 6,
+          "forks": 10336
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "kortix-ai/suna",
+          "url": "https://github.com/kortix-ai/suna",
+          "description": "Suna - Open Source Generalist AI Agent",
+          "language": "TypeScript",
+          "stars": 4943,
+          "forks": 548
+        },
+        {
+          "rank": 2,
+          "name": "bytedance/UI-TARS",
+          "url": "https://github.com/bytedance/UI-TARS",
+          "description": "",
+          "language": "Python",
+          "stars": 5083,
+          "forks": 344
+        },
+        {
+          "rank": 3,
+          "name": "jujumilk3/leaked-system-prompts",
+          "url": "https://github.com/jujumilk3/leaked-system-prompts",
+          "description": "Collection of leaked system prompts",
+          "language": "N/A",
+          "stars": 3212,
+          "forks": 414
+        },
+        {
+          "rank": 4,
+          "name": "cloudcommunity/Free-Certifications",
+          "url": "https://github.com/cloudcommunity/Free-Certifications",
+          "description": "A curated list of free courses with certifications. Also available at https://free-certifications...",
+          "language": "N/A",
+          "stars": 31582,
+          "forks": 2260
+        },
+        {
+          "rank": 5,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 74445,
+          "forks": 16609
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-f...",
+          "language": "Jupyter Notebook",
+          "stars": 79712,
+          "forks": 41244
+        },
+        {
+          "rank": 7,
+          "name": "go-playground/validator",
+          "url": "https://github.com/go-playground/validator",
+          "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+          "language": "Go",
+          "stars": 18123,
+          "forks": 1365
+        },
+        {
+          "rank": 8,
+          "name": "fastrepl/hyprnote",
+          "url": "https://github.com/fastrepl/hyprnote",
+          "description": "AI Notepad for back-to-back meetings. Local-first & Extensible.",
+          "language": "TypeScript",
+          "stars": 794,
+          "forks": 47
+        },
+        {
+          "rank": 9,
+          "name": "getzep/graphiti",
+          "url": "https://github.com/getzep/graphiti",
+          "description": "Build Real-Time Knowledge Graphs for AI Agents",
+          "language": "Python",
+          "stars": 4749,
+          "forks": 365
+        },
+        {
+          "rank": 10,
+          "name": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...",
+          "language": "Go",
+          "stars": 25625,
+          "forks": 2508
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "bytedance/UI-TARS",
+          "url": "https://github.com/bytedance/UI-TARS",
+          "description": "",
+          "language": "Python",
+          "stars": 5083,
+          "forks": 344
+        },
+        {
+          "rank": 2,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 74445,
+          "forks": 16609
+        },
+        {
+          "rank": 3,
+          "name": "getzep/graphiti",
+          "url": "https://github.com/getzep/graphiti",
+          "description": "Build Real-Time Knowledge Graphs for AI Agents",
+          "language": "Python",
+          "stars": 4749,
+          "forks": 365
+        },
+        {
+          "rank": 4,
+          "name": "khoj-ai/khoj",
+          "url": "https://github.com/khoj-ai/khoj",
+          "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, ...",
+          "language": "Python",
+          "stars": 29193,
+          "forks": 1628
+        },
+        {
+          "rank": 5,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, ...",
+          "language": "Python",
+          "stars": 21350,
+          "forks": 2713
+        },
+        {
+          "rank": 6,
+          "name": "Zipstack/unstract",
+          "url": "https://github.com/Zipstack/unstract",
+          "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+          "language": "Python",
+          "stars": 5116,
+          "forks": 460
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 53904,
+          "forks": 2689
+        },
+        {
+          "rank": 8,
+          "name": "apache/airflow",
+          "url": "https://github.com/apache/airflow",
+          "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+          "language": "Python",
+          "stars": 39804,
+          "forks": 14927
+        },
+        {
+          "rank": 9,
+          "name": "comfyanonymous/ComfyUI",
+          "url": "https://github.com/comfyanonymous/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 75213,
+          "forks": 8192
+        },
+        {
+          "rank": 10,
+          "name": "stanford-oval/storm",
+          "url": "https://github.com/stanford-oval/storm",
+          "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length repo...",
+          "language": "Python",
+          "stars": 24054,
+          "forks": 2120
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260920",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 289099,
+          "forks": 25861
+        },
+        {
+          "rank": 2,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 133757,
+          "forks": 19933
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 97483,
+          "forks": 10280
+        },
+        {
+          "rank": 4,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 83411,
+          "forks": 7040
+        },
+        {
+          "rank": 5,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 81103,
+          "forks": 5141
+        },
+        {
+          "rank": 6,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 74087,
+          "forks": 11400
+        },
+        {
+          "rank": 7,
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens fo...",
+          "language": "Python",
+          "stars": 73209,
+          "forks": 5633
+        },
+        {
+          "rank": 8,
+          "name": "career-ops-hq/career-ops",
+          "url": "https://github.com/career-ops-hq/career-ops",
+          "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with ...",
+          "language": "JavaScript",
+          "stars": 72233,
+          "forks": 13605
+        },
+        {
+          "rank": 9,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 69315,
+          "forks": 4232
+        },
+        {
+          "rank": 10,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+          "language": "TypeScript",
+          "stars": 69216,
+          "forks": 5705
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 397305,
+          "forks": 66801
+        },
+        {
+          "rank": 2,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13575,
+          "forks": 27182
+        },
+        {
+          "rank": 3,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description": "LLM inference in C/C++",
+          "language": "C++",
+          "stars": 128931,
+          "forks": 23488
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/ML-For-Beginners",
+          "url": "https://github.com/microsoft/ML-For-Beginners",
+          "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+          "language": "Jupyter Notebook",
+          "stars": 90759,
+          "forks": 22372
+        },
+        {
+          "rank": 5,
+          "name": "hiifeng/V2ray-for-Doprax",
+          "url": "https://github.com/hiifeng/V2ray-for-Doprax",
+          "description": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatica...",
+          "language": "Dockerfile",
+          "stars": 8326,
+          "forks": 21546
+        },
+        {
+          "rank": 6,
+          "name": "pandas-dev/pandas",
+          "url": "https://github.com/pandas-dev/pandas",
+          "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data str...",
+          "language": "Python",
+          "stars": 49762,
+          "forks": 20406
+        },
+        {
+          "rank": 7,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19617
+        },
+        {
+          "rank": 8,
+          "name": "apache/superset",
+          "url": "https://github.com/apache/superset",
+          "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+          "language": "Python",
+          "stars": 74852,
+          "forks": 18356
+        },
+        {
+          "rank": 9,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14703
+        },
+        {
+          "rank": 10,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 15,
+          "forks": 13908
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 263405,
+          "forks": 39414
+        },
+        {
+          "rank": 2,
+          "name": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "description": "A framework for building agentic apps",
+          "language": "TypeScript",
+          "stars": 5038,
+          "forks": 473
+        },
+        {
+          "rank": 3,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readabl...",
+          "language": "JavaScript",
+          "stars": 17608,
+          "forks": 976
+        },
+        {
+          "rank": 4,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, ev...",
+          "language": "HTML",
+          "stars": 24970,
+          "forks": 1713
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 35237,
+          "forks": 5236
+        },
+        {
+          "rank": 6,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 45412,
+          "forks": 3137
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "TypeScript",
+          "stars": 146958,
+          "forks": 23999
+        },
+        {
+          "rank": 8,
+          "name": "mihail911/modern-software-dev-assignments",
+          "url": "https://github.com/mihail911/modern-software-dev-assignments",
+          "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+          "language": "Python",
+          "stars": 4457,
+          "forks": 1006
+        },
+        {
+          "rank": 9,
+          "name": "higgsfield-ai/higgsfield",
+          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for ...",
+          "language": "Jupyter Notebook",
+          "stars": 5202,
+          "forks": 937
+        },
+        {
+          "rank": 10,
+          "name": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, se...",
+          "language": "TypeScript",
+          "stars": 16551,
+          "forks": 2123
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 35237,
+          "forks": 5236
+        },
+        {
+          "rank": 2,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 45412,
+          "forks": 3137
+        },
+        {
+          "rank": 3,
+          "name": "mihail911/modern-software-dev-assignments",
+          "url": "https://github.com/mihail911/modern-software-dev-assignments",
+          "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+          "language": "Python",
+          "stars": 4457,
+          "forks": 1006
+        },
+        {
+          "rank": 4,
+          "name": "browser-use/browser-harness",
+          "url": "https://github.com/browser-use/browser-harness",
+          "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+          "language": "Python",
+          "stars": 17833,
+          "forks": 1747
+        },
+        {
+          "rank": 5,
+          "name": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+          "language": "Python",
+          "stars": 10107,
+          "forks": 1404
+        },
+        {
+          "rank": 6,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard...",
+          "language": "Python",
+          "stars": 28377,
+          "forks": 3589
+        },
+        {
+          "rank": 7,
+          "name": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+          "language": "Python",
+          "stars": 7804,
+          "forks": 1521
+        },
+        {
+          "rank": 8,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 187458,
+          "forks": 46009
+        },
+        {
+          "rank": 9,
+          "name": "openai/openai-python",
+          "url": "https://github.com/openai/openai-python",
+          "description": "The official Python library for the OpenAI API",
+          "language": "Python",
+          "stars": 31657,
+          "forks": 5830
+        },
+        {
+          "rank": 10,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction a...",
+          "language": "Python",
+          "stars": 11846,
+          "forks": 760
+        }
+      ]
+    }
+  ]
+}

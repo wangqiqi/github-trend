@@ -1,0 +1,391 @@
+{
+  "date": "20260910",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 284502,
+          "forks": 25445
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 258558,
+          "forks": 21782
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 218861,
+          "forks": 25869
+        },
+        {
+          "rank": 4,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 212050,
+          "forks": 21505
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 175590,
+          "forks": 20781
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 151480,
+          "forks": 24382
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 126602,
+          "forks": 13519
+        },
+        {
+          "rank": 8,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 93351,
+          "forks": 9927
+        },
+        {
+          "rank": 9,
+          "name": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 87097,
+          "forks": 837
+        },
+        {
+          "rank": 10,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "JavaScript",
+          "stars": 85962,
+          "forks": 5870
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37323,
+          "forks": 53262
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 244125,
+          "forks": 50463
+        },
+        {
+          "rank": 3,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 31438,
+          "forks": 46599
+        },
+        {
+          "rank": 4,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+          "language": "JavaScript",
+          "stars": 158427,
+          "forks": 46139
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77659,
+          "forks": 44842
+        },
+        {
+          "rank": 6,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 81415,
+          "forks": 42089
+        },
+        {
+          "rank": 7,
+          "name": "anuraghazra/github-readme-stats",
+          "url": "https://github.com/anuraghazra/github-readme-stats",
+          "description": ":zap: Dynamically generated stats for your github readmes",
+          "language": "JavaScript",
+          "stars": 79846,
+          "forks": 37616
+        },
+        {
+          "rank": 8,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 121159,
+          "forks": 36715
+        },
+        {
+          "rank": 9,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 115372,
+          "forks": 36542
+        },
+        {
+          "rank": 10,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 54272,
+          "forks": 33670
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 37196,
+          "forks": 2162
+        },
+        {
+          "rank": 2,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial inte...",
+          "language": "JavaScript",
+          "stars": 22910,
+          "forks": 4816
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 284502,
+          "forks": 25445
+        },
+        {
+          "rank": 4,
+          "name": "alsk1992/CloddsBot",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi...",
+          "language": "TypeScript",
+          "stars": 1424,
+          "forks": 245
+        },
+        {
+          "rank": 5,
+          "name": "Tencent/teamai-cli",
+          "url": "https://github.com/Tencent/teamai-cli",
+          "description": "Make Every Team AI Native",
+          "language": "TypeScript",
+          "stars": 3609,
+          "forks": 230
+        },
+        {
+          "rank": 6,
+          "name": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+          "language": "Rust",
+          "stars": 35580,
+          "forks": 2259
+        },
+        {
+          "rank": 7,
+          "name": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+          "language": "N/A",
+          "stars": 18537,
+          "forks": 3462
+        },
+        {
+          "rank": 8,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows....",
+          "language": "HTML",
+          "stars": 37441,
+          "forks": 2377
+        },
+        {
+          "rank": 9,
+          "name": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词...",
+          "language": "JavaScript",
+          "stars": 30713,
+          "forks": 2976
+        },
+        {
+          "rank": 10,
+          "name": "armory3d/armorpaint",
+          "url": "https://github.com/armory3d/armorpaint",
+          "description": "Graphics Creation Tools",
+          "language": "C",
+          "stars": 4290,
+          "forks": 512
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 37196,
+          "forks": 2162
+        },
+        {
+          "rank": 2,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 54080,
+          "forks": 9416
+        },
+        {
+          "rank": 3,
+          "name": "jiji262/douyin-downloader",
+          "url": "https://github.com/jiji262/douyin-downloader",
+          "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress dis...",
+          "language": "Python",
+          "stars": 9892,
+          "forks": 1551
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA/Megatron-LM",
+          "url": "https://github.com/NVIDIA/Megatron-LM",
+          "description": "Ongoing research training transformer models at scale",
+          "language": "Python",
+          "stars": 17834,
+          "forks": 4487
+        },
+        {
+          "rank": 5,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 104434,
+          "forks": 20019
+        },
+        {
+          "rank": 6,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 26833,
+          "forks": 1798
+        },
+        {
+          "rank": 7,
+          "name": "gpustack/gpustack",
+          "url": "https://github.com/gpustack/gpustack",
+          "description": "A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-acce...",
+          "language": "Python",
+          "stars": 5655,
+          "forks": 640
+        },
+        {
+          "rank": 8,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build voice agents with open-source models",
+          "language": "Python",
+          "stars": 13141,
+          "forks": 1647
+        },
+        {
+          "rank": 9,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentati...",
+          "language": "Python",
+          "stars": 61476,
+          "forks": 11746
+        },
+        {
+          "rank": 10,
+          "name": "google-deepmind/alphagenome",
+          "url": "https://github.com/google-deepmind/alphagenome",
+          "description": "This API provides programmatic access to the AlphaGenome model developed by Google DeepMind.",
+          "language": "Python",
+          "stars": 2073,
+          "forks": 289
+        }
+      ]
+    }
+  ]
+}

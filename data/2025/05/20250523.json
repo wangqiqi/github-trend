@@ -1,0 +1,391 @@
+{
+  "date": "20250523",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97044,
+          "forks": 15781
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 89423,
+          "forks": 11557
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 61183,
+          "forks": 6801
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 57803,
+          "forks": 2964
+        },
+        {
+          "rank": 5,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 55237,
+          "forks": 1100
+        },
+        {
+          "rank": 6,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 51105,
+          "forks": 15691
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 50886,
+          "forks": 3794
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 48379,
+          "forks": 5482
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 45980,
+          "forks": 8018
+        },
+        {
+          "rank": 10,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 44250,
+          "forks": 5250
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6600,
+          "forks": 243571
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13021,
+          "forks": 151154
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 854,
+          "forks": 143902
+        },
+        {
+          "rank": 4,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28387,
+          "forks": 86682
+        },
+        {
+          "rank": 5,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48527,
+          "forks": 86351
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 166706,
+          "forks": 83088
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1823,
+          "forks": 79202
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172327,
+          "forks": 79115
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 317998,
+          "forks": 78856
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190084,
+          "forks": 74679
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empow...",
+          "language": "Python",
+          "stars": 19955,
+          "forks": 3254
+        },
+        {
+          "rank": 2,
+          "name": "All-Hands-AI/OpenHands",
+          "url": "https://github.com/All-Hands-AI/OpenHands",
+          "description": "🙌 OpenHands: Code Less, Make More",
+          "language": "Python",
+          "stars": 55418,
+          "forks": 6231
+        },
+        {
+          "rank": 3,
+          "name": "modelcontextprotocol/registry",
+          "url": "https://github.com/modelcontextprotocol/registry",
+          "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+          "language": "Go",
+          "stars": 855,
+          "forks": 50
+        },
+        {
+          "rank": 4,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated...",
+          "language": "Python",
+          "stars": 28755,
+          "forks": 5034
+        },
+        {
+          "rank": 5,
+          "name": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "description": "A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.",
+          "language": "Python",
+          "stars": 1365,
+          "forks": 68
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 172337,
+          "forks": 32551
+        },
+        {
+          "rank": 7,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 418440,
+          "forks": 40174
+        },
+        {
+          "rank": 8,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 300621,
+          "forks": 49855
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 9103,
+          "forks": 511
+        },
+        {
+          "rank": 10,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 170408,
+          "forks": 28580
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empow...",
+          "language": "Python",
+          "stars": 19955,
+          "forks": 3254
+        },
+        {
+          "rank": 2,
+          "name": "All-Hands-AI/OpenHands",
+          "url": "https://github.com/All-Hands-AI/OpenHands",
+          "description": "🙌 OpenHands: Code Less, Make More",
+          "language": "Python",
+          "stars": 55418,
+          "forks": 6231
+        },
+        {
+          "rank": 3,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated...",
+          "language": "Python",
+          "stars": 28755,
+          "forks": 5034
+        },
+        {
+          "rank": 4,
+          "name": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "description": "A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.",
+          "language": "Python",
+          "stars": 1365,
+          "forks": 68
+        },
+        {
+          "rank": 5,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 300621,
+          "forks": 49855
+        },
+        {
+          "rank": 6,
+          "name": "Fosowl/agenticSeek",
+          "url": "https://github.com/Fosowl/agenticSeek",
+          "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, brow...",
+          "language": "Python",
+          "stars": 3092,
+          "forks": 337
+        },
+        {
+          "rank": 7,
+          "name": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description": "Developer-first error tracking and performance monitoring",
+          "language": "Python",
+          "stars": 40919,
+          "forks": 4347
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 4518,
+          "forks": 404
+        },
+        {
+          "rank": 9,
+          "name": "SigmaHQ/sigma",
+          "url": "https://github.com/SigmaHQ/sigma",
+          "description": "Main Sigma Rule Repository",
+          "language": "Python",
+          "stars": 9222,
+          "forks": 2343
+        },
+        {
+          "rank": 10,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 6574,
+          "forks": 592
+        }
+      ]
+    }
+  ]
+}

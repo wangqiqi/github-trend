@@ -1,0 +1,391 @@
+{
+  "date": "20251102",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100108,
+          "forks": 16326
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 94054,
+          "forks": 25404
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91434,
+          "forks": 11783
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 82443,
+          "forks": 4644
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 81206,
+          "forks": 9026
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 74063,
+          "forks": 6199
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50595,
+          "forks": 8848
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 49546,
+          "forks": 6086
+        },
+        {
+          "rank": 9,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Shell",
+          "stars": 44231,
+          "forks": 3778
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 43704,
+          "forks": 14701
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 192294,
+          "forks": 74940
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2621,
+          "forks": 72693
+        },
+        {
+          "rank": 3,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18159,
+          "forks": 64069
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 86301,
+          "forks": 60864
+        },
+        {
+          "rank": 5,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8298,
+          "forks": 59303
+        },
+        {
+          "rank": 6,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 206153,
+          "forks": 58192
+        },
+        {
+          "rank": 7,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 173953,
+          "forks": 54793
+        },
+        {
+          "rank": 8,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37289,
+          "forks": 54046
+        },
+        {
+          "rank": 9,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 96505,
+          "forks": 53896
+        },
+        {
+          "rank": 10,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 325184,
+          "forks": 52997
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 3855,
+          "forks": 406
+        },
+        {
+          "rank": 2,
+          "name": "Wei-Shaw/claude-relay-service",
+          "url": "https://github.com/Wei-Shaw/claude-relay-service",
+          "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+          "language": "JavaScript",
+          "stars": 4767,
+          "forks": 788
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 5858,
+          "forks": 427
+        },
+        {
+          "rank": 4,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 8240,
+          "forks": 1167
+        },
+        {
+          "rank": 5,
+          "name": "GeeeekExplorer/nano-vllm",
+          "url": "https://github.com/GeeeekExplorer/nano-vllm",
+          "description": "Nano vLLM",
+          "language": "Python",
+          "stars": 7425,
+          "forks": 951
+        },
+        {
+          "rank": 6,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "The AI coding agent built for the terminal.",
+          "language": "TypeScript",
+          "stars": 30284,
+          "forks": 2332
+        },
+        {
+          "rank": 7,
+          "name": "charmbracelet/glow",
+          "url": "https://github.com/charmbracelet/glow",
+          "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+          "language": "Go",
+          "stars": 19891,
+          "forks": 481
+        },
+        {
+          "rank": 8,
+          "name": "NARKOZ/hacker-scripts",
+          "url": "https://github.com/NARKOZ/hacker-scripts",
+          "description": "Based on a true story",
+          "language": "JavaScript",
+          "stars": 48983,
+          "forks": 6674
+        },
+        {
+          "rank": 9,
+          "name": "moondevonyt/moon-dev-ai-agents",
+          "url": "https://github.com/moondevonyt/moon-dev-ai-agents",
+          "description": "autonomous ai agents for trading in python",
+          "language": "Python",
+          "stars": 2262,
+          "forks": 1078
+        },
+        {
+          "rank": 10,
+          "name": "suitenumerique/docs",
+          "url": "https://github.com/suitenumerique/docs",
+          "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and R...",
+          "language": "Python",
+          "stars": 14276,
+          "forks": 435
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 3855,
+          "forks": 406
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 5858,
+          "forks": 427
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 8240,
+          "forks": 1167
+        },
+        {
+          "rank": 4,
+          "name": "GeeeekExplorer/nano-vllm",
+          "url": "https://github.com/GeeeekExplorer/nano-vllm",
+          "description": "Nano vLLM",
+          "language": "Python",
+          "stars": 7425,
+          "forks": 951
+        },
+        {
+          "rank": 5,
+          "name": "moondevonyt/moon-dev-ai-agents",
+          "url": "https://github.com/moondevonyt/moon-dev-ai-agents",
+          "description": "autonomous ai agents for trading in python",
+          "language": "Python",
+          "stars": 2262,
+          "forks": 1078
+        },
+        {
+          "rank": 6,
+          "name": "suitenumerique/docs",
+          "url": "https://github.com/suitenumerique/docs",
+          "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and R...",
+          "language": "Python",
+          "stars": 14276,
+          "forks": 435
+        },
+        {
+          "rank": 7,
+          "name": "Fosowl/agenticSeek",
+          "url": "https://github.com/Fosowl/agenticSeek",
+          "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, brow...",
+          "language": "Python",
+          "stars": 22411,
+          "forks": 2419
+        },
+        {
+          "rank": 8,
+          "name": "mealie-recipes/mealie",
+          "url": "https://github.com/mealie-recipes/mealie",
+          "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive fro...",
+          "language": "Python",
+          "stars": 10436,
+          "forks": 1019
+        },
+        {
+          "rank": 9,
+          "name": "MetaCubeX/mihomo",
+          "url": "https://github.com/MetaCubeX/mihomo",
+          "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.",
+          "language": "Python",
+          "stars": 24018,
+          "forks": 3381
+        },
+        {
+          "rank": 10,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 74845,
+          "forks": 10889
+        }
+      ]
+    }
+  ]
+}

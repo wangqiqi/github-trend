@@ -1,0 +1,382 @@
+{
+  "date": "20260116",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 108606,
+          "forks": 28462
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91716,
+          "forks": 11783
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 91108,
+          "forks": 10599
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 62951,
+          "forks": 5447
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 57143,
+          "forks": 4186
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 56310,
+          "forks": 7252
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 53122,
+          "forks": 9347
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49928,
+          "forks": 6038
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45045,
+          "forks": 4489
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析...",
+          "language": "Python",
+          "stars": 43372,
+          "forks": 21551
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 193367,
+          "forks": 75174
+        },
+        {
+          "rank": 2,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 380560,
+          "forks": 65736
+        },
+        {
+          "rank": 3,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87069,
+          "forks": 60555
+        },
+        {
+          "rank": 4,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8427,
+          "forks": 60068
+        },
+        {
+          "rank": 5,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97261,
+          "forks": 54378
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 332349,
+          "forks": 54061
+        },
+        {
+          "rank": 7,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 169401,
+          "forks": 53664
+        },
+        {
+          "rank": 8,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 181140,
+          "forks": 46261
+        },
+        {
+          "rank": 9,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1572,
+          "forks": 44660
+        },
+        {
+          "rank": 10,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 29042,
+          "forks": 43440
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 25393,
+          "forks": 1884
+        },
+        {
+          "rank": 2,
+          "name": "Gentleman-Programming/Gentleman.Dots",
+          "url": "https://github.com/Gentleman-Programming/Gentleman.Dots",
+          "description": "My personal configuration for LazyVim !",
+          "language": "Shell",
+          "stars": 1082,
+          "forks": 178
+        },
+        {
+          "rank": 3,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 20962,
+          "forks": 1462
+        },
+        {
+          "rank": 4,
+          "name": "cjpais/Handy",
+          "url": "https://github.com/cjpais/Handy",
+          "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+          "language": "TypeScript",
+          "stars": 11574,
+          "forks": 775
+        },
+        {
+          "rank": 5,
+          "name": "puckeditor/puck",
+          "url": "https://github.com/puckeditor/puck",
+          "description": "The visual editor for React",
+          "language": "TypeScript",
+          "stars": 10862,
+          "forks": 764
+        },
+        {
+          "rank": 6,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO 🚀",
+          "language": "Python",
+          "stars": 51636,
+          "forks": 9918
+        },
+        {
+          "rank": 7,
+          "name": "eigent-ai/eigent",
+          "url": "https://github.com/eigent-ai/eigent",
+          "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+          "language": "TypeScript",
+          "stars": 7230,
+          "forks": 785
+        },
+        {
+          "rank": 8,
+          "name": "iOfficeAI/AionUi",
+          "url": "https://github.com/iOfficeAI/AionUi",
+          "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Qwen Code, Goose Cli, Auggie,...",
+          "language": "TypeScript",
+          "stars": 3975,
+          "forks": 331
+        },
+        {
+          "rank": 9,
+          "name": "agentsmd/agents.md",
+          "url": "https://github.com/agentsmd/agents.md",
+          "description": "AGENTS.md — a simple, open format for guiding coding agents",
+          "language": "TypeScript",
+          "stars": 15214,
+          "forks": 1063
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 20962,
+          "forks": 1462
+        },
+        {
+          "rank": 2,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO 🚀",
+          "language": "Python",
+          "stars": 51636,
+          "forks": 9918
+        },
+        {
+          "rank": 3,
+          "name": "neuphonic/neutts",
+          "url": "https://github.com/neuphonic/neutts",
+          "description": "On-device TTS model by Neuphonic",
+          "language": "Python",
+          "stars": 4494,
+          "forks": 476
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 42709,
+          "forks": 3941
+        },
+        {
+          "rank": 5,
+          "name": "prowler-cloud/prowler",
+          "url": "https://github.com/prowler-cloud/prowler",
+          "description": "Prowler is the world’s most widely used open-source cloud security platform that automates securi...",
+          "language": "Python",
+          "stars": 12606,
+          "forks": 1913
+        },
+        {
+          "rank": 6,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 16410,
+          "forks": 1432
+        },
+        {
+          "rank": 7,
+          "name": "ml-explore/mlx-lm",
+          "url": "https://github.com/ml-explore/mlx-lm",
+          "description": "Run LLMs with MLX",
+          "language": "Python",
+          "stars": 3305,
+          "forks": 374
+        },
+        {
+          "rank": 8,
+          "name": "camel-ai/owl",
+          "url": "https://github.com/camel-ai/owl",
+          "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "language": "Python",
+          "stars": 18832,
+          "forks": 2193
+        },
+        {
+          "rank": 9,
+          "name": "NVIDIA/warp",
+          "url": "https://github.com/NVIDIA/warp",
+          "description": "A Python framework for accelerated simulation, data generation and spatial computing.",
+          "language": "Python",
+          "stars": 6056,
+          "forks": 416
+        },
+        {
+          "rank": 10,
+          "name": "modelscope/evalscope",
+          "url": "https://github.com/modelscope/evalscope",
+          "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation an...",
+          "language": "Python",
+          "stars": 2272,
+          "forks": 256
+        }
+      ]
+    }
+  ]
+}

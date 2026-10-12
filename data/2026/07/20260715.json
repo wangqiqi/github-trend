@@ -1,0 +1,391 @@
+{
+  "date": "20260715",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 255170,
+          "forks": 22807
+        },
+        {
+          "rank": 2,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 117507,
+          "forks": 7866
+        },
+        {
+          "rank": 3,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 102033,
+          "forks": 11756
+        },
+        {
+          "rank": 4,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 78478,
+          "forks": 8426
+        },
+        {
+          "rank": 5,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 71137,
+          "forks": 4423
+        },
+        {
+          "rank": 6,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 66384,
+          "forks": 8233
+        },
+        {
+          "rank": 7,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codeb...",
+          "language": "TypeScript",
+          "stars": 65859,
+          "forks": 5373
+        },
+        {
+          "rank": 8,
+          "name": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "description": "Spec-driven development (SDD) for AI coding assistants.",
+          "language": "TypeScript",
+          "stars": 60995,
+          "forks": 4232
+        },
+        {
+          "rank": 9,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applicatio...",
+          "language": "JavaScript",
+          "stars": 60202,
+          "forks": 11943
+        },
+        {
+          "rank": 10,
+          "name": "VoltAgent/awesome-openclaw-skills",
+          "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+          "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the offici...",
+          "language": "N/A",
+          "stars": 51241,
+          "forks": 4955
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77668,
+          "forks": 44960
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 215237,
+          "forks": 40098
+        },
+        {
+          "rank": 3,
+          "name": "anuraghazra/github-readme-stats",
+          "url": "https://github.com/anuraghazra/github-readme-stats",
+          "description": ":zap: Dynamically generated stats for your github readmes",
+          "language": "JavaScript",
+          "stars": 79792,
+          "forks": 35199
+        },
+        {
+          "rank": 4,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13548,
+          "forks": 27256
+        },
+        {
+          "rank": 5,
+          "name": "langchain-ai/langchain",
+          "url": "https://github.com/langchain-ai/langchain",
+          "description": "The agent engineering platform.",
+          "language": "Python",
+          "stars": 141832,
+          "forks": 23563
+        },
+        {
+          "rank": 6,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 186064,
+          "forks": 23289
+        },
+        {
+          "rank": 7,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 145501,
+          "forks": 21065
+        },
+        {
+          "rank": 8,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19730
+        },
+        {
+          "rank": 9,
+          "name": "zero-to-mastery/start-here-guidelines",
+          "url": "https://github.com/zero-to-mastery/start-here-guidelines",
+          "description": "Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playgro...",
+          "language": "Python",
+          "stars": 2878,
+          "forks": 17401
+        },
+        {
+          "rank": 10,
+          "name": "hakimel/reveal.js",
+          "url": "https://github.com/hakimel/reveal.js",
+          "description": "The HTML Presentation Framework",
+          "language": "JavaScript",
+          "stars": 71935,
+          "forks": 16861
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 70213,
+          "forks": 7270
+        },
+        {
+          "rank": 2,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 6971,
+          "forks": 376
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 171574,
+          "forks": 14738
+        },
+        {
+          "rank": 4,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "TypeScript",
+          "stars": 42334,
+          "forks": 4239
+        },
+        {
+          "rank": 5,
+          "name": "Dicklesworthstone/destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being e...",
+          "language": "Rust",
+          "stars": 4588,
+          "forks": 172
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 23372,
+          "forks": 4001
+        },
+        {
+          "rank": 7,
+          "name": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "description": "A coding agent for low-cost models",
+          "language": "Rust",
+          "stars": 65179,
+          "forks": 5644
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 26050,
+          "forks": 3549
+        },
+        {
+          "rank": 9,
+          "name": "HenryNdubuaku/maths-cs-ai-compendium",
+          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "description": "Become a cracked AI/ML Research Engineer",
+          "language": "TypeScript",
+          "stars": 5661,
+          "forks": 728
+        },
+        {
+          "rank": 10,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 121559,
+          "forks": 17953
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 23372,
+          "forks": 4001
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 26050,
+          "forks": 3549
+        },
+        {
+          "rank": 3,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 121559,
+          "forks": 17953
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 121492,
+          "forks": 10804
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+          "language": "Python",
+          "stars": 45639,
+          "forks": 8044
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 166216,
+          "forks": 11903
+        },
+        {
+          "rank": 7,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 66384,
+          "forks": 8233
+        },
+        {
+          "rank": 8,
+          "name": "snap-stanford/Biomni",
+          "url": "https://github.com/snap-stanford/Biomni",
+          "description": "Biomni: a general-purpose biomedical AI agent",
+          "language": "Python",
+          "stars": 3461,
+          "forks": 626
+        },
+        {
+          "rank": 9,
+          "name": "zhinianboke/xianyu-auto-reply",
+          "url": "https://github.com/zhinianboke/xianyu-auto-reply",
+          "description": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服...",
+          "language": "Python",
+          "stars": 5759,
+          "forks": 1545
+        },
+        {
+          "rank": 10,
+          "name": "PrimeIntellect-ai/prime-rl",
+          "url": "https://github.com/PrimeIntellect-ai/prime-rl",
+          "description": "Agentic RL Training at Scale",
+          "language": "Python",
+          "stars": 1658,
+          "forks": 352
+        }
+      ]
+    }
+  ]
+}

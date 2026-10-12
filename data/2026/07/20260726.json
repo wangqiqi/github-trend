@@ -1,0 +1,391 @@
+{
+  "date": "20260726",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194921,
+          "forks": 109486
+        },
+        {
+          "rank": 2,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 136774,
+          "forks": 22306
+        },
+        {
+          "rank": 3,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 124456,
+          "forks": 18642
+        },
+        {
+          "rank": 4,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "language": "TypeScript",
+          "stars": 77874,
+          "forks": 9587
+        },
+        {
+          "rank": 5,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 74765,
+          "forks": 13927
+        },
+        {
+          "rank": 6,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 69375,
+          "forks": 10835
+        },
+        {
+          "rank": 7,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 43618,
+          "forks": 7322
+        },
+        {
+          "rank": 8,
+          "name": "kepano/obsidian-skills",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdo...",
+          "language": "N/A",
+          "stars": 43325,
+          "forks": 3086
+        },
+        {
+          "rank": 9,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 42387,
+          "forks": 5070
+        },
+        {
+          "rank": 10,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice ...",
+          "language": "Python",
+          "stars": 42358,
+          "forks": 6935
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1160,
+          "forks": 41943
+        },
+        {
+          "rank": 2,
+          "name": "NicosiaAlice/tahowallet-extension",
+          "url": "https://github.com/NicosiaAlice/tahowallet-extension",
+          "description": "blockchain extension | web3 extension | extension: Taho, the community owned and operated Web3 ...",
+          "language": "TypeScript",
+          "stars": 378,
+          "forks": 24282
+        },
+        {
+          "rank": 3,
+          "name": "UseInterstellar/Interstellar",
+          "url": "https://github.com/UseInterstellar/Interstellar",
+          "description": "One of the most popular modern web proxies with blazing fast speeds and a variety of games.",
+          "language": "JavaScript",
+          "stars": 2063,
+          "forks": 24163
+        },
+        {
+          "rank": 4,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19713
+        },
+        {
+          "rank": 5,
+          "name": "NairobiArthur/walletconnect-monorepo",
+          "url": "https://github.com/NairobiArthur/walletconnect-monorepo",
+          "description": "wallet connect: WalletConnect Monorepo",
+          "language": "TypeScript",
+          "stars": 341,
+          "forks": 17778
+        },
+        {
+          "rank": 6,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14704
+        },
+        {
+          "rank": 7,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 10,
+          "forks": 13906
+        },
+        {
+          "rank": 8,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 139,
+          "forks": 13768
+        },
+        {
+          "rank": 9,
+          "name": "MithunTechnologiesDevOps/Maven-Web-Application",
+          "url": "https://github.com/MithunTechnologiesDevOps/Maven-Web-Application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 124,
+          "forks": 13218
+        },
+        {
+          "rank": 10,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 216,
+          "forks": 9711
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "description": "bluetooth mesh chat, IRC vibes",
+          "language": "Swift",
+          "stars": 29333,
+          "forks": 4516
+        },
+        {
+          "rank": 2,
+          "name": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser...",
+          "language": "JavaScript",
+          "stars": 4047,
+          "forks": 198
+        },
+        {
+          "rank": 3,
+          "name": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "description": "A hive mind communication platform",
+          "language": "Rust",
+          "stars": 12656,
+          "forks": 1017
+        },
+        {
+          "rank": 4,
+          "name": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 14930,
+          "forks": 3284
+        },
+        {
+          "rank": 5,
+          "name": "CoreBunch/Instatic",
+          "url": "https://github.com/CoreBunch/Instatic",
+          "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outp...",
+          "language": "TypeScript",
+          "stars": 5378,
+          "forks": 505
+        },
+        {
+          "rank": 6,
+          "name": "yorukot/superfile",
+          "url": "https://github.com/yorukot/superfile",
+          "description": "Pretty fancy and modern terminal file manager",
+          "language": "Go",
+          "stars": 19964,
+          "forks": 630
+        },
+        {
+          "rank": 7,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 118403,
+          "forks": 36161
+        },
+        {
+          "rank": 8,
+          "name": "OtterMind/Chat2DB",
+          "url": "https://github.com/OtterMind/Chat2DB",
+          "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, Pos...",
+          "language": "Java",
+          "stars": 26906,
+          "forks": 2930
+        },
+        {
+          "rank": 9,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 50301,
+          "forks": 2967
+        },
+        {
+          "rank": 10,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 33981,
+          "forks": 5734
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 33981,
+          "forks": 5734
+        },
+        {
+          "rank": 2,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 15317,
+          "forks": 1622
+        },
+        {
+          "rank": 3,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 73928,
+          "forks": 35007
+        },
+        {
+          "rank": 4,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 70820,
+          "forks": 7955
+        },
+        {
+          "rank": 5,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 89468,
+          "forks": 38119
+        },
+        {
+          "rank": 6,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 6407,
+          "forks": 866
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and ...",
+          "language": "Python",
+          "stars": 4919,
+          "forks": 812
+        },
+        {
+          "rank": 8,
+          "name": "sirkirby/unifi-mcp",
+          "url": "https://github.com/sirkirby/unifi-mcp",
+          "description": "MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive",
+          "language": "Python",
+          "stars": 579,
+          "forks": 85
+        },
+        {
+          "rank": 9,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 88220,
+          "forks": 33986
+        },
+        {
+          "rank": 10,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 43536,
+          "forks": 2947
+        }
+      ]
+    }
+  ]
+}

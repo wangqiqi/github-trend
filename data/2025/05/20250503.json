@@ -1,0 +1,391 @@
+{
+  "date": "20250503",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 43165,
+          "forks": 4760
+        },
+        {
+          "rank": 2,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.",
+          "language": "TypeScript",
+          "stars": 25404,
+          "forks": 2178
+        },
+        {
+          "rank": 3,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21543,
+          "forks": 1526
+        },
+        {
+          "rank": 4,
+          "name": "NirDiamant/RAG_Techniques",
+          "url": "https://github.com/NirDiamant/RAG_Techniques",
+          "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) sy...",
+          "language": "Jupyter Notebook",
+          "stars": 15797,
+          "forks": 1563
+        },
+        {
+          "rank": 5,
+          "name": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "description": "A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations",
+          "language": "Python",
+          "stars": 13870,
+          "forks": 971
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/web-ui",
+          "url": "https://github.com/browser-use/web-ui",
+          "description": "Run AI Agent in your browser.",
+          "language": "Python",
+          "stars": 12701,
+          "forks": 2071
+        },
+        {
+          "rank": 7,
+          "name": "ourongxing/newsnow",
+          "url": "https://github.com/ourongxing/newsnow",
+          "description": "Elegant reading of real-time and hottest news",
+          "language": "TypeScript",
+          "stars": 9547,
+          "forks": 2700
+        },
+        {
+          "rank": 8,
+          "name": "google/adk-python",
+          "url": "https://github.com/google/adk-python",
+          "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated A...",
+          "language": "Python",
+          "stars": 8111,
+          "forks": 794
+        },
+        {
+          "rank": 9,
+          "name": "TahaSh/swapy",
+          "url": "https://github.com/TahaSh/swapy",
+          "description": "✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few line...",
+          "language": "TypeScript",
+          "stars": 7864,
+          "forks": 164
+        },
+        {
+          "rank": 10,
+          "name": "adithya-s-k/omniparse",
+          "url": "https://github.com/adithya-s-k/omniparse",
+          "description": "Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compa...",
+          "language": "Python",
+          "stars": 6501,
+          "forks": 524
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6602,
+          "forks": 243613
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 12979,
+          "forks": 150728
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 850,
+          "forks": 143898
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48209,
+          "forks": 85625
+        },
+        {
+          "rank": 5,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172272,
+          "forks": 79085
+        },
+        {
+          "rank": 6,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2530,
+          "forks": 72223
+        },
+        {
+          "rank": 7,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "HTML",
+          "stars": 356082,
+          "forks": 63273
+        },
+        {
+          "rank": 8,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17320,
+          "forks": 61650
+        },
+        {
+          "rank": 9,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 81979,
+          "forks": 56152
+        },
+        {
+          "rank": 10,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 235124,
+          "forks": 48382
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "aipotheosis-labs/aci",
+          "url": "https://github.com/aipotheosis-labs/aci",
+          "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with m...",
+          "language": "Python",
+          "stars": 1689,
+          "forks": 118
+        },
+        {
+          "rank": 2,
+          "name": "unionlabs/union",
+          "url": "https://github.com/unionlabs/union",
+          "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extrem...",
+          "language": "Rust",
+          "stars": 56490,
+          "forks": 2835
+        },
+        {
+          "rank": 3,
+          "name": "Atmosphere-NX/Atmosphere",
+          "url": "https://github.com/Atmosphere-NX/Atmosphere",
+          "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+          "language": "C++",
+          "stars": 15876,
+          "forks": 1269
+        },
+        {
+          "rank": 4,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 58478,
+          "forks": 8256
+        },
+        {
+          "rank": 5,
+          "name": "cloudflare/mcp-server-cloudflare",
+          "url": "https://github.com/cloudflare/mcp-server-cloudflare",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 1645,
+          "forks": 125
+        },
+        {
+          "rank": 6,
+          "name": "aws/aws-sdk-java-v2",
+          "url": "https://github.com/aws/aws-sdk-java-v2",
+          "description": "The official AWS SDK for Java - Version 2",
+          "language": "Java",
+          "stars": 2352,
+          "forks": 904
+        },
+        {
+          "rank": 7,
+          "name": "ChrisTitusTech/winutil",
+          "url": "https://github.com/ChrisTitusTech/winutil",
+          "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+          "language": "PowerShell",
+          "stars": 33518,
+          "forks": 1879
+        },
+        {
+          "rank": 8,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 165597,
+          "forks": 53690
+        },
+        {
+          "rank": 9,
+          "name": "juanfont/headscale",
+          "url": "https://github.com/juanfont/headscale",
+          "description": "An open source, self-hosted implementation of the Tailscale control server",
+          "language": "Go",
+          "stars": 27578,
+          "forks": 1485
+        },
+        {
+          "rank": 10,
+          "name": "koreader/koreader",
+          "url": "https://github.com/koreader/koreader",
+          "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cer...",
+          "language": "Lua",
+          "stars": 20857,
+          "forks": 1417
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "aipotheosis-labs/aci",
+          "url": "https://github.com/aipotheosis-labs/aci",
+          "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with m...",
+          "language": "Python",
+          "stars": 1689,
+          "forks": 118
+        },
+        {
+          "rank": 2,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 58478,
+          "forks": 8256
+        },
+        {
+          "rank": 3,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 297879,
+          "forks": 49502
+        },
+        {
+          "rank": 4,
+          "name": "pydantic/pydantic",
+          "url": "https://github.com/pydantic/pydantic",
+          "description": "Data validation using Python type hints",
+          "language": "Python",
+          "stars": 23512,
+          "forks": 2104
+        },
+        {
+          "rank": 5,
+          "name": "sunnypilot/sunnypilot",
+          "url": "https://github.com/sunnypilot/sunnypilot",
+          "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique drivin...",
+          "language": "Python",
+          "stars": 1056,
+          "forks": 850
+        },
+        {
+          "rank": 6,
+          "name": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "language": "Python",
+          "stars": 102783,
+          "forks": 9923
+        },
+        {
+          "rank": 7,
+          "name": "JoshuaC215/agent-service-toolkit",
+          "url": "https://github.com/JoshuaC215/agent-service-toolkit",
+          "description": "Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit",
+          "language": "Python",
+          "stars": 2782,
+          "forks": 404
+        },
+        {
+          "rank": 8,
+          "name": "ranaroussi/yfinance",
+          "url": "https://github.com/ranaroussi/yfinance",
+          "description": "Download market data from Yahoo! Finance's API",
+          "language": "Python",
+          "stars": 16896,
+          "forks": 2633
+        },
+        {
+          "rank": 9,
+          "name": "ungoogled-software/ungoogled-chromium",
+          "url": "https://github.com/ungoogled-software/ungoogled-chromium",
+          "description": "Google Chromium, sans integration with Google",
+          "language": "Python",
+          "stars": 22334,
+          "forks": 913
+        },
+        {
+          "rank": 10,
+          "name": "DachunKai/Ev-DeblurVSR",
+          "url": "https://github.com/DachunKai/Ev-DeblurVSR",
+          "description": "[AAAI 2025] Event-Enhanced Blurry Video Super-Resolution",
+          "language": "Python",
+          "stars": 318,
+          "forks": 30
+        }
+      ]
+    }
+  ]
+}

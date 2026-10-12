@@ -1,0 +1,391 @@
+{
+  "date": "20251113",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100262,
+          "forks": 16336
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 95490,
+          "forks": 25723
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91478,
+          "forks": 11779
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 82356,
+          "forks": 9231
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 74837,
+          "forks": 6272
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 72552,
+          "forks": 8731
+        },
+        {
+          "rank": 7,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 50386,
+          "forks": 6270
+        },
+        {
+          "rank": 8,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Shell",
+          "stars": 47928,
+          "forks": 4086
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 44832,
+          "forks": 15165
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 43557,
+          "forks": 4166
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2623,
+          "forks": 72715
+        },
+        {
+          "rank": 2,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8313,
+          "forks": 59431
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1538,
+          "forks": 43421
+        },
+        {
+          "rank": 4,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19824,
+          "forks": 42949
+        },
+        {
+          "rank": 5,
+          "name": "DefinitelyTyped/DefinitelyTyped",
+          "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+          "description": "The repository for high quality TypeScript type definitions.",
+          "language": "TypeScript",
+          "stars": 50609,
+          "forks": 30529
+        },
+        {
+          "rank": 6,
+          "name": "apache/dubbo",
+          "url": "https://github.com/apache/dubbo",
+          "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+          "language": "Java",
+          "stars": 41575,
+          "forks": 26550
+        },
+        {
+          "rank": 7,
+          "name": "trustwallet/assets",
+          "url": "https://github.com/trustwallet/assets",
+          "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+          "language": "Go",
+          "stars": 5115,
+          "forks": 25925
+        },
+        {
+          "rank": 8,
+          "name": "othneildrew/Best-README-Template",
+          "url": "https://github.com/othneildrew/Best-README-Template",
+          "description": "An awesome README template to jumpstart your projects!",
+          "language": "N/A",
+          "stars": 15635,
+          "forks": 23333
+        },
+        {
+          "rank": 9,
+          "name": "996icu/996.ICU",
+          "url": "https://github.com/996icu/996.ICU",
+          "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+          "language": "N/A",
+          "stars": 274799,
+          "forks": 21020
+        },
+        {
+          "rank": 10,
+          "name": "jquery/jquery",
+          "url": "https://github.com/jquery/jquery",
+          "description": "jQuery JavaScript Library",
+          "language": "JavaScript",
+          "stars": 59648,
+          "forks": 20538
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+...",
+          "language": "Python",
+          "stars": 10311,
+          "forks": 6427
+        },
+        {
+          "rank": 2,
+          "name": "google/adk-go",
+          "url": "https://github.com/google/adk-go",
+          "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI ag...",
+          "language": "Go",
+          "stars": 3040,
+          "forks": 160
+        },
+        {
+          "rank": 3,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars": 55926,
+          "forks": 12495
+        },
+        {
+          "rank": 4,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 41381,
+          "forks": 4988
+        },
+        {
+          "rank": 5,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 89158,
+          "forks": 9550
+        },
+        {
+          "rank": 6,
+          "name": "traefik/traefik",
+          "url": "https://github.com/traefik/traefik",
+          "description": "The Cloud Native Application Proxy",
+          "language": "Go",
+          "stars": 57877,
+          "forks": 5555
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 22832,
+          "forks": 3409
+        },
+        {
+          "rank": 8,
+          "name": "bobeff/open-source-games",
+          "url": "https://github.com/bobeff/open-source-games",
+          "description": "A list of open source games.",
+          "language": "N/A",
+          "stars": 4285,
+          "forks": 323
+        },
+        {
+          "rank": 9,
+          "name": "volcengine/verl",
+          "url": "https://github.com/volcengine/verl",
+          "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+          "language": "Python",
+          "stars": 15528,
+          "forks": 2508
+        },
+        {
+          "rank": 10,
+          "name": "GibsonAI/Memori",
+          "url": "https://github.com/GibsonAI/Memori",
+          "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+          "language": "Python",
+          "stars": 2846,
+          "forks": 258
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+...",
+          "language": "Python",
+          "stars": 10311,
+          "forks": 6427
+        },
+        {
+          "rank": 2,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 41381,
+          "forks": 4988
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 22832,
+          "forks": 3409
+        },
+        {
+          "rank": 4,
+          "name": "volcengine/verl",
+          "url": "https://github.com/volcengine/verl",
+          "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+          "language": "Python",
+          "stars": 15528,
+          "forks": 2508
+        },
+        {
+          "rank": 5,
+          "name": "GibsonAI/Memori",
+          "url": "https://github.com/GibsonAI/Memori",
+          "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+          "language": "Python",
+          "stars": 2846,
+          "forks": 258
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/call-center-ai",
+          "url": "https://github.com/microsoft/call-center-ai",
+          "description": "Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured ph...",
+          "language": "Python",
+          "stars": 2424,
+          "forks": 347
+        },
+        {
+          "rank": 7,
+          "name": "MustardChef/WSABuilds",
+          "url": "https://github.com/MustardChef/WSABuilds",
+          "description": "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries wi...",
+          "language": "Python",
+          "stars": 12793,
+          "forks": 1989
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 40165,
+          "forks": 3958
+        },
+        {
+          "rank": 9,
+          "name": "lzhoang2801/OpCore-Simplify",
+          "url": "https://github.com/lzhoang2801/OpCore-Simplify",
+          "description": "A tool designed to simplify the creation of OpenCore EFI",
+          "language": "Python",
+          "stars": 2426,
+          "forks": 226
+        },
+        {
+          "rank": 10,
+          "name": "volcengine/MineContext",
+          "url": "https://github.com/volcengine/MineContext",
+          "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+          "language": "Python",
+          "stars": 3575,
+          "forks": 226
+        }
+      ]
+    }
+  ]
+}

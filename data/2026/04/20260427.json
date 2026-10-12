@@ -1,0 +1,391 @@
+{
+  "date": "20260427",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 365165,
+          "forks": 74782
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 188756,
+          "forks": 109389
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 169387,
+          "forks": 14955
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 168113,
+          "forks": 26046
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 91163,
+          "forks": 7879
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 87638,
+          "forks": 14117
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 77076,
+          "forks": 11244
+        },
+        {
+          "rank": 8,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 66470,
+          "forks": 8184
+        },
+        {
+          "rank": 9,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "Open-source orchestration for zero-human companies",
+          "language": "TypeScript",
+          "stars": 59347,
+          "forks": 10336
+        },
+        {
+          "rank": 10,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 57764,
+          "forks": 4902
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174207,
+          "forks": 78952
+        },
+        {
+          "rank": 2,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 386230,
+          "forks": 66141
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 109919,
+          "forks": 58975
+        },
+        {
+          "rank": 4,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 426939,
+          "forks": 46632
+        },
+        {
+          "rank": 5,
+          "name": "bia-pain-bache/BPB-Worker-Panel",
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private...",
+          "language": "TypeScript",
+          "stars": 10314,
+          "forks": 31561
+        },
+        {
+          "rank": 6,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 99480,
+          "forks": 27603
+        },
+        {
+          "rank": 7,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 215,
+          "forks": 27317
+        },
+        {
+          "rank": 8,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13484,
+          "forks": 27315
+        },
+        {
+          "rank": 9,
+          "name": "angular/angular",
+          "url": "https://github.com/angular/angular",
+          "description": "Deliver web apps with confidence 🚀",
+          "language": "TypeScript",
+          "stars": 100053,
+          "forks": 27186
+        },
+        {
+          "rank": 10,
+          "name": "scikit-learn/scikit-learn",
+          "url": "https://github.com/scikit-learn/scikit-learn",
+          "description": "scikit-learn: machine learning in Python",
+          "language": "Python",
+          "stars": 65933,
+          "forks": 26974
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 27183,
+          "forks": 2162
+        },
+        {
+          "rank": 2,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 30838,
+          "forks": 3553
+        },
+        {
+          "rank": 3,
+          "name": "ComposioHQ/awesome-codex-skills",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "language": "Python",
+          "stars": 2396,
+          "forks": 171
+        },
+        {
+          "rank": 4,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "language": "Python",
+          "stars": 15307,
+          "forks": 2120
+        },
+        {
+          "rank": 5,
+          "name": "gastownhall/beads",
+          "url": "https://github.com/gastownhall/beads",
+          "description": "Beads - A memory upgrade for your coding agent",
+          "language": "Go",
+          "stars": 21972,
+          "forks": 1447
+        },
+        {
+          "rank": 6,
+          "name": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "description": "Penpot: The open-source design tool for design and code collaboration",
+          "language": "Clojure",
+          "stars": 46335,
+          "forks": 2779
+        },
+        {
+          "rank": 7,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 25649,
+          "forks": 2572
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 42370,
+          "forks": 4847
+        },
+        {
+          "rank": 9,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars": 66501,
+          "forks": 7472
+        },
+        {
+          "rank": 10,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 53361,
+          "forks": 9730
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ComposioHQ/awesome-codex-skills",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "language": "Python",
+          "stars": 2396,
+          "forks": 171
+        },
+        {
+          "rank": 2,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "language": "Python",
+          "stars": 15307,
+          "forks": 2120
+        },
+        {
+          "rank": 3,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 25649,
+          "forks": 2572
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 42370,
+          "forks": 4847
+        },
+        {
+          "rank": 5,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars": 66501,
+          "forks": 7472
+        },
+        {
+          "rank": 6,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 53361,
+          "forks": 9730
+        },
+        {
+          "rank": 7,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "",
+          "language": "Python",
+          "stars": 102978,
+          "forks": 16690
+        },
+        {
+          "rank": 8,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 344860,
+          "forks": 55729
+        },
+        {
+          "rank": 9,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 82449,
+          "forks": 9619
+        },
+        {
+          "rank": 10,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 9203,
+          "forks": 1285
+        }
+      ]
+    }
+  ]
+}

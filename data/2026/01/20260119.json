@@ -1,0 +1,373 @@
+{
+  "date": "20260119",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 109291,
+          "forks": 28603
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91731,
+          "forks": 11776
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 91634,
+          "forks": 10680
+        },
+        {
+          "rank": 4,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 77924,
+          "forks": 6873
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 63534,
+          "forks": 5495
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 58125,
+          "forks": 4281
+        },
+        {
+          "rank": 7,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 56529,
+          "forks": 7314
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 53285,
+          "forks": 9357
+        },
+        {
+          "rank": 9,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 50091,
+          "forks": 6075
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 45299,
+          "forks": 4242
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173931,
+          "forks": 79170
+        },
+        {
+          "rank": 2,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 380708,
+          "forks": 65760
+        },
+        {
+          "rank": 3,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18755,
+          "forks": 65649
+        },
+        {
+          "rank": 4,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 214606,
+          "forks": 60038
+        },
+        {
+          "rank": 5,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 242370,
+          "forks": 50420
+        },
+        {
+          "rank": 6,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 216966,
+          "forks": 49968
+        },
+        {
+          "rank": 7,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 347498,
+          "forks": 43633
+        },
+        {
+          "rank": 8,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 458347,
+          "forks": 42975
+        },
+        {
+          "rank": 9,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1145,
+          "forks": 42185
+        },
+        {
+          "rank": 10,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1163,
+          "forks": 34259
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+          "language": "Python",
+          "stars": 4593,
+          "forks": 541
+        },
+        {
+          "rank": 2,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 22426,
+          "forks": 1546
+        },
+        {
+          "rank": 3,
+          "name": "iOfficeAI/AionUi",
+          "url": "https://github.com/iOfficeAI/AionUi",
+          "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cl...",
+          "language": "TypeScript",
+          "stars": 6389,
+          "forks": 502
+        },
+        {
+          "rank": 4,
+          "name": "czlonkowski/n8n-mcp",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "language": "TypeScript",
+          "stars": 11996,
+          "forks": 2211
+        },
+        {
+          "rank": 5,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "A high-performance algorithmic trading platform and event-driven backtester",
+          "language": "Rust",
+          "stars": 17869,
+          "forks": 2113
+        },
+        {
+          "rank": 6,
+          "name": "ahujasid/blender-mcp",
+          "url": "https://github.com/ahujasid/blender-mcp",
+          "description": "",
+          "language": "Python",
+          "stars": 15704,
+          "forks": 1502
+        },
+        {
+          "rank": 7,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 9166,
+          "forks": 798
+        },
+        {
+          "rank": 8,
+          "name": "DavidXanatos/TaskExplorer",
+          "url": "https://github.com/DavidXanatos/TaskExplorer",
+          "description": "Power full Task Manager",
+          "language": "C",
+          "stars": 2320,
+          "forks": 208
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+          "language": "Python",
+          "stars": 4593,
+          "forks": 541
+        },
+        {
+          "rank": 2,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 22426,
+          "forks": 1546
+        },
+        {
+          "rank": 3,
+          "name": "ahujasid/blender-mcp",
+          "url": "https://github.com/ahujasid/blender-mcp",
+          "description": "",
+          "language": "Python",
+          "stars": 15704,
+          "forks": 1502
+        },
+        {
+          "rank": 4,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 9166,
+          "forks": 798
+        },
+        {
+          "rank": 5,
+          "name": "AtsushiSakai/PythonRobotics",
+          "url": "https://github.com/AtsushiSakai/PythonRobotics",
+          "description": "Python sample codes and textbook for robotics algorithms.",
+          "language": "Python",
+          "stars": 28016,
+          "forks": 7149
+        },
+        {
+          "rank": 6,
+          "name": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "description": "Common User Passwords Profiler (CUPP)",
+          "language": "Python",
+          "stars": 5650,
+          "forks": 1765
+        },
+        {
+          "rank": 7,
+          "name": "freqtrade/freqtrade",
+          "url": "https://github.com/freqtrade/freqtrade",
+          "description": "Free, open source crypto trading bot",
+          "language": "Python",
+          "stars": 46025,
+          "forks": 9566
+        },
+        {
+          "rank": 8,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 142726,
+          "forks": 11530
+        },
+        {
+          "rank": 9,
+          "name": "The-Pocket/PocketFlow",
+          "url": "https://github.com/The-Pocket/PocketFlow",
+          "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+          "language": "Python",
+          "stars": 9576,
+          "forks": 1053
+        },
+        {
+          "rank": 10,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 35745,
+          "forks": 2264
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260530",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 375618,
+          "forks": 78398
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 173335,
+          "forks": 29287
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 162186,
+          "forks": 16610
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 143809,
+          "forks": 16955
+        },
+        {
+          "rank": 5,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 85781,
+          "forks": 10304
+        },
+        {
+          "rank": 6,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 85280,
+          "forks": 5549
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 84989,
+          "forks": 8768
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 84151,
+          "forks": 12218
+        },
+        {
+          "rank": 9,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "TypeScript",
+          "stars": 79702,
+          "forks": 6858
+        },
+        {
+          "rank": 10,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 68498,
+          "forks": 9127
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 192904,
+          "forks": 109978
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2642,
+          "forks": 91016
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 174169,
+          "forks": 82458
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174276,
+          "forks": 78848
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195309,
+          "forks": 75323
+        },
+        {
+          "rank": 6,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19577,
+          "forks": 67249
+        },
+        {
+          "rank": 7,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88126,
+          "forks": 59681
+        },
+        {
+          "rank": 8,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 190326,
+          "forks": 58144
+        },
+        {
+          "rank": 9,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 87691,
+          "forks": 56579
+        },
+        {
+          "rank": 10,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 350954,
+          "forks": 56482
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 71226,
+          "forks": 10240
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 131133,
+          "forks": 8986
+        },
+        {
+          "rank": 3,
+          "name": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+          "language": "TypeScript",
+          "stars": 18305,
+          "forks": 1386
+        },
+        {
+          "rank": 4,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "language": "TypeScript",
+          "stars": 48630,
+          "forks": 6893
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Python",
+          "stars": 128175,
+          "forks": 20932
+        },
+        {
+          "rank": 6,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "Shell",
+          "stars": 28814,
+          "forks": 2125
+        },
+        {
+          "rank": 7,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 1373,
+          "forks": 114
+        },
+        {
+          "rank": 8,
+          "name": "run-llama/liteparse",
+          "url": "https://github.com/run-llama/liteparse",
+          "description": "A fast, helpful, and open-source document parser",
+          "language": "Rust",
+          "stars": 7669,
+          "forks": 457
+        },
+        {
+          "rank": 9,
+          "name": "galilai-group/stable-worldmodel",
+          "url": "https://github.com/galilai-group/stable-worldmodel",
+          "description": "A platform for reproducible world model research and evaluation",
+          "language": "Python",
+          "stars": 1370,
+          "forks": 160
+        },
+        {
+          "rank": 10,
+          "name": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+          "language": "N/A",
+          "stars": 50011,
+          "forks": 5219
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 71226,
+          "forks": 10240
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 131133,
+          "forks": 8986
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Python",
+          "stars": 128175,
+          "forks": 20932
+        },
+        {
+          "rank": 4,
+          "name": "galilai-group/stable-worldmodel",
+          "url": "https://github.com/galilai-group/stable-worldmodel",
+          "description": "A platform for reproducible world model research and evaluation",
+          "language": "Python",
+          "stars": 1370,
+          "forks": 160
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 143809,
+          "forks": 16955
+        },
+        {
+          "rank": 6,
+          "name": "dreammis/social-auto-upload",
+          "url": "https://github.com/dreammis/social-auto-upload",
+          "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+          "language": "Python",
+          "stars": 11647,
+          "forks": 2079
+        },
+        {
+          "rank": 7,
+          "name": "zakirkun/deep-eye",
+          "url": "https://github.com/zakirkun/deep-eye",
+          "description": "Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral,...",
+          "language": "Python",
+          "stars": 1592,
+          "forks": 297
+        },
+        {
+          "rank": 8,
+          "name": "GH05TCREW/pentestagent",
+          "url": "https://github.com/GH05TCREW/pentestagent",
+          "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-...",
+          "language": "Python",
+          "stars": 2506,
+          "forks": 496
+        },
+        {
+          "rank": 9,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 27523,
+          "forks": 4753
+        },
+        {
+          "rank": 10,
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR tool...",
+          "language": "Python",
+          "stars": 79034,
+          "forks": 10524
+        }
+      ]
+    }
+  ]
+}

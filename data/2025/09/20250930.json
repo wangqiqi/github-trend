@@ -1,0 +1,391 @@
+{
+  "date": "20250930",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99521,
+          "forks": 16243
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91230,
+          "forks": 11751
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 88858,
+          "forks": 24279
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 80294,
+          "forks": 4431
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 77512,
+          "forks": 8350
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 71634,
+          "forks": 5928
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70669,
+          "forks": 8291
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 69230,
+          "forks": 8190
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50094,
+          "forks": 8776
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 45337,
+          "forks": 5350
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28993,
+          "forks": 87269
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2485,
+          "forks": 84820
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 330359,
+          "forks": 80781
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173487,
+          "forks": 79168
+        },
+        {
+          "rank": 5,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2612,
+          "forks": 72644
+        },
+        {
+          "rank": 6,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 371011,
+          "forks": 64366
+        },
+        {
+          "rank": 7,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 84323,
+          "forks": 56312
+        },
+        {
+          "rank": 8,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 172858,
+          "forks": 54656
+        },
+        {
+          "rank": 9,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37278,
+          "forks": 54091
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 99451,
+          "forks": 52355
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 43039,
+          "forks": 6134
+        },
+        {
+          "rank": 2,
+          "name": "nextcloud/server",
+          "url": "https://github.com/nextcloud/server",
+          "description": "☁️ Nextcloud server, a safe home for all your data",
+          "language": "PHP",
+          "stars": 30960,
+          "forks": 4443
+        },
+        {
+          "rank": 3,
+          "name": "typst/typst",
+          "url": "https://github.com/typst/typst",
+          "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+          "language": "Rust",
+          "stars": 46282,
+          "forks": 1247
+        },
+        {
+          "rank": 4,
+          "name": "fastapi/fastapi",
+          "url": "https://github.com/fastapi/fastapi",
+          "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+          "language": "Python",
+          "stars": 90010,
+          "forks": 7964
+        },
+        {
+          "rank": 5,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance syste...",
+          "language": "Python",
+          "stars": 57838,
+          "forks": 10272
+        },
+        {
+          "rank": 6,
+          "name": "DevCaress/guia-entrevistas-de-programacion",
+          "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
+          "description": "",
+          "language": "N/A",
+          "stars": 6014,
+          "forks": 832
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-agent-sdk-python",
+          "url": "https://github.com/anthropics/claude-agent-sdk-python",
+          "description": "",
+          "language": "Python",
+          "stars": 1355,
+          "forks": 190
+        },
+        {
+          "rank": 8,
+          "name": "juliangarnier/anime",
+          "url": "https://github.com/juliangarnier/anime",
+          "description": "JavaScript animation engine",
+          "language": "JavaScript",
+          "stars": 64177,
+          "forks": 4292
+        },
+        {
+          "rank": 9,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 338931,
+          "forks": 42999
+        },
+        {
+          "rank": 10,
+          "name": "Done-0/fuck-u-code",
+          "url": "https://github.com/Done-0/fuck-u-code",
+          "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report ...",
+          "language": "Go",
+          "stars": 4428,
+          "forks": 220
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 43039,
+          "forks": 6134
+        },
+        {
+          "rank": 2,
+          "name": "fastapi/fastapi",
+          "url": "https://github.com/fastapi/fastapi",
+          "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+          "language": "Python",
+          "stars": 90010,
+          "forks": 7964
+        },
+        {
+          "rank": 3,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance syste...",
+          "language": "Python",
+          "stars": 57838,
+          "forks": 10272
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/claude-agent-sdk-python",
+          "url": "https://github.com/anthropics/claude-agent-sdk-python",
+          "description": "",
+          "language": "Python",
+          "stars": 1355,
+          "forks": 190
+        },
+        {
+          "rank": 5,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 78678,
+          "forks": 17789
+        },
+        {
+          "rank": 6,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 70814,
+          "forks": 9067
+        },
+        {
+          "rank": 7,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 28062,
+          "forks": 2475
+        },
+        {
+          "rank": 8,
+          "name": "jsvine/pdfplumber",
+          "url": "https://github.com/jsvine/pdfplumber",
+          "description": "Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily ext...",
+          "language": "Python",
+          "stars": 8698,
+          "forks": 794
+        },
+        {
+          "rank": 9,
+          "name": "Oros42/IMSI-catcher",
+          "url": "https://github.com/Oros42/IMSI-catcher",
+          "description": "This program show you IMSI numbers of cellphones around you.",
+          "language": "Python",
+          "stars": 3581,
+          "forks": 786
+        },
+        {
+          "rank": 10,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "language": "Python",
+          "stars": 45036,
+          "forks": 3733
+        }
+      ]
+    }
+  ]
+}

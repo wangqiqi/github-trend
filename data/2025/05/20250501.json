@@ -1,0 +1,391 @@
+{
+  "date": "20250501",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 88974,
+          "forks": 11500
+        },
+        {
+          "rank": 2,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 58676,
+          "forks": 6355
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 55480,
+          "forks": 2804
+        },
+        {
+          "rank": 4,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 46523,
+          "forks": 991
+        },
+        {
+          "rank": 5,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 45034,
+          "forks": 7734
+        },
+        {
+          "rank": 6,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 42322,
+          "forks": 4796
+        },
+        {
+          "rank": 7,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 41787,
+          "forks": 3809
+        },
+        {
+          "rank": 8,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (An...",
+          "language": "N/A",
+          "stars": 37635,
+          "forks": 11479
+        },
+        {
+          "rank": 9,
+          "name": "inkonchain/node",
+          "url": "https://github.com/inkonchain/node",
+          "description": "How to run an Ink Node",
+          "language": "Shell",
+          "stars": 36600,
+          "forks": 572
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36495,
+          "forks": 392
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28313,
+          "forks": 86514
+        },
+        {
+          "rank": 2,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 297612,
+          "forks": 49470
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77510,
+          "forks": 45612
+        },
+        {
+          "rank": 4,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37069
+        },
+        {
+          "rank": 5,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 105984,
+          "forks": 35727
+        },
+        {
+          "rank": 6,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 24217,
+          "forks": 32788
+        },
+        {
+          "rank": 7,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 66665,
+          "forks": 31761
+        },
+        {
+          "rank": 8,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 110904,
+          "forks": 31413
+        },
+        {
+          "rank": 9,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "language": "N/A",
+          "stars": 226233,
+          "forks": 29556
+        },
+        {
+          "rank": 10,
+          "name": "justjavac/free-programming-books-zh_CN",
+          "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+          "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+          "language": "N/A",
+          "stars": 113520,
+          "forks": 28301
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 55511,
+          "forks": 7958
+        },
+        {
+          "rank": 2,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpret...",
+          "language": "Python",
+          "stars": 7472,
+          "forks": 640
+        },
+        {
+          "rank": 3,
+          "name": "teableio/teable",
+          "url": "https://github.com/teableio/teable",
+          "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+          "language": "TypeScript",
+          "stars": 17842,
+          "forks": 871
+        },
+        {
+          "rank": 4,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 17122,
+          "forks": 2022
+        },
+        {
+          "rank": 5,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 165262,
+          "forks": 53654
+        },
+        {
+          "rank": 6,
+          "name": "simular-ai/Agent-S",
+          "url": "https://github.com/simular-ai/Agent-S",
+          "description": "Agent S: an open agentic framework that uses computers like a human",
+          "language": "Python",
+          "stars": 3666,
+          "forks": 363
+        },
+        {
+          "rank": 7,
+          "name": "QwenLM/Qwen3",
+          "url": "https://github.com/QwenLM/Qwen3",
+          "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+          "language": "Shell",
+          "stars": 19720,
+          "forks": 1294
+        },
+        {
+          "rank": 8,
+          "name": "louislam/uptime-kuma",
+          "url": "https://github.com/louislam/uptime-kuma",
+          "description": "A fancy self-hosted monitoring tool",
+          "language": "JavaScript",
+          "stars": 68264,
+          "forks": 6001
+        },
+        {
+          "rank": 9,
+          "name": "zed-industries/zed",
+          "url": "https://github.com/zed-industries/zed",
+          "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creato...",
+          "language": "Rust",
+          "stars": 57712,
+          "forks": 3983
+        },
+        {
+          "rank": 10,
+          "name": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "language": "Jupyter Notebook",
+          "stars": 8779,
+          "forks": 1471
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 55511,
+          "forks": 7958
+        },
+        {
+          "rank": 2,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpret...",
+          "language": "Python",
+          "stars": 7472,
+          "forks": 640
+        },
+        {
+          "rank": 3,
+          "name": "simular-ai/Agent-S",
+          "url": "https://github.com/simular-ai/Agent-S",
+          "description": "Agent S: an open agentic framework that uses computers like a human",
+          "language": "Python",
+          "stars": 3666,
+          "forks": 363
+        },
+        {
+          "rank": 4,
+          "name": "mlc-ai/mlc-llm",
+          "url": "https://github.com/mlc-ai/mlc-llm",
+          "description": "Universal LLM Deployment Engine with ML Compilation",
+          "language": "Python",
+          "stars": 20519,
+          "forks": 1714
+        },
+        {
+          "rank": 5,
+          "name": "meta-llama/PurpleLlama",
+          "url": "https://github.com/meta-llama/PurpleLlama",
+          "description": "Set of tools to assess and improve LLM security.",
+          "language": "Python",
+          "stars": 3147,
+          "forks": 530
+        },
+        {
+          "rank": 6,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance syste...",
+          "language": "Python",
+          "stars": 53237,
+          "forks": 9673
+        },
+        {
+          "rank": 7,
+          "name": "hiyouga/LLaMA-Factory",
+          "url": "https://github.com/hiyouga/LLaMA-Factory",
+          "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+          "language": "Python",
+          "stars": 48098,
+          "forks": 5871
+        },
+        {
+          "rank": 8,
+          "name": "aipotheosis-labs/aci",
+          "url": "https://github.com/aipotheosis-labs/aci",
+          "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with m...",
+          "language": "Python",
+          "stars": 770,
+          "forks": 56
+        },
+        {
+          "rank": 9,
+          "name": "sshuttle/sshuttle",
+          "url": "https://github.com/sshuttle/sshuttle",
+          "description": "Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin...",
+          "language": "Python",
+          "stars": 12252,
+          "forks": 760
+        },
+        {
+          "rank": 10,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https:/...",
+          "language": "Python",
+          "stars": 28311,
+          "forks": 2704
+        }
+      ]
+    }
+  ]
+}

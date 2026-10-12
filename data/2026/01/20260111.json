@@ -1,0 +1,391 @@
+{
+  "date": "20260111",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 107320,
+          "forks": 28234
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91687,
+          "forks": 11777
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 90471,
+          "forks": 10484
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 61606,
+          "forks": 5350
+        },
+        {
+          "rank": 5,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 60695,
+          "forks": 5208
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 55807,
+          "forks": 7180
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 52677,
+          "forks": 9262
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49556,
+          "forks": 5954
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44934,
+          "forks": 4468
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析...",
+          "language": "Python",
+          "stars": 42746,
+          "forks": 21404
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173904,
+          "forks": 79172
+        },
+        {
+          "rank": 2,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 380270,
+          "forks": 65732
+        },
+        {
+          "rank": 3,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37326,
+          "forks": 53923
+        },
+        {
+          "rank": 4,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 180997,
+          "forks": 46253
+        },
+        {
+          "rank": 5,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153405,
+          "forks": 46094
+        },
+        {
+          "rank": 6,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1568,
+          "forks": 44563
+        },
+        {
+          "rank": 7,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 119756,
+          "forks": 42169
+        },
+        {
+          "rank": 8,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 79638,
+          "forks": 41789
+        },
+        {
+          "rank": 9,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 59474,
+          "forks": 38894
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 180548,
+          "forks": 37321
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 60695,
+          "forks": 5208
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "Claude Code superpowers: core skills library",
+          "language": "Shell",
+          "stars": 16499,
+          "forks": 1298
+        },
+        {
+          "rank": 3,
+          "name": "frankbria/ralph-claude-code",
+          "url": "https://github.com/frankbria/ralph-claude-code",
+          "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+          "language": "Shell",
+          "stars": 1273,
+          "forks": 97
+        },
+        {
+          "rank": 4,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 15404,
+          "forks": 1340
+        },
+        {
+          "rank": 5,
+          "name": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project manageme...",
+          "language": "TypeScript",
+          "stars": 43306,
+          "forks": 3255
+        },
+        {
+          "rank": 6,
+          "name": "twitter/twemoji",
+          "url": "https://github.com/twitter/twemoji",
+          "description": "Emoji for everyone. https://twemoji.twitter.com/",
+          "language": "HTML",
+          "stars": 17389,
+          "forks": 1904
+        },
+        {
+          "rank": 7,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars": 22569,
+          "forks": 2184
+        },
+        {
+          "rank": 8,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "Building a modern alternative to Salesforce, powered by the community.",
+          "language": "TypeScript",
+          "stars": 38513,
+          "forks": 4904
+        },
+        {
+          "rank": 9,
+          "name": "home-assistant/home-assistant.io",
+          "url": "https://github.com/home-assistant/home-assistant.io",
+          "description": "📘 Home Assistant User documentation",
+          "language": "HTML",
+          "stars": 7785,
+          "forks": 8072
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 55014,
+          "forks": 3979
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 15404,
+          "forks": 1340
+        },
+        {
+          "rank": 2,
+          "name": "gyoridavid/ai_agents_az",
+          "url": "https://github.com/gyoridavid/ai_agents_az",
+          "description": "",
+          "language": "Python",
+          "stars": 2251,
+          "forks": 612
+        },
+        {
+          "rank": 3,
+          "name": "polarsource/polar",
+          "url": "https://github.com/polarsource/polar",
+          "description": "Turn your software into a business.",
+          "language": "Python",
+          "stars": 9163,
+          "forks": 633
+        },
+        {
+          "rank": 4,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 16693,
+          "forks": 1322
+        },
+        {
+          "rank": 5,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 77255,
+          "forks": 11293
+        },
+        {
+          "rank": 6,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI agents for penetration testing",
+          "language": "Python",
+          "stars": 18941,
+          "forks": 1968
+        },
+        {
+          "rank": 7,
+          "name": "networkx/networkx",
+          "url": "https://github.com/networkx/networkx",
+          "description": "Network Analysis in Python",
+          "language": "Python",
+          "stars": 16493,
+          "forks": 3450
+        },
+        {
+          "rank": 8,
+          "name": "open-mmlab/Amphion",
+          "url": "https://github.com/open-mmlab/Amphion",
+          "description": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to supp...",
+          "language": "Python",
+          "stars": 9630,
+          "forks": 785
+        },
+        {
+          "rank": 9,
+          "name": "city96/ComfyUI-GGUF",
+          "url": "https://github.com/city96/ComfyUI-GGUF",
+          "description": "GGUF Quantization support for native ComfyUI models",
+          "language": "Python",
+          "stars": 3100,
+          "forks": 239
+        },
+        {
+          "rank": 10,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A curated list of awesome commands, files, and workflows for Claude Code",
+          "language": "Python",
+          "stars": 19907,
+          "forks": 1126
+        }
+      ]
+    }
+  ]
+}

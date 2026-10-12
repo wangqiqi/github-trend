@@ -1,0 +1,199 @@
+{
+  "date": "20250909",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "emcie-co/parlant",
+          "url": "https://github.com/emcie-co/parlant",
+          "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+          "language": "Python",
+          "stars": 11021,
+          "forks": 879
+        },
+        {
+          "rank": 2,
+          "name": "Vector-Wangel/XLeRobot",
+          "url": "https://github.com/Vector-Wangel/XLeRobot",
+          "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
+          "language": "Python",
+          "stars": 2630,
+          "forks": 248
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSC...",
+          "language": "N/A",
+          "stars": 82283,
+          "forks": 22890
+        },
+        {
+          "rank": 4,
+          "name": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+          "language": "Java",
+          "stars": 66174,
+          "forks": 5620
+        },
+        {
+          "rank": 5,
+          "name": "vercel/examples",
+          "url": "https://github.com/vercel/examples",
+          "description": "Enjoy our curated collection of examples and solutions. Use these patterns to build your own robu...",
+          "language": "TypeScript",
+          "stars": 4131,
+          "forks": 1398
+        },
+        {
+          "rank": 6,
+          "name": "Cinnamon/kotaemon",
+          "url": "https://github.com/Cinnamon/kotaemon",
+          "description": "An open-source RAG-based tool for chatting with your documents.",
+          "language": "Python",
+          "stars": 23564,
+          "forks": 1922
+        },
+        {
+          "rank": 7,
+          "name": "pathwaycom/llm-app",
+          "url": "https://github.com/pathwaycom/llm-app",
+          "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker...",
+          "language": "Jupyter Notebook",
+          "stars": 37743,
+          "forks": 1022
+        },
+        {
+          "rank": 8,
+          "name": "hiroi-sora/Umi-OCR",
+          "url": "https://github.com/hiroi-sora/Umi-OCR",
+          "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
+          "language": "Python",
+          "stars": 36693,
+          "forks": 3631
+        },
+        {
+          "rank": 9,
+          "name": "11cafe/jaaz",
+          "url": "https://github.com/11cafe/jaaz",
+          "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Ma...",
+          "language": "TypeScript",
+          "stars": 3333,
+          "forks": 298
+        },
+        {
+          "rank": 10,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 40181,
+          "forks": 1217
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "emcie-co/parlant",
+          "url": "https://github.com/emcie-co/parlant",
+          "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+          "language": "Python",
+          "stars": 11021,
+          "forks": 879
+        },
+        {
+          "rank": 2,
+          "name": "Vector-Wangel/XLeRobot",
+          "url": "https://github.com/Vector-Wangel/XLeRobot",
+          "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
+          "language": "Python",
+          "stars": 2630,
+          "forks": 248
+        },
+        {
+          "rank": 3,
+          "name": "Cinnamon/kotaemon",
+          "url": "https://github.com/Cinnamon/kotaemon",
+          "description": "An open-source RAG-based tool for chatting with your documents.",
+          "language": "Python",
+          "stars": 23564,
+          "forks": 1922
+        },
+        {
+          "rank": 4,
+          "name": "hiroi-sora/Umi-OCR",
+          "url": "https://github.com/hiroi-sora/Umi-OCR",
+          "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
+          "language": "Python",
+          "stars": 36693,
+          "forks": 3631
+        },
+        {
+          "rank": 5,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 40181,
+          "forks": 1217
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/AutoAgent",
+          "url": "https://github.com/HKUDS/AutoAgent",
+          "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+          "language": "Python",
+          "stars": 6106,
+          "forks": 840
+        },
+        {
+          "rank": 7,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39932,
+          "forks": 7051
+        },
+        {
+          "rank": 8,
+          "name": "dataease/SQLBot",
+          "url": "https://github.com/dataease/SQLBot",
+          "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+          "language": "Python",
+          "stars": 1411,
+          "forks": 166
+        },
+        {
+          "rank": 9,
+          "name": "coleam00/local-ai-packaged",
+          "url": "https://github.com/coleam00/local-ai-packaged",
+          "description": "Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!",
+          "language": "Python",
+          "stars": 2842,
+          "forks": 1123
+        },
+        {
+          "rank": 10,
+          "name": "Physical-Intelligence/openpi",
+          "url": "https://github.com/Physical-Intelligence/openpi",
+          "description": "",
+          "language": "Python",
+          "stars": 4815,
+          "forks": 618
+        }
+      ]
+    }
+  ]
+}

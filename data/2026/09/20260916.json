@@ -1,0 +1,391 @@
+{
+  "date": "20260916",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 389845,
+          "forks": 81947
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 287522,
+          "forks": 25716
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 152819,
+          "forks": 24641
+        },
+        {
+          "rank": 4,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 140093,
+          "forks": 7524
+        },
+        {
+          "rank": 5,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 133308,
+          "forks": 19863
+        },
+        {
+          "rank": 6,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65%...",
+          "language": "Go",
+          "stars": 105928,
+          "forks": 6127
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 96103,
+          "forks": 13466
+        },
+        {
+          "rank": 8,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 80694,
+          "forks": 5111
+        },
+        {
+          "rank": 9,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 73747,
+          "forks": 11323
+        },
+        {
+          "rank": 10,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 68437,
+          "forks": 4183
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174817,
+          "forks": 78591
+        },
+        {
+          "rank": 2,
+          "name": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "description": "🎓 Path to a free self-taught education in Computer Science!",
+          "language": "HTML",
+          "stars": 209059,
+          "forks": 25869
+        },
+        {
+          "rank": 3,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 70698,
+          "forks": 24330
+        },
+        {
+          "rank": 4,
+          "name": "NixOS/nixpkgs",
+          "url": "https://github.com/NixOS/nixpkgs",
+          "description": "Nix Packages collection & NixOS",
+          "language": "Nix",
+          "stars": 26148,
+          "forks": 20110
+        },
+        {
+          "rank": 5,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19622
+        },
+        {
+          "rank": 6,
+          "name": "hakimel/reveal.js",
+          "url": "https://github.com/hakimel/reveal.js",
+          "description": "The HTML Presentation Framework",
+          "language": "JavaScript",
+          "stars": 72302,
+          "forks": 17026
+        },
+        {
+          "rank": 7,
+          "name": "Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "url": "https://github.com/Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "description": "⚡🦄Arbitrage between USDC/ETH 0.3% fee pool and USDC/ETH 0.05% fee pool",
+          "language": "JavaScript",
+          "stars": 11,
+          "forks": 15975
+        },
+        {
+          "rank": 8,
+          "name": "wesm/pydata-book",
+          "url": "https://github.com/wesm/pydata-book",
+          "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Re...",
+          "language": "Jupyter Notebook",
+          "stars": 24926,
+          "forks": 15689
+        },
+        {
+          "rank": 9,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14703
+        },
+        {
+          "rank": 10,
+          "name": "mrsmookie/btcrecover",
+          "url": "https://github.com/mrsmookie/btcrecover",
+          "description": "An open source Bitcoin wallet password and seed recovery tool designed for the case where you alr...",
+          "language": "Python",
+          "stars": 8,
+          "forks": 14460
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: determin...",
+          "language": "Go",
+          "stars": 30950,
+          "forks": 2212
+        },
+        {
+          "rank": 2,
+          "name": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readabl...",
+          "language": "JavaScript",
+          "stars": 6153,
+          "forks": 364
+        },
+        {
+          "rank": 3,
+          "name": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from di...",
+          "language": "C",
+          "stars": 34729,
+          "forks": 3638
+        },
+        {
+          "rank": 4,
+          "name": "abue-ammar/tinycast",
+          "url": "https://github.com/abue-ammar/tinycast",
+          "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+          "language": "Swift",
+          "stars": 5375,
+          "forks": 252
+        },
+        {
+          "rank": 5,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars": 54176,
+          "forks": 6778
+        },
+        {
+          "rank": 6,
+          "name": "Lakr233/vphone-cli",
+          "url": "https://github.com/Lakr233/vphone-cli",
+          "description": "",
+          "language": "Swift",
+          "stars": 13228,
+          "forks": 1582
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 24193,
+          "forks": 2918
+        },
+        {
+          "rank": 8,
+          "name": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+          "language": "TypeScript",
+          "stars": 7126,
+          "forks": 1079
+        },
+        {
+          "rank": 9,
+          "name": "ankitects/anki",
+          "url": "https://github.com/ankitects/anki",
+          "description": "Anki is a smart spaced repetition flashcard program",
+          "language": "Rust",
+          "stars": 30692,
+          "forks": 3206
+        },
+        {
+          "rank": 10,
+          "name": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "description": "Ghidra is a software reverse engineering (SRE) framework",
+          "language": "Java",
+          "stars": 77490,
+          "forks": 8564
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 24193,
+          "forks": 2918
+        },
+        {
+          "rank": 2,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars": 50483,
+          "forks": 4806
+        },
+        {
+          "rank": 3,
+          "name": "rlaope/oh-my-hermes",
+          "url": "https://github.com/rlaope/oh-my-hermes",
+          "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model...",
+          "language": "Python",
+          "stars": 2456,
+          "forks": 180
+        },
+        {
+          "rank": 4,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills syste...",
+          "language": "Python",
+          "stars": 5613,
+          "forks": 723
+        },
+        {
+          "rank": 5,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars": 9233,
+          "forks": 1000
+        },
+        {
+          "rank": 6,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 2889,
+          "forks": 302
+        },
+        {
+          "rank": 7,
+          "name": "meituan-longcat/LongCat-Video",
+          "url": "https://github.com/meituan-longcat/LongCat-Video",
+          "description": "",
+          "language": "Python",
+          "stars": 8181,
+          "forks": 1458
+        },
+        {
+          "rank": 8,
+          "name": "bobeff/open-source-games",
+          "url": "https://github.com/bobeff/open-source-games",
+          "description": "A list of open source games.",
+          "language": "Python",
+          "stars": 14426,
+          "forks": 1184
+        },
+        {
+          "rank": 9,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 73747,
+          "forks": 11323
+        },
+        {
+          "rank": 10,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 82388,
+          "forks": 7189
+        }
+      ]
+    }
+  ]
+}

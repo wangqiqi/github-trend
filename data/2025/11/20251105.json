@@ -1,0 +1,199 @@
+{
+  "date": "20251105",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 13945,
+          "forks": 2387
+        },
+        {
+          "rank": 2,
+          "name": "Skyvern-AI/skyvern",
+          "url": "https://github.com/Skyvern-AI/skyvern",
+          "description": "Automate browser-based workflows with LLMs and Computer Vision",
+          "language": "Python",
+          "stars": 15793,
+          "forks": 1342
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 9289,
+          "forks": 1262
+        },
+        {
+          "rank": 4,
+          "name": "nocobase/nocobase",
+          "url": "https://github.com/nocobase/nocobase",
+          "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applic...",
+          "language": "TypeScript",
+          "stars": 17707,
+          "forks": 2028
+        },
+        {
+          "rank": 5,
+          "name": "mudler/LocalAI",
+          "url": "https://github.com/mudler/LocalAI",
+          "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Dr...",
+          "language": "Go",
+          "stars": 37095,
+          "forks": 2930
+        },
+        {
+          "rank": 6,
+          "name": "sst/opentui",
+          "url": "https://github.com/sst/opentui",
+          "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+          "language": "TypeScript",
+          "stars": 4355,
+          "forks": 157
+        },
+        {
+          "rank": 7,
+          "name": "prometheus/alertmanager",
+          "url": "https://github.com/prometheus/alertmanager",
+          "description": "Prometheus Alertmanager",
+          "language": "Go",
+          "stars": 7300,
+          "forks": 2283
+        },
+        {
+          "rank": 8,
+          "name": "GopeedLab/gopeed",
+          "url": "https://github.com/GopeedLab/gopeed",
+          "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+          "language": "Dart",
+          "stars": 21059,
+          "forks": 1462
+        },
+        {
+          "rank": 9,
+          "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+          "description": "An evolving how-to guide for securing a Linux server.",
+          "language": "N/A",
+          "stars": 21076,
+          "forks": 1326
+        },
+        {
+          "rank": 10,
+          "name": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well ...",
+          "language": "PowerShell",
+          "stars": 31974,
+          "forks": 1253
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 13945,
+          "forks": 2387
+        },
+        {
+          "rank": 2,
+          "name": "Skyvern-AI/skyvern",
+          "url": "https://github.com/Skyvern-AI/skyvern",
+          "description": "Automate browser-based workflows with LLMs and Computer Vision",
+          "language": "Python",
+          "stars": 15793,
+          "forks": 1342
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 9289,
+          "forks": 1262
+        },
+        {
+          "rank": 4,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
+          "language": "Python",
+          "stars": 3503,
+          "forks": 263
+        },
+        {
+          "rank": 5,
+          "name": "coleam00/ottomator-agents",
+          "url": "https://github.com/coleam00/ottomator-agents",
+          "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+          "language": "Python",
+          "stars": 4689,
+          "forks": 1675
+        },
+        {
+          "rank": 6,
+          "name": "localstack/localstack",
+          "url": "https://github.com/localstack/localstack",
+          "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+          "language": "Python",
+          "stars": 61159,
+          "forks": 4290
+        },
+        {
+          "rank": 7,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 12702,
+          "forks": 1291
+        },
+        {
+          "rank": 8,
+          "name": "MODSetter/SurfSense",
+          "url": "https://github.com/MODSetter/SurfSense",
+          "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search ...",
+          "language": "Python",
+          "stars": 10364,
+          "forks": 816
+        },
+        {
+          "rank": 9,
+          "name": "sgl-project/sglang",
+          "url": "https://github.com/sgl-project/sglang",
+          "description": "SGLang is a fast serving framework for large language models and vision language models.",
+          "language": "Python",
+          "stars": 19722,
+          "forks": 3272
+        },
+        {
+          "rank": 10,
+          "name": "Vector-Wangel/XLeRobot",
+          "url": "https://github.com/Vector-Wangel/XLeRobot",
+          "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
+          "language": "Python",
+          "stars": 4027,
+          "forks": 401
+        }
+      ]
+    }
+  ]
+}

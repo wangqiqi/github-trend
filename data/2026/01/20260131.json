@@ -1,0 +1,391 @@
+{
+  "date": "20260131",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 126702,
+          "forks": 18048
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 112229,
+          "forks": 29233
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 93644,
+          "forks": 8695
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 93136,
+          "forks": 10912
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 66501,
+          "forks": 5739
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 62660,
+          "forks": 4697
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 59361,
+          "forks": 5801
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 58229,
+          "forks": 7577
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 53974,
+          "forks": 9484
+        },
+        {
+          "rank": 10,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 50661,
+          "forks": 6234
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52453,
+          "forks": 97228
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 336524,
+          "forks": 81615
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173972,
+          "forks": 79137
+        },
+        {
+          "rank": 4,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 215859,
+          "forks": 60217
+        },
+        {
+          "rank": 5,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8453,
+          "forks": 60192
+        },
+        {
+          "rank": 6,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 217345,
+          "forks": 50018
+        },
+        {
+          "rank": 7,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 436558,
+          "forks": 43262
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 524,
+          "forks": 32686
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 155975,
+          "forks": 31913
+        },
+        {
+          "rank": 10,
+          "name": "trekhleb/javascript-algorithms",
+          "url": "https://github.com/trekhleb/javascript-algorithms",
+          "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further...",
+          "language": "JavaScript",
+          "stars": 195448,
+          "forks": 31123
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 126702,
+          "forks": 18048
+        },
+        {
+          "rank": 2,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+          "language": "JavaScript",
+          "stars": 28869,
+          "forks": 4652
+        },
+        {
+          "rank": 3,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars": 5439,
+          "forks": 505
+        },
+        {
+          "rank": 4,
+          "name": "modelcontextprotocol/ext-apps",
+          "url": "https://github.com/modelcontextprotocol/ext-apps",
+          "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served...",
+          "language": "TypeScript",
+          "stars": 1102,
+          "forks": 135
+        },
+        {
+          "rank": 5,
+          "name": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+          "language": "Python",
+          "stars": 6626,
+          "forks": 451
+        },
+        {
+          "rank": 6,
+          "name": "hashicorp/vault",
+          "url": "https://github.com/hashicorp/vault",
+          "description": "A tool for secrets management, encryption as a service, and privileged access management",
+          "language": "Go",
+          "stars": 34886,
+          "forks": 4576
+        },
+        {
+          "rank": 7,
+          "name": "badlogic/pi-mono",
+          "url": "https://github.com/badlogic/pi-mono",
+          "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+          "language": "TypeScript",
+          "stars": 3864,
+          "forks": 449
+        },
+        {
+          "rank": 8,
+          "name": "anomalyco/opencode-anthropic-auth",
+          "url": "https://github.com/anomalyco/opencode-anthropic-auth",
+          "description": "",
+          "language": "JavaScript",
+          "stars": 390,
+          "forks": 58
+        },
+        {
+          "rank": 9,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars": 70600,
+          "forks": 16027
+        },
+        {
+          "rank": 10,
+          "name": "pedroslopez/whatsapp-web.js",
+          "url": "https://github.com/pedroslopez/whatsapp-web.js",
+          "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+          "language": "JavaScript",
+          "stars": 20918,
+          "forks": 4825
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars": 5439,
+          "forks": 505
+        },
+        {
+          "rank": 2,
+          "name": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+          "language": "Python",
+          "stars": 6626,
+          "forks": 451
+        },
+        {
+          "rank": 3,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 91361,
+          "forks": 13187
+        },
+        {
+          "rank": 4,
+          "name": "OpenPipe/ART",
+          "url": "https://github.com/OpenPipe/ART",
+          "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your a...",
+          "language": "Python",
+          "stars": 8484,
+          "forks": 700
+        },
+        {
+          "rank": 5,
+          "name": "ostris/ai-toolkit",
+          "url": "https://github.com/ostris/ai-toolkit",
+          "description": "The ultimate training toolkit for finetuning diffusion models",
+          "language": "Python",
+          "stars": 9259,
+          "forks": 1083
+        },
+        {
+          "rank": 6,
+          "name": "GetStream/Vision-Agents",
+          "url": "https://github.com/GetStream/Vision-Agents",
+          "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses ...",
+          "language": "Python",
+          "stars": 4675,
+          "forks": 410
+        },
+        {
+          "rank": 7,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run frontier AI locally.",
+          "language": "Python",
+          "stars": 40838,
+          "forks": 2758
+        },
+        {
+          "rank": 8,
+          "name": "Epodonios/v2ray-configs",
+          "url": "https://github.com/Epodonios/v2ray-configs",
+          "description": "Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes",
+          "language": "Python",
+          "stars": 2407,
+          "forks": 344
+        },
+        {
+          "rank": 9,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars": 4701,
+          "forks": 530
+        },
+        {
+          "rank": 10,
+          "name": "huggingface/lerobot",
+          "url": "https://github.com/huggingface/lerobot",
+          "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+          "language": "Python",
+          "stars": 21316,
+          "forks": 3639
+        }
+      ]
+    }
+  ]
+}

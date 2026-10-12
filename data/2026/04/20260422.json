@@ -1,0 +1,391 @@
+{
+  "date": "20260422",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 74744,
+          "forks": 6930
+        },
+        {
+          "rank": 2,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 55549,
+          "forks": 5966
+        },
+        {
+          "rank": 3,
+          "name": "sickn33/antigravity-awesome-skills",
+          "url": "https://github.com/sickn33/antigravity-awesome-skills",
+          "description": "Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CL...",
+          "language": "Python",
+          "stars": 34523,
+          "forks": 5705
+        },
+        {
+          "rank": 4,
+          "name": "vercel-labs/agent-skills",
+          "url": "https://github.com/vercel-labs/agent-skills",
+          "description": "Vercel's official collection of agent skills",
+          "language": "JavaScript",
+          "stars": 25514,
+          "forks": 2313
+        },
+        {
+          "rank": 5,
+          "name": "iOfficeAI/AionUi",
+          "url": "https://github.com/iOfficeAI/AionUi",
+          "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCod...",
+          "language": "TypeScript",
+          "stars": 22371,
+          "forks": 1890
+        },
+        {
+          "rank": 6,
+          "name": "openai/gpt-oss",
+          "url": "https://github.com/openai/gpt-oss",
+          "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+          "language": "Python",
+          "stars": 20032,
+          "forks": 2063
+        },
+        {
+          "rank": 7,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 19177,
+          "forks": 2144
+        },
+        {
+          "rank": 8,
+          "name": "opendataloader-project/opendataloader-pdf",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+          "language": "Java",
+          "stars": 18951,
+          "forks": 1698
+        },
+        {
+          "rank": 9,
+          "name": "google-gemini/gemini-fullstack-langgraph-quickstart",
+          "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+          "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+          "language": "Jupyter Notebook",
+          "stars": 18111,
+          "forks": 3072
+        },
+        {
+          "rank": 10,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 18019,
+          "forks": 1578
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 168,
+          "forks": 19872
+        },
+        {
+          "rank": 2,
+          "name": "mrsmookie/btcrecover",
+          "url": "https://github.com/mrsmookie/btcrecover",
+          "description": "An open source Bitcoin wallet password and seed recovery tool designed for the case where you alr...",
+          "language": "Python",
+          "stars": 2,
+          "forks": 14458
+        },
+        {
+          "rank": 3,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 3,
+          "forks": 13902
+        },
+        {
+          "rank": 4,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 137,
+          "forks": 13829
+        },
+        {
+          "rank": 5,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9777
+        },
+        {
+          "rank": 6,
+          "name": "aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "url": "https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "description": "Sample web application for the AWS DevOps Engineer Learning Path.",
+          "language": "JavaScript",
+          "stars": 106,
+          "forks": 9355
+        },
+        {
+          "rank": 7,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8951
+        },
+        {
+          "rank": 8,
+          "name": "CrunchyData/postgres-operator-examples",
+          "url": "https://github.com/CrunchyData/postgres-operator-examples",
+          "description": "Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data",
+          "language": "Go Template",
+          "stars": 226,
+          "forks": 6491
+        },
+        {
+          "rank": 9,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 13,
+          "forks": 6631
+        },
+        {
+          "rank": 10,
+          "name": "jenkins-docs/simple-python-pyinstaller-app",
+          "url": "https://github.com/jenkins-docs/simple-python-pyinstaller-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Python application with PyIn...",
+          "language": "Python",
+          "stars": 100,
+          "forks": 6154
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "zilliztech/claude-context",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "language": "TypeScript",
+          "stars": 7122,
+          "forks": 594
+        },
+        {
+          "rank": 2,
+          "name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment re...",
+          "language": "Python",
+          "stars": 12608,
+          "forks": 1654
+        },
+        {
+          "rank": 3,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 51132,
+          "forks": 8259
+        },
+        {
+          "rank": 4,
+          "name": "langfuse/langfuse",
+          "url": "https://github.com/langfuse/langfuse",
+          "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, pla...",
+          "language": "TypeScript",
+          "stars": 25394,
+          "forks": 2576
+        },
+        {
+          "rank": 5,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes ...",
+          "language": "TypeScript",
+          "stars": 39268,
+          "forks": 4335
+        },
+        {
+          "rank": 6,
+          "name": "open-metadata/OpenMetadata",
+          "url": "https://github.com/open-metadata/OpenMetadata",
+          "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data gove...",
+          "language": "TypeScript",
+          "stars": 11907,
+          "forks": 1971
+        },
+        {
+          "rank": 7,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital...",
+          "language": "Rust",
+          "stars": 49201,
+          "forks": 6538
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "language": "Python",
+          "stars": 17304,
+          "forks": 2037
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 54199,
+          "forks": 23628
+        },
+        {
+          "rank": 10,
+          "name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 5215,
+          "forks": 857
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment re...",
+          "language": "Python",
+          "stars": 12608,
+          "forks": 1654
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "language": "Python",
+          "stars": 17304,
+          "forks": 2037
+        },
+        {
+          "rank": 3,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 54199,
+          "forks": 23628
+        },
+        {
+          "rank": 4,
+          "name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 5215,
+          "forks": 857
+        },
+        {
+          "rank": 5,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars": 59091,
+          "forks": 6668
+        },
+        {
+          "rank": 6,
+          "name": "kyegomez/swarms",
+          "url": "https://github.com/kyegomez/swarms",
+          "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarm...",
+          "language": "Python",
+          "stars": 6439,
+          "forks": 838
+        },
+        {
+          "rank": 7,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 39749,
+          "forks": 2569
+        },
+        {
+          "rank": 8,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "language": "Python",
+          "stars": 2114,
+          "forks": 404
+        },
+        {
+          "rank": 9,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 24922,
+          "forks": 2464
+        },
+        {
+          "rank": 10,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 133293,
+          "forks": 18909
+        }
+      ]
+    }
+  ]
+}

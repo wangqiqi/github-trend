@@ -1,0 +1,391 @@
+{
+  "date": "20260313",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 309830,
+          "forks": 58814
+        },
+        {
+          "rank": 2,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 121389,
+          "forks": 12572
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 97526,
+          "forks": 12209
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 81164,
+          "forks": 6296
+        },
+        {
+          "rank": 5,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 74292,
+          "forks": 9290
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 65038,
+          "forks": 8681
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 52866,
+          "forks": 6816
+        },
+        {
+          "rank": 8,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 48852,
+          "forks": 2307
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 48831,
+          "forks": 22622
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 47739,
+          "forks": 6270
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29455,
+          "forks": 87500
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 173024,
+          "forks": 82770
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 337835,
+          "forks": 81628
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174069,
+          "forks": 79058
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 194185,
+          "forks": 75245
+        },
+        {
+          "rank": 6,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2702,
+          "forks": 72997
+        },
+        {
+          "rank": 7,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19096,
+          "forks": 66319
+        },
+        {
+          "rank": 8,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 222575,
+          "forks": 60959
+        },
+        {
+          "rank": 9,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87470,
+          "forks": 60210
+        },
+        {
+          "rank": 10,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 309830,
+          "forks": 58814
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 33275,
+          "forks": 2804
+        },
+        {
+          "rank": 2,
+          "name": "langflow-ai/openrag",
+          "url": "https://github.com/langflow-ai/openrag",
+          "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langf...",
+          "language": "Python",
+          "stars": 1947,
+          "forks": 186
+        },
+        {
+          "rank": 3,
+          "name": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "description": "Lightpanda: the headless browser designed for AI and automation",
+          "language": "Zig",
+          "stars": 14377,
+          "forks": 491
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 81164,
+          "forks": 6296
+        },
+        {
+          "rank": 5,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 408886,
+          "forks": 44155
+        },
+        {
+          "rank": 6,
+          "name": "promptfoo/promptfoo",
+          "url": "https://github.com/promptfoo/promptfoo",
+          "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compar...",
+          "language": "TypeScript",
+          "stars": 14587,
+          "forks": 1319
+        },
+        {
+          "rank": 7,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 37934,
+          "forks": 5703
+        },
+        {
+          "rank": 8,
+          "name": "dolthub/dolt",
+          "url": "https://github.com/dolthub/dolt",
+          "description": "Dolt – Git for Data",
+          "language": "Go",
+          "stars": 20859,
+          "forks": 665
+        },
+        {
+          "rank": 9,
+          "name": "google/A2UI",
+          "url": "https://github.com/google/A2UI",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 12905,
+          "forks": 971
+        },
+        {
+          "rank": 10,
+          "name": "fishaudio/fish-speech",
+          "url": "https://github.com/fishaudio/fish-speech",
+          "description": "SOTA Open Source TTS",
+          "language": "Python",
+          "stars": 26664,
+          "forks": 2237
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 33275,
+          "forks": 2804
+        },
+        {
+          "rank": 2,
+          "name": "langflow-ai/openrag",
+          "url": "https://github.com/langflow-ai/openrag",
+          "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langf...",
+          "language": "Python",
+          "stars": 1947,
+          "forks": 186
+        },
+        {
+          "rank": 3,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 408886,
+          "forks": 44155
+        },
+        {
+          "rank": 4,
+          "name": "fishaudio/fish-speech",
+          "url": "https://github.com/fishaudio/fish-speech",
+          "description": "SOTA Open Source TTS",
+          "language": "Python",
+          "stars": 26664,
+          "forks": 2237
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 10580,
+          "forks": 1062
+        },
+        {
+          "rank": 6,
+          "name": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feat...",
+          "language": "Python",
+          "stars": 23467,
+          "forks": 1606
+        },
+        {
+          "rank": 7,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 3378,
+          "forks": 241
+        },
+        {
+          "rank": 8,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 12539,
+          "forks": 1286
+        },
+        {
+          "rank": 9,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 6533,
+          "forks": 725
+        },
+        {
+          "rank": 10,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 20727,
+          "forks": 2238
+        }
+      ]
+    }
+  ]
+}

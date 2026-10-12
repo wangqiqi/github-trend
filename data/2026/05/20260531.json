@@ -1,0 +1,391 @@
+{
+  "date": "20260531",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 375795,
+          "forks": 78454
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 213388,
+          "forks": 19007
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 199848,
+          "forks": 30677
+        },
+        {
+          "rank": 4,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 163017,
+          "forks": 16699
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 107284,
+          "forks": 9494
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 106292,
+          "forks": 17525
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 84282,
+          "forks": 12240
+        },
+        {
+          "rank": 8,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "TypeScript",
+          "stars": 79840,
+          "forks": 6874
+        },
+        {
+          "rank": 9,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 69263,
+          "forks": 9246
+        },
+        {
+          "rank": 10,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "Python",
+          "stars": 63809,
+          "forks": 10438
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 192972,
+          "forks": 109975
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29577,
+          "forks": 87355
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195323,
+          "forks": 75330
+        },
+        {
+          "rank": 4,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 351113,
+          "forks": 56491
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77663,
+          "forks": 45060
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 185591,
+          "forks": 40261
+        },
+        {
+          "rank": 7,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system...",
+          "language": "Python",
+          "stars": 39586,
+          "forks": 38210
+        },
+        {
+          "rank": 8,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1178,
+          "forks": 37624
+        },
+        {
+          "rank": 9,
+          "name": "anuraghazra/github-readme-stats",
+          "url": "https://github.com/anuraghazra/github-readme-stats",
+          "description": ":zap: Dynamically generated stats for your github readmes",
+          "language": "JavaScript",
+          "stars": 79552,
+          "forks": 33871
+        },
+        {
+          "rank": 10,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184473,
+          "forks": 33550
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 73140,
+          "forks": 10444
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 133908,
+          "forks": 9153
+        },
+        {
+          "rank": 3,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-sca...",
+          "language": "Python",
+          "stars": 56116,
+          "forks": 5437
+        },
+        {
+          "rank": 4,
+          "name": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+          "language": "Python",
+          "stars": 9607,
+          "forks": 1327
+        },
+        {
+          "rank": 5,
+          "name": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+          "language": "TypeScript",
+          "stars": 18554,
+          "forks": 1403
+        },
+        {
+          "rank": 6,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19603,
+          "forks": 67275
+        },
+        {
+          "rank": 7,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 23136,
+          "forks": 2700
+        },
+        {
+          "rank": 8,
+          "name": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates ...",
+          "language": "HTML",
+          "stars": 4446,
+          "forks": 635
+        },
+        {
+          "rank": 9,
+          "name": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+          "language": "Jupyter Notebook",
+          "stars": 2596,
+          "forks": 402
+        },
+        {
+          "rank": 10,
+          "name": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "language": "TypeScript",
+          "stars": 23073,
+          "forks": 2088
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 73140,
+          "forks": 10444
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 133908,
+          "forks": 9153
+        },
+        {
+          "rank": 3,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-sca...",
+          "language": "Python",
+          "stars": 56116,
+          "forks": 5437
+        },
+        {
+          "rank": 4,
+          "name": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+          "language": "Python",
+          "stars": 9607,
+          "forks": 1327
+        },
+        {
+          "rank": 5,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 23136,
+          "forks": 2700
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Python",
+          "stars": 128646,
+          "forks": 20972
+        },
+        {
+          "rank": 7,
+          "name": "emmabostian/developer-portfolios",
+          "url": "https://github.com/emmabostian/developer-portfolios",
+          "description": "A list of developer portfolios for your inspiration",
+          "language": "Python",
+          "stars": 23164,
+          "forks": 4596
+        },
+        {
+          "rank": 8,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 27711,
+          "forks": 4789
+        },
+        {
+          "rank": 9,
+          "name": "galilai-group/stable-worldmodel",
+          "url": "https://github.com/galilai-group/stable-worldmodel",
+          "description": "A platform for reproducible world model research and evaluation",
+          "language": "Python",
+          "stars": 1541,
+          "forks": 172
+        },
+        {
+          "rank": 10,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 115101,
+          "forks": 13455
+        }
+      ]
+    }
+  ]
+}

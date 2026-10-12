@@ -1,0 +1,382 @@
+{
+  "date": "20251225",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100836,
+          "forks": 16426
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91603,
+          "forks": 11770
+        },
+        {
+          "rank": 3,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 54661,
+          "forks": 6954
+        },
+        {
+          "rank": 4,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51450,
+          "forks": 8978
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 48483,
+          "forks": 3414
+        },
+        {
+          "rank": 6,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48396,
+          "forks": 5611
+        },
+        {
+          "rank": 7,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 42159,
+          "forks": 3603
+        },
+        {
+          "rank": 8,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+...",
+          "language": "Python",
+          "stars": 40391,
+          "forks": 20887
+        },
+        {
+          "rank": 9,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 40047,
+          "forks": 1978
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 27002,
+          "forks": 2477
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 51834,
+          "forks": 95697
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29237,
+          "forks": 87423
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2538,
+          "forks": 87171
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 171449,
+          "forks": 82969
+        },
+        {
+          "rank": 5,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 335248,
+          "forks": 81517
+        },
+        {
+          "rank": 6,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173851,
+          "forks": 79173
+        },
+        {
+          "rank": 7,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8397,
+          "forks": 59976
+        },
+        {
+          "rank": 8,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85452,
+          "forks": 56432
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 104200,
+          "forks": 55465
+        },
+        {
+          "rank": 10,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 164689,
+          "forks": 52583
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rendercv/rendercv",
+          "url": "https://github.com/rendercv/rendercv",
+          "description": "Typst-based CV/resume generator for academics and engineers, YAML to PDF",
+          "language": "Python",
+          "stars": 9914,
+          "forks": 678
+        },
+        {
+          "rank": 2,
+          "name": "xerrors/Yuxi-Know",
+          "url": "https://github.com/xerrors/Yuxi-Know",
+          "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowled...",
+          "language": "Python",
+          "stars": 3071,
+          "forks": 379
+        },
+        {
+          "rank": 3,
+          "name": "twitter/the-algorithm",
+          "url": "https://github.com/twitter/the-algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "stars": 68678,
+          "forks": 12709
+        },
+        {
+          "rank": 4,
+          "name": "vendure-ecommerce/vendure",
+          "url": "https://github.com/vendure-ecommerce/vendure",
+          "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
+          "language": "TypeScript",
+          "stars": 7480,
+          "forks": 1273
+        },
+        {
+          "rank": 5,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 5935,
+          "forks": 591
+        },
+        {
+          "rank": 6,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 17499,
+          "forks": 2346
+        },
+        {
+          "rank": 7,
+          "name": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues,...",
+          "language": "TypeScript",
+          "stars": 41568,
+          "forks": 3066
+        },
+        {
+          "rank": 8,
+          "name": "vllm-project/vllm-omni",
+          "url": "https://github.com/vllm-project/vllm-omni",
+          "description": "A framework for efficient model inference with omni-modality models",
+          "language": "Python",
+          "stars": 1630,
+          "forks": 207
+        },
+        {
+          "rank": 9,
+          "name": "ModelTC/LightX2V",
+          "url": "https://github.com/ModelTC/LightX2V",
+          "description": "Light Video Generation Inference Framework",
+          "language": "Python",
+          "stars": 1347,
+          "forks": 91
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rendercv/rendercv",
+          "url": "https://github.com/rendercv/rendercv",
+          "description": "Typst-based CV/resume generator for academics and engineers, YAML to PDF",
+          "language": "Python",
+          "stars": 9914,
+          "forks": 678
+        },
+        {
+          "rank": 2,
+          "name": "xerrors/Yuxi-Know",
+          "url": "https://github.com/xerrors/Yuxi-Know",
+          "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowled...",
+          "language": "Python",
+          "stars": 3071,
+          "forks": 379
+        },
+        {
+          "rank": 3,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 5935,
+          "forks": 591
+        },
+        {
+          "rank": 4,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 17499,
+          "forks": 2346
+        },
+        {
+          "rank": 5,
+          "name": "vllm-project/vllm-omni",
+          "url": "https://github.com/vllm-project/vllm-omni",
+          "description": "A framework for efficient model inference with omni-modality models",
+          "language": "Python",
+          "stars": 1630,
+          "forks": 207
+        },
+        {
+          "rank": 6,
+          "name": "ModelTC/LightX2V",
+          "url": "https://github.com/ModelTC/LightX2V",
+          "description": "Light Video Generation Inference Framework",
+          "language": "Python",
+          "stars": 1347,
+          "forks": 91
+        },
+        {
+          "rank": 7,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 13723,
+          "forks": 1190
+        },
+        {
+          "rank": 8,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 51070,
+          "forks": 1474
+        },
+        {
+          "rank": 9,
+          "name": "safety-research/bloom",
+          "url": "https://github.com/safety-research/bloom",
+          "description": "bloom - evaluate any behavior immediately  🌸🌱",
+          "language": "Python",
+          "stars": 831,
+          "forks": 98
+        },
+        {
+          "rank": 10,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 139435,
+          "forks": 11270
+        }
+      ]
+    }
+  ]
+}

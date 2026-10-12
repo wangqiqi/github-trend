@@ -1,0 +1,391 @@
+{
+  "date": "20260807",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 385447,
+          "forks": 81021
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 238456,
+          "forks": 36209
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 200435,
+          "forks": 20610
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195004,
+          "forks": 109268
+        },
+        {
+          "rank": 5,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 126736,
+          "forks": 19056
+        },
+        {
+          "rank": 6,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 97937,
+          "forks": 5381
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 93363,
+          "forks": 13265
+        },
+        {
+          "rank": 8,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 89954,
+          "forks": 7828
+        },
+        {
+          "rank": 9,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "language": "TypeScript",
+          "stars": 85129,
+          "forks": 10551
+        },
+        {
+          "rank": 10,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent bec...",
+          "language": "TypeScript",
+          "stars": 84317,
+          "forks": 9819
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 55395,
+          "forks": 107390
+        },
+        {
+          "rank": 2,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37334,
+          "forks": 53339
+        },
+        {
+          "rank": 3,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42472
+        },
+        {
+          "rank": 4,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19685
+        },
+        {
+          "rank": 5,
+          "name": "udacity/course-collaboration-travel-plans",
+          "url": "https://github.com/udacity/course-collaboration-travel-plans",
+          "description": "No description",
+          "language": "CSS",
+          "stars": 1184,
+          "forks": 17420
+        },
+        {
+          "rank": 6,
+          "name": "electron/electron",
+          "url": "https://github.com/electron/electron",
+          "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+          "language": "C++",
+          "stars": 122383,
+          "forks": 17385
+        },
+        {
+          "rank": 7,
+          "name": "Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "url": "https://github.com/Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "description": "⚡🦄Arbitrage between USDC/ETH 0.3% fee pool and USDC/ETH 0.05% fee pool",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 15975
+        },
+        {
+          "rank": 8,
+          "name": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Ru...",
+          "language": "Java",
+          "stars": 129246,
+          "forks": 15495
+        },
+        {
+          "rank": 9,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 124558,
+          "forks": 14746
+        },
+        {
+          "rank": 10,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14704
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "language": "TypeScript",
+          "stars": 5185,
+          "forks": 414
+        },
+        {
+          "rank": 2,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 83454,
+          "forks": 8929
+        },
+        {
+          "rank": 3,
+          "name": "cloudflare/computer",
+          "url": "https://github.com/cloudflare/computer",
+          "description": "Give your agent a computer 👾",
+          "language": "TypeScript",
+          "stars": 5238,
+          "forks": 265
+        },
+        {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 208141,
+          "forks": 17961
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 268496,
+          "forks": 23985
+        },
+        {
+          "rank": 6,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description": "The authentication glue you need.",
+          "language": "Python",
+          "stars": 23361,
+          "forks": 1784
+        },
+        {
+          "rank": 7,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 2177,
+          "forks": 295
+        },
+        {
+          "rank": 8,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 70275,
+          "forks": 10981
+        },
+        {
+          "rank": 9,
+          "name": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+          "language": "Go",
+          "stars": 7079,
+          "forks": 2157
+        },
+        {
+          "rank": 10,
+          "name": "jdx/mise",
+          "url": "https://github.com/jdx/mise",
+          "description": "dev tools, env vars, task runner",
+          "language": "Rust",
+          "stars": 31967,
+          "forks": 1325
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description": "The authentication glue you need.",
+          "language": "Python",
+          "stars": 23361,
+          "forks": 1784
+        },
+        {
+          "rank": 2,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 2177,
+          "forks": 295
+        },
+        {
+          "rank": 3,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 70275,
+          "forks": 10981
+        },
+        {
+          "rank": 4,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 186201,
+          "forks": 46055
+        },
+        {
+          "rank": 5,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars": 15993,
+          "forks": 1273
+        },
+        {
+          "rank": 6,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 124558,
+          "forks": 14746
+        },
+        {
+          "rank": 7,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 362186,
+          "forks": 57704
+        },
+        {
+          "rank": 8,
+          "name": "android/skills",
+          "url": "https://github.com/android/skills",
+          "description": "",
+          "language": "Python",
+          "stars": 6604,
+          "forks": 385
+        },
+        {
+          "rank": 9,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 29300,
+          "forks": 2690
+        },
+        {
+          "rank": 10,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Machine Learning Systems",
+          "language": "Python",
+          "stars": 27793,
+          "forks": 3494
+        }
+      ]
+    }
+  ]
+}

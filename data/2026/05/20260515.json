@@ -1,0 +1,391 @@
+{
+  "date": "20260515",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "antonmedv/textarea",
+          "url": "https://github.com/antonmedv/textarea",
+          "description": "A minimalist text editor that lives in URL",
+          "language": "HTML",
+          "stars": 2486,
+          "forks": 196
+        },
+        {
+          "rank": 2,
+          "name": "openai/openai-apps-sdk-examples",
+          "url": "https://github.com/openai/openai-apps-sdk-examples",
+          "description": "Example apps for the Apps SDK",
+          "language": "TypeScript",
+          "stars": 2236,
+          "forks": 505
+        },
+        {
+          "rank": 3,
+          "name": "TimmyOVO/deepseek-ocr.rs",
+          "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
+          "description": "Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR-1/2, PaddleOCR‑VL, DotsOCR) with DSQ quantization...",
+          "language": "Rust",
+          "stars": 2160,
+          "forks": 168
+        },
+        {
+          "rank": 4,
+          "name": "nimbusdotstorage/Nimbus",
+          "url": "https://github.com/nimbusdotstorage/Nimbus",
+          "description": "The future of file storage",
+          "language": "TypeScript",
+          "stars": 1974,
+          "forks": 139
+        },
+        {
+          "rank": 5,
+          "name": "DGoettlich/history-llms",
+          "url": "https://github.com/DGoettlich/history-llms",
+          "description": "Information hub for our project training the largest possible historical LLMs.",
+          "language": "N/A",
+          "stars": 1757,
+          "forks": 35
+        },
+        {
+          "rank": 6,
+          "name": "leochlon/hallbayes",
+          "url": "https://github.com/leochlon/hallbayes",
+          "description": "No description",
+          "language": "Python",
+          "stars": 1665,
+          "forks": 160
+        },
+        {
+          "rank": 7,
+          "name": "BeaconBay/ck",
+          "url": "https://github.com/BeaconBay/ck",
+          "description": "Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!",
+          "language": "Rust",
+          "stars": 1589,
+          "forks": 68
+        },
+        {
+          "rank": 8,
+          "name": "GWUDCAP/cc-sessions",
+          "url": "https://github.com/GWUDCAP/cc-sessions",
+          "description": "an opinionated approach to productive development with Claude Code",
+          "language": "JavaScript",
+          "stars": 1539,
+          "forks": 200
+        },
+        {
+          "rank": 9,
+          "name": "gaoxiang12/lightning-lm",
+          "url": "https://github.com/gaoxiang12/lightning-lm",
+          "description": "Lidar Localization and Mapping",
+          "language": "C++",
+          "stars": 1524,
+          "forks": 306
+        },
+        {
+          "rank": 10,
+          "name": "ShlkOfTheRa/scarab-osd",
+          "url": "https://github.com/ShlkOfTheRa/scarab-osd",
+          "description": "MWOSD - UAV HUD",
+          "language": "C",
+          "stars": 1490,
+          "forks": 0
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2634,
+          "forks": 90628
+        },
+        {
+          "rank": 2,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 187962,
+          "forks": 57642
+        },
+        {
+          "rank": 3,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1158,
+          "forks": 42102
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 184951,
+          "forks": 39864
+        },
+        {
+          "rank": 5,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 89095,
+          "forks": 38968
+        },
+        {
+          "rank": 6,
+          "name": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "description": "😎 Awesome lists about all kinds of interesting topics",
+          "language": "N/A",
+          "stars": 466596,
+          "forks": 34986
+        },
+        {
+          "rank": 7,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 72703,
+          "forks": 34601
+        },
+        {
+          "rank": 8,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184457,
+          "forks": 33564
+        },
+        {
+          "rank": 9,
+          "name": "iluwatar/java-design-patterns",
+          "url": "https://github.com/iluwatar/java-design-patterns",
+          "description": "Design patterns implemented in Java",
+          "language": "Java",
+          "stars": 93994,
+          "forks": 27372
+        },
+        {
+          "rank": 10,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 218,
+          "forks": 27277
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars": 8495,
+          "forks": 700
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 192287,
+          "forks": 17097
+        },
+        {
+          "rank": 3,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 22178,
+          "forks": 2402
+        },
+        {
+          "rank": 4,
+          "name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "language": "Swift",
+          "stars": 5711,
+          "forks": 562
+        },
+        {
+          "rank": 5,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 57005,
+          "forks": 7498
+        },
+        {
+          "rank": 6,
+          "name": "influxdata/telegraf",
+          "url": "https://github.com/influxdata/telegraf",
+          "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+          "language": "Go",
+          "stars": 17324,
+          "forks": 5799
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 134731,
+          "forks": 15896
+        },
+        {
+          "rank": 8,
+          "name": "czlonkowski/n8n-mcp",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "language": "TypeScript",
+          "stars": 20767,
+          "forks": 3391
+        },
+        {
+          "rank": 9,
+          "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video ...",
+          "language": "Python",
+          "stars": 1022,
+          "forks": 256
+        },
+        {
+          "rank": 10,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Rust",
+          "stars": 90481,
+          "forks": 4497
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 22178,
+          "forks": 2402
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 134731,
+          "forks": 15896
+        },
+        {
+          "rank": 3,
+          "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+          "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video ...",
+          "language": "Python",
+          "stars": 1022,
+          "forks": 256
+        },
+        {
+          "rank": 4,
+          "name": "joeseesun/qiaomu-anything-to-notebooklm",
+          "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+          "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages,...",
+          "language": "Python",
+          "stars": 2442,
+          "forks": 257
+        },
+        {
+          "rank": 5,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 82363,
+          "forks": 19395
+        },
+        {
+          "rank": 6,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source...",
+          "language": "Python",
+          "stars": 11582,
+          "forks": 869
+        },
+        {
+          "rank": 7,
+          "name": "CodeBoarding/CodeBoarding",
+          "url": "https://github.com/CodeBoarding/CodeBoarding",
+          "description": "Interactive architecture diagrams for codebases",
+          "language": "Python",
+          "stars": 1587,
+          "forks": 143
+        },
+        {
+          "rank": 8,
+          "name": "nikopueringer/CorridorKey",
+          "url": "https://github.com/nikopueringer/CorridorKey",
+          "description": "Perfect Green Screen Keys",
+          "language": "Python",
+          "stars": 13390,
+          "forks": 818
+        },
+        {
+          "rank": 9,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 99973,
+          "forks": 8710
+        },
+        {
+          "rank": 10,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 25022,
+          "forks": 4370
+        }
+      ]
+    }
+  ]
+}

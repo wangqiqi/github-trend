@@ -1,0 +1,391 @@
+{
+  "date": "20260322",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 127736,
+          "forks": 13496
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 104222,
+          "forks": 8373
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 99655,
+          "forks": 10843
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 96058,
+          "forks": 12548
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 79666,
+          "forks": 6744
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 66839,
+          "forks": 8932
+        },
+        {
+          "rank": 7,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 58953,
+          "forks": 8809
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 53116,
+          "forks": 6881
+        },
+        {
+          "rank": 9,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 50102,
+          "forks": 2370
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 49530,
+          "forks": 22754
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1168,
+          "forks": 36159
+        },
+        {
+          "rank": 2,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 98063,
+          "forks": 32696
+        },
+        {
+          "rank": 3,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 13266,
+          "forks": 27048
+        },
+        {
+          "rank": 4,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 76398,
+          "forks": 25825
+        },
+        {
+          "rank": 5,
+          "name": "laravel/laravel",
+          "url": "https://github.com/laravel/laravel",
+          "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the fo...",
+          "language": "Blade",
+          "stars": 84038,
+          "forks": 24690
+        },
+        {
+          "rank": 6,
+          "name": "d3/d3",
+          "url": "https://github.com/d3/d3",
+          "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+          "language": "Shell",
+          "stars": 112580,
+          "forks": 22787
+        },
+        {
+          "rank": 7,
+          "name": "langgenius/dify",
+          "url": "https://github.com/langgenius/dify",
+          "description": "Production-ready platform for agentic workflow development.",
+          "language": "TypeScript",
+          "stars": 133920,
+          "forks": 20857
+        },
+        {
+          "rank": 8,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 168,
+          "forks": 19942
+        },
+        {
+          "rank": 9,
+          "name": "coolsnowwolf/lede",
+          "url": "https://github.com/coolsnowwolf/lede",
+          "description": "Lean's LEDE source",
+          "language": "C",
+          "stars": 31387,
+          "forks": 19449
+        },
+        {
+          "rank": 10,
+          "name": "doocs/advanced-java",
+          "url": "https://github.com/doocs/advanced-java",
+          "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识...",
+          "language": "Java",
+          "stars": 78904,
+          "forks": 19266
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 18580,
+          "forks": 1970
+        },
+        {
+          "rank": 2,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 36028,
+          "forks": 6867
+        },
+        {
+          "rank": 3,
+          "name": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "language": "Go",
+          "stars": 11354,
+          "forks": 1424
+        },
+        {
+          "rank": 4,
+          "name": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description": "",
+          "language": "Python",
+          "stars": 4552,
+          "forks": 1156
+        },
+        {
+          "rank": 5,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 96058,
+          "forks": 12548
+        },
+        {
+          "rank": 6,
+          "name": "jarrodwatts/claude-hud",
+          "url": "https://github.com/jarrodwatts/claude-hud",
+          "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, a...",
+          "language": "JavaScript",
+          "stars": 10855,
+          "forks": 461
+        },
+        {
+          "rank": 7,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, kno...",
+          "language": "TypeScript",
+          "stars": 7782,
+          "forks": 740
+        },
+        {
+          "rank": 8,
+          "name": "systemd/systemd",
+          "url": "https://github.com/systemd/systemd",
+          "description": "The systemd System and Service Manager",
+          "language": "C",
+          "stars": 15863,
+          "forks": 4363
+        },
+        {
+          "rank": 9,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 82087,
+          "forks": 9648
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 29899,
+          "forks": 4295
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 18580,
+          "forks": 1970
+        },
+        {
+          "rank": 2,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 36028,
+          "forks": 6867
+        },
+        {
+          "rank": 3,
+          "name": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description": "",
+          "language": "Python",
+          "stars": 4552,
+          "forks": 1156
+        },
+        {
+          "rank": 4,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 82087,
+          "forks": 9648
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 29899,
+          "forks": 4295
+        },
+        {
+          "rank": 6,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 19520,
+          "forks": 4162
+        },
+        {
+          "rank": 7,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes...",
+          "language": "Python",
+          "stars": 33875,
+          "forks": 4105
+        },
+        {
+          "rank": 8,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 50664,
+          "forks": 7223
+        },
+        {
+          "rank": 9,
+          "name": "teng-lin/notebooklm-py",
+          "url": "https://github.com/teng-lin/notebooklm-py",
+          "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to Notebo...",
+          "language": "Python",
+          "stars": 6845,
+          "forks": 874
+        },
+        {
+          "rank": 10,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 85559,
+          "forks": 37035
+        }
+      ]
+    }
+  ]
+}

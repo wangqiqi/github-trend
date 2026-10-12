@@ -1,0 +1,382 @@
+{
+  "date": "20260328",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 339090,
+          "forks": 66723
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 119701,
+          "forks": 9698
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 113644,
+          "forks": 14791
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 99319,
+          "forks": 12687
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 83094,
+          "forks": 7108
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 68089,
+          "forks": 9127
+        },
+        {
+          "rank": 7,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 64650,
+          "forks": 9754
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 58982,
+          "forks": 8176
+        },
+        {
+          "rank": 9,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 53294,
+          "forks": 6924
+        },
+        {
+          "rank": 10,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 53170,
+          "forks": 6864
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87598,
+          "forks": 60031
+        },
+        {
+          "rank": 2,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97774,
+          "forks": 54580
+        },
+        {
+          "rank": 3,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1153,
+          "forks": 42184
+        },
+        {
+          "rank": 4,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 98608,
+          "forks": 27330
+        },
+        {
+          "rank": 5,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 10474,
+          "forks": 25229
+        },
+        {
+          "rank": 6,
+          "name": "springframeworkguru/spring5webapp",
+          "url": "https://github.com/springframeworkguru/spring5webapp",
+          "description": "Example Spring 5 Web Application",
+          "language": "Java",
+          "stars": 751,
+          "forks": 18793
+        },
+        {
+          "rank": 7,
+          "name": "iam-veeramalla/terraform-zero-to-hero",
+          "url": "https://github.com/iam-veeramalla/terraform-zero-to-hero",
+          "description": "Master Terraform in 7 days using this Zero to Hero course.",
+          "language": "HCL",
+          "stars": 3881,
+          "forks": 17886
+        },
+        {
+          "rank": 8,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 103831,
+          "forks": 15152
+        },
+        {
+          "rank": 9,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 113644,
+          "forks": 14791
+        },
+        {
+          "rank": 10,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 2,
+          "forks": 13901
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 83735,
+          "forks": 12248
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 119701,
+          "forks": 9698
+        },
+        {
+          "rank": 3,
+          "name": "SakanaAI/AI-Scientist-v2",
+          "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+          "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+          "language": "Python",
+          "stars": 3144,
+          "forks": 495
+        },
+        {
+          "rank": 4,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars": 19925,
+          "forks": 2400
+        },
+        {
+          "rank": 5,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "Building a modern alternative to Salesforce, powered by the community.",
+          "language": "TypeScript",
+          "stars": 42200,
+          "forks": 5606
+        },
+        {
+          "rank": 6,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 19455,
+          "forks": 2624
+        },
+        {
+          "rank": 7,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars": 7285,
+          "forks": 746
+        },
+        {
+          "rank": 8,
+          "name": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "description": "Build and run agents you can see, understand and trust.",
+          "language": "Python",
+          "stars": 21361,
+          "forks": 2101
+        },
+        {
+          "rank": 9,
+          "name": "apache/superset",
+          "url": "https://github.com/apache/superset",
+          "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+          "language": "TypeScript",
+          "stars": 71222,
+          "forks": 16876
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 83735,
+          "forks": 12248
+        },
+        {
+          "rank": 2,
+          "name": "SakanaAI/AI-Scientist-v2",
+          "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+          "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+          "language": "Python",
+          "stars": 3144,
+          "forks": 495
+        },
+        {
+          "rank": 3,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 19455,
+          "forks": 2624
+        },
+        {
+          "rank": 4,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars": 7285,
+          "forks": 746
+        },
+        {
+          "rank": 5,
+          "name": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "description": "Build and run agents you can see, understand and trust.",
+          "language": "Python",
+          "stars": 21361,
+          "forks": 2101
+        },
+        {
+          "rank": 6,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 13422,
+          "forks": 1072
+        },
+        {
+          "rank": 7,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 22452,
+          "forks": 2405
+        },
+        {
+          "rank": 8,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "+192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more co...",
+          "language": "Python",
+          "stars": 7556,
+          "forks": 907
+        },
+        {
+          "rank": 9,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 14898,
+          "forks": 1805
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 24913,
+          "forks": 2723
+        }
+      ]
+    }
+  ]
+}

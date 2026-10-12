@@ -1,0 +1,391 @@
+{
+  "date": "20260612",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 378348,
+          "forks": 79125
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 225697,
+          "forks": 20056
+        },
+        {
+          "rank": 3,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 193675,
+          "forks": 109957
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 191702,
+          "forks": 33353
+        },
+        {
+          "rank": 5,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 174004,
+          "forks": 17730
+        },
+        {
+          "rank": 6,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 126622,
+          "forks": 11066
+        },
+        {
+          "rank": 7,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 111693,
+          "forks": 9852
+        },
+        {
+          "rank": 8,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 109430,
+          "forks": 16263
+        },
+        {
+          "rank": 9,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 89734,
+          "forks": 10677
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 86347,
+          "forks": 12509
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 193675,
+          "forks": 109957
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2659,
+          "forks": 91348
+        },
+        {
+          "rank": 3,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29592,
+          "forks": 87344
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 390127,
+          "forks": 66441
+        },
+        {
+          "rank": 5,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8587,
+          "forks": 60123
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 352739,
+          "forks": 56675
+        },
+        {
+          "rank": 7,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 514645,
+          "forks": 48761
+        },
+        {
+          "rank": 8,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77667,
+          "forks": 45032
+        },
+        {
+          "rank": 9,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 446675,
+          "forks": 44894
+        },
+        {
+          "rank": 10,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 356841,
+          "forks": 44192
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars": 56341,
+          "forks": 6076
+        },
+        {
+          "rank": 2,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming servi...",
+          "language": "Python",
+          "stars": 1658,
+          "forks": 422
+        },
+        {
+          "rank": 3,
+          "name": "mattermost/mattermost",
+          "url": "https://github.com/mattermost/mattermost",
+          "description": "Mattermost is an open source platform for secure collaboration across the entire software develop...",
+          "language": "TypeScript",
+          "stars": 37521,
+          "forks": 8706
+        },
+        {
+          "rank": 4,
+          "name": "apple/container",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ...",
+          "language": "Swift",
+          "stars": 34541,
+          "forks": 957
+        },
+        {
+          "rank": 5,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars": 117820,
+          "forks": 6289
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 225697,
+          "forks": 20056
+        },
+        {
+          "rank": 7,
+          "name": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "description": "Desktop app to manage markdown knowledge bases",
+          "language": "TypeScript",
+          "stars": 15612,
+          "forks": 1070
+        },
+        {
+          "rank": 8,
+          "name": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "description": "open-source healthcare ai",
+          "language": "Python",
+          "stars": 3078,
+          "forks": 296
+        },
+        {
+          "rank": 9,
+          "name": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+          "language": "Python",
+          "stars": 8536,
+          "forks": 1284
+        },
+        {
+          "rank": 10,
+          "name": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, e...",
+          "language": "N/A",
+          "stars": 16755,
+          "forks": 1726
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming servi...",
+          "language": "Python",
+          "stars": 1658,
+          "forks": 422
+        },
+        {
+          "rank": 2,
+          "name": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "description": "open-source healthcare ai",
+          "language": "Python",
+          "stars": 3078,
+          "forks": 296
+        },
+        {
+          "rank": 3,
+          "name": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+          "language": "Python",
+          "stars": 8536,
+          "forks": 1284
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security ri...",
+          "language": "Python",
+          "stars": 3157,
+          "forks": 237
+        },
+        {
+          "rank": 5,
+          "name": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+          "language": "Python",
+          "stars": 5748,
+          "forks": 769
+        },
+        {
+          "rank": 6,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 86347,
+          "forks": 12509
+        },
+        {
+          "rank": 7,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 32926,
+          "forks": 2415
+        },
+        {
+          "rank": 8,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 16688,
+          "forks": 2514
+        },
+        {
+          "rank": 9,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 69003,
+          "forks": 6948
+        },
+        {
+          "rank": 10,
+          "name": "shuvonsec/claude-bug-bounty",
+          "url": "https://github.com/shuvonsec/claude-bug-bounty",
+          "description": "AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, an...",
+          "language": "Python",
+          "stars": 2694,
+          "forks": 469
+        }
+      ]
+    }
+  ]
+}

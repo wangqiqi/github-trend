@@ -1,0 +1,391 @@
+{
+  "date": "20260723",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 383893,
+          "forks": 80649
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 183795,
+          "forks": 15731
+        },
+        {
+          "rank": 3,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 91878,
+          "forks": 13142
+        },
+        {
+          "rank": 4,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 88217,
+          "forks": 4825
+        },
+        {
+          "rank": 5,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 79998,
+          "forks": 8618
+        },
+        {
+          "rank": 6,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 68167,
+          "forks": 8477
+        },
+        {
+          "rank": 7,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 64785,
+          "forks": 5480
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 56569,
+          "forks": 7823
+        },
+        {
+          "rank": 9,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 48964,
+          "forks": 2855
+        },
+        {
+          "rank": 10,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars": 46149,
+          "forks": 5638
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194873,
+          "forks": 109518
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2673,
+          "forks": 92626
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 356946,
+          "forks": 84364
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 196470,
+          "forks": 75712
+        },
+        {
+          "rank": 5,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2789,
+          "forks": 73265
+        },
+        {
+          "rank": 6,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8607,
+          "forks": 60188
+        },
+        {
+          "rank": 7,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88533,
+          "forks": 59377
+        },
+        {
+          "rank": 8,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 358848,
+          "forks": 57356
+        },
+        {
+          "rank": 9,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 184506,
+          "forks": 55694
+        },
+        {
+          "rank": 10,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 98799,
+          "forks": 54679
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "description": "A hive mind communication platform",
+          "language": "Rust",
+          "stars": 5424,
+          "forks": 420
+        },
+        {
+          "rank": 2,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 70702,
+          "forks": 10711
+        },
+        {
+          "rank": 3,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 32860,
+          "forks": 5629
+        },
+        {
+          "rank": 4,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 8998,
+          "forks": 419
+        },
+        {
+          "rank": 5,
+          "name": "Pumpkin-MC/Pumpkin",
+          "url": "https://github.com/Pumpkin-MC/Pumpkin",
+          "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+          "language": "Rust",
+          "stars": 8706,
+          "forks": 603
+        },
+        {
+          "rank": 6,
+          "name": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The best browser for both you and your AI agents work in parallel.",
+          "language": "JavaScript",
+          "stars": 1295,
+          "forks": 77
+        },
+        {
+          "rank": 7,
+          "name": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+          "language": "Assembly",
+          "stars": 70886,
+          "forks": 7907
+        },
+        {
+          "rank": 8,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Ki...",
+          "language": "TypeScript",
+          "stars": 26373,
+          "forks": 3464
+        },
+        {
+          "rank": 9,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 69165,
+          "forks": 7826
+        },
+        {
+          "rank": 10,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "A collection of agent skills for CAD, robotics and hardware design",
+          "language": "JavaScript",
+          "stars": 9763,
+          "forks": 1079
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 32860,
+          "forks": 5629
+        },
+        {
+          "rank": 2,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 8998,
+          "forks": 419
+        },
+        {
+          "rank": 3,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 69165,
+          "forks": 7826
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/SkillOpt",
+          "url": "https://github.com/microsoft/SkillOpt",
+          "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM ag...",
+          "language": "Python",
+          "stars": 14654,
+          "forks": 1348
+        },
+        {
+          "rank": 5,
+          "name": "slavakurilyak/awesome-ai-agents",
+          "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+          "description": "Awesome list of 300+ agentic AI resources",
+          "language": "Python",
+          "stars": 2030,
+          "forks": 491
+        },
+        {
+          "rank": 6,
+          "name": "oraios/serena",
+          "url": "https://github.com/oraios/serena",
+          "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the ID...",
+          "language": "Python",
+          "stars": 26787,
+          "forks": 1773
+        },
+        {
+          "rank": 7,
+          "name": "skypilot-org/skypilot",
+          "url": "https://github.com/skypilot-org/skypilot",
+          "description": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supe...",
+          "language": "Python",
+          "stars": 10356,
+          "forks": 1147
+        },
+        {
+          "rank": 8,
+          "name": "raullenchai/Rapid-MLX",
+          "url": "https://github.com/raullenchai/Rapid-MLX",
+          "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% t...",
+          "language": "Python",
+          "stars": 3350,
+          "forks": 394
+        },
+        {
+          "rank": 9,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 42727,
+          "forks": 7124
+        },
+        {
+          "rank": 10,
+          "name": "vnpy/vnpy",
+          "url": "https://github.com/vnpy/vnpy",
+          "description": "基于Python的开源量化交易平台开发框架",
+          "language": "Python",
+          "stars": 43789,
+          "forks": 12232
+        }
+      ]
+    }
+  ]
+}

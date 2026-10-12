@@ -1,0 +1,391 @@
+{
+  "date": "20260729",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 384435,
+          "forks": 80793
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 235277,
+          "forks": 35838
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 197497,
+          "forks": 20311
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194941,
+          "forks": 109423
+        },
+        {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 194033,
+          "forks": 16702
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 164975,
+          "forks": 19600
+        },
+        {
+          "rank": 7,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 125084,
+          "forks": 18749
+        },
+        {
+          "rank": 8,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 111330,
+          "forks": 11881
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 92307,
+          "forks": 13173
+        },
+        {
+          "rank": 10,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 91419,
+          "forks": 5034
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 113668,
+          "forks": 61014
+        },
+        {
+          "rank": 2,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 453246,
+          "forks": 49904
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1652,
+          "forks": 47803
+        },
+        {
+          "rank": 4,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 31162,
+          "forks": 46878
+        },
+        {
+          "rank": 5,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 185741,
+          "forks": 46065
+        },
+        {
+          "rank": 6,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 124036,
+          "forks": 43638
+        },
+        {
+          "rank": 7,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 29206,
+          "forks": 42172
+        },
+        {
+          "rank": 8,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 60141,
+          "forks": 38814
+        },
+        {
+          "rank": 9,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 114085,
+          "forks": 36456
+        },
+        {
+          "rank": 10,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 118546,
+          "forks": 36222
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial dat...",
+          "language": "TypeScript",
+          "stars": 3760,
+          "forks": 414
+        },
+        {
+          "rank": 2,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "TypeScript",
+          "stars": 45189,
+          "forks": 4468
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 235277,
+          "forks": 35838
+        },
+        {
+          "rank": 4,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 7641,
+          "forks": 983
+        },
+        {
+          "rank": 5,
+          "name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "The most RAM effiecent harness",
+          "language": "Rust",
+          "stars": 13148,
+          "forks": 1454
+        },
+        {
+          "rank": 6,
+          "name": "grokability/snipe-it",
+          "url": "https://github.com/grokability/snipe-it",
+          "description": "A free open source IT asset/license management system",
+          "language": "PHP",
+          "stars": 14297,
+          "forks": 3894
+        },
+        {
+          "rank": 7,
+          "name": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "description": "Deepfakes Software For All",
+          "language": "Python",
+          "stars": 56035,
+          "forks": 13415
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 51098,
+          "forks": 5705
+        },
+        {
+          "rank": 9,
+          "name": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+          "language": "TypeScript",
+          "stars": 17476,
+          "forks": 1829
+        },
+        {
+          "rank": 10,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 262994,
+          "forks": 23490
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 7641,
+          "forks": 983
+        },
+        {
+          "rank": 2,
+          "name": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "description": "Deepfakes Software For All",
+          "language": "Python",
+          "stars": 56035,
+          "forks": 13415
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 51098,
+          "forks": 5705
+        },
+        {
+          "rank": 4,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 58948,
+          "forks": 11660
+        },
+        {
+          "rank": 5,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...",
+          "language": "Python",
+          "stars": 10143,
+          "forks": 1329
+        },
+        {
+          "rank": 6,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 12242,
+          "forks": 1387
+        },
+        {
+          "rank": 7,
+          "name": "sgl-project/sglang",
+          "url": "https://github.com/sgl-project/sglang",
+          "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "language": "Python",
+          "stars": 30918,
+          "forks": 7495
+        },
+        {
+          "rank": 8,
+          "name": "arc53/DocsGPT",
+          "url": "https://github.com/arc53/DocsGPT",
+          "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep re...",
+          "language": "Python",
+          "stars": 18177,
+          "forks": 2100
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and ...",
+          "language": "Python",
+          "stars": 5426,
+          "forks": 856
+        },
+        {
+          "rank": 10,
+          "name": "lightseekorg/tokenspeed",
+          "url": "https://github.com/lightseekorg/tokenspeed",
+          "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+          "language": "Python",
+          "stars": 1747,
+          "forks": 206
+        }
+      ]
+    }
+  ]
+}

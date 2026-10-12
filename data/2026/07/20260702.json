@@ -1,0 +1,391 @@
+{
+  "date": "20260702",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 244055,
+          "forks": 21663
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 207752,
+          "forks": 37732
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 125053,
+          "forks": 20293
+        },
+        {
+          "rank": 4,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 118866,
+          "forks": 17692
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 117339,
+          "forks": 10368
+        },
+        {
+          "rank": 6,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 95191,
+          "forks": 11233
+        },
+        {
+          "rank": 7,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 79754,
+          "forks": 4482
+        },
+        {
+          "rank": 8,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 70315,
+          "forks": 5816
+        },
+        {
+          "rank": 9,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars": 68534,
+          "forks": 7428
+        },
+        {
+          "rank": 10,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 67876,
+          "forks": 4203
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8592,
+          "forks": 60030
+        },
+        {
+          "rank": 2,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 450834,
+          "forks": 45335
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77671,
+          "forks": 45007
+        },
+        {
+          "rank": 4,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1160,
+          "forks": 42003
+        },
+        {
+          "rank": 5,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 207752,
+          "forks": 37732
+        },
+        {
+          "rank": 6,
+          "name": "anuraghazra/github-readme-stats",
+          "url": "https://github.com/anuraghazra/github-readme-stats",
+          "description": ":zap: Dynamically generated stats for your github readmes",
+          "language": "JavaScript",
+          "stars": 79775,
+          "forks": 34606
+        },
+        {
+          "rank": 7,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 98517,
+          "forks": 32597
+        },
+        {
+          "rank": 8,
+          "name": "bia-pain-bache/BPB-Worker-Panel",
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private...",
+          "language": "TypeScript",
+          "stars": 12241,
+          "forks": 31457
+        },
+        {
+          "rank": 9,
+          "name": "DefinitelyTyped/DefinitelyTyped",
+          "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+          "description": "The repository for high quality TypeScript type definitions.",
+          "language": "TypeScript",
+          "stars": 51313,
+          "forks": 30435
+        },
+        {
+          "rank": 10,
+          "name": "scikit-learn/scikit-learn",
+          "url": "https://github.com/scikit-learn/scikit-learn",
+          "description": "scikit-learn: machine learning in Python",
+          "language": "Python",
+          "stars": 66531,
+          "forks": 27137
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 31023,
+          "forks": 3300
+        },
+        {
+          "rank": 2,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 79754,
+          "forks": 4482
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 125053,
+          "forks": 20293
+        },
+        {
+          "rank": 4,
+          "name": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target musc...",
+          "language": "HTML",
+          "stars": 8956,
+          "forks": 1000
+        },
+        {
+          "rank": 5,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, ...",
+          "language": "JavaScript",
+          "stars": 57400,
+          "forks": 11338
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 244055,
+          "forks": 21663
+        },
+        {
+          "rank": 7,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 44950,
+          "forks": 2921
+        },
+        {
+          "rank": 8,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 13569,
+          "forks": 1674
+        },
+        {
+          "rank": 9,
+          "name": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "description": "Action for checking out a repo",
+          "language": "TypeScript",
+          "stars": 8101,
+          "forks": 2520
+        },
+        {
+          "rank": 10,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 224918,
+          "forks": 34426
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 31023,
+          "forks": 3300
+        },
+        {
+          "rank": 2,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 13569,
+          "forks": 1674
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 17152,
+          "forks": 2859
+        },
+        {
+          "rank": 4,
+          "name": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "description": "Specification and documentation for Agent Skills",
+          "language": "Python",
+          "stars": 21437,
+          "forks": 1365
+        },
+        {
+          "rank": 5,
+          "name": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+          "language": "Python",
+          "stars": 150451,
+          "forks": 9385
+        },
+        {
+          "rank": 6,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 101088,
+          "forks": 28218
+        },
+        {
+          "rank": 7,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Machine Learning Systems",
+          "language": "Python",
+          "stars": 25213,
+          "forks": 3024
+        },
+        {
+          "rank": 8,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 445983,
+          "forks": 48947
+        },
+        {
+          "rank": 9,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 143809,
+          "forks": 20759
+        },
+        {
+          "rank": 10,
+          "name": "psf/black",
+          "url": "https://github.com/psf/black",
+          "description": "The uncompromising Python code formatter",
+          "language": "Python",
+          "stars": 41669,
+          "forks": 2792
+        }
+      ]
+    }
+  ]
+}

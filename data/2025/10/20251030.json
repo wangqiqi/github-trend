@@ -1,0 +1,391 @@
+{
+  "date": "20251030",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100061,
+          "forks": 16318
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 93690,
+          "forks": 25292
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91411,
+          "forks": 11774
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 80935,
+          "forks": 8981
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 73900,
+          "forks": 6184
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 71934,
+          "forks": 8532
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 71562,
+          "forks": 8565
+        },
+        {
+          "rank": 8,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Shell",
+          "stars": 43550,
+          "forks": 3703
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 43529,
+          "forks": 14577
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 42933,
+          "forks": 4053
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 51107,
+          "forks": 93476
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2508,
+          "forks": 85725
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173618,
+          "forks": 79159
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2620,
+          "forks": 72690
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 375547,
+          "forks": 65240
+        },
+        {
+          "rank": 6,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18134,
+          "forks": 63993
+        },
+        {
+          "rank": 7,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 205971,
+          "forks": 58104
+        },
+        {
+          "rank": 8,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 173885,
+          "forks": 54790
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 101148,
+          "forks": 53618
+        },
+        {
+          "rank": 10,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 240168,
+          "forks": 49691
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "helm/helm",
+          "url": "https://github.com/helm/helm",
+          "description": "The Kubernetes Package Manager",
+          "language": "Go",
+          "stars": 28743,
+          "forks": 7370
+        },
+        {
+          "rank": 2,
+          "name": "storybookjs/storybook",
+          "url": "https://github.com/storybookjs/storybook",
+          "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components ...",
+          "language": "TypeScript",
+          "stars": 88273,
+          "forks": 9742
+        },
+        {
+          "rank": 3,
+          "name": "open-telemetry/opentelemetry-collector",
+          "url": "https://github.com/open-telemetry/opentelemetry-collector",
+          "description": "OpenTelemetry Collector",
+          "language": "Go",
+          "stars": 6026,
+          "forks": 1757
+        },
+        {
+          "rank": 4,
+          "name": "qeeqbox/social-analyzer",
+          "url": "https://github.com/qeeqbox/social-analyzer",
+          "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+          "language": "JavaScript",
+          "stars": 16081,
+          "forks": 1314
+        },
+        {
+          "rank": 5,
+          "name": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "language": "Jupyter Notebook",
+          "stars": 19672,
+          "forks": 3307
+        },
+        {
+          "rank": 6,
+          "name": "yhirose/cpp-httplib",
+          "url": "https://github.com/yhirose/cpp-httplib",
+          "description": "A C++ header-only HTTP/HTTPS server and client library",
+          "language": "C++",
+          "stars": 15213,
+          "forks": 2530
+        },
+        {
+          "rank": 7,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 15273,
+          "forks": 1164
+        },
+        {
+          "rank": 8,
+          "name": "Project-MONAI/MONAI",
+          "url": "https://github.com/Project-MONAI/MONAI",
+          "description": "AI Toolkit for Healthcare Imaging",
+          "language": "Python",
+          "stars": 7018,
+          "forks": 1298
+        },
+        {
+          "rank": 9,
+          "name": "janhq/jan",
+          "url": "https://github.com/janhq/jan",
+          "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+          "language": "TypeScript",
+          "stars": 38424,
+          "forks": 2323
+        },
+        {
+          "rank": 10,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory managem...",
+          "language": "Python",
+          "stars": 42147,
+          "forks": 4535
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 15273,
+          "forks": 1164
+        },
+        {
+          "rank": 2,
+          "name": "Project-MONAI/MONAI",
+          "url": "https://github.com/Project-MONAI/MONAI",
+          "description": "AI Toolkit for Healthcare Imaging",
+          "language": "Python",
+          "stars": 7018,
+          "forks": 1298
+        },
+        {
+          "rank": 3,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory managem...",
+          "language": "Python",
+          "stars": 42147,
+          "forks": 4535
+        },
+        {
+          "rank": 4,
+          "name": "iam-veeramalla/aws-devops-zero-to-hero",
+          "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+          "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, ...",
+          "language": "Python",
+          "stars": 9285,
+          "forks": 13216
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 4172,
+          "forks": 285
+        },
+        {
+          "rank": 6,
+          "name": "simular-ai/Agent-S",
+          "url": "https://github.com/simular-ai/Agent-S",
+          "description": "Agent S: an open agentic framework that uses computers like a human",
+          "language": "Python",
+          "stars": 7736,
+          "forks": 840
+        },
+        {
+          "rank": 7,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+          "language": "Python",
+          "stars": 36690,
+          "forks": 5918
+        },
+        {
+          "rank": 8,
+          "name": "google/adk-samples",
+          "url": "https://github.com/google/adk-samples",
+          "description": "A collection of sample agents built with Agent Development (ADK)",
+          "language": "Python",
+          "stars": 5872,
+          "forks": 1721
+        },
+        {
+          "rank": 9,
+          "name": "modelcontextprotocol/python-sdk",
+          "url": "https://github.com/modelcontextprotocol/python-sdk",
+          "description": "The official Python SDK for Model Context Protocol servers and clients",
+          "language": "Python",
+          "stars": 19716,
+          "forks": 2692
+        },
+        {
+          "rank": 10,
+          "name": "Kludex/starlette",
+          "url": "https://github.com/Kludex/starlette",
+          "description": "The little ASGI framework that shines. 🌟",
+          "language": "Python",
+          "stars": 11602,
+          "forks": 1058
+        }
+      ]
+    }
+  ]
+}

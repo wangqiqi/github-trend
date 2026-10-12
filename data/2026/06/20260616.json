@@ -1,0 +1,391 @@
+{
+  "date": "20260616",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 379010,
+          "forks": 79316
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 229634,
+          "forks": 20416
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 195164,
+          "forks": 34243
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 151568,
+          "forks": 17872
+        },
+        {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 131616,
+          "forks": 11458
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 113805,
+          "forks": 18575
+        },
+        {
+          "rank": 7,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 112576,
+          "forks": 9941
+        },
+        {
+          "rank": 8,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 110623,
+          "forks": 16450
+        },
+        {
+          "rank": 9,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 102560,
+          "forks": 6787
+        },
+        {
+          "rank": 10,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 92453,
+          "forks": 9663
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 193905,
+          "forks": 109955
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 54498,
+          "forks": 104392
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2664,
+          "forks": 91481
+        },
+        {
+          "rank": 4,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 352651,
+          "forks": 83614
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 20362,
+          "forks": 67468
+        },
+        {
+          "rank": 6,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 390357,
+          "forks": 66437
+        },
+        {
+          "rank": 7,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88255,
+          "forks": 59562
+        },
+        {
+          "rank": 8,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 353409,
+          "forks": 56749
+        },
+        {
+          "rank": 9,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 98364,
+          "forks": 54618
+        },
+        {
+          "rank": 10,
+          "name": "react/react",
+          "url": "https://github.com/react/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 245924,
+          "forks": 51061
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 448373,
+          "forks": 45023
+        },
+        {
+          "rank": 2,
+          "name": "swc-project/swc",
+          "url": "https://github.com/swc-project/swc",
+          "description": "Rust-based platform for the Web",
+          "language": "Rust",
+          "stars": 33924,
+          "forks": 1413
+        },
+        {
+          "rank": 3,
+          "name": "teslamate-org/teslamate",
+          "url": "https://github.com/teslamate-org/teslamate",
+          "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+          "language": "Elixir",
+          "stars": 8374,
+          "forks": 953
+        },
+        {
+          "rank": 4,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars": 123791,
+          "forks": 6675
+        },
+        {
+          "rank": 5,
+          "name": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "description": "JavaScript API for Chrome and Firefox",
+          "language": "TypeScript",
+          "stars": 94826,
+          "forks": 9447
+        },
+        {
+          "rank": 6,
+          "name": "meshery/meshery",
+          "url": "https://github.com/meshery/meshery",
+          "description": "Meshery, the cloud native manager",
+          "language": "TypeScript",
+          "stars": 10786,
+          "forks": 3444
+        },
+        {
+          "rank": 7,
+          "name": "cypress-io/cypress",
+          "url": "https://github.com/cypress-io/cypress",
+          "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+          "language": "TypeScript",
+          "stars": 50128,
+          "forks": 3424
+        },
+        {
+          "rank": 8,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming servi...",
+          "language": "Python",
+          "stars": 2509,
+          "forks": 450
+        },
+        {
+          "rank": 9,
+          "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+          "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your ...",
+          "language": "Rust",
+          "stars": 7164,
+          "forks": 309
+        },
+        {
+          "rank": 10,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 30027,
+          "forks": 3398
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming servi...",
+          "language": "Python",
+          "stars": 2509,
+          "forks": 450
+        },
+        {
+          "rank": 2,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 30027,
+          "forks": 3398
+        },
+        {
+          "rank": 3,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 17429,
+          "forks": 2572
+        },
+        {
+          "rank": 4,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 31748,
+          "forks": 2551
+        },
+        {
+          "rank": 5,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 33614,
+          "forks": 5482
+        },
+        {
+          "rank": 6,
+          "name": "pytest-dev/pytest",
+          "url": "https://github.com/pytest-dev/pytest",
+          "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional...",
+          "language": "Python",
+          "stars": 14149,
+          "forks": 3187
+        },
+        {
+          "rank": 7,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 14639,
+          "forks": 1529
+        },
+        {
+          "rank": 8,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 59711,
+          "forks": 7345
+        },
+        {
+          "rank": 9,
+          "name": "Asabeneh/30-Days-Of-Python",
+          "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+          "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programmi...",
+          "language": "Python",
+          "stars": 65124,
+          "forks": 12221
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 87145,
+          "forks": 12621
+        }
+      ]
+    }
+  ]
+}

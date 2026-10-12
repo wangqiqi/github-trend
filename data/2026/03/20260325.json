@@ -1,0 +1,391 @@
+{
+  "date": "20260325",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "sickn33/antigravity-awesome-skills",
+          "url": "https://github.com/sickn33/antigravity-awesome-skills",
+          "description": "Installable GitHub library of 1,304+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CL...",
+          "language": "Python",
+          "stars": 27265,
+          "forks": 4600
+        },
+        {
+          "rank": 2,
+          "name": "vercel-labs/agent-skills",
+          "url": "https://github.com/vercel-labs/agent-skills",
+          "description": "Vercel's official collection of agent skills",
+          "language": "JavaScript",
+          "stars": 23817,
+          "forks": 2164
+        },
+        {
+          "rank": 3,
+          "name": "openai/gpt-oss",
+          "url": "https://github.com/openai/gpt-oss",
+          "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+          "language": "Python",
+          "stars": 19941,
+          "forks": 2064
+        },
+        {
+          "rank": 4,
+          "name": "nari-labs/dia",
+          "url": "https://github.com/nari-labs/dia",
+          "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+          "language": "Python",
+          "stars": 19220,
+          "forks": 1685
+        },
+        {
+          "rank": 5,
+          "name": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Office Compound Engineering plugin for Claude Code, Codex, and more",
+          "language": "TypeScript",
+          "stars": 11090,
+          "forks": 874
+        },
+        {
+          "rank": 6,
+          "name": "opendataloader-project/opendataloader-pdf",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+          "language": "Java",
+          "stars": 9261,
+          "forks": 682
+        },
+        {
+          "rank": 7,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 7528,
+          "forks": 526
+        },
+        {
+          "rank": 8,
+          "name": "AnmolSaini16/mapcn",
+          "url": "https://github.com/AnmolSaini16/mapcn",
+          "description": "Beautiful map components. 100% Free, Zero config, one command setup.",
+          "language": "TypeScript",
+          "stars": 6855,
+          "forks": 360
+        },
+        {
+          "rank": 9,
+          "name": "donlon/cloudflare-error-page",
+          "url": "https://github.com/donlon/cloudflare-error-page",
+          "description": "✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)",
+          "language": "HTML",
+          "stars": 5316,
+          "forks": 282
+        },
+        {
+          "rank": 10,
+          "name": "Vector-Wangel/XLeRobot",
+          "url": "https://github.com/Vector-Wangel/XLeRobot",
+          "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
+          "language": "Python",
+          "stars": 4868,
+          "forks": 518
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19173,
+          "forks": 66483
+        },
+        {
+          "rank": 2,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87577,
+          "forks": 60057
+        },
+        {
+          "rank": 3,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97766,
+          "forks": 54572
+        },
+        {
+          "rank": 4,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 244175,
+          "forks": 50851
+        },
+        {
+          "rank": 5,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 29957,
+          "forks": 45152
+        },
+        {
+          "rank": 6,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1153,
+          "forks": 42189
+        },
+        {
+          "rank": 7,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 111552,
+          "forks": 36313
+        },
+        {
+          "rank": 8,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 116419,
+          "forks": 35153
+        },
+        {
+          "rank": 9,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 98031,
+          "forks": 32694
+        },
+        {
+          "rank": 10,
+          "name": "macrozheng/mall",
+          "url": "https://github.com/macrozheng/mall",
+          "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、...",
+          "language": "Java",
+          "stars": 83233,
+          "forks": 29677
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 6353,
+          "forks": 640
+        },
+        {
+          "rank": 2,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes...",
+          "language": "Python",
+          "stars": 45326,
+          "forks": 5349
+        },
+        {
+          "rank": 3,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with co...",
+          "language": "Python",
+          "stars": 40449,
+          "forks": 6701
+        },
+        {
+          "rank": 4,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars": 6475,
+          "forks": 832
+        },
+        {
+          "rank": 5,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coo...",
+          "language": "TypeScript",
+          "stars": 25633,
+          "forks": 2788
+        },
+        {
+          "rank": 6,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, kno...",
+          "language": "TypeScript",
+          "stars": 16008,
+          "forks": 1529
+        },
+        {
+          "rank": 7,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital...",
+          "language": "Rust",
+          "stars": 41816,
+          "forks": 5716
+        },
+        {
+          "rank": 8,
+          "name": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "language": "TypeScript",
+          "stars": 18984,
+          "forks": 1798
+        },
+        {
+          "rank": 9,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 25293,
+          "forks": 2627
+        },
+        {
+          "rank": 10,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 21433,
+          "forks": 2284
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 6353,
+          "forks": 640
+        },
+        {
+          "rank": 2,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes...",
+          "language": "Python",
+          "stars": 45326,
+          "forks": 5349
+        },
+        {
+          "rank": 3,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with co...",
+          "language": "Python",
+          "stars": 40449,
+          "forks": 6701
+        },
+        {
+          "rank": 4,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 25293,
+          "forks": 2627
+        },
+        {
+          "rank": 5,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 21433,
+          "forks": 2284
+        },
+        {
+          "rank": 6,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 21162,
+          "forks": 4404
+        },
+        {
+          "rank": 7,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 53058,
+          "forks": 7494
+        },
+        {
+          "rank": 8,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 41527,
+          "forks": 7612
+        },
+        {
+          "rank": 9,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 43634,
+          "forks": 5235
+        },
+        {
+          "rank": 10,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and p...",
+          "language": "Python",
+          "stars": 32268,
+          "forks": 2241
+        }
+      ]
+    }
+  ]
+}

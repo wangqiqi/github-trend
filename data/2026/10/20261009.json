@@ -1,0 +1,391 @@
+{
+  "date": "20261009",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 282335,
+          "forks": 23654
+        },
+        {
+          "rank": 2,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65%...",
+          "language": "Go",
+          "stars": 110727,
+          "forks": 6413
+        },
+        {
+          "rank": 3,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 66094,
+          "forks": 55052
+        },
+        {
+          "rank": 4,
+          "name": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, too...",
+          "language": "Python",
+          "stars": 48899,
+          "forks": 8621
+        },
+        {
+          "rank": 5,
+          "name": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+          "language": "Go",
+          "stars": 43569,
+          "forks": 9341
+        },
+        {
+          "rank": 6,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 40338,
+          "forks": 6258
+        },
+        {
+          "rank": 7,
+          "name": "alchaincyf/nuwa-skill",
+          "url": "https://github.com/alchaincyf/nuwa-skill",
+          "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+          "language": "Python",
+          "stars": 33881,
+          "forks": 4511
+        },
+        {
+          "rank": 8,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 33543,
+          "forks": 2871
+        },
+        {
+          "rank": 9,
+          "name": "zeroclaw-labs/zeroclaw",
+          "url": "https://github.com/zeroclaw-labs/zeroclaw",
+          "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — de...",
+          "language": "Rust",
+          "stars": 32945,
+          "forks": 4958
+        },
+        {
+          "rank": 10,
+          "name": "manaflow-ai/cmux",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent...",
+          "language": "Swift",
+          "stars": 28062,
+          "forks": 2476
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "udacity/course-collaboration-travel-plans",
+          "url": "https://github.com/udacity/course-collaboration-travel-plans",
+          "description": "No description",
+          "language": "CSS",
+          "stars": 1187,
+          "forks": 17380
+        },
+        {
+          "rank": 2,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14703
+        },
+        {
+          "rank": 3,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9754
+        },
+        {
+          "rank": 4,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8886
+        },
+        {
+          "rank": 5,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 14,
+          "forks": 6901
+        },
+        {
+          "rank": 6,
+          "name": "mate-academy/layout_moyo-header",
+          "url": "https://github.com/mate-academy/layout_moyo-header",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 11,
+          "forks": 6567
+        },
+        {
+          "rank": 7,
+          "name": "yandex-praktikum/taski",
+          "url": "https://github.com/yandex-praktikum/taski",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 4,
+          "forks": 6228
+        },
+        {
+          "rank": 8,
+          "name": "mate-academy/layout_stars",
+          "url": "https://github.com/mate-academy/layout_stars",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 13,
+          "forks": 6042
+        },
+        {
+          "rank": 9,
+          "name": "AlreadyBored/basic-js-ds",
+          "url": "https://github.com/AlreadyBored/basic-js-ds",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 90,
+          "forks": 5932
+        },
+        {
+          "rank": 10,
+          "name": "mate-academy/layout_product-cards",
+          "url": "https://github.com/mate-academy/layout_product-cards",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 19,
+          "forks": 5747
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 40339,
+          "forks": 6259
+        },
+        {
+          "rank": 2,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 20654,
+          "forks": 1660
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 282335,
+          "forks": 23654
+        },
+        {
+          "rank": 4,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagra...",
+          "language": "HTML",
+          "stars": 47624,
+          "forks": 3019
+        },
+        {
+          "rank": 5,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: ...",
+          "language": "Go",
+          "stars": 44997,
+          "forks": 3257
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 28100,
+          "forks": 3238
+        },
+        {
+          "rank": 7,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or nativ...",
+          "language": "Python",
+          "stars": 60547,
+          "forks": 12178
+        },
+        {
+          "rank": 8,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 103792,
+          "forks": 10855
+        },
+        {
+          "rank": 9,
+          "name": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+          "language": "Rust",
+          "stars": 10653,
+          "forks": 1602
+        },
+        {
+          "rank": 10,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3...",
+          "language": "Python",
+          "stars": 17616,
+          "forks": 1945
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 28100,
+          "forks": 3238
+        },
+        {
+          "rank": 2,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or nativ...",
+          "language": "Python",
+          "stars": 60547,
+          "forks": 12178
+        },
+        {
+          "rank": 3,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3...",
+          "language": "Python",
+          "stars": 17617,
+          "forks": 1945
+        },
+        {
+          "rank": 4,
+          "name": "Tencent-Hunyuan/Hy-MT2",
+          "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+          "description": "",
+          "language": "Python",
+          "stars": 1176,
+          "forks": 114
+        },
+        {
+          "rank": 5,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 56082,
+          "forks": 3195
+        },
+        {
+          "rank": 6,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, Mi...",
+          "language": "Python",
+          "stars": 77619,
+          "forks": 7160
+        },
+        {
+          "rank": 7,
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens fo...",
+          "language": "Python",
+          "stars": 74819,
+          "forks": 5801
+        },
+        {
+          "rank": 8,
+          "name": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a...",
+          "language": "Python",
+          "stars": 58682,
+          "forks": 4624
+        },
+        {
+          "rank": 9,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 82247,
+          "forks": 10205
+        },
+        {
+          "rank": 10,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 32002,
+          "forks": 2931
+        }
+      ]
+    }
+  ]
+}

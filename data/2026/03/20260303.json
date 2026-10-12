@@ -1,0 +1,391 @@
+{
+  "date": "20260303",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 252347,
+          "forks": 48466
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 127491,
+          "forks": 32565
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 114823,
+          "forks": 11614
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 96294,
+          "forks": 11837
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 82177,
+          "forks": 8635
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 73545,
+          "forks": 6299
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 68803,
+          "forks": 5276
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 62806,
+          "forks": 8340
+        },
+        {
+          "rank": 9,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 52430,
+          "forks": 6713
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 47836,
+          "forks": 22464
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1148,
+          "forks": 42232
+        },
+        {
+          "rank": 2,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1166,
+          "forks": 35351
+        },
+        {
+          "rank": 3,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 13176,
+          "forks": 26967
+        },
+        {
+          "rank": 4,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 76214,
+          "forks": 25805
+        },
+        {
+          "rank": 5,
+          "name": "laravel/laravel",
+          "url": "https://github.com/laravel/laravel",
+          "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the fo...",
+          "language": "Blade",
+          "stars": 83832,
+          "forks": 24676
+        },
+        {
+          "rank": 6,
+          "name": "hiifeng/V2ray-for-Doprax",
+          "url": "https://github.com/hiifeng/V2ray-for-Doprax",
+          "description": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatica...",
+          "language": "Dockerfile",
+          "stars": 8377,
+          "forks": 22175
+        },
+        {
+          "rank": 7,
+          "name": "springframeworkguru/spring5webapp",
+          "url": "https://github.com/springframeworkguru/spring5webapp",
+          "description": "Example Spring 5 Web Application",
+          "language": "Java",
+          "stars": 750,
+          "forks": 18807
+        },
+        {
+          "rank": 8,
+          "name": "ultralytics/yolov5",
+          "url": "https://github.com/ultralytics/yolov5",
+          "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+          "language": "Python",
+          "stars": 56915,
+          "forks": 17427
+        },
+        {
+          "rank": 9,
+          "name": "josephmisiti/awesome-machine-learning",
+          "url": "https://github.com/josephmisiti/awesome-machine-learning",
+          "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+          "language": "Python",
+          "stars": 71804,
+          "forks": 15329
+        },
+        {
+          "rank": 10,
+          "name": "apache/kafka",
+          "url": "https://github.com/apache/kafka",
+          "description": "Mirror of Apache Kafka",
+          "language": "Java",
+          "stars": 32063,
+          "forks": 14998
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital...",
+          "language": "Rust",
+          "stars": 24310,
+          "forks": 2958
+        },
+        {
+          "rank": 2,
+          "name": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 11518,
+          "forks": 1284
+        },
+        {
+          "rank": 3,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "TypeScript",
+          "stars": 21892,
+          "forks": 2047
+        },
+        {
+          "rank": 4,
+          "name": "CodebuffAI/codebuff",
+          "url": "https://github.com/CodebuffAI/codebuff",
+          "description": "Generate code from the terminal!",
+          "language": "TypeScript",
+          "stars": 3116,
+          "forks": 406
+        },
+        {
+          "rank": 5,
+          "name": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "description": "Build and run agents you can see, understand and trust.",
+          "language": "Python",
+          "stars": 16850,
+          "forks": 1515
+        },
+        {
+          "rank": 6,
+          "name": "agentscope-ai/ReMe",
+          "url": "https://github.com/agentscope-ai/ReMe",
+          "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+          "language": "Python",
+          "stars": 1148,
+          "forks": 110
+        },
+        {
+          "rank": 7,
+          "name": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+          "language": "Python",
+          "stars": 7287,
+          "forks": 954
+        },
+        {
+          "rank": 8,
+          "name": "superset-sh/superset",
+          "url": "https://github.com/superset-sh/superset",
+          "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+          "language": "TypeScript",
+          "stars": 3840,
+          "forks": 257
+        },
+        {
+          "rank": 9,
+          "name": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...",
+          "language": "Go",
+          "stars": 339,
+          "forks": 29
+        },
+        {
+          "rank": 10,
+          "name": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SD...",
+          "language": "Python",
+          "stars": 4960,
+          "forks": 356
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 11518,
+          "forks": 1284
+        },
+        {
+          "rank": 2,
+          "name": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "description": "Build and run agents you can see, understand and trust.",
+          "language": "Python",
+          "stars": 16850,
+          "forks": 1515
+        },
+        {
+          "rank": 3,
+          "name": "agentscope-ai/ReMe",
+          "url": "https://github.com/agentscope-ai/ReMe",
+          "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+          "language": "Python",
+          "stars": 1148,
+          "forks": 110
+        },
+        {
+          "rank": 4,
+          "name": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+          "language": "Python",
+          "stars": 7287,
+          "forks": 954
+        },
+        {
+          "rank": 5,
+          "name": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SD...",
+          "language": "Python",
+          "stars": 4960,
+          "forks": 356
+        },
+        {
+          "rank": 6,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 13828,
+          "forks": 1380
+        },
+        {
+          "rank": 7,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 403209,
+          "forks": 43440
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 89910,
+          "forks": 5273
+        },
+        {
+          "rank": 9,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes...",
+          "language": "Python",
+          "stars": 23783,
+          "forks": 2820
+        },
+        {
+          "rank": 10,
+          "name": "OpenBMB/UltraRAG",
+          "url": "https://github.com/OpenBMB/UltraRAG",
+          "description": "A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+          "language": "Python",
+          "stars": 5370,
+          "forks": 386
+        }
+      ]
+    }
+  ]
+}

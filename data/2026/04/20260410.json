@@ -1,0 +1,391 @@
+{
+  "date": "20260410",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DeepWism/DeepWism-R2",
+          "url": "https://github.com/DeepWism/DeepWism-R2",
+          "description": "DeepWism R2 is a next-generation AGI system built on the T3CEDS framework (Thin-Thick-Thin Crowd ...",
+          "language": "N/A",
+          "stars": 1017,
+          "forks": 154
+        },
+        {
+          "rank": 2,
+          "name": "CyrilFeng/karma",
+          "url": "https://github.com/CyrilFeng/karma",
+          "description": "新数据洞察方式",
+          "language": "Java",
+          "stars": 1005,
+          "forks": 87
+        },
+        {
+          "rank": 3,
+          "name": "philrox/n8n-workflows",
+          "url": "https://github.com/philrox/n8n-workflows",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 642,
+          "forks": 120
+        },
+        {
+          "rank": 4,
+          "name": "universal-tool-calling-protocol/python-utcp",
+          "url": "https://github.com/universal-tool-calling-protocol/python-utcp",
+          "description": "Official python implementation of UTCP. UTCP is an open standard that lets AI agents call any API...",
+          "language": "Python",
+          "stars": 640,
+          "forks": 43
+        },
+        {
+          "rank": 5,
+          "name": "0xSojalSec/LLMs-local",
+          "url": "https://github.com/0xSojalSec/LLMs-local",
+          "description": "list of awesome platforms, tools, and resources   run for LLMs locally",
+          "language": "N/A",
+          "stars": 622,
+          "forks": 63
+        },
+        {
+          "rank": 6,
+          "name": "std-microblock/audivis-relay",
+          "url": "https://github.com/std-microblock/audivis-relay",
+          "description": "Stream your microphone from Android/Linux/Mac/Windows/.. to Windows, easily.",
+          "language": "C++",
+          "stars": 525,
+          "forks": 17
+        },
+        {
+          "rank": 7,
+          "name": "openai/circuit_sparsity",
+          "url": "https://github.com/openai/circuit_sparsity",
+          "description": "Open-source release accompanying Gao et al. 2025",
+          "language": "Python",
+          "stars": 513,
+          "forks": 55
+        },
+        {
+          "rank": 8,
+          "name": "hjkl112/DC-Electronic-Load-based",
+          "url": "https://github.com/hjkl112/DC-Electronic-Load-based",
+          "description": "Firmware for a 100W DC Electronic Load based on STM32F405 and LVGL (Keil MDK Project).",
+          "language": "C",
+          "stars": 498,
+          "forks": 0
+        },
+        {
+          "rank": 9,
+          "name": "blongxu/n-report",
+          "url": "https://github.com/blongxu/n-report",
+          "description": "next easy report",
+          "language": "N/A",
+          "stars": 471,
+          "forks": 12
+        },
+        {
+          "rank": 10,
+          "name": "roe-ai/vectorless",
+          "url": "https://github.com/roe-ai/vectorless",
+          "description": "No description",
+          "language": "TypeScript",
+          "stars": 441,
+          "forks": 60
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 168,
+          "forks": 19899
+        },
+        {
+          "rank": 2,
+          "name": "springframeworkguru/spring5webapp",
+          "url": "https://github.com/springframeworkguru/spring5webapp",
+          "description": "Example Spring 5 Web Application",
+          "language": "Java",
+          "stars": 752,
+          "forks": 18773
+        },
+        {
+          "rank": 3,
+          "name": "mrsmookie/btcrecover",
+          "url": "https://github.com/mrsmookie/btcrecover",
+          "description": "An open source Bitcoin wallet password and seed recovery tool designed for the case where you alr...",
+          "language": "Python",
+          "stars": 2,
+          "forks": 14458
+        },
+        {
+          "rank": 4,
+          "name": "MithunTechnologiesDevOps/maven-web-application",
+          "url": "https://github.com/MithunTechnologiesDevOps/maven-web-application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 121,
+          "forks": 13129
+        },
+        {
+          "rank": 5,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9778
+        },
+        {
+          "rank": 6,
+          "name": "aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "url": "https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "description": "Sample web application for the AWS DevOps Engineer Learning Path.",
+          "language": "JavaScript",
+          "stars": 106,
+          "forks": 9356
+        },
+        {
+          "rank": 7,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8938
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-node-js-react-npm-app",
+          "url": "https://github.com/jenkins-docs/simple-node-js-react-npm-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Node.js and React applicatio...",
+          "language": "Shell",
+          "stars": 224,
+          "forks": 8409
+        },
+        {
+          "rank": 9,
+          "name": "malinkang/weread2notion",
+          "url": "https://github.com/malinkang/weread2notion",
+          "description": "将微信读书划线同步到Notion",
+          "language": "Python",
+          "stars": 2871,
+          "forks": 6650
+        },
+        {
+          "rank": 10,
+          "name": "lazyprogrammer/machine_learning_examples",
+          "url": "https://github.com/lazyprogrammer/machine_learning_examples",
+          "description": "A collection of machine learning examples and tutorials.",
+          "language": "Python",
+          "stars": 8855,
+          "forks": 6436
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 98063,
+          "forks": 6003
+        },
+        {
+          "rank": 2,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+          "language": "TypeScript",
+          "stars": 14862,
+          "forks": 2501
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 49403,
+          "forks": 6360
+        },
+        {
+          "rank": 4,
+          "name": "rowboatlabs/rowboat",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "description": "Open-source AI coworker, with memory",
+          "language": "TypeScript",
+          "stars": 11422,
+          "forks": 1073
+        },
+        {
+          "rank": 5,
+          "name": "multica-ai/multica",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, t...",
+          "language": "TypeScript",
+          "stars": 5189,
+          "forks": 639
+        },
+        {
+          "rank": 6,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 11263,
+          "forks": 744
+        },
+        {
+          "rank": 7,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 12490,
+          "forks": 2526
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "language": "Python",
+          "stars": 15579,
+          "forks": 2056
+        },
+        {
+          "rank": 9,
+          "name": "opendataloader-project/opendataloader-pdf",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+          "language": "Java",
+          "stars": 14439,
+          "forks": 1226
+        },
+        {
+          "rank": 10,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 144988,
+          "forks": 12421
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 98063,
+          "forks": 6003
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 49404,
+          "forks": 6360
+        },
+        {
+          "rank": 3,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 12490,
+          "forks": 2526
+        },
+        {
+          "rank": 4,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "language": "Python",
+          "stars": 15579,
+          "forks": 2056
+        },
+        {
+          "rank": 5,
+          "name": "FloatingPragma/observer-patch-holography",
+          "url": "https://github.com/FloatingPragma/observer-patch-holography",
+          "description": "OPH is an active research program aiming to construct a fundamental theory of physics from observ...",
+          "language": "Python",
+          "stars": 370,
+          "forks": 45
+        },
+        {
+          "rank": 6,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-sca...",
+          "language": "Python",
+          "stars": 35602,
+          "forks": 2998
+        },
+        {
+          "rank": 7,
+          "name": "PrefectHQ/prefect",
+          "url": "https://github.com/PrefectHQ/prefect",
+          "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+          "language": "Python",
+          "stars": 22126,
+          "forks": 2260
+        },
+        {
+          "rank": 8,
+          "name": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "language": "Python",
+          "stars": 150056,
+          "forks": 11404
+        },
+        {
+          "rank": 9,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 8261,
+          "forks": 964
+        },
+        {
+          "rank": 10,
+          "name": "atilaahmettaner/tradingview-mcp",
+          "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+          "description": "Real-time crypto & stock screening, advanced technical indicators, Bollinger Bands intelligence, ...",
+          "language": "Python",
+          "stars": 1554,
+          "forks": 337
+        }
+      ]
+    }
+  ]
+}

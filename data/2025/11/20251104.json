@@ -1,0 +1,391 @@
+{
+  "date": "20251104",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 94314,
+          "forks": 25455
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91447,
+          "forks": 11781
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 82530,
+          "forks": 4654
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 81433,
+          "forks": 9076
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 74214,
+          "forks": 6212
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 71889,
+          "forks": 8617
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50643,
+          "forks": 8848
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 49712,
+          "forks": 6123
+        },
+        {
+          "rank": 9,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Shell",
+          "stars": 44852,
+          "forks": 3840
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 43834,
+          "forks": 14764
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 51182,
+          "forks": 93724
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2511,
+          "forks": 85864
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 170474,
+          "forks": 82995
+        },
+        {
+          "rank": 4,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8300,
+          "forks": 59327
+        },
+        {
+          "rank": 5,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 179478,
+          "forks": 46092
+        },
+        {
+          "rank": 6,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1535,
+          "forks": 43238
+        },
+        {
+          "rank": 7,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 431184,
+          "forks": 42219
+        },
+        {
+          "rank": 8,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 118379,
+          "forks": 41629
+        },
+        {
+          "rank": 9,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 28044,
+          "forks": 41264
+        },
+        {
+          "rank": 10,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 59114,
+          "forks": 38814
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 10227,
+          "forks": 1481
+        },
+        {
+          "rank": 2,
+          "name": "sst/opentui",
+          "url": "https://github.com/sst/opentui",
+          "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+          "language": "TypeScript",
+          "stars": 3605,
+          "forks": 135
+        },
+        {
+          "rank": 3,
+          "name": "GeeeekExplorer/nano-vllm",
+          "url": "https://github.com/GeeeekExplorer/nano-vllm",
+          "description": "Nano vLLM",
+          "language": "Python",
+          "stars": 8083,
+          "forks": 999
+        },
+        {
+          "rank": 4,
+          "name": "mudler/LocalAI",
+          "url": "https://github.com/mudler/LocalAI",
+          "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Dr...",
+          "language": "Go",
+          "stars": 36771,
+          "forks": 2908
+        },
+        {
+          "rank": 5,
+          "name": "1Panel-dev/MaxKB",
+          "url": "https://github.com/1Panel-dev/MaxKB",
+          "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。",
+          "language": "Python",
+          "stars": 19062,
+          "forks": 2477
+        },
+        {
+          "rank": 6,
+          "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+          "description": "An evolving how-to guide for securing a Linux server.",
+          "language": "N/A",
+          "stars": 20554,
+          "forks": 1300
+        },
+        {
+          "rank": 7,
+          "name": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well ...",
+          "language": "PowerShell",
+          "stars": 31533,
+          "forks": 1242
+        },
+        {
+          "rank": 8,
+          "name": "DearVa/Everywhere",
+          "url": "https://github.com/DearVa/Everywhere",
+          "description": "A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integra...",
+          "language": "C#",
+          "stars": 2294,
+          "forks": 120
+        },
+        {
+          "rank": 9,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 9028,
+          "forks": 1239
+        },
+        {
+          "rank": 10,
+          "name": "Fosowl/agenticSeek",
+          "url": "https://github.com/Fosowl/agenticSeek",
+          "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, brow...",
+          "language": "Python",
+          "stars": 23180,
+          "forks": 2491
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 10227,
+          "forks": 1481
+        },
+        {
+          "rank": 2,
+          "name": "GeeeekExplorer/nano-vllm",
+          "url": "https://github.com/GeeeekExplorer/nano-vllm",
+          "description": "Nano vLLM",
+          "language": "Python",
+          "stars": 8083,
+          "forks": 999
+        },
+        {
+          "rank": 3,
+          "name": "1Panel-dev/MaxKB",
+          "url": "https://github.com/1Panel-dev/MaxKB",
+          "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。",
+          "language": "Python",
+          "stars": 19062,
+          "forks": 2477
+        },
+        {
+          "rank": 4,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 9028,
+          "forks": 1239
+        },
+        {
+          "rank": 5,
+          "name": "Fosowl/agenticSeek",
+          "url": "https://github.com/Fosowl/agenticSeek",
+          "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, brow...",
+          "language": "Python",
+          "stars": 23180,
+          "forks": 2491
+        },
+        {
+          "rank": 6,
+          "name": "coleam00/ottomator-agents",
+          "url": "https://github.com/coleam00/ottomator-agents",
+          "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+          "language": "Python",
+          "stars": 4633,
+          "forks": 1664
+        },
+        {
+          "rank": 7,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+          "language": "Python",
+          "stars": 36883,
+          "forks": 5942
+        },
+        {
+          "rank": 8,
+          "name": "Skyvern-AI/skyvern",
+          "url": "https://github.com/Skyvern-AI/skyvern",
+          "description": "Automate browser-based workflows with LLMs and Computer Vision",
+          "language": "Python",
+          "stars": 15554,
+          "forks": 1327
+        },
+        {
+          "rank": 9,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 94668,
+          "forks": 25767
+        },
+        {
+          "rank": 10,
+          "name": "mouredev/roadmap-retos-programacion",
+          "url": "https://github.com/mouredev/roadmap-retos-programacion",
+          "description": "Ruta de estudio basada en ejercicios de código de la comunidad MoureDev para aprender y practicar...",
+          "language": "Python",
+          "stars": 7398,
+          "forks": 5604
+        }
+      ]
+    }
+  ]
+}

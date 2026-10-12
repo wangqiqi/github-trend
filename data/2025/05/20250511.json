@@ -1,0 +1,391 @@
+{
+  "date": "20250511",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 45297,
+          "forks": 5042
+        },
+        {
+          "rank": 2,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 41823,
+          "forks": 1739
+        },
+        {
+          "rank": 3,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.",
+          "language": "TypeScript",
+          "stars": 25971,
+          "forks": 2227
+        },
+        {
+          "rank": 4,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21635,
+          "forks": 1533
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 16225,
+          "forks": 2207
+        },
+        {
+          "rank": 6,
+          "name": "NirDiamant/RAG_Techniques",
+          "url": "https://github.com/NirDiamant/RAG_Techniques",
+          "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) sy...",
+          "language": "Jupyter Notebook",
+          "stars": 15963,
+          "forks": 1588
+        },
+        {
+          "rank": 7,
+          "name": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "description": "A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations",
+          "language": "Python",
+          "stars": 13957,
+          "forks": 979
+        },
+        {
+          "rank": 8,
+          "name": "github/github-mcp-server",
+          "url": "https://github.com/github/github-mcp-server",
+          "description": "GitHub's official MCP Server",
+          "language": "Go",
+          "stars": 13346,
+          "forks": 801
+        },
+        {
+          "rank": 9,
+          "name": "browser-use/web-ui",
+          "url": "https://github.com/browser-use/web-ui",
+          "description": "Run AI Agent in your browser.",
+          "language": "Python",
+          "stars": 12891,
+          "forks": 2124
+        },
+        {
+          "rank": 10,
+          "name": "mastra-ai/mastra",
+          "url": "https://github.com/mastra-ai/mastra",
+          "description": "The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Cla...",
+          "language": "TypeScript",
+          "stars": 12837,
+          "forks": 702
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 284,
+          "forks": 56718
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37062
+        },
+        {
+          "rank": 3,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": ":school: Identify email addresses or domains names that belong to colleges or universities. Help ...",
+          "language": "Ruby",
+          "stars": 1144,
+          "forks": 27735
+        },
+        {
+          "rank": 4,
+          "name": "vagabond-systems/jpmc-task-1",
+          "url": "https://github.com/vagabond-systems/jpmc-task-1",
+          "description": "Starter repo for task 1 of the JPMC software engineering program",
+          "language": "Python",
+          "stars": 42,
+          "forks": 22297
+        },
+        {
+          "rank": 5,
+          "name": "udacity/course-collaboration-travel-plans",
+          "url": "https://github.com/udacity/course-collaboration-travel-plans",
+          "description": "No description",
+          "language": "CSS",
+          "stars": 1184,
+          "forks": 17516
+        },
+        {
+          "rank": 6,
+          "name": "CoreyMSchafer/code_snippets",
+          "url": "https://github.com/CoreyMSchafer/code_snippets",
+          "description": "No description",
+          "language": "Jupyter Notebook",
+          "stars": 10473,
+          "forks": 17501
+        },
+        {
+          "rank": 7,
+          "name": "coding-boot-camp/prework-about-me",
+          "url": "https://github.com/coding-boot-camp/prework-about-me",
+          "description": "No description",
+          "language": "CSS",
+          "stars": 63,
+          "forks": 15488
+        },
+        {
+          "rank": 8,
+          "name": "learn-co-curriculum/phase-0-html-experiencing-html-lab",
+          "url": "https://github.com/learn-co-curriculum/phase-0-html-experiencing-html-lab",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 6,
+          "forks": 11509
+        },
+        {
+          "rank": 9,
+          "name": "AllenDowney/ThinkStats2",
+          "url": "https://github.com/AllenDowney/ThinkStats2",
+          "description": "Text and supporting code for Think Stats, 2nd Edition",
+          "language": "Jupyter Notebook",
+          "stars": 4095,
+          "forks": 11398
+        },
+        {
+          "rank": 10,
+          "name": "alexaorrico/AirBnB_clone_v2",
+          "url": "https://github.com/alexaorrico/AirBnB_clone_v2",
+          "description": "No description",
+          "language": "Python",
+          "stars": 106,
+          "forks": 11049
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 29248,
+          "forks": 4260
+        },
+        {
+          "rank": 2,
+          "name": "voideditor/void",
+          "url": "https://github.com/voideditor/void",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 16736,
+          "forks": 975
+        },
+        {
+          "rank": 3,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 4730,
+          "forks": 377
+        },
+        {
+          "rank": 4,
+          "name": "longbridge/gpui-component",
+          "url": "https://github.com/longbridge/gpui-component",
+          "description": "UI components for building fantastic desktop application by using GPUI.",
+          "language": "Rust",
+          "stars": 2241,
+          "forks": 105
+        },
+        {
+          "rank": 5,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description": "LLM inference in C/C++",
+          "language": "C++",
+          "stars": 79574,
+          "forks": 11675
+        },
+        {
+          "rank": 6,
+          "name": "isledecomp/isle",
+          "url": "https://github.com/isledecomp/isle",
+          "description": "A functionally complete decompilation of LEGO Island (1997)",
+          "language": "C++",
+          "stars": 2849,
+          "forks": 126
+        },
+        {
+          "rank": 7,
+          "name": "zed-industries/zed",
+          "url": "https://github.com/zed-industries/zed",
+          "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creato...",
+          "language": "Rust",
+          "stars": 59128,
+          "forks": 4150
+        },
+        {
+          "rank": 8,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 318998,
+          "forks": 41313
+        },
+        {
+          "rank": 9,
+          "name": "Mail-0/Zero",
+          "url": "https://github.com/Mail-0/Zero",
+          "description": "Experience email the way you want with 0 – the first open source email app that puts your privacy...",
+          "language": "TypeScript",
+          "stars": 6701,
+          "forks": 561
+        },
+        {
+          "rank": 10,
+          "name": "solidtime-io/solidtime",
+          "url": "https://github.com/solidtime-io/solidtime",
+          "description": "Modern open-source time-tracking app",
+          "language": "PHP",
+          "stars": 6280,
+          "forks": 322
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 29248,
+          "forks": 4260
+        },
+        {
+          "rank": 2,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 4730,
+          "forks": 377
+        },
+        {
+          "rank": 3,
+          "name": "Lightricks/ComfyUI-LTXVideo",
+          "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+          "description": "LTX-Video Support for ComfyUI",
+          "language": "Python",
+          "stars": 1442,
+          "forks": 116
+        },
+        {
+          "rank": 4,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 1570,
+          "forks": 108
+        },
+        {
+          "rank": 5,
+          "name": "shane-mason/FieldStation42",
+          "url": "https://github.com/shane-mason/FieldStation42",
+          "description": "Broadcast TV simulator",
+          "language": "Python",
+          "stars": 533,
+          "forks": 23
+        },
+        {
+          "rank": 6,
+          "name": "pydantic/pydantic-ai",
+          "url": "https://github.com/pydantic/pydantic-ai",
+          "description": "Agent Framework / shim to use Pydantic with LLMs",
+          "language": "Python",
+          "stars": 9333,
+          "forks": 823
+        },
+        {
+          "rank": 7,
+          "name": "remsky/Kokoro-FastAPI",
+          "url": "https://github.com/remsky/Kokoro-FastAPI",
+          "description": "Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch ...",
+          "language": "Python",
+          "stars": 2641,
+          "forks": 373
+        },
+        {
+          "rank": 8,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 31600,
+          "forks": 3546
+        },
+        {
+          "rank": 9,
+          "name": "kijai/ComfyUI-KJNodes",
+          "url": "https://github.com/kijai/ComfyUI-KJNodes",
+          "description": "Various custom nodes for ComfyUI",
+          "language": "Python",
+          "stars": 1341,
+          "forks": 130
+        },
+        {
+          "rank": 10,
+          "name": "pipecat-ai/pipecat",
+          "url": "https://github.com/pipecat-ai/pipecat",
+          "description": "Open Source framework for voice and multimodal conversational AI",
+          "language": "Python",
+          "stars": 6030,
+          "forks": 817
+        }
+      ]
+    }
+  ]
+}

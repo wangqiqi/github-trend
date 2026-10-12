@@ -1,0 +1,391 @@
+{
+  "date": "20260808",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 269052,
+          "forks": 24028
+        },
+        {
+          "rank": 2,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 126881,
+          "forks": 19093
+        },
+        {
+          "rank": 3,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 125845,
+          "forks": 11238
+        },
+        {
+          "rank": 4,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent bec...",
+          "language": "TypeScript",
+          "stars": 84484,
+          "forks": 9858
+        },
+        {
+          "rank": 5,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 84208,
+          "forks": 8994
+        },
+        {
+          "rank": 6,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 75239,
+          "forks": 4736
+        },
+        {
+          "rank": 7,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 70704,
+          "forks": 11005
+        },
+        {
+          "rank": 8,
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens fo...",
+          "language": "Python",
+          "stars": 65460,
+          "forks": 4991
+        },
+        {
+          "rank": 9,
+          "name": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+          "language": "HTML",
+          "stars": 64158,
+          "forks": 6376
+        },
+        {
+          "rank": 10,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
+          "language": "Shell",
+          "stars": 62560,
+          "forks": 2206
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2690,
+          "forks": 93087
+        },
+        {
+          "rank": 2,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 393967,
+          "forks": 66665
+        },
+        {
+          "rank": 3,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 242167,
+          "forks": 63812
+        },
+        {
+          "rank": 4,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 199801,
+          "forks": 60003
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 90346,
+          "forks": 56956
+        },
+        {
+          "rank": 6,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37332,
+          "forks": 53339
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1659,
+          "forks": 48002
+        },
+        {
+          "rank": 8,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+          "language": "JavaScript",
+          "stars": 157620,
+          "forks": 46182
+        },
+        {
+          "rank": 9,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 186431,
+          "forks": 46066
+        },
+        {
+          "rank": 10,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 124366,
+          "forks": 43804
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "language": "TypeScript",
+          "stars": 7621,
+          "forks": 639
+        },
+        {
+          "rank": 2,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 84208,
+          "forks": 8994
+        },
+        {
+          "rank": 3,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars": 77693,
+          "forks": 17547
+        },
+        {
+          "rank": 4,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars": 16467,
+          "forks": 1303
+        },
+        {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 209459,
+          "forks": 18094
+        },
+        {
+          "rank": 6,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description": "The authentication glue you need.",
+          "language": "Python",
+          "stars": 23823,
+          "forks": 1823
+        },
+        {
+          "rank": 7,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 96147,
+          "forks": 18616
+        },
+        {
+          "rank": 8,
+          "name": "google/guava",
+          "url": "https://github.com/google/guava",
+          "description": "Google core libraries for Java",
+          "language": "Java",
+          "stars": 51799,
+          "forks": 11177
+        },
+        {
+          "rank": 9,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 64860,
+          "forks": 3097
+        },
+        {
+          "rank": 10,
+          "name": "denoland/celld",
+          "url": "https://github.com/denoland/celld",
+          "description": "self-hosted, distributed Durable Objects",
+          "language": "Rust",
+          "stars": 2383,
+          "forks": 67
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars": 16467,
+          "forks": 1303
+        },
+        {
+          "rank": 2,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description": "The authentication glue you need.",
+          "language": "Python",
+          "stars": 23823,
+          "forks": 1823
+        },
+        {
+          "rank": 3,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 96147,
+          "forks": 18616
+        },
+        {
+          "rank": 4,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 18611,
+          "forks": 2006
+        },
+        {
+          "rank": 5,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "language": "Python",
+          "stars": 277292,
+          "forks": 35711
+        },
+        {
+          "rank": 6,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 186431,
+          "forks": 46066
+        },
+        {
+          "rank": 7,
+          "name": "kyutai-labs/pocket-tts",
+          "url": "https://github.com/kyutai-labs/pocket-tts",
+          "description": "A TTS that fits in your CPU (and pocket)",
+          "language": "Python",
+          "stars": 8156,
+          "forks": 826
+        },
+        {
+          "rank": 8,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 70704,
+          "forks": 11005
+        },
+        {
+          "rank": 9,
+          "name": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "description": "",
+          "language": "Python",
+          "stars": 6831,
+          "forks": 901
+        },
+        {
+          "rank": 10,
+          "name": "superlinked/sie",
+          "url": "https://github.com/superlinked/sie",
+          "description": "Open-source inference server and production cluster for all the models your agent needs.",
+          "language": "Python",
+          "stars": 2680,
+          "forks": 259
+        }
+      ]
+    }
+  ]
+}

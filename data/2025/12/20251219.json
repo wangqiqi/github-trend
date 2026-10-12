@@ -1,0 +1,391 @@
+{
+  "date": "20251219",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100789,
+          "forks": 16422
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91600,
+          "forks": 11778
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 87985,
+          "forks": 10074
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 56528,
+          "forks": 4915
+        },
+        {
+          "rank": 5,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51372,
+          "forks": 8960
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 46972,
+          "forks": 3294
+        },
+        {
+          "rank": 7,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 46134,
+          "forks": 5535
+        },
+        {
+          "rank": 8,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44466,
+          "forks": 4348
+        },
+        {
+          "rank": 9,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 40309,
+          "forks": 3425
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+...",
+          "language": "Python",
+          "stars": 39683,
+          "forks": 20727
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29222,
+          "forks": 87409
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173820,
+          "forks": 79171
+        },
+        {
+          "rank": 3,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85357,
+          "forks": 56409
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 103997,
+          "forks": 55285
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77680,
+          "forks": 45367
+        },
+        {
+          "rank": 6,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1144,
+          "forks": 42197
+        },
+        {
+          "rank": 7,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 28964,
+          "forks": 41413
+        },
+        {
+          "rank": 8,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 386655,
+          "forks": 41269
+        },
+        {
+          "rank": 9,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 83277,
+          "forks": 36209
+        },
+        {
+          "rank": 10,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1160,
+          "forks": 33678
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac",
+          "description": " Now we have become very big, Different from the original idea. Collect premium software in vari...",
+          "language": "JavaScript",
+          "stars": 96159,
+          "forks": 7220
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 46972,
+          "forks": 3294
+        },
+        {
+          "rank": 3,
+          "name": "NVIDIA-NeMo/Gym",
+          "url": "https://github.com/NVIDIA-NeMo/Gym",
+          "description": "Build RL environments for LLM training",
+          "language": "Python",
+          "stars": 383,
+          "forks": 27
+        },
+        {
+          "rank": 4,
+          "name": "GreyDGL/PentestGPT",
+          "url": "https://github.com/GreyDGL/PentestGPT",
+          "description": "A GPT-empowered penetration testing tool",
+          "language": "Python",
+          "stars": 9459,
+          "forks": 1379
+        },
+        {
+          "rank": 5,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 33315,
+          "forks": 2274
+        },
+        {
+          "rank": 6,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 72430,
+          "forks": 16345
+        },
+        {
+          "rank": 7,
+          "name": "sgl-project/mini-sglang",
+          "url": "https://github.com/sgl-project/mini-sglang",
+          "description": "",
+          "language": "Python",
+          "stars": 1309,
+          "forks": 95
+        },
+        {
+          "rank": 8,
+          "name": "google/adk-js",
+          "url": "https://github.com/google/adk-js",
+          "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticat...",
+          "language": "TypeScript",
+          "stars": 253,
+          "forks": 27
+        },
+        {
+          "rank": 9,
+          "name": "afshinea/stanford-cs-229-machine-learning",
+          "url": "https://github.com/afshinea/stanford-cs-229-machine-learning",
+          "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning",
+          "language": "N/A",
+          "stars": 18904,
+          "forks": 4134
+        },
+        {
+          "rank": 10,
+          "name": "metabase/metabase",
+          "url": "https://github.com/metabase/metabase",
+          "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone ...",
+          "language": "Clojure",
+          "stars": 45040,
+          "forks": 6092
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NVIDIA-NeMo/Gym",
+          "url": "https://github.com/NVIDIA-NeMo/Gym",
+          "description": "Build RL environments for LLM training",
+          "language": "Python",
+          "stars": 383,
+          "forks": 27
+        },
+        {
+          "rank": 2,
+          "name": "GreyDGL/PentestGPT",
+          "url": "https://github.com/GreyDGL/PentestGPT",
+          "description": "A GPT-empowered penetration testing tool",
+          "language": "Python",
+          "stars": 9459,
+          "forks": 1379
+        },
+        {
+          "rank": 3,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 33315,
+          "forks": 2274
+        },
+        {
+          "rank": 4,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 72430,
+          "forks": 16345
+        },
+        {
+          "rank": 5,
+          "name": "sgl-project/mini-sglang",
+          "url": "https://github.com/sgl-project/mini-sglang",
+          "description": "",
+          "language": "Python",
+          "stars": 1309,
+          "forks": 95
+        },
+        {
+          "rank": 6,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 43756,
+          "forks": 7736
+        },
+        {
+          "rank": 7,
+          "name": "droidrun/droidrun",
+          "url": "https://github.com/droidrun/droidrun",
+          "description": "Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖",
+          "language": "Python",
+          "stars": 6980,
+          "forks": 713
+        },
+        {
+          "rank": 8,
+          "name": "pytorch/executorch",
+          "url": "https://github.com/pytorch/executorch",
+          "description": "On-device AI across mobile, embedded and edge for PyTorch",
+          "language": "Python",
+          "stars": 3742,
+          "forks": 767
+        },
+        {
+          "rank": 9,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 67380,
+          "forks": 24240
+        },
+        {
+          "rank": 10,
+          "name": "pollen-robotics/reachy_mini",
+          "url": "https://github.com/pollen-robotics/reachy_mini",
+          "description": "Reachy Mini's SDK",
+          "language": "Python",
+          "stars": 391,
+          "forks": 62
+        }
+      ]
+    }
+  ]
+}

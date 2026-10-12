@@ -1,0 +1,391 @@
+{
+  "date": "20250823",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98880,
+          "forks": 16103
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90966,
+          "forks": 11732
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSC...",
+          "language": "N/A",
+          "stars": 78431,
+          "forks": 21975
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 72188,
+          "forks": 3935
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 71332,
+          "forks": 7318
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 68466,
+          "forks": 7936
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 67027,
+          "forks": 5411
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 65387,
+          "forks": 7638
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49164,
+          "forks": 8616
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39503,
+          "forks": 6963
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50004,
+          "forks": 90135
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28838,
+          "forks": 87181
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2437,
+          "forks": 83597
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168832,
+          "forks": 83010
+        },
+        {
+          "rank": 5,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 324704,
+          "forks": 79915
+        },
+        {
+          "rank": 6,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172894,
+          "forks": 79127
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191287,
+          "forks": 74789
+        },
+        {
+          "rank": 8,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2578,
+          "forks": 72533
+        },
+        {
+          "rank": 9,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 365841,
+          "forks": 63942
+        },
+        {
+          "rank": 10,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17752,
+          "forks": 63001
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "Vue",
+          "stars": 7410,
+          "forks": 531
+        },
+        {
+          "rank": 2,
+          "name": "plait-board/drawnix",
+          "url": "https://github.com/plait-board/drawnix",
+          "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, f...",
+          "language": "TypeScript",
+          "stars": 5248,
+          "forks": 419
+        },
+        {
+          "rank": 3,
+          "name": "Budibase/budibase",
+          "url": "https://github.com/Budibase/budibase",
+          "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQ...",
+          "language": "TypeScript",
+          "stars": 25828,
+          "forks": 1864
+        },
+        {
+          "rank": 4,
+          "name": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "description": "Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way ...",
+          "language": "TypeScript",
+          "stars": 11505,
+          "forks": 1390
+        },
+        {
+          "rank": 5,
+          "name": "google/googletest",
+          "url": "https://github.com/google/googletest",
+          "description": "GoogleTest - Google Testing and Mocking Framework",
+          "language": "C++",
+          "stars": 36825,
+          "forks": 10477
+        },
+        {
+          "rank": 6,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 3277,
+          "forks": 422
+        },
+        {
+          "rank": 7,
+          "name": "Leantime/leantime",
+          "url": "https://github.com/Leantime/leantime",
+          "description": "Leantime is a goals focused project management system for non-project managers. Building with ADH...",
+          "language": "PHP",
+          "stars": 6752,
+          "forks": 712
+        },
+        {
+          "rank": 8,
+          "name": "clash-verge-rev/clash-verge-rev",
+          "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+          "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored prox...",
+          "language": "TypeScript",
+          "stars": 71527,
+          "forks": 5396
+        },
+        {
+          "rank": 9,
+          "name": "winapps-org/winapps",
+          "url": "https://github.com/winapps-org/winapps",
+          "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they...",
+          "language": "Shell",
+          "stars": 4501,
+          "forks": 153
+        },
+        {
+          "rank": 10,
+          "name": "zigtools/zls",
+          "url": "https://github.com/zigtools/zls",
+          "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
+          "language": "Zig",
+          "stars": 4033,
+          "forks": 379
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 3277,
+          "forks": 422
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 1594,
+          "forks": 230
+        },
+        {
+          "rank": 3,
+          "name": "dataease/SQLBot",
+          "url": "https://github.com/dataease/SQLBot",
+          "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+          "language": "Python",
+          "stars": 939,
+          "forks": 109
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA-NeMo/RL",
+          "url": "https://github.com/NVIDIA-NeMo/RL",
+          "description": "Scalable toolkit for efficient model reinforcement",
+          "language": "Python",
+          "stars": 685,
+          "forks": 108
+        },
+        {
+          "rank": 5,
+          "name": "Fosowl/agenticSeek",
+          "url": "https://github.com/Fosowl/agenticSeek",
+          "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, brow...",
+          "language": "Python",
+          "stars": 21183,
+          "forks": 2172
+        },
+        {
+          "rank": 6,
+          "name": "1rgs/claude-code-proxy",
+          "url": "https://github.com/1rgs/claude-code-proxy",
+          "description": "Run Claude Code on OpenAI models",
+          "language": "Python",
+          "stars": 1971,
+          "forks": 286
+        },
+        {
+          "rank": 7,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 66016,
+          "forks": 24061
+        },
+        {
+          "rank": 8,
+          "name": "SamuelSchmidgall/AgentLaboratory",
+          "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+          "description": "Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human r...",
+          "language": "Python",
+          "stars": 4804,
+          "forks": 703
+        },
+        {
+          "rank": 9,
+          "name": "Arindam200/awesome-ai-apps",
+          "url": "https://github.com/Arindam200/awesome-ai-apps",
+          "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+          "language": "Python",
+          "stars": 3544,
+          "forks": 469
+        },
+        {
+          "rank": 10,
+          "name": "python/typeshed",
+          "url": "https://github.com/python/typeshed",
+          "description": "Collection of library stubs for Python, with static types",
+          "language": "Python",
+          "stars": 4786,
+          "forks": 1898
+        }
+      ]
+    }
+  ]
+}

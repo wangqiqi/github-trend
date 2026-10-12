@@ -1,0 +1,391 @@
+{
+  "date": "20260629",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 241324,
+          "forks": 21422
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 205524,
+          "forks": 37100
+        },
+        {
+          "rank": 3,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194443,
+          "forks": 109870
+        },
+        {
+          "rank": 4,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 184497,
+          "forks": 18913
+        },
+        {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 150305,
+          "forks": 12990
+        },
+        {
+          "rank": 6,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 110555,
+          "forks": 7311
+        },
+        {
+          "rank": 7,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 94257,
+          "forks": 11171
+        },
+        {
+          "rank": 8,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 85035,
+          "forks": 7338
+        },
+        {
+          "rank": 9,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 77904,
+          "forks": 4403
+        },
+        {
+          "rank": 10,
+          "name": "safishamsi/graphify",
+          "url": "https://github.com/safishamsi/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 74166,
+          "forks": 7383
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 54745,
+          "forks": 105185
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 174645,
+          "forks": 82379
+        },
+        {
+          "rank": 3,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 380968,
+          "forks": 79806
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2776,
+          "forks": 73213
+        },
+        {
+          "rank": 5,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 237992,
+          "forks": 62908
+        },
+        {
+          "rank": 6,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88342,
+          "forks": 59511
+        },
+        {
+          "rank": 7,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 183800,
+          "forks": 55686
+        },
+        {
+          "rank": 8,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 98507,
+          "forks": 54639
+        },
+        {
+          "rank": 9,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37335,
+          "forks": 53456
+        },
+        {
+          "rank": 10,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 222297,
+          "forks": 50798
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% priva...",
+          "language": "Haskell",
+          "stars": 16173,
+          "forks": 933
+        },
+        {
+          "rank": 2,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 118532,
+          "forks": 19427
+        },
+        {
+          "rank": 3,
+          "name": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "description": "NumPy & SciPy for GPU",
+          "language": "Python",
+          "stars": 11744,
+          "forks": 1078
+        },
+        {
+          "rank": 4,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a lo...",
+          "language": "Swift",
+          "stars": 4199,
+          "forks": 264
+        },
+        {
+          "rank": 5,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 34189,
+          "forks": 2589
+        },
+        {
+          "rank": 6,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance syste...",
+          "language": "Python",
+          "stars": 62683,
+          "forks": 11106
+        },
+        {
+          "rank": 7,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars": 126504,
+          "forks": 13246
+        },
+        {
+          "rank": 8,
+          "name": "logto-io/logto",
+          "url": "https://github.com/logto-io/logto",
+          "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth...",
+          "language": "TypeScript",
+          "stars": 12444,
+          "forks": 851
+        },
+        {
+          "rank": 9,
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire:...",
+          "language": "Python",
+          "stars": 6438,
+          "forks": 845
+        },
+        {
+          "rank": 10,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 11689,
+          "forks": 1548
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cupy/cupy",
+          "url": "https://github.com/cupy/cupy",
+          "description": "NumPy & SciPy for GPU",
+          "language": "Python",
+          "stars": 11744,
+          "forks": 1078
+        },
+        {
+          "rank": 2,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 34189,
+          "forks": 2589
+        },
+        {
+          "rank": 3,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance syste...",
+          "language": "Python",
+          "stars": 62683,
+          "forks": 11106
+        },
+        {
+          "rank": 4,
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire:...",
+          "language": "Python",
+          "stars": 6438,
+          "forks": 845
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 11689,
+          "forks": 1548
+        },
+        {
+          "rank": 6,
+          "name": "Unclecheng-li/VulnClaw",
+          "url": "https://github.com/Unclecheng-li/VulnClaw",
+          "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+          "language": "Python",
+          "stars": 1044,
+          "forks": 164
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 14901,
+          "forks": 2677
+        },
+        {
+          "rank": 8,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 26150,
+          "forks": 2523
+        },
+        {
+          "rank": 9,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 89698,
+          "forks": 17315
+        },
+        {
+          "rank": 10,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 70235,
+          "forks": 7194
+        }
+      ]
+    }
+  ]
+}

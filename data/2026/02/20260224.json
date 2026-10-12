@@ -1,0 +1,391 @@
+{
+  "date": "20260224",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 223953,
+          "forks": 42773
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 122440,
+          "forks": 31573
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 95508,
+          "forks": 11584
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 74594,
+          "forks": 7685
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 71634,
+          "forks": 6179
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 61692,
+          "forks": 8192
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 59946,
+          "forks": 4567
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 52064,
+          "forks": 6635
+        },
+        {
+          "rank": 9,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Bat...",
+          "language": "JavaScript",
+          "stars": 50996,
+          "forks": 6312
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 46007,
+          "forks": 4713
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 172693,
+          "forks": 82813
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2686,
+          "forks": 72957
+        },
+        {
+          "rank": 3,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8487,
+          "forks": 60276
+        },
+        {
+          "rank": 4,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 178929,
+          "forks": 55448
+        },
+        {
+          "rank": 5,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 176115,
+          "forks": 55129
+        },
+        {
+          "rank": 6,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1584,
+          "forks": 45335
+        },
+        {
+          "rank": 7,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 349696,
+          "forks": 43707
+        },
+        {
+          "rank": 8,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20148,
+          "forks": 43573
+        },
+        {
+          "rank": 9,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 437479,
+          "forks": 43437
+        },
+        {
+          "rank": 10,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1148,
+          "forks": 42243
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "description": "",
+          "language": "Python",
+          "stars": 4615,
+          "forks": 315
+        },
+        {
+          "rank": 2,
+          "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, an...",
+          "language": "Python",
+          "stars": 9401,
+          "forks": 740
+        },
+        {
+          "rank": 3,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 61720,
+          "forks": 6017
+        },
+        {
+          "rank": 4,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 58918,
+          "forks": 2693
+        },
+        {
+          "rank": 5,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 122440,
+          "forks": 31573
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 59946,
+          "forks": 4567
+        },
+        {
+          "rank": 7,
+          "name": "ruvnet/ruvector",
+          "url": "https://github.com/ruvnet/ruvector",
+          "description": "RuVector is a high performance vector and graph database built in Rust for AI, agentic systems, a...",
+          "language": "Rust",
+          "stars": 538,
+          "forks": 117
+        },
+        {
+          "rank": 8,
+          "name": "GVCLab/PersonaLive",
+          "url": "https://github.com/GVCLab/PersonaLive",
+          "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+          "language": "Python",
+          "stars": 1806,
+          "forks": 279
+        },
+        {
+          "rank": 9,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 7263,
+          "forks": 965
+        },
+        {
+          "rank": 10,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 17081,
+          "forks": 1219
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "description": "",
+          "language": "Python",
+          "stars": 4615,
+          "forks": 315
+        },
+        {
+          "rank": 2,
+          "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, an...",
+          "language": "Python",
+          "stars": 9401,
+          "forks": 740
+        },
+        {
+          "rank": 3,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 61720,
+          "forks": 6017
+        },
+        {
+          "rank": 4,
+          "name": "GVCLab/PersonaLive",
+          "url": "https://github.com/GVCLab/PersonaLive",
+          "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+          "language": "Python",
+          "stars": 1806,
+          "forks": 279
+        },
+        {
+          "rank": 5,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 7263,
+          "forks": 965
+        },
+        {
+          "rank": 6,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 17081,
+          "forks": 1219
+        },
+        {
+          "rank": 7,
+          "name": "smittix/intercept",
+          "url": "https://github.com/smittix/intercept",
+          "description": "iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a ...",
+          "language": "Python",
+          "stars": 1277,
+          "forks": 160
+        },
+        {
+          "rank": 8,
+          "name": "OpenBMB/ChatDev",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "language": "Python",
+          "stars": 31175,
+          "forks": 3852
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code-security-review",
+          "url": "https://github.com/anthropics/claude-code-security-review",
+          "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vul...",
+          "language": "Python",
+          "stars": 3238,
+          "forks": 255
+        },
+        {
+          "rank": 10,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 21535,
+          "forks": 2480
+        }
+      ]
+    }
+  ]
+}

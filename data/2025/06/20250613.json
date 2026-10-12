@@ -1,0 +1,391 @@
+{
+  "date": "20250613",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97590,
+          "forks": 15852
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90075,
+          "forks": 11627
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 63067,
+          "forks": 7119
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 59058,
+          "forks": 3058
+        },
+        {
+          "rank": 5,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 57132,
+          "forks": 17390
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 54917,
+          "forks": 4175
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "Python",
+          "stars": 53484,
+          "forks": 6085
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 46770,
+          "forks": 8163
+        },
+        {
+          "rank": 9,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 45632,
+          "forks": 5651
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36549,
+          "forks": 403
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6609,
+          "forks": 243607
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13066,
+          "forks": 151690
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 856,
+          "forks": 143924
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48871,
+          "forks": 87127
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28511,
+          "forks": 86778
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 167193,
+          "forks": 83054
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1849,
+          "forks": 80221
+        },
+        {
+          "rank": 8,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 320365,
+          "forks": 79197
+        },
+        {
+          "rank": 9,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172405,
+          "forks": 79137
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190344,
+          "forks": 74692
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 38063,
+          "forks": 4404
+        },
+        {
+          "rank": 2,
+          "name": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "description": "😎 Awesome lists about all kinds of interesting topics",
+          "language": "N/A",
+          "stars": 367167,
+          "forks": 29529
+        },
+        {
+          "rank": 3,
+          "name": "xiangechen/chili3d",
+          "url": "https://github.com/xiangechen/chili3d",
+          "description": "A web-based 3D CAD application for online model design and editing",
+          "language": "TypeScript",
+          "stars": 2013,
+          "forks": 178
+        },
+        {
+          "rank": 4,
+          "name": "datawhalechina/self-llm",
+          "url": "https://github.com/datawhalechina/self-llm",
+          "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+          "language": "Jupyter Notebook",
+          "stars": 17944,
+          "forks": 1904
+        },
+        {
+          "rank": 5,
+          "name": "jdepoix/youtube-transcript-api",
+          "url": "https://github.com/jdepoix/youtube-transcript-api",
+          "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. ...",
+          "language": "Python",
+          "stars": 4603,
+          "forks": 508
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "11 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 25967,
+          "forks": 7062
+        },
+        {
+          "rank": 7,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 7618,
+          "forks": 689
+        },
+        {
+          "rank": 8,
+          "name": "YaLTeR/niri",
+          "url": "https://github.com/YaLTeR/niri",
+          "description": "A scrollable-tiling Wayland compositor.",
+          "language": "Rust",
+          "stars": 8326,
+          "forks": 272
+        },
+        {
+          "rank": 9,
+          "name": "FareedKhan-dev/all-rag-techniques",
+          "url": "https://github.com/FareedKhan-dev/all-rag-techniques",
+          "description": "Implementation of all RAG techniques in a simpler way",
+          "language": "Jupyter Notebook",
+          "stars": 3475,
+          "forks": 477
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 35988,
+          "forks": 6254
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 38063,
+          "forks": 4404
+        },
+        {
+          "rank": 2,
+          "name": "jdepoix/youtube-transcript-api",
+          "url": "https://github.com/jdepoix/youtube-transcript-api",
+          "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. ...",
+          "language": "Python",
+          "stars": 4603,
+          "forks": 508
+        },
+        {
+          "rank": 3,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 7618,
+          "forks": 689
+        },
+        {
+          "rank": 4,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 35988,
+          "forks": 6254
+        },
+        {
+          "rank": 5,
+          "name": "OWASP/Nettacker",
+          "url": "https://github.com/OWASP/Nettacker",
+          "description": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Manag...",
+          "language": "Python",
+          "stars": 4155,
+          "forks": 870
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "Python",
+          "stars": 53484,
+          "forks": 6085
+        },
+        {
+          "rank": 7,
+          "name": "jwohlwend/boltz",
+          "url": "https://github.com/jwohlwend/boltz",
+          "description": "Official repository for the Boltz biomolecular interaction models",
+          "language": "Python",
+          "stars": 2765,
+          "forks": 410
+        },
+        {
+          "rank": 8,
+          "name": "RockChinQ/LangBot",
+          "url": "https://github.com/RockChinQ/LangBot",
+          "description": "🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ Bots for QQ ...",
+          "language": "Python",
+          "stars": 11882,
+          "forks": 905
+        },
+        {
+          "rank": 9,
+          "name": "Azure/Azure-Sentinel",
+          "url": "https://github.com/Azure/Azure-Sentinel",
+          "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+          "language": "Python",
+          "stars": 5101,
+          "forks": 3226
+        },
+        {
+          "rank": 10,
+          "name": "sml2h3/ddddocr",
+          "url": "https://github.com/sml2h3/ddddocr",
+          "description": "带带弟弟 通用验证码识别OCR pypi版",
+          "language": "Python",
+          "stars": 12005,
+          "forks": 2003
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "date": "20260413",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 20735,
+          "forks": 1660
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 74391,
+          "forks": 9901
+        },
+        {
+          "rank": 3,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 16636,
+          "forks": 3139
+        },
+        {
+          "rank": 4,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 51786,
+          "forks": 4092
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 106274,
+          "forks": 6678
+        },
+        {
+          "rank": 6,
+          "name": "multica-ai/multica",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, t...",
+          "language": "TypeScript",
+          "stars": 10448,
+          "forks": 1301
+        },
+        {
+          "rank": 7,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+          "language": "TypeScript",
+          "stars": 17418,
+          "forks": 2745
+        },
+        {
+          "rank": 8,
+          "name": "snarktank/ralph",
+          "url": "https://github.com/snarktank/ralph",
+          "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+          "language": "TypeScript",
+          "stars": 16327,
+          "forks": 1619
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 52675,
+          "forks": 9153
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "language": "Jupyter Notebook",
+          "stars": 39043,
+          "forks": 4345
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 74391,
+          "forks": 9901
+        },
+        {
+          "rank": 2,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 16636,
+          "forks": 3139
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 106274,
+          "forks": 6678
+        },
+        {
+          "rank": 4,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 52675,
+          "forks": 9153
+        },
+        {
+          "rank": 5,
+          "name": "ahujasid/blender-mcp",
+          "url": "https://github.com/ahujasid/blender-mcp",
+          "description": "",
+          "language": "Python",
+          "stars": 19339,
+          "forks": 1869
+        },
+        {
+          "rank": 6,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 90053,
+          "forks": 13105
+        },
+        {
+          "rank": 7,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 11916,
+          "forks": 1379
+        },
+        {
+          "rank": 8,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 156551,
+          "forks": 12880
+        },
+        {
+          "rank": 9,
+          "name": "axolotl-ai-cloud/axolotl",
+          "url": "https://github.com/axolotl-ai-cloud/axolotl",
+          "description": "Go ahead and axolotl questions",
+          "language": "Python",
+          "stars": 11673,
+          "forks": 1303
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 16820,
+          "forks": 1465
+        }
+      ]
+    }
+  ]
+}

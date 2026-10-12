@@ -1,0 +1,391 @@
+{
+  "date": "20251231",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 104410,
+          "forks": 27674
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91623,
+          "forks": 11777
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 89263,
+          "forks": 10274
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 58816,
+          "forks": 5133
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 54990,
+          "forks": 7011
+        },
+        {
+          "rank": 6,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51731,
+          "forks": 9044
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 50034,
+          "forks": 3545
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48822,
+          "forks": 5721
+        },
+        {
+          "rank": 9,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 44784,
+          "forks": 3858
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44709,
+          "forks": 4413
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 180205,
+          "forks": 37133
+        },
+        {
+          "rank": 2,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184189,
+          "forks": 33692
+        },
+        {
+          "rank": 3,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 96253,
+          "forks": 26400
+        },
+        {
+          "rank": 4,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 10408,
+          "forks": 25087
+        },
+        {
+          "rank": 5,
+          "name": "ArduPilot/ardupilot",
+          "url": "https://github.com/ArduPilot/ardupilot",
+          "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+          "language": "C++",
+          "stars": 14278,
+          "forks": 19978
+        },
+        {
+          "rank": 6,
+          "name": "zero-to-mastery/start-here-guidelines",
+          "url": "https://github.com/zero-to-mastery/start-here-guidelines",
+          "description": "Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playgro...",
+          "language": "Python",
+          "stars": 2809,
+          "forks": 17480
+        },
+        {
+          "rank": 7,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Svelte",
+          "stars": 119367,
+          "forks": 16809
+        },
+        {
+          "rank": 8,
+          "name": "mruniquehacker/Knightbot-MD",
+          "url": "https://github.com/mruniquehacker/Knightbot-MD",
+          "description": "A simple WhatsApp bot to manage groups",
+          "language": "JavaScript",
+          "stars": 5941,
+          "forks": 14798
+        },
+        {
+          "rank": 9,
+          "name": "Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "url": "https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "description": "cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo created by GitHub Classroom",
+          "language": "C",
+          "stars": 24,
+          "forks": 13597
+        },
+        {
+          "rank": 10,
+          "name": "WordPress/WordPress",
+          "url": "https://github.com/WordPress/WordPress",
+          "description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Pl...",
+          "language": "PHP",
+          "stars": 20761,
+          "forks": 12919
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "afkarxyz/SpotiFLAC",
+          "url": "https://github.com/afkarxyz/SpotiFLAC",
+          "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
+          "language": "TypeScript",
+          "stars": 1299,
+          "forks": 80
+        },
+        {
+          "rank": 2,
+          "name": "google-gemini/computer-use-preview",
+          "url": "https://github.com/google-gemini/computer-use-preview",
+          "description": "",
+          "language": "Python",
+          "stars": 2231,
+          "forks": 297
+        },
+        {
+          "rank": 3,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Introduction to Machine Learning Systems",
+          "language": "JavaScript",
+          "stars": 13560,
+          "forks": 1545
+        },
+        {
+          "rank": 4,
+          "name": "BloopAI/vibe-kanban",
+          "url": "https://github.com/BloopAI/vibe-kanban",
+          "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+          "language": "Rust",
+          "stars": 9871,
+          "forks": 899
+        },
+        {
+          "rank": 5,
+          "name": "timescale/pg-aiguide",
+          "url": "https://github.com/timescale/pg-aiguide",
+          "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generat...",
+          "language": "Python",
+          "stars": 932,
+          "forks": 50
+        },
+        {
+          "rank": 6,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），...",
+          "language": "Python",
+          "stars": 41695,
+          "forks": 21121
+        },
+        {
+          "rank": 7,
+          "name": "openai/openai-cookbook",
+          "url": "https://github.com/openai/openai-cookbook",
+          "description": "Examples and guides for using the OpenAI API",
+          "language": "Jupyter Notebook",
+          "stars": 70108,
+          "forks": 11786
+        },
+        {
+          "rank": 8,
+          "name": "organicmaps/organicmaps",
+          "url": "https://github.com/organicmaps/organicmaps",
+          "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cycl...",
+          "language": "C++",
+          "stars": 12442,
+          "forks": 1256
+        },
+        {
+          "rank": 9,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 19848,
+          "forks": 2593
+        },
+        {
+          "rank": 10,
+          "name": "nocodb/nocodb",
+          "url": "https://github.com/nocodb/nocodb",
+          "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+          "language": "TypeScript",
+          "stars": 59481,
+          "forks": 4414
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "google-gemini/computer-use-preview",
+          "url": "https://github.com/google-gemini/computer-use-preview",
+          "description": "",
+          "language": "Python",
+          "stars": 2231,
+          "forks": 297
+        },
+        {
+          "rank": 2,
+          "name": "timescale/pg-aiguide",
+          "url": "https://github.com/timescale/pg-aiguide",
+          "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generat...",
+          "language": "Python",
+          "stars": 932,
+          "forks": 50
+        },
+        {
+          "rank": 3,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），...",
+          "language": "Python",
+          "stars": 41695,
+          "forks": 21121
+        },
+        {
+          "rank": 4,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 19848,
+          "forks": 2593
+        },
+        {
+          "rank": 5,
+          "name": "alexta69/metube",
+          "url": "https://github.com/alexta69/metube",
+          "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+          "language": "Python",
+          "stars": 11686,
+          "forks": 789
+        },
+        {
+          "rank": 6,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 76656,
+          "forks": 11216
+        },
+        {
+          "rank": 7,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 52812,
+          "forks": 1495
+        },
+        {
+          "rank": 8,
+          "name": "tencent-ailab/SongGeneration",
+          "url": "https://github.com/tencent-ailab/SongGeneration",
+          "description": "The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment",
+          "language": "Python",
+          "stars": 1169,
+          "forks": 142
+        },
+        {
+          "rank": 9,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 85645,
+          "forks": 12182
+        },
+        {
+          "rank": 10,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 16521,
+          "forks": 1299
+        }
+      ]
+    }
+  ]
+}

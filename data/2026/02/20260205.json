@@ -1,0 +1,391 @@
+{
+  "date": "20260205",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 166096,
+          "forks": 26268
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 113359,
+          "forks": 29443
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 98091,
+          "forks": 9280
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 93653,
+          "forks": 11027
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 67743,
+          "forks": 5845
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 64277,
+          "forks": 4884
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 63677,
+          "forks": 6283
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 59038,
+          "forks": 7703
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54230,
+          "forks": 9513
+        },
+        {
+          "rank": 10,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 50920,
+          "forks": 6298
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52508,
+          "forks": 97467
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2672,
+          "forks": 72906
+        },
+        {
+          "rank": 3,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8459,
+          "forks": 60227
+        },
+        {
+          "rank": 4,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 178487,
+          "forks": 55377
+        },
+        {
+          "rank": 5,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37338,
+          "forks": 53870
+        },
+        {
+          "rank": 6,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 181698,
+          "forks": 46292
+        },
+        {
+          "rank": 7,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153738,
+          "forks": 46111
+        },
+        {
+          "rank": 8,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1582,
+          "forks": 45008
+        },
+        {
+          "rank": 9,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 348581,
+          "forks": 43693
+        },
+        {
+          "rank": 10,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20100,
+          "forks": 43467
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars": 26458,
+          "forks": 2585
+        },
+        {
+          "rank": 2,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 4026,
+          "forks": 234
+        },
+        {
+          "rank": 3,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 23342,
+          "forks": 1535
+        },
+        {
+          "rank": 4,
+          "name": "j178/prek",
+          "url": "https://github.com/j178/prek",
+          "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+          "language": "Rust",
+          "stars": 5343,
+          "forks": 141
+        },
+        {
+          "rank": 5,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 6 lines of code",
+          "language": "Python",
+          "stars": 11721,
+          "forks": 1151
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 44969,
+          "forks": 3410
+        },
+        {
+          "rank": 7,
+          "name": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...",
+          "language": "Go",
+          "stars": 31284,
+          "forks": 2907
+        },
+        {
+          "rank": 8,
+          "name": "fish-shell/fish-shell",
+          "url": "https://github.com/fish-shell/fish-shell",
+          "description": "The user-friendly command line shell.",
+          "language": "Rust",
+          "stars": 32283,
+          "forks": 2211
+        },
+        {
+          "rank": 9,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 91316,
+          "forks": 9824
+        },
+        {
+          "rank": 10,
+          "name": "linshenkx/prompt-optimizer",
+          "url": "https://github.com/linshenkx/prompt-optimizer",
+          "description": "一款提示词优化器，助力于编写高质量的提示词",
+          "language": "TypeScript",
+          "stars": 19239,
+          "forks": 2391
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 4026,
+          "forks": 234
+        },
+        {
+          "rank": 2,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 6 lines of code",
+          "language": "Python",
+          "stars": 11721,
+          "forks": 1151
+        },
+        {
+          "rank": 3,
+          "name": "chenyme/grok2api",
+          "url": "https://github.com/chenyme/grok2api",
+          "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
+          "language": "Python",
+          "stars": 1016,
+          "forks": 309
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 63677,
+          "forks": 6283
+        },
+        {
+          "rank": 5,
+          "name": "GH05TCREW/pentestagent",
+          "url": "https://github.com/GH05TCREW/pentestagent",
+          "description": "PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-...",
+          "language": "Python",
+          "stars": 1391,
+          "forks": 326
+        },
+        {
+          "rank": 6,
+          "name": "CVHub520/X-AnyLabeling",
+          "url": "https://github.com/CVHub520/X-AnyLabeling",
+          "description": "Effortless data labeling with AI support from Segment Anything and other awesome models.",
+          "language": "Python",
+          "stars": 8080,
+          "forks": 885
+        },
+        {
+          "rank": 7,
+          "name": "frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext",
+          "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+          "language": "Python",
+          "stars": 31535,
+          "forks": 10363
+        },
+        {
+          "rank": 8,
+          "name": "JerBouma/FinanceDatabase",
+          "url": "https://github.com/JerBouma/FinanceDatabase",
+          "description": "This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cry...",
+          "language": "Python",
+          "stars": 6868,
+          "forks": 719
+        },
+        {
+          "rank": 9,
+          "name": "sgl-project/sglang",
+          "url": "https://github.com/sgl-project/sglang",
+          "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "language": "Python",
+          "stars": 23307,
+          "forks": 4330
+        },
+        {
+          "rank": 10,
+          "name": "qodo-ai/pr-agent",
+          "url": "https://github.com/qodo-ai/pr-agent",
+          "description": "🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the f...",
+          "language": "Python",
+          "stars": 10062,
+          "forks": 1262
+        }
+      ]
+    }
+  ]
+}

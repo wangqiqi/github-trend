@@ -1,0 +1,391 @@
+{
+  "date": "20260713",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 253591,
+          "forks": 22651
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 229138,
+          "forks": 35118
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 214089,
+          "forks": 39729
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194752,
+          "forks": 109716
+        },
+        {
+          "rank": 5,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 191491,
+          "forks": 19655
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 120331,
+          "forks": 10670
+        },
+        {
+          "rank": 7,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 116681,
+          "forks": 7817
+        },
+        {
+          "rank": 8,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 81924,
+          "forks": 4433
+        },
+        {
+          "rank": 9,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 73523,
+          "forks": 13702
+        },
+        {
+          "rank": 10,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 70730,
+          "forks": 4398
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2671,
+          "forks": 92331
+        },
+        {
+          "rank": 2,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8599,
+          "forks": 60014
+        },
+        {
+          "rank": 3,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37335,
+          "forks": 53420
+        },
+        {
+          "rank": 4,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+          "language": "JavaScript",
+          "stars": 156996,
+          "forks": 46169
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77671,
+          "forks": 44979
+        },
+        {
+          "rank": 6,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 81200,
+          "forks": 42102
+        },
+        {
+          "rank": 7,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 89735,
+          "forks": 39171
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 540,
+          "forks": 33519
+        },
+        {
+          "rank": 9,
+          "name": "rails/rails",
+          "url": "https://github.com/rails/rails",
+          "description": "Ruby on Rails",
+          "language": "Ruby",
+          "stars": 58789,
+          "forks": 22415
+        },
+        {
+          "rank": 10,
+          "name": "dayanch96/YTLite",
+          "url": "https://github.com/dayanch96/YTLite",
+          "description": "A flexible enhancer for YouTube on iOS",
+          "language": "Logos",
+          "stars": 5227,
+          "forks": 21711
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 64752,
+          "forks": 6908
+        },
+        {
+          "rank": 2,
+          "name": "Dicklesworthstone/destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being e...",
+          "language": "Rust",
+          "stars": 3675,
+          "forks": 134
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 21312,
+          "forks": 3695
+        },
+        {
+          "rank": 4,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "TypeScript",
+          "stars": 41705,
+          "forks": 4182
+        },
+        {
+          "rank": 5,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 119280,
+          "forks": 17715
+        },
+        {
+          "rank": 6,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 4793,
+          "forks": 266
+        },
+        {
+          "rank": 7,
+          "name": "Raphire/Win11Debloat",
+          "url": "https://github.com/Raphire/Win11Debloat",
+          "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable tel...",
+          "language": "PowerShell",
+          "stars": 50575,
+          "forks": 2038
+        },
+        {
+          "rank": 8,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 83975,
+          "forks": 8287
+        },
+        {
+          "rank": 9,
+          "name": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment dat...",
+          "language": "HTML",
+          "stars": 12319,
+          "forks": 1447
+        },
+        {
+          "rank": 10,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 120331,
+          "forks": 10670
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 21312,
+          "forks": 3695
+        },
+        {
+          "rank": 2,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 119280,
+          "forks": 17715
+        },
+        {
+          "rank": 3,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 83975,
+          "forks": 8287
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 120331,
+          "forks": 10670
+        },
+        {
+          "rank": 5,
+          "name": "PrefectHQ/prefect",
+          "url": "https://github.com/PrefectHQ/prefect",
+          "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+          "language": "Python",
+          "stars": 23307,
+          "forks": 2404
+        },
+        {
+          "rank": 6,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground. OpenManus is Coming.",
+          "language": "Python",
+          "stars": 57339,
+          "forks": 9968
+        },
+        {
+          "rank": 7,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 61584,
+          "forks": 10877
+        },
+        {
+          "rank": 8,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 19550,
+          "forks": 3198
+        },
+        {
+          "rank": 9,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 92756,
+          "forks": 17927
+        },
+        {
+          "rank": 10,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 26194,
+          "forks": 2845
+        }
+      ]
+    }
+  ]
+}

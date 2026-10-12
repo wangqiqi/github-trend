@@ -1,0 +1,391 @@
+{
+  "date": "20260209",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 178459,
+          "forks": 29487
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 113877,
+          "forks": 29525
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 100872,
+          "forks": 9682
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 94025,
+          "forks": 11083
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 68510,
+          "forks": 5912
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 66364,
+          "forks": 6611
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54372,
+          "forks": 9525
+        },
+        {
+          "rank": 8,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 48279,
+          "forks": 3664
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 45891,
+          "forks": 22101
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45697,
+          "forks": 4629
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52547,
+          "forks": 97721
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2675,
+          "forks": 72922
+        },
+        {
+          "rank": 3,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18902,
+          "forks": 65917
+        },
+        {
+          "rank": 4,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 216713,
+          "forks": 60381
+        },
+        {
+          "rank": 5,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 178592,
+          "forks": 55393
+        },
+        {
+          "rank": 6,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37340,
+          "forks": 53858
+        },
+        {
+          "rank": 7,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 242878,
+          "forks": 50547
+        },
+        {
+          "rank": 8,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 217574,
+          "forks": 50034
+        },
+        {
+          "rank": 9,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153785,
+          "forks": 46111
+        },
+        {
+          "rank": 10,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20112,
+          "forks": 43485
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15...",
+          "language": "TypeScript",
+          "stars": 15539,
+          "forks": 1712
+        },
+        {
+          "rank": 2,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars": 13184,
+          "forks": 1585
+        },
+        {
+          "rank": 3,
+          "name": "pydantic/monty",
+          "url": "https://github.com/pydantic/monty",
+          "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+          "language": "Rust",
+          "stars": 3483,
+          "forks": 116
+        },
+        {
+          "rank": 4,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 16078,
+          "forks": 3554
+        },
+        {
+          "rank": 5,
+          "name": "iOfficeAI/AionUi",
+          "url": "https://github.com/iOfficeAI/AionUi",
+          "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Q...",
+          "language": "TypeScript",
+          "stars": 13561,
+          "forks": 1037
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 396789,
+          "forks": 42464
+        },
+        {
+          "rank": 7,
+          "name": "github/gh-aw",
+          "url": "https://github.com/github/gh-aw",
+          "description": "GitHub Agentic Workflows",
+          "language": "Go",
+          "stars": 652,
+          "forks": 69
+        },
+        {
+          "rank": 8,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 92975,
+          "forks": 13491
+        },
+        {
+          "rank": 9,
+          "name": "gitbutlerapp/gitbutler",
+          "url": "https://github.com/gitbutlerapp/gitbutler",
+          "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+          "language": "Rust",
+          "stars": 18535,
+          "forks": 799
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/litebox",
+          "url": "https://github.com/microsoft/litebox",
+          "description": "A security-focused library OS supporting kernel- and user-mode execution",
+          "language": "Rust",
+          "stars": 1623,
+          "forks": 70
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 16078,
+          "forks": 3554
+        },
+        {
+          "rank": 2,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 396789,
+          "forks": 42464
+        },
+        {
+          "rank": 3,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 92975,
+          "forks": 13491
+        },
+        {
+          "rank": 4,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 7336,
+          "forks": 414
+        },
+        {
+          "rank": 5,
+          "name": "DrewThomasson/ebook2audiobook",
+          "url": "https://github.com/DrewThomasson/ebook2audiobook",
+          "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
+          "language": "Python",
+          "stars": 17670,
+          "forks": 1431
+        },
+        {
+          "rank": 6,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 25067,
+          "forks": 1733
+        },
+        {
+          "rank": 7,
+          "name": "OpenBMB/MiniCPM-o",
+          "url": "https://github.com/OpenBMB/MiniCPM-o",
+          "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Yo...",
+          "language": "Python",
+          "stars": 23550,
+          "forks": 1802
+        },
+        {
+          "rank": 8,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 33019,
+          "forks": 3163
+        },
+        {
+          "rank": 9,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 79328,
+          "forks": 11566
+        },
+        {
+          "rank": 10,
+          "name": "Polymarket/agents",
+          "url": "https://github.com/Polymarket/agents",
+          "description": "Trade autonomously on Polymarket using AI Agents",
+          "language": "Python",
+          "stars": 2117,
+          "forks": 551
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260818",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 386623,
+          "forks": 81246
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 240828,
+          "forks": 36532
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 203520,
+          "forks": 20869
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195078,
+          "forks": 109064
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 170187,
+          "forks": 20249
+        },
+        {
+          "rank": 6,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 157737,
+          "forks": 16391
+        },
+        {
+          "rank": 7,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 146060,
+          "forks": 23605
+        },
+        {
+          "rank": 8,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 130000,
+          "forks": 11649
+        },
+        {
+          "rank": 9,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 128499,
+          "forks": 19340
+        },
+        {
+          "rank": 10,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 117813,
+          "forks": 12661
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174608,
+          "forks": 78669
+        },
+        {
+          "rank": 2,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42443
+        },
+        {
+          "rank": 3,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1161,
+          "forks": 41887
+        },
+        {
+          "rank": 4,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1181,
+          "forks": 37798
+        },
+        {
+          "rank": 5,
+          "name": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "description": "🎓 Path to a free self-taught education in Computer Science!",
+          "language": "HTML",
+          "stars": 208109,
+          "forks": 25764
+        },
+        {
+          "rank": 6,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 70341,
+          "forks": 24316
+        },
+        {
+          "rank": 7,
+          "name": "NixOS/nixpkgs",
+          "url": "https://github.com/NixOS/nixpkgs",
+          "description": "Nix Packages collection & NixOS",
+          "language": "Nix",
+          "stars": 25836,
+          "forks": 19847
+        },
+        {
+          "rank": 8,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19665
+        },
+        {
+          "rank": 9,
+          "name": "Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "url": "https://github.com/Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "description": "⚡🦄Arbitrage between USDC/ETH 0.3% fee pool and USDC/ETH 0.05% fee pool",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 15975
+        },
+        {
+          "rank": 10,
+          "name": "wesm/pydata-book",
+          "url": "https://github.com/wesm/pydata-book",
+          "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Re...",
+          "language": "Jupyter Notebook",
+          "stars": 24827,
+          "forks": 15678
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 107516,
+          "forks": 16300
+        },
+        {
+          "rank": 2,
+          "name": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "description": "local multi-agent harness",
+          "language": "TypeScript",
+          "stars": 1658,
+          "forks": 209
+        },
+        {
+          "rank": 3,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different a...",
+          "language": "Rust",
+          "stars": 2451,
+          "forks": 215
+        },
+        {
+          "rank": 4,
+          "name": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "language": "Python",
+          "stars": 29042,
+          "forks": 2287
+        },
+        {
+          "rank": 5,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CS...",
+          "language": "Python",
+          "stars": 28799,
+          "forks": 3470
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 463722,
+          "forks": 51255
+        },
+        {
+          "rank": 7,
+          "name": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "description": "Beautiful, Modern & Opinionated Linux",
+          "language": "Shell",
+          "stars": 26180,
+          "forks": 2669
+        },
+        {
+          "rank": 8,
+          "name": "agalwood/Motrix",
+          "url": "https://github.com/agalwood/Motrix",
+          "description": "A full-featured download manager.",
+          "language": "TypeScript",
+          "stars": 53417,
+          "forks": 4940
+        },
+        {
+          "rank": 9,
+          "name": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+          "language": "PLSQL",
+          "stars": 24158,
+          "forks": 5567
+        },
+        {
+          "rank": 10,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the ...",
+          "language": "Python",
+          "stars": 19190,
+          "forks": 1652
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 107516,
+          "forks": 16300
+        },
+        {
+          "rank": 2,
+          "name": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "language": "Python",
+          "stars": 29042,
+          "forks": 2287
+        },
+        {
+          "rank": 3,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CS...",
+          "language": "Python",
+          "stars": 28799,
+          "forks": 3470
+        },
+        {
+          "rank": 4,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 463722,
+          "forks": 51255
+        },
+        {
+          "rank": 5,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the ...",
+          "language": "Python",
+          "stars": 19190,
+          "forks": 1652
+        },
+        {
+          "rank": 6,
+          "name": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "language": "Python",
+          "stars": 38892,
+          "forks": 4290
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Resear...",
+          "language": "Python",
+          "stars": 47688,
+          "forks": 7562
+        },
+        {
+          "rank": 8,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 21014,
+          "forks": 2618
+        },
+        {
+          "rank": 9,
+          "name": "pipeshub-ai/pipeshub-ai",
+          "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+          "description": "PipesHub is an open-source fully extensible AI context layer that unifies your business data for ...",
+          "language": "Python",
+          "stars": 3402,
+          "forks": 509
+        },
+        {
+          "rank": 10,
+          "name": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+          "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+          "description": "Easily train a good VC model with voice data <= 10 mins!",
+          "language": "Python",
+          "stars": 37536,
+          "forks": 5219
+        }
+      ]
+    }
+  ]
+}

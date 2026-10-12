@@ -1,0 +1,391 @@
+{
+  "date": "20260728",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 384402,
+          "forks": 80765
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 262512,
+          "forks": 23441
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 164742,
+          "forks": 19576
+        },
+        {
+          "rank": 4,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 124912,
+          "forks": 18712
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 124254,
+          "forks": 11093
+        },
+        {
+          "rank": 6,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 111029,
+          "forks": 11833
+        },
+        {
+          "rank": 7,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 105060,
+          "forks": 12027
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 92225,
+          "forks": 13171
+        },
+        {
+          "rank": 9,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 88821,
+          "forks": 7720
+        },
+        {
+          "rank": 10,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent bec...",
+          "language": "TypeScript",
+          "stars": 82153,
+          "forks": 9497
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2678,
+          "forks": 92783
+        },
+        {
+          "rank": 2,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 384402,
+          "forks": 80765
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174530,
+          "forks": 78713
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2795,
+          "forks": 73279
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 20572,
+          "forks": 68052
+        },
+        {
+          "rank": 6,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 240829,
+          "forks": 63558
+        },
+        {
+          "rank": 7,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8614,
+          "forks": 60179
+        },
+        {
+          "rank": 8,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 184670,
+          "forks": 55692
+        },
+        {
+          "rank": 9,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37333,
+          "forks": 53371
+        },
+        {
+          "rank": 10,
+          "name": "react/react",
+          "url": "https://github.com/react/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 246741,
+          "forks": 51165
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars": 18335,
+          "forks": 2505
+        },
+        {
+          "rank": 2,
+          "name": "jenkinsci/jenkins",
+          "url": "https://github.com/jenkinsci/jenkins",
+          "description": "Jenkins automation server",
+          "language": "Java",
+          "stars": 25990,
+          "forks": 9682
+        },
+        {
+          "rank": 3,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "TypeScript",
+          "stars": 44529,
+          "forks": 4431
+        },
+        {
+          "rank": 4,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 15584,
+          "forks": 1649
+        },
+        {
+          "rank": 5,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 234500,
+          "forks": 35742
+        },
+        {
+          "rank": 6,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 6858,
+          "forks": 934
+        },
+        {
+          "rank": 7,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 10835,
+          "forks": 1303
+        },
+        {
+          "rank": 8,
+          "name": "opengeos/GeoLibre",
+          "url": "https://github.com/opengeos/GeoLibre",
+          "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial dat...",
+          "language": "TypeScript",
+          "stars": 3099,
+          "forks": 373
+        },
+        {
+          "rank": 9,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...",
+          "language": "Python",
+          "stars": 9233,
+          "forks": 1281
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and ...",
+          "language": "Python",
+          "stars": 5011,
+          "forks": 830
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 15584,
+          "forks": 1649
+        },
+        {
+          "rank": 2,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 6858,
+          "forks": 934
+        },
+        {
+          "rank": 3,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 10835,
+          "forks": 1303
+        },
+        {
+          "rank": 4,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...",
+          "language": "Python",
+          "stars": 9233,
+          "forks": 1281
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and ...",
+          "language": "Python",
+          "stars": 5011,
+          "forks": 830
+        },
+        {
+          "rank": 6,
+          "name": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands...",
+          "language": "Python",
+          "stars": 11697,
+          "forks": 1187
+        },
+        {
+          "rank": 7,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 58794,
+          "forks": 11645
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/OpenSpace",
+          "url": "https://github.com/HKUDS/OpenSpace",
+          "description": "\"OpenSpace: The Skill Management Layer for AI Agents\" -- https://open-space.cloud/",
+          "language": "Python",
+          "stars": 7131,
+          "forks": 865
+        },
+        {
+          "rank": 9,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 45184,
+          "forks": 4732
+        },
+        {
+          "rank": 10,
+          "name": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "language": "Python",
+          "stars": 27558,
+          "forks": 2161
+        }
+      ]
+    }
+  ]
+}

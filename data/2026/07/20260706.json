@@ -1,0 +1,391 @@
+{
+  "date": "20260706",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 381930,
+          "forks": 80113
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 247551,
+          "forks": 21963
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 210164,
+          "forks": 38471
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194616,
+          "forks": 109819
+        },
+        {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 158364,
+          "forks": 13615
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 127946,
+          "forks": 20775
+        },
+        {
+          "rank": 7,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 119915,
+          "forks": 17885
+        },
+        {
+          "rank": 8,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 113890,
+          "forks": 7594
+        },
+        {
+          "rank": 9,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 96163,
+          "forks": 11310
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 90034,
+          "forks": 12998
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2669,
+          "forks": 92070
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 355238,
+          "forks": 84116
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 112691,
+          "forks": 60529
+        },
+        {
+          "rank": 4,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 447115,
+          "forks": 49102
+        },
+        {
+          "rank": 5,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1644,
+          "forks": 47367
+        },
+        {
+          "rank": 6,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 31002,
+          "forks": 46701
+        },
+        {
+          "rank": 7,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 185400,
+          "forks": 46124
+        },
+        {
+          "rank": 8,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77673,
+          "forks": 44997
+        },
+        {
+          "rank": 9,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 359487,
+          "forks": 44386
+        },
+        {
+          "rank": 10,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 123456,
+          "forks": 43479
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. O...",
+          "language": "JavaScript",
+          "stars": 50952,
+          "forks": 8308
+        },
+        {
+          "rank": 2,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars": 70440,
+          "forks": 7632
+        },
+        {
+          "rank": 3,
+          "name": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker d...",
+          "language": "Rust",
+          "stars": 18688,
+          "forks": 1904
+        },
+        {
+          "rank": 4,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 77136,
+          "forks": 10349
+        },
+        {
+          "rank": 5,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "JavaScript",
+          "stars": 58502,
+          "forks": 3991
+        },
+        {
+          "rank": 6,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, cu...",
+          "language": "Python",
+          "stars": 20988,
+          "forks": 2823
+        },
+        {
+          "rank": 7,
+          "name": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description": "Use Codex from Claude Code to review code or delegate tasks.",
+          "language": "JavaScript",
+          "stars": 26107,
+          "forks": 1566
+        },
+        {
+          "rank": 8,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 49563,
+          "forks": 4126
+        },
+        {
+          "rank": 9,
+          "name": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description": "agent multiplexer that lives in your terminal.",
+          "language": "Rust",
+          "stars": 12627,
+          "forks": 734
+        },
+        {
+          "rank": 10,
+          "name": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands...",
+          "language": "Python",
+          "stars": 3935,
+          "forks": 576
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, cu...",
+          "language": "Python",
+          "stars": 20988,
+          "forks": 2823
+        },
+        {
+          "rank": 2,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 49563,
+          "forks": 4126
+        },
+        {
+          "rank": 3,
+          "name": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands...",
+          "language": "Python",
+          "stars": 3935,
+          "forks": 576
+        },
+        {
+          "rank": 4,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 91305,
+          "forks": 17649
+        },
+        {
+          "rank": 5,
+          "name": "cheahjs/free-llm-api-resources",
+          "url": "https://github.com/cheahjs/free-llm-api-resources",
+          "description": "A list of free LLM inference resources accessible via API.",
+          "language": "Python",
+          "stars": 25721,
+          "forks": 2662
+        },
+        {
+          "rank": 6,
+          "name": "karpathy/nanoGPT",
+          "url": "https://github.com/karpathy/nanoGPT",
+          "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+          "language": "Python",
+          "stars": 60830,
+          "forks": 10462
+        },
+        {
+          "rank": 7,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, ...",
+          "language": "Python",
+          "stars": 48680,
+          "forks": 4256
+        },
+        {
+          "rank": 8,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars": 78049,
+          "forks": 8861
+        },
+        {
+          "rank": 9,
+          "name": "google-antigravity/antigravity-sdk-python",
+          "url": "https://github.com/google-antigravity/antigravity-sdk-python",
+          "description": "A Python library for building AI agents that leverage the full power of Google Antigravity.",
+          "language": "Python",
+          "stars": 2261,
+          "forks": 816
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 33160,
+          "forks": 4844
+        }
+      ]
+    }
+  ]
+}

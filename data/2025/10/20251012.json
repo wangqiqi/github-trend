@@ -1,0 +1,391 @@
+{
+  "date": "20251012",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99629,
+          "forks": 16279
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91274,
+          "forks": 11754
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 90894,
+          "forks": 24684
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 80964,
+          "forks": 4493
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 78827,
+          "forks": 8567
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 71147,
+          "forks": 8401
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 70058,
+          "forks": 8332
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50240,
+          "forks": 8795
+        },
+        {
+          "rank": 9,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 47056,
+          "forks": 5666
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 42380,
+          "forks": 13917
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50800,
+          "forks": 92567
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29034,
+          "forks": 87299
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2493,
+          "forks": 85173
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173537,
+          "forks": 79164
+        },
+        {
+          "rank": 5,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2615,
+          "forks": 72677
+        },
+        {
+          "rank": 6,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 84444,
+          "forks": 56325
+        },
+        {
+          "rank": 7,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 173182,
+          "forks": 54696
+        },
+        {
+          "rank": 8,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 147844,
+          "forks": 46965
+        },
+        {
+          "rank": 9,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 178967,
+          "forks": 46022
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77640,
+          "forks": 45457
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "TypeScript",
+          "stars": 37383,
+          "forks": 2352
+        },
+        {
+          "rank": 2,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "JavaScript",
+          "stars": 7342,
+          "forks": 639
+        },
+        {
+          "rank": 3,
+          "name": "evershopcommerce/evershop",
+          "url": "https://github.com/evershopcommerce/evershop",
+          "description": "🛍️ Typescript E-commerce Platform",
+          "language": "TypeScript",
+          "stars": 6921,
+          "forks": 1847
+        },
+        {
+          "rank": 4,
+          "name": "78/xiaozhi-esp32",
+          "url": "https://github.com/78/xiaozhi-esp32",
+          "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+          "language": "C++",
+          "stars": 19758,
+          "forks": 4014
+        },
+        {
+          "rank": 5,
+          "name": "daytonaio/daytona",
+          "url": "https://github.com/daytonaio/daytona",
+          "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+          "language": "TypeScript",
+          "stars": 22569,
+          "forks": 2372
+        },
+        {
+          "rank": 6,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars": 52987,
+          "forks": 11886
+        },
+        {
+          "rank": 7,
+          "name": "WECENG/ticket-purchase",
+          "url": "https://github.com/WECENG/ticket-purchase",
+          "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+          "language": "Python",
+          "stars": 4754,
+          "forks": 606
+        },
+        {
+          "rank": 8,
+          "name": "DIYgod/RSSHub",
+          "url": "https://github.com/DIYgod/RSSHub",
+          "description": "🧡 Everything is RSSible",
+          "language": "TypeScript",
+          "stars": 39073,
+          "forks": 8591
+        },
+        {
+          "rank": 9,
+          "name": "DearVa/Everywhere",
+          "url": "https://github.com/DearVa/Everywhere",
+          "description": "A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integra...",
+          "language": "C#",
+          "stars": 356,
+          "forks": 19
+        },
+        {
+          "rank": 10,
+          "name": "Anduin2017/HowToCook",
+          "url": "https://github.com/Anduin2017/HowToCook",
+          "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+          "language": "Dockerfile",
+          "stars": 94783,
+          "forks": 10614
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "WECENG/ticket-purchase",
+          "url": "https://github.com/WECENG/ticket-purchase",
+          "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+          "language": "Python",
+          "stars": 4754,
+          "forks": 606
+        },
+        {
+          "rank": 2,
+          "name": "huggingface/diffusers",
+          "url": "https://github.com/huggingface/diffusers",
+          "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+          "language": "Python",
+          "stars": 31073,
+          "forks": 6401
+        },
+        {
+          "rank": 3,
+          "name": "Klavis-AI/klavis",
+          "url": "https://github.com/Klavis-AI/klavis",
+          "description": "Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably.",
+          "language": "Python",
+          "stars": 4709,
+          "forks": 447
+        },
+        {
+          "rank": 4,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "language": "Python",
+          "stars": 45742,
+          "forks": 3801
+        },
+        {
+          "rank": 5,
+          "name": "LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+          "url": "https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+          "description": "This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+          "language": "Python",
+          "stars": 6378,
+          "forks": 1404
+        },
+        {
+          "rank": 6,
+          "name": "getzep/graphiti",
+          "url": "https://github.com/getzep/graphiti",
+          "description": "Build Real-Time Knowledge Graphs for AI Agents",
+          "language": "Python",
+          "stars": 18970,
+          "forks": 1749
+        },
+        {
+          "rank": 7,
+          "name": "kijai/ComfyUI-WanVideoWrapper",
+          "url": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
+          "description": "",
+          "language": "Python",
+          "stars": 4804,
+          "forks": 388
+        },
+        {
+          "rank": 8,
+          "name": "hiyouga/LLaMA-Factory",
+          "url": "https://github.com/hiyouga/LLaMA-Factory",
+          "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+          "language": "Python",
+          "stars": 60017,
+          "forks": 7367
+        },
+        {
+          "rank": 9,
+          "name": "dataease/SQLBot",
+          "url": "https://github.com/dataease/SQLBot",
+          "description": "🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+          "language": "Python",
+          "stars": 3845,
+          "forks": 378
+        },
+        {
+          "rank": 10,
+          "name": "Epodonios/v2ray-configs",
+          "url": "https://github.com/Epodonios/v2ray-configs",
+          "description": "Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes",
+          "language": "Python",
+          "stars": 1923,
+          "forks": 277
+        }
+      ]
+    }
+  ]
+}

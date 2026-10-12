@@ -1,0 +1,391 @@
+{
+  "date": "20261007",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 279252,
+          "forks": 23399
+        },
+        {
+          "rank": 2,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 133788,
+          "forks": 14183
+        },
+        {
+          "rank": 3,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "JavaScript",
+          "stars": 93444,
+          "forks": 6338
+        },
+        {
+          "rank": 4,
+          "name": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 91745,
+          "forks": 1371
+        },
+        {
+          "rank": 5,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 85516,
+          "forks": 7199
+        },
+        {
+          "rank": 6,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: eval...",
+          "language": "Python",
+          "stars": 45194,
+          "forks": 15695
+        },
+        {
+          "rank": 7,
+          "name": "herdrdev/herdr",
+          "url": "https://github.com/herdrdev/herdr",
+          "description": "the runtime your coding agents live on",
+          "language": "Rust",
+          "stars": 42794,
+          "forks": 3345
+        },
+        {
+          "rank": 8,
+          "name": "codewhale-hq/Codewhale",
+          "url": "https://github.com/codewhale-hq/Codewhale",
+          "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous communit...",
+          "language": "Rust",
+          "stars": 41075,
+          "forks": 3569
+        },
+        {
+          "rank": 9,
+          "name": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in jus...",
+          "language": "TypeScript",
+          "stars": 40096,
+          "forks": 6212
+        },
+        {
+          "rank": 10,
+          "name": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+          "language": "Rust",
+          "stars": 37684,
+          "forks": 2419
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 56243,
+          "forks": 110527
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 176039,
+          "forks": 82126
+        },
+        {
+          "rank": 3,
+          "name": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+          "language": "C#",
+          "stars": 30933,
+          "forks": 80029
+        },
+        {
+          "rank": 4,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 552023,
+          "forks": 51783
+        },
+        {
+          "rank": 5,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 302,
+          "forks": 42347
+        },
+        {
+          "rank": 6,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 91354,
+          "forks": 36477
+        },
+        {
+          "rank": 7,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 143238,
+          "forks": 34141
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 545,
+          "forks": 33732
+        },
+        {
+          "rank": 9,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 179362,
+          "forks": 33242
+        },
+        {
+          "rank": 10,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 99139,
+          "forks": 32505
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 13523,
+          "forks": 1425
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 279252,
+          "forks": 23399
+        },
+        {
+          "rank": 3,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 9458,
+          "forks": 710
+        },
+        {
+          "rank": 4,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 54930,
+          "forks": 3150
+        },
+        {
+          "rank": 5,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagra...",
+          "language": "HTML",
+          "stars": 44749,
+          "forks": 2875
+        },
+        {
+          "rank": 6,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 102607,
+          "forks": 10751
+        },
+        {
+          "rank": 7,
+          "name": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "description": "A native, user-mode, multi-process, graphical debugger.",
+          "language": "C",
+          "stars": 7788,
+          "forks": 381
+        },
+        {
+          "rank": 8,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during s...",
+          "language": "TypeScript",
+          "stars": 97572,
+          "forks": 8591
+        },
+        {
+          "rank": 9,
+          "name": "manaflow-ai/cmux",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agent...",
+          "language": "Swift",
+          "stars": 27773,
+          "forks": 2459
+        },
+        {
+          "rank": 10,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, ev...",
+          "language": "Rust",
+          "stars": 28664,
+          "forks": 2036
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 54930,
+          "forks": 3150
+        },
+        {
+          "rank": 2,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 18253,
+          "forks": 1816
+        },
+        {
+          "rank": 3,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 19723,
+          "forks": 1645
+        },
+        {
+          "rank": 4,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 64956,
+          "forks": 8239
+        },
+        {
+          "rank": 5,
+          "name": "MDX-Tom/gpt-instruct",
+          "url": "https://github.com/MDX-Tom/gpt-instruct",
+          "description": "A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。",
+          "language": "Python",
+          "stars": 9312,
+          "forks": 1128
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 27081,
+          "forks": 3169
+        },
+        {
+          "rank": 7,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 23083,
+          "forks": 3711
+        },
+        {
+          "rank": 8,
+          "name": "superdesigndev/treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+          "language": "Python",
+          "stars": 4714,
+          "forks": 385
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 188998,
+          "forks": 14001
+        },
+        {
+          "rank": 10,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars": 80376,
+          "forks": 9109
+        }
+      ]
+    }
+  ]
+}

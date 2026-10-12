@@ -1,0 +1,391 @@
+{
+  "date": "20251106",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100165,
+          "forks": 16324
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 94610,
+          "forks": 25521
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91441,
+          "forks": 11784
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 82606,
+          "forks": 4661
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 81661,
+          "forks": 9118
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 74356,
+          "forks": 6224
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 72036,
+          "forks": 8645
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50688,
+          "forks": 8852
+        },
+        {
+          "rank": 9,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 49897,
+          "forks": 6164
+        },
+        {
+          "rank": 10,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Shell",
+          "stars": 45486,
+          "forks": 3908
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 12299,
+          "forks": 25658
+        },
+        {
+          "rank": 2,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 75378,
+          "forks": 25595
+        },
+        {
+          "rank": 3,
+          "name": "laravel/laravel",
+          "url": "https://github.com/laravel/laravel",
+          "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the fo...",
+          "language": "Blade",
+          "stars": 82661,
+          "forks": 24562
+        },
+        {
+          "rank": 4,
+          "name": "ultralytics/yolov5",
+          "url": "https://github.com/ultralytics/yolov5",
+          "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+          "language": "Python",
+          "stars": 55938,
+          "forks": 17301
+        },
+        {
+          "rank": 5,
+          "name": "josephmisiti/awesome-machine-learning",
+          "url": "https://github.com/josephmisiti/awesome-machine-learning",
+          "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+          "language": "Python",
+          "stars": 70498,
+          "forks": 15145
+        },
+        {
+          "rank": 6,
+          "name": "apache/kafka",
+          "url": "https://github.com/apache/kafka",
+          "description": "Mirror of Apache Kafka",
+          "language": "Java",
+          "stars": 31234,
+          "forks": 14773
+        },
+        {
+          "rank": 7,
+          "name": "apache/flink",
+          "url": "https://github.com/apache/flink",
+          "description": "Apache Flink",
+          "language": "Java",
+          "stars": 25448,
+          "forks": 13753
+        },
+        {
+          "rank": 8,
+          "name": "MithunTechnologiesDevOps/maven-web-application",
+          "url": "https://github.com/MithunTechnologiesDevOps/maven-web-application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 115,
+          "forks": 12851
+        },
+        {
+          "rank": 9,
+          "name": "android/architecture-samples",
+          "url": "https://github.com/android/architecture-samples",
+          "description": "A collection of samples to discuss and showcase different architectural tools and patterns for An...",
+          "language": "Kotlin",
+          "stars": 45383,
+          "forks": 11817
+        },
+        {
+          "rank": 10,
+          "name": "TryGhost/Ghost",
+          "url": "https://github.com/TryGhost/Ghost",
+          "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+          "language": "JavaScript",
+          "stars": 51126,
+          "forks": 11142
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 17109,
+          "forks": 3322
+        },
+        {
+          "rank": 2,
+          "name": "Skyvern-AI/skyvern",
+          "url": "https://github.com/Skyvern-AI/skyvern",
+          "description": "Automate browser based workflows with AI",
+          "language": "Python",
+          "stars": 16603,
+          "forks": 1412
+        },
+        {
+          "rank": 3,
+          "name": "nocobase/nocobase",
+          "url": "https://github.com/nocobase/nocobase",
+          "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applic...",
+          "language": "TypeScript",
+          "stars": 18057,
+          "forks": 2049
+        },
+        {
+          "rank": 4,
+          "name": "mudler/LocalAI",
+          "url": "https://github.com/mudler/LocalAI",
+          "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Dr...",
+          "language": "Go",
+          "stars": 37426,
+          "forks": 2954
+        },
+        {
+          "rank": 5,
+          "name": "sst/opentui",
+          "url": "https://github.com/sst/opentui",
+          "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+          "language": "TypeScript",
+          "stars": 4546,
+          "forks": 166
+        },
+        {
+          "rank": 6,
+          "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+          "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+          "description": "An evolving how-to guide for securing a Linux server.",
+          "language": "N/A",
+          "stars": 22014,
+          "forks": 1396
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/go-sdk",
+          "url": "https://github.com/modelcontextprotocol/go-sdk",
+          "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration w...",
+          "language": "Go",
+          "stars": 2719,
+          "forks": 249
+        },
+        {
+          "rank": 8,
+          "name": "ad-on-is/rachoon",
+          "url": "https://github.com/ad-on-is/rachoon",
+          "description": "🦝 Rachoon — A self-hostable way to handle invoices",
+          "language": "TypeScript",
+          "stars": 301,
+          "forks": 14
+        },
+        {
+          "rank": 9,
+          "name": "KotatsuApp/Kotatsu",
+          "url": "https://github.com/KotatsuApp/Kotatsu",
+          "description": "Manga reader for Android",
+          "language": "Kotlin",
+          "stars": 7182,
+          "forks": 366
+        },
+        {
+          "rank": 10,
+          "name": "ggml-org/ggml",
+          "url": "https://github.com/ggml-org/ggml",
+          "description": "Tensor library for machine learning",
+          "language": "C++",
+          "stars": 13388,
+          "forks": 1377
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 17109,
+          "forks": 3322
+        },
+        {
+          "rank": 2,
+          "name": "Skyvern-AI/skyvern",
+          "url": "https://github.com/Skyvern-AI/skyvern",
+          "description": "Automate browser based workflows with AI",
+          "language": "Python",
+          "stars": 16603,
+          "forks": 1412
+        },
+        {
+          "rank": 3,
+          "name": "localstack/localstack",
+          "url": "https://github.com/localstack/localstack",
+          "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+          "language": "Python",
+          "stars": 61625,
+          "forks": 4315
+        },
+        {
+          "rank": 4,
+          "name": "coleam00/ottomator-agents",
+          "url": "https://github.com/coleam00/ottomator-agents",
+          "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+          "language": "Python",
+          "stars": 4764,
+          "forks": 1692
+        },
+        {
+          "rank": 5,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 6 lines of code",
+          "language": "Python",
+          "stars": 8038,
+          "forks": 753
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 9601,
+          "forks": 1293
+        },
+        {
+          "rank": 7,
+          "name": "qodo-ai/pr-agent",
+          "url": "https://github.com/qodo-ai/pr-agent",
+          "description": "🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and M...",
+          "language": "Python",
+          "stars": 9395,
+          "forks": 1150
+        },
+        {
+          "rank": 8,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+          "language": "Python",
+          "stars": 37077,
+          "forks": 5959
+        },
+        {
+          "rank": 9,
+          "name": "AsyncFuncAI/deepwiki-open",
+          "url": "https://github.com/AsyncFuncAI/deepwiki-open",
+          "description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join th...",
+          "language": "Python",
+          "stars": 11780,
+          "forks": 1269
+        },
+        {
+          "rank": 10,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+          "language": "Python",
+          "stars": 2631,
+          "forks": 330
+        }
+      ]
+    }
+  ]
+}

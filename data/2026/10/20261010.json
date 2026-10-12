@@ -1,0 +1,391 @@
+{
+  "date": "20261010",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 391588,
+          "forks": 82318
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 284000,
+          "forks": 23785
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 276327,
+          "forks": 41221
+        },
+        {
+          "rank": 4,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 246884,
+          "forks": 29642
+        },
+        {
+          "rank": 5,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 218005,
+          "forks": 21969
+        },
+        {
+          "rank": 6,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 160253,
+          "forks": 8619
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 134428,
+          "forks": 14280
+        },
+        {
+          "rank": 8,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 125211,
+          "forks": 12091
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 97639,
+          "forks": 13564
+        },
+        {
+          "rank": 10,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "JavaScript",
+          "stars": 94349,
+          "forks": 6421
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 206904,
+          "forks": 61047
+        },
+        {
+          "rank": 2,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 302,
+          "forks": 42340
+        },
+        {
+          "rank": 3,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 77607,
+          "forks": 37865
+        },
+        {
+          "rank": 4,
+          "name": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabl...",
+          "language": "N/A",
+          "stars": 517124,
+          "forks": 37369
+        },
+        {
+          "rank": 5,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 545,
+          "forks": 33737
+        },
+        {
+          "rank": 6,
+          "name": "justjavac/free-programming-books-zh_CN",
+          "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+          "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+          "language": "N/A",
+          "stars": 119122,
+          "forks": 28252
+        },
+        {
+          "rank": 7,
+          "name": "iluwatar/java-design-patterns",
+          "url": "https://github.com/iluwatar/java-design-patterns",
+          "description": "Design patterns implemented in Java",
+          "language": "Java",
+          "stars": 94776,
+          "forks": 27365
+        },
+        {
+          "rank": 8,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 158681,
+          "forks": 25609
+        },
+        {
+          "rank": 9,
+          "name": "Sloboscc/Slobos-AFK-Aternos-Bot",
+          "url": "https://github.com/Sloboscc/Slobos-AFK-Aternos-Bot",
+          "description": "A bot that can keep uptime within a Aternos server using a mineflayer bot system. Convenient for ...",
+          "language": "JavaScript",
+          "stars": 82,
+          "forks": 22705
+        },
+        {
+          "rank": 10,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 154194,
+          "forks": 22560
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 65806,
+          "forks": 13733
+        },
+        {
+          "rank": 2,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 25492,
+          "forks": 2118
+        },
+        {
+          "rank": 3,
+          "name": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+          "language": "Rust",
+          "stars": 13540,
+          "forks": 2100
+        },
+        {
+          "rank": 4,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagra...",
+          "language": "HTML",
+          "stars": 48654,
+          "forks": 3072
+        },
+        {
+          "rank": 5,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists...",
+          "language": "TypeScript",
+          "stars": 26150,
+          "forks": 1882
+        },
+        {
+          "rank": 6,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 284000,
+          "forks": 23785
+        },
+        {
+          "rank": 7,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 179362,
+          "forks": 33547
+        },
+        {
+          "rank": 8,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 200645,
+          "forks": 78908
+        },
+        {
+          "rank": 9,
+          "name": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a...",
+          "language": "Python",
+          "stars": 59189,
+          "forks": 4666
+        },
+        {
+          "rank": 10,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 104071,
+          "forks": 31909
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a...",
+          "language": "Python",
+          "stars": 59189,
+          "forks": 4666
+        },
+        {
+          "rank": 2,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 104071,
+          "forks": 31909
+        },
+        {
+          "rank": 3,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 167090,
+          "forks": 34793
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 28656,
+          "forks": 3268
+        },
+        {
+          "rank": 5,
+          "name": "fastapi/fastapi",
+          "url": "https://github.com/fastapi/fastapi",
+          "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+          "language": "Python",
+          "stars": 102968,
+          "forks": 10018
+        },
+        {
+          "rank": 6,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 91355,
+          "forks": 38857
+        },
+        {
+          "rank": 7,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 56964,
+          "forks": 6391
+        },
+        {
+          "rank": 8,
+          "name": "derv82/wifit3",
+          "url": "https://github.com/derv82/wifit3",
+          "description": "Wifite but USB-only & cross-platform.",
+          "language": "Python",
+          "stars": 2166,
+          "forks": 202
+        },
+        {
+          "rank": 9,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3...",
+          "language": "Python",
+          "stars": 17927,
+          "forks": 1965
+        },
+        {
+          "rank": 10,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 82437,
+          "forks": 10225
+        }
+      ]
+    }
+  ]
+}

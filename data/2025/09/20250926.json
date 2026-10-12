@@ -1,0 +1,391 @@
+{
+  "date": "20250926",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99425,
+          "forks": 16229
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91197,
+          "forks": 11746
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 88025,
+          "forks": 24112
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 80122,
+          "forks": 4415
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 76746,
+          "forks": 8241
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 71239,
+          "forks": 5878
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70516,
+          "forks": 8260
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 68904,
+          "forks": 8124
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50014,
+          "forks": 8762
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 44610,
+          "forks": 5220
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50527,
+          "forks": 91698
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173474,
+          "forks": 79172
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2599,
+          "forks": 72631
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 370505,
+          "forks": 64309
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17907,
+          "forks": 63427
+        },
+        {
+          "rank": 6,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8199,
+          "forks": 58769
+        },
+        {
+          "rank": 7,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 203385,
+          "forks": 57911
+        },
+        {
+          "rank": 8,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 84275,
+          "forks": 56301
+        },
+        {
+          "rank": 9,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 172701,
+          "forks": 54616
+        },
+        {
+          "rank": 10,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37270,
+          "forks": 54098
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ZuodaoTech/everyone-can-use-english",
+          "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+          "description": "人人都能用英语",
+          "language": "TypeScript",
+          "stars": 29599,
+          "forks": 4266
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "language": "Python",
+          "stars": 6107,
+          "forks": 699
+        },
+        {
+          "rank": 3,
+          "name": "humanlayer/humanlayer",
+          "url": "https://github.com/humanlayer/humanlayer",
+          "description": "The best way to get AI to solve hard problems in complex codebases.",
+          "language": "TypeScript",
+          "stars": 3121,
+          "forks": 272
+        },
+        {
+          "rank": 4,
+          "name": "gin-gonic/gin",
+          "url": "https://github.com/gin-gonic/gin",
+          "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but wi...",
+          "language": "Go",
+          "stars": 85810,
+          "forks": 8417
+        },
+        {
+          "rank": 5,
+          "name": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "description": "Opinionated Arch/Hyprland Setup",
+          "language": "Shell",
+          "stars": 10623,
+          "forks": 1053
+        },
+        {
+          "rank": 6,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 13985,
+          "forks": 1935
+        },
+        {
+          "rank": 7,
+          "name": "ericciarla/trendFinder",
+          "url": "https://github.com/ericciarla/trendFinder",
+          "description": "Stay on top of trending topics on social media and the web with AI",
+          "language": "TypeScript",
+          "stars": 3518,
+          "forks": 394
+        },
+        {
+          "rank": 8,
+          "name": "netdata/netdata",
+          "url": "https://github.com/netdata/netdata",
+          "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+          "language": "C",
+          "stars": 76052,
+          "forks": 6166
+        },
+        {
+          "rank": 9,
+          "name": "jellyfin/jellyfin",
+          "url": "https://github.com/jellyfin/jellyfin",
+          "description": "The Free Software Media System - Server Backend & API",
+          "language": "C#",
+          "stars": 43675,
+          "forks": 3927
+        },
+        {
+          "rank": 10,
+          "name": "bytedance/Dolphin",
+          "url": "https://github.com/bytedance/Dolphin",
+          "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, ...",
+          "language": "Python",
+          "stars": 6740,
+          "forks": 543
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "language": "Python",
+          "stars": 6107,
+          "forks": 699
+        },
+        {
+          "rank": 2,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 13985,
+          "forks": 1935
+        },
+        {
+          "rank": 3,
+          "name": "bytedance/Dolphin",
+          "url": "https://github.com/bytedance/Dolphin",
+          "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, ...",
+          "language": "Python",
+          "stars": 6740,
+          "forks": 543
+        },
+        {
+          "rank": 4,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 31412,
+          "forks": 2086
+        },
+        {
+          "rank": 5,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO 🚀",
+          "language": "Python",
+          "stars": 46271,
+          "forks": 8985
+        },
+        {
+          "rank": 6,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars": 35151,
+          "forks": 2889
+        },
+        {
+          "rank": 7,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 209278,
+          "forks": 48173
+        },
+        {
+          "rank": 8,
+          "name": "Olow304/memvid",
+          "url": "https://github.com/Olow304/memvid",
+          "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast sem...",
+          "language": "Python",
+          "stars": 9168,
+          "forks": 761
+        },
+        {
+          "rank": 9,
+          "name": "OpenPipe/ART",
+          "url": "https://github.com/OpenPipe/ART",
+          "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your a...",
+          "language": "Python",
+          "stars": 7411,
+          "forks": 552
+        },
+        {
+          "rank": 10,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 11256,
+          "forks": 969
+        }
+      ]
+    }
+  ]
+}

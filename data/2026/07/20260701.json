@@ -1,0 +1,391 @@
+{
+  "date": "20260701",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "PicoTrex/Awesome-Nano-Banana-images",
+          "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+          "description": "A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, ...",
+          "language": "N/A",
+          "stars": 23121,
+          "forks": 2377
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-for-legal",
+          "url": "https://github.com/anthropics/claude-for-legal",
+          "description": "A suite of plugins for legal workflows",
+          "language": "Python",
+          "stars": 8580,
+          "forks": 1611
+        },
+        {
+          "rank": 3,
+          "name": "op7418/CodePilot",
+          "url": "https://github.com/op7418/CodePilot",
+          "description": "A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, contro...",
+          "language": "TypeScript",
+          "stars": 6083,
+          "forks": 654
+        },
+        {
+          "rank": 4,
+          "name": "QuipNetwork/quip-node-manager",
+          "url": "https://github.com/QuipNetwork/quip-node-manager",
+          "description": "A simple GUI client to manage a Quip Network node",
+          "language": "Rust",
+          "stars": 5514,
+          "forks": 17
+        },
+        {
+          "rank": 5,
+          "name": "zhinianboke/xianyu-auto-reply",
+          "url": "https://github.com/zhinianboke/xianyu-auto-reply",
+          "description": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服...",
+          "language": "Python",
+          "stars": 5401,
+          "forks": 1480
+        },
+        {
+          "rank": 6,
+          "name": "Hammer1/cozeworkflows",
+          "url": "https://github.com/Hammer1/cozeworkflows",
+          "description": "coze 的200+工作流合集汇总，一直更新",
+          "language": "N/A",
+          "stars": 5384,
+          "forks": 1991
+        },
+        {
+          "rank": 7,
+          "name": "unicity-astrid/rfcs",
+          "url": "https://github.com/unicity-astrid/rfcs",
+          "description": "RFCs for the Astrid agent runtime",
+          "language": "Python",
+          "stars": 4307,
+          "forks": 8
+        },
+        {
+          "rank": 8,
+          "name": "OneRedOak/claude-code-workflows",
+          "url": "https://github.com/OneRedOak/claude-code-workflows",
+          "description": "The best workflows and configurations I've developed, having heavily used Claude Code since the d...",
+          "language": "N/A",
+          "stars": 3846,
+          "forks": 565
+        },
+        {
+          "rank": 9,
+          "name": "Seeed-Projects/reBot-DevArm",
+          "url": "https://github.com/Seeed-Projects/reBot-DevArm",
+          "description": "Open Source Robotic Arm for All Developers",
+          "language": "N/A",
+          "stars": 3796,
+          "forks": 371
+        },
+        {
+          "rank": 10,
+          "name": "remorses/playwriter",
+          "url": "https://github.com/remorses/playwriter",
+          "description": "Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful...",
+          "language": "HTML",
+          "stars": 3661,
+          "forks": 160
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2668,
+          "forks": 91924
+        },
+        {
+          "rank": 2,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195878,
+          "forks": 75241
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2776,
+          "forks": 73222
+        },
+        {
+          "rank": 4,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 183843,
+          "forks": 55680
+        },
+        {
+          "rank": 5,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 521336,
+          "forks": 49319
+        },
+        {
+          "rank": 6,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1640,
+          "forks": 47309
+        },
+        {
+          "rank": 7,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 185228,
+          "forks": 46117
+        },
+        {
+          "rank": 8,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 52948,
+          "forks": 45900
+        },
+        {
+          "rank": 9,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 358802,
+          "forks": 44313
+        },
+        {
+          "rank": 10,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20500,
+          "forks": 44042
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 122303,
+          "forks": 19950
+        },
+        {
+          "rank": 2,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 28933,
+          "forks": 3184
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 16263,
+          "forks": 2776
+        },
+        {
+          "rank": 4,
+          "name": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target musc...",
+          "language": "HTML",
+          "stars": 8039,
+          "forks": 919
+        },
+        {
+          "rank": 5,
+          "name": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 2188,
+          "forks": 113
+        },
+        {
+          "rank": 6,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code,...",
+          "language": "TypeScript",
+          "stars": 9191,
+          "forks": 1435
+        },
+        {
+          "rank": 7,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 18112,
+          "forks": 1492
+        },
+        {
+          "rank": 8,
+          "name": "logto-io/logto",
+          "url": "https://github.com/logto-io/logto",
+          "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth...",
+          "language": "TypeScript",
+          "stars": 13105,
+          "forks": 895
+        },
+        {
+          "rank": 9,
+          "name": "togatoga/karukan",
+          "url": "https://github.com/togatoga/karukan",
+          "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+          "language": "Rust",
+          "stars": 538,
+          "forks": 31
+        },
+        {
+          "rank": 10,
+          "name": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "description": "Common User Passwords Profiler (CUPP)",
+          "language": "Python",
+          "stars": 6207,
+          "forks": 2059
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 28933,
+          "forks": 3184
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 16263,
+          "forks": 2776
+        },
+        {
+          "rank": 3,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 18112,
+          "forks": 1492
+        },
+        {
+          "rank": 4,
+          "name": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "description": "Common User Passwords Profiler (CUPP)",
+          "language": "Python",
+          "stars": 6207,
+          "forks": 2059
+        },
+        {
+          "rank": 5,
+          "name": "Unclecheng-li/VulnClaw",
+          "url": "https://github.com/Unclecheng-li/VulnClaw",
+          "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+          "language": "Python",
+          "stars": 1512,
+          "forks": 210
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 13040,
+          "forks": 1640
+        },
+        {
+          "rank": 7,
+          "name": "google/agents-cli",
+          "url": "https://github.com/google/agents-cli",
+          "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and dep...",
+          "language": "Python",
+          "stars": 4511,
+          "forks": 477
+        },
+        {
+          "rank": 8,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 143683,
+          "forks": 20733
+        },
+        {
+          "rank": 9,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 7341,
+          "forks": 904
+        },
+        {
+          "rank": 10,
+          "name": "psf/black",
+          "url": "https://github.com/psf/black",
+          "description": "The uncompromising Python code formatter",
+          "language": "Python",
+          "stars": 41656,
+          "forks": 2788
+        }
+      ]
+    }
+  ]
+}

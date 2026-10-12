@@ -1,0 +1,391 @@
+{
+  "date": "20260504",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 189973,
+          "forks": 109657
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 173044,
+          "forks": 26815
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 132076,
+          "forks": 20047
+        },
+        {
+          "rank": 4,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 110595,
+          "forks": 11011
+        },
+        {
+          "rank": 5,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 88954,
+          "forks": 13100
+        },
+        {
+          "rank": 6,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 71801,
+          "forks": 6161
+        },
+        {
+          "rank": 7,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "Open-source orchestration for zero-human companies",
+          "language": "TypeScript",
+          "stars": 62175,
+          "forks": 11053
+        },
+        {
+          "rank": 8,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 59072,
+          "forks": 9197
+        },
+        {
+          "rank": 9,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 58151,
+          "forks": 4993
+        },
+        {
+          "rank": 10,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 58016,
+          "forks": 9523
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174217,
+          "forks": 78933
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 110183,
+          "forks": 59097
+        },
+        {
+          "rank": 3,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37350,
+          "forks": 53596
+        },
+        {
+          "rank": 4,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 431101,
+          "forks": 47068
+        },
+        {
+          "rank": 5,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+          "language": "Java",
+          "stars": 155391,
+          "forks": 46155
+        },
+        {
+          "rank": 6,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 80560,
+          "forks": 41903
+        },
+        {
+          "rank": 7,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 29116,
+          "forks": 41855
+        },
+        {
+          "rank": 8,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 50458,
+          "forks": 32261
+        },
+        {
+          "rank": 9,
+          "name": "bia-pain-bache/BPB-Worker-Panel",
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private...",
+          "language": "TypeScript",
+          "stars": 10308,
+          "forks": 31433
+        },
+        {
+          "rank": 10,
+          "name": "mdn/learning-area",
+          "url": "https://github.com/mdn/learning-area",
+          "description": "GitHub repo for the MDN Learning Area.",
+          "language": "HTML",
+          "stars": 7567,
+          "forks": 27344
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coo...",
+          "language": "TypeScript",
+          "stars": 40285,
+          "forks": 4543
+        },
+        {
+          "rank": 2,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 66404,
+          "forks": 12833
+        },
+        {
+          "rank": 3,
+          "name": "browserbase/skills",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "language": "JavaScript",
+          "stars": 1987,
+          "forks": 129
+        },
+        {
+          "rank": 4,
+          "name": "Hmbown/DeepSeek-TUI",
+          "url": "https://github.com/Hmbown/DeepSeek-TUI",
+          "description": "Coding agent for DeepSeek models that runs in your terminal",
+          "language": "Rust",
+          "stars": 3206,
+          "forks": 204
+        },
+        {
+          "rank": 5,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 24408,
+          "forks": 1720
+        },
+        {
+          "rank": 6,
+          "name": "qbittorrent/qBittorrent",
+          "url": "https://github.com/qbittorrent/qBittorrent",
+          "description": "qBittorrent BitTorrent client",
+          "language": "C++",
+          "stars": 36926,
+          "forks": 4645
+        },
+        {
+          "rank": 7,
+          "name": "czlonkowski/n8n-mcp",
+          "url": "https://github.com/czlonkowski/n8n-mcp",
+          "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+          "language": "TypeScript",
+          "stars": 19767,
+          "forks": 3258
+        },
+        {
+          "rank": 8,
+          "name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "language": "Rust",
+          "stars": 3702,
+          "forks": 347
+        },
+        {
+          "rank": 9,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 92067,
+          "forks": 15123
+        },
+        {
+          "rank": 10,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars": 22866,
+          "forks": 2801
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 66404,
+          "forks": 12833
+        },
+        {
+          "rank": 2,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 24408,
+          "forks": 1720
+        },
+        {
+          "rank": 3,
+          "name": "cocoindex-io/cocoindex",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+          "language": "Python",
+          "stars": 7781,
+          "forks": 576
+        },
+        {
+          "rank": 4,
+          "name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 10627,
+          "forks": 1646
+        },
+        {
+          "rank": 5,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 17302,
+          "forks": 2060
+        },
+        {
+          "rank": 6,
+          "name": "OWASP/Nettacker",
+          "url": "https://github.com/OWASP/Nettacker",
+          "description": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Manag...",
+          "language": "Python",
+          "stars": 5119,
+          "forks": 1090
+        },
+        {
+          "rank": 7,
+          "name": "raullenchai/Rapid-MLX",
+          "url": "https://github.com/raullenchai/Rapid-MLX",
+          "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% t...",
+          "language": "Python",
+          "stars": 866,
+          "forks": 97
+        },
+        {
+          "rank": 8,
+          "name": "Q00/ouroboros",
+          "url": "https://github.com/Q00/ouroboros",
+          "description": "Agent OS: Stop prompting. Start specifying.",
+          "language": "Python",
+          "stars": 3232,
+          "forks": 315
+        },
+        {
+          "rank": 9,
+          "name": "MervinPraison/PraisonAI",
+          "url": "https://github.com/MervinPraison/PraisonAI",
+          "description": "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous se...",
+          "language": "Python",
+          "stars": 7041,
+          "forks": 1076
+        },
+        {
+          "rank": 10,
+          "name": "alexgreensh/token-optimizer",
+          "url": "https://github.com/alexgreensh/token-optimizer",
+          "description": "Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.",
+          "language": "Python",
+          "stars": 857,
+          "forks": 67
+        }
+      ]
+    }
+  ]
+}

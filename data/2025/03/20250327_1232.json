@@ -1,0 +1,391 @@
+{
+  "date": "20250327",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "shardeum/shardeum",
+          "url": "https://github.com/shardeum/shardeum",
+          "description": "Shardeum is an EVM based autoscaling blockchain",
+          "language": "TypeScript",
+          "stars": 31959,
+          "forks": 681
+        },
+        {
+          "rank": 2,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artific...",
+          "language": "Python",
+          "stars": 27747,
+          "forks": 4148
+        },
+        {
+          "rank": 3,
+          "name": "zen-browser/desktop",
+          "url": "https://github.com/zen-browser/desktop",
+          "description": "A calmer internet, without any gimmicks.",
+          "language": "JavaScript",
+          "stars": 27708,
+          "forks": 737
+        },
+        {
+          "rank": 4,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 26002,
+          "forks": 2670
+        },
+        {
+          "rank": 5,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 25455,
+          "forks": 1521
+        },
+        {
+          "rank": 6,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 22029,
+          "forks": 2624
+        },
+        {
+          "rank": 7,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21048,
+          "forks": 1490
+        },
+        {
+          "rank": 8,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1",
+          "language": "TypeScript",
+          "stars": 21032,
+          "forks": 1763
+        },
+        {
+          "rank": 9,
+          "name": "aidenybai/react-scan",
+          "url": "https://github.com/aidenybai/react-scan",
+          "description": "Scan for React performance issues and eliminate slow renders in your app",
+          "language": "TypeScript",
+          "stars": 17298,
+          "forks": 254
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 17249,
+          "forks": 1914
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 12905,
+          "forks": 150124
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28168,
+          "forks": 86319
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "JavaScript",
+          "stars": 171851,
+          "forks": 79062
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 188859,
+          "forks": 74605
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "HTML",
+          "stars": 354000,
+          "forks": 63102
+        },
+        {
+          "rank": 6,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 82289,
+          "forks": 61042
+        },
+        {
+          "rank": 7,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 190386,
+          "forks": 55329
+        },
+        {
+          "rank": 8,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 94084,
+          "forks": 51721
+        },
+        {
+          "rank": 9,
+          "name": "CyC2018/CS-Notes",
+          "url": "https://github.com/CyC2018/CS-Notes",
+          "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+          "language": "N/A",
+          "stars": 179562,
+          "forks": 51211
+        },
+        {
+          "rank": 10,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 6875,
+          "forks": 49922
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ourongxing/newsnow",
+          "url": "https://github.com/ourongxing/newsnow",
+          "description": "Elegant reading of real-time and hottest news",
+          "language": "TypeScript",
+          "stars": 5859,
+          "forks": 1397
+        },
+        {
+          "rank": 2,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 22029,
+          "forks": 2624
+        },
+        {
+          "rank": 3,
+          "name": "kubernetes/ingress-nginx",
+          "url": "https://github.com/kubernetes/ingress-nginx",
+          "description": "Ingress NGINX Controller for Kubernetes",
+          "language": "Go",
+          "stars": 18217,
+          "forks": 8344
+        },
+        {
+          "rank": 4,
+          "name": "khoj-ai/khoj",
+          "url": "https://github.com/khoj-ai/khoj",
+          "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, ...",
+          "language": "Python",
+          "stars": 27664,
+          "forks": 1529
+        },
+        {
+          "rank": 5,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "",
+          "language": "Python",
+          "stars": 94120,
+          "forks": 15239
+        },
+        {
+          "rank": 6,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 71898,
+          "forks": 16048
+        },
+        {
+          "rank": 7,
+          "name": "alibaba/spring-ai-alibaba",
+          "url": "https://github.com/alibaba/spring-ai-alibaba",
+          "description": "Agentic AI Framework for Java Developers",
+          "language": "Java",
+          "stars": 1687,
+          "forks": 348
+        },
+        {
+          "rank": 8,
+          "name": "Akkudoktor-EOS/EOS",
+          "url": "https://github.com/Akkudoktor-EOS/EOS",
+          "description": "This repository features an Energy Optimization System (EOS) that optimizes energy distribution, ...",
+          "language": "Python",
+          "stars": 846,
+          "forks": 76
+        },
+        {
+          "rank": 9,
+          "name": "signalapp/libsignal",
+          "url": "https://github.com/signalapp/libsignal",
+          "description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
+          "language": "Rust",
+          "stars": 4040,
+          "forks": 483
+        },
+        {
+          "rank": 10,
+          "name": "NirDiamant/GenAI_Agents",
+          "url": "https://github.com/NirDiamant/GenAI_Agents",
+          "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques...",
+          "language": "Jupyter Notebook",
+          "stars": 10249,
+          "forks": 1303
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 22029,
+          "forks": 2624
+        },
+        {
+          "rank": 2,
+          "name": "khoj-ai/khoj",
+          "url": "https://github.com/khoj-ai/khoj",
+          "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, ...",
+          "language": "Python",
+          "stars": 27664,
+          "forks": 1529
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "",
+          "language": "Python",
+          "stars": 94120,
+          "forks": 15239
+        },
+        {
+          "rank": 4,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 71898,
+          "forks": 16048
+        },
+        {
+          "rank": 5,
+          "name": "Akkudoktor-EOS/EOS",
+          "url": "https://github.com/Akkudoktor-EOS/EOS",
+          "description": "This repository features an Energy Optimization System (EOS) that optimizes energy distribution, ...",
+          "language": "Python",
+          "stars": 846,
+          "forks": 76
+        },
+        {
+          "rank": 6,
+          "name": "1Panel-dev/MaxKB",
+          "url": "https://github.com/1Panel-dev/MaxKB",
+          "description": "💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as...",
+          "language": "Python",
+          "stars": 15050,
+          "forks": 1995
+        },
+        {
+          "rank": 7,
+          "name": "All-Hands-AI/OpenHands",
+          "url": "https://github.com/All-Hands-AI/OpenHands",
+          "description": "🙌 OpenHands: Code Less, Make More",
+          "language": "Python",
+          "stars": 51402,
+          "forks": 5687
+        },
+        {
+          "rank": 8,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 334110,
+          "forks": 35323
+        },
+        {
+          "rank": 9,
+          "name": "PrefectHQ/prefect",
+          "url": "https://github.com/PrefectHQ/prefect",
+          "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+          "language": "Python",
+          "stars": 18758,
+          "forks": 1746
+        },
+        {
+          "rank": 10,
+          "name": "Asabeneh/30-Days-Of-Python",
+          "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+          "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming l...",
+          "language": "Python",
+          "stars": 45400,
+          "forks": 8684
+        }
+      ]
+    }
+  ]
+}

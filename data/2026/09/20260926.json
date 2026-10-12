@@ -1,0 +1,391 @@
+{
+  "date": "20260926",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 270089,
+          "forks": 22748
+        },
+        {
+          "rank": 2,
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens fo...",
+          "language": "Python",
+          "stars": 73859,
+          "forks": 5701
+        },
+        {
+          "rank": 3,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 71482,
+          "forks": 4318
+        },
+        {
+          "rank": 4,
+          "name": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+          "language": "HTML",
+          "stars": 66380,
+          "forks": 6603
+        },
+        {
+          "rank": 5,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars": 55754,
+          "forks": 6947
+        },
+        {
+          "rank": 6,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 51326,
+          "forks": 2959
+        },
+        {
+          "rank": 7,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: eval...",
+          "language": "Python",
+          "stars": 44024,
+          "forks": 15159
+        },
+        {
+          "rank": 8,
+          "name": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+          "language": "Go",
+          "stars": 42864,
+          "forks": 9136
+        },
+        {
+          "rank": 9,
+          "name": "AlexsJones/llmfit",
+          "url": "https://github.com/AlexsJones/llmfit",
+          "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+          "language": "Rust",
+          "stars": 37186,
+          "forks": 2373
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 34065,
+          "forks": 5546
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8662,
+          "forks": 60029
+        },
+        {
+          "rank": 2,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 549797,
+          "forks": 51645
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1677,
+          "forks": 48752
+        },
+        {
+          "rank": 4,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 456239,
+          "forks": 47397
+        },
+        {
+          "rank": 5,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 60257,
+          "forks": 38763
+        },
+        {
+          "rank": 6,
+          "name": "DefinitelyTyped/DefinitelyTyped",
+          "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+          "description": "The repository for high quality TypeScript type definitions.",
+          "language": "TypeScript",
+          "stars": 51445,
+          "forks": 30368
+        },
+        {
+          "rank": 7,
+          "name": "lewagon/dotfiles",
+          "url": "https://github.com/lewagon/dotfiles",
+          "description": "Default configuration for Le Wagon's students",
+          "language": "Shell",
+          "stars": 21823,
+          "forks": 28887
+        },
+        {
+          "rank": 8,
+          "name": "godotengine/godot",
+          "url": "https://github.com/godotengine/godot",
+          "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+          "language": "C++",
+          "stars": 117809,
+          "forks": 26849
+        },
+        {
+          "rank": 9,
+          "name": "danielmiessler/SecLists",
+          "url": "https://github.com/danielmiessler/SecLists",
+          "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used du...",
+          "language": "PHP",
+          "stars": 73735,
+          "forks": 25127
+        },
+        {
+          "rank": 10,
+          "name": "expressjs/express",
+          "url": "https://github.com/expressjs/express",
+          "description": "Fast, unopinionated, minimalist web framework for node.",
+          "language": "JavaScript",
+          "stars": 69482,
+          "forks": 25072
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 86350,
+          "forks": 15348
+        },
+        {
+          "rank": 2,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 31063,
+          "forks": 3370
+        },
+        {
+          "rank": 3,
+          "name": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning,...",
+          "language": "Python",
+          "stars": 4640,
+          "forks": 660
+        },
+        {
+          "rank": 4,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF...",
+          "language": "TypeScript",
+          "stars": 19028,
+          "forks": 1621
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 200372,
+          "forks": 77554
+        },
+        {
+          "rank": 6,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 58066,
+          "forks": 10077
+        },
+        {
+          "rank": 7,
+          "name": "openbao/openbao",
+          "url": "https://github.com/openbao/openbao",
+          "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets,...",
+          "language": "Go",
+          "stars": 7916,
+          "forks": 589
+        },
+        {
+          "rank": 8,
+          "name": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "description": "A hive mind communication platform",
+          "language": "Rust",
+          "stars": 34749,
+          "forks": 4594
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 192996,
+          "forks": 43470
+        },
+        {
+          "rank": 10,
+          "name": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-pow...",
+          "language": "PowerShell",
+          "stars": 37822,
+          "forks": 5258
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 31063,
+          "forks": 3370
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning,...",
+          "language": "Python",
+          "stars": 4640,
+          "forks": 660
+        },
+        {
+          "rank": 3,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 58066,
+          "forks": 10077
+        },
+        {
+          "rank": 4,
+          "name": "shy3130/tick-stock-panel",
+          "url": "https://github.com/shy3130/tick-stock-panel",
+          "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+          "language": "Python",
+          "stars": 5233,
+          "forks": 1270
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 37045,
+          "forks": 4160
+        },
+        {
+          "rank": 6,
+          "name": "wshobson/agents",
+          "url": "https://github.com/wshobson/agents",
+          "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot...",
+          "language": "Python",
+          "stars": 39996,
+          "forks": 4265
+        },
+        {
+          "rank": 7,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 92806,
+          "forks": 10952
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 50593,
+          "forks": 4630
+        },
+        {
+          "rank": 9,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 126029,
+          "forks": 19647
+        },
+        {
+          "rank": 10,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 74829,
+          "forks": 11509
+        }
+      ]
+    }
+  ]
+}

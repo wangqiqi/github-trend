@@ -1,0 +1,391 @@
+{
+  "date": "20260712",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "QuipNetwork/quip-node-manager",
+          "url": "https://github.com/QuipNetwork/quip-node-manager",
+          "description": "A simple GUI client to manage a Quip Network node",
+          "language": "Rust",
+          "stars": 5508,
+          "forks": 17
+        },
+        {
+          "rank": 2,
+          "name": "pygod7/Authix",
+          "url": "https://github.com/pygod7/Authix",
+          "description": "Authix is a discord AuthBot v3, imporved speed & quality. This tool helps you to backup your disc...",
+          "language": "Python",
+          "stars": 2044,
+          "forks": 360
+        },
+        {
+          "rank": 3,
+          "name": "ShinMegamiBoson/OpenPlanter",
+          "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+          "description": "No description",
+          "language": "Python",
+          "stars": 1645,
+          "forks": 247
+        },
+        {
+          "rank": 4,
+          "name": "MurrayHill1127/reopencode",
+          "url": "https://github.com/MurrayHill1127/reopencode",
+          "description": "OpenCode Cover.",
+          "language": "Rust",
+          "stars": 1621,
+          "forks": 111
+        },
+        {
+          "rank": 5,
+          "name": "universal-tool-calling-protocol/code-mode",
+          "url": "https://github.com/universal-tool-calling-protocol/code-mode",
+          "description": "🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.",
+          "language": "TypeScript",
+          "stars": 1512,
+          "forks": 98
+        },
+        {
+          "rank": 6,
+          "name": "mattmireles/gemma-tuner-multimodal",
+          "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+          "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Pe...",
+          "language": "Python",
+          "stars": 1482,
+          "forks": 103
+        },
+        {
+          "rank": 7,
+          "name": "serkodev/markdown-exit",
+          "url": "https://github.com/serkodev/markdown-exit",
+          "description": "Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite ...",
+          "language": "TypeScript",
+          "stars": 1352,
+          "forks": 20
+        },
+        {
+          "rank": 8,
+          "name": "ModelTC/LightX2V-Qwen-Image-Lightning",
+          "url": "https://github.com/ModelTC/LightX2V-Qwen-Image-Lightning",
+          "description": "Qwen-Image-Lightning: Speed up Qwen-Image model with distillation",
+          "language": "Python",
+          "stars": 1338,
+          "forks": 45
+        },
+        {
+          "rank": 9,
+          "name": "BICLab/SpikingBrain-7B",
+          "url": "https://github.com/BICLab/SpikingBrain-7B",
+          "description": "Spiking Brain-inspired Large Models, integrating hybrid efficient attention, MoE modules and spik...",
+          "language": "Python",
+          "stars": 1332,
+          "forks": 190
+        },
+        {
+          "rank": 10,
+          "name": "louisho5/picobot",
+          "url": "https://github.com/louisho5/picobot",
+          "description": "A lightweight self-hosted bot in a single binary, written in Go.",
+          "language": "Go",
+          "stars": 1286,
+          "forks": 162
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 174868,
+          "forks": 82345
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174459,
+          "forks": 78744
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 196327,
+          "forks": 75497
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2786,
+          "forks": 73243
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 20451,
+          "forks": 67810
+        },
+        {
+          "rank": 6,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 391702,
+          "forks": 66502
+        },
+        {
+          "rank": 7,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 196144,
+          "forks": 59269
+        },
+        {
+          "rank": 8,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 89841,
+          "forks": 56691
+        },
+        {
+          "rank": 9,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 184087,
+          "forks": 55682
+        },
+        {
+          "rank": 10,
+          "name": "react/react",
+          "url": "https://github.com/react/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 246447,
+          "forks": 51200
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Dicklesworthstone/destructive_command_guard",
+          "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+          "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being e...",
+          "language": "Rust",
+          "stars": 2369,
+          "forks": 89
+        },
+        {
+          "rank": 2,
+          "name": "wonderwhy-er/DesktopCommanderMCP",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file ed...",
+          "language": "TypeScript",
+          "stars": 7873,
+          "forks": 980
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 20086,
+          "forks": 3531
+        },
+        {
+          "rank": 4,
+          "name": "PrefectHQ/prefect",
+          "url": "https://github.com/PrefectHQ/prefect",
+          "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+          "language": "Python",
+          "stars": 23015,
+          "forks": 2379
+        },
+        {
+          "rank": 5,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 118237,
+          "forks": 17590
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+          "language": "Jupyter Notebook",
+          "stars": 48152,
+          "forks": 5700
+        },
+        {
+          "rank": 7,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 88857,
+          "forks": 38058
+        },
+        {
+          "rank": 8,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, kno...",
+          "language": "TypeScript",
+          "stars": 33611,
+          "forks": 3373
+        },
+        {
+          "rank": 9,
+          "name": "ColeMurray/background-agents",
+          "url": "https://github.com/ColeMurray/background-agents",
+          "description": "An open-source background agents coding system",
+          "language": "TypeScript",
+          "stars": 2156,
+          "forks": 336
+        },
+        {
+          "rank": 10,
+          "name": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+          "language": "C#",
+          "stars": 6575,
+          "forks": 18628
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 20086,
+          "forks": 3531
+        },
+        {
+          "rank": 2,
+          "name": "PrefectHQ/prefect",
+          "url": "https://github.com/PrefectHQ/prefect",
+          "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+          "language": "Python",
+          "stars": 23015,
+          "forks": 2379
+        },
+        {
+          "rank": 3,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 118237,
+          "forks": 17590
+        },
+        {
+          "rank": 4,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 88857,
+          "forks": 38058
+        },
+        {
+          "rank": 5,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 61230,
+          "forks": 10841
+        },
+        {
+          "rank": 6,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 29147,
+          "forks": 3197
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground. OpenManus is Coming.",
+          "language": "Python",
+          "stars": 57216,
+          "forks": 9955
+        },
+        {
+          "rank": 8,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 19445,
+          "forks": 3188
+        },
+        {
+          "rank": 9,
+          "name": "youtubediscord/zapret",
+          "url": "https://github.com/youtubediscord/zapret",
+          "description": "Zapret (Запрет обход блокировки Дискорда и Ютуба)",
+          "language": "Python",
+          "stars": 1335,
+          "forks": 102
+        },
+        {
+          "rank": 10,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 42934,
+          "forks": 2880
+        }
+      ]
+    }
+  ]
+}

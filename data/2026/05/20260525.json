@@ -1,0 +1,391 @@
+{
+  "date": "20260525",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 191877,
+          "forks": 29698
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 105742,
+          "forks": 9345
+        },
+        {
+          "rank": 3,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 80541,
+          "forks": 5256
+        },
+        {
+          "rank": 4,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 64560,
+          "forks": 3643
+        },
+        {
+          "rank": 5,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 51881,
+          "forks": 5626
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+          "language": "Python",
+          "stars": 43110,
+          "forks": 7600
+        },
+        {
+          "rank": 7,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system...",
+          "language": "Python",
+          "stars": 38814,
+          "forks": 37488
+        },
+        {
+          "rank": 8,
+          "name": "zeroclaw-labs/zeroclaw",
+          "url": "https://github.com/zeroclaw-labs/zeroclaw",
+          "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — de...",
+          "language": "Rust",
+          "stars": 31575,
+          "forks": 4656
+        },
+        {
+          "rank": 9,
+          "name": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engi...",
+          "language": "JavaScript",
+          "stars": 30436,
+          "forks": 5019
+        },
+        {
+          "rank": 10,
+          "name": "Yeachan-Heo/oh-my-codex",
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "language": "TypeScript",
+          "stars": 29576,
+          "forks": 2352
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2639,
+          "forks": 90871
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29561,
+          "forks": 87366
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174262,
+          "forks": 78871
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195267,
+          "forks": 75337
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19541,
+          "forks": 67177
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 111350,
+          "forks": 59734
+        },
+        {
+          "rank": 7,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 87633,
+          "forks": 56575
+        },
+        {
+          "rank": 8,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37345,
+          "forks": 53555
+        },
+        {
+          "rank": 9,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 245267,
+          "forks": 51103
+        },
+        {
+          "rank": 10,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 437113,
+          "forks": 47900
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 29719,
+          "forks": 2475
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 14806,
+          "forks": 1805
+        },
+        {
+          "rank": 3,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 17948,
+          "forks": 3069
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 191878,
+          "forks": 29698
+        },
+        {
+          "rank": 5,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CS...",
+          "language": "Python",
+          "stars": 8914,
+          "forks": 1104
+        },
+        {
+          "rank": 6,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — few...",
+          "language": "TypeScript",
+          "stars": 24298,
+          "forks": 1335
+        },
+        {
+          "rank": 7,
+          "name": "manaflow-ai/cmux",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+          "language": "Swift",
+          "stars": 19348,
+          "forks": 1464
+        },
+        {
+          "rank": 8,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 153977,
+          "forks": 15771
+        },
+        {
+          "rank": 9,
+          "name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment re...",
+          "language": "Python",
+          "stars": 23709,
+          "forks": 3267
+        },
+        {
+          "rank": 10,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 41173,
+          "forks": 2733
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 14806,
+          "forks": 1805
+        },
+        {
+          "rank": 2,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 17948,
+          "forks": 3069
+        },
+        {
+          "rank": 3,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CS...",
+          "language": "Python",
+          "stars": 8914,
+          "forks": 1104
+        },
+        {
+          "rank": 4,
+          "name": "Fincept-Corporation/FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment re...",
+          "language": "Python",
+          "stars": 23709,
+          "forks": 3267
+        },
+        {
+          "rank": 5,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 41173,
+          "forks": 2733
+        },
+        {
+          "rank": 6,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 25953,
+          "forks": 4509
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/agent-governance-toolkit",
+          "url": "https://github.com/microsoft/agent-governance-toolkit",
+          "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and ...",
+          "language": "Python",
+          "stars": 2143,
+          "forks": 380
+        },
+        {
+          "rank": 8,
+          "name": "st-tech/ppf-contact-solver",
+          "url": "https://github.com/st-tech/ppf-contact-solver",
+          "description": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
+          "language": "Python",
+          "stars": 3115,
+          "forks": 221
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 58235,
+          "forks": 24406
+        },
+        {
+          "rank": 10,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 62460,
+          "forks": 9753
+        }
+      ]
+    }
+  ]
+}

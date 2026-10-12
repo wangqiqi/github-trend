@@ -1,0 +1,391 @@
+{
+  "date": "20260105",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 105724,
+          "forks": 27950
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91644,
+          "forks": 11779
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 89721,
+          "forks": 10356
+        },
+        {
+          "rank": 4,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 55264,
+          "forks": 7083
+        },
+        {
+          "rank": 5,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 52198,
+          "forks": 9164
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 51370,
+          "forks": 3698
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49189,
+          "forks": 5829
+        },
+        {
+          "rank": 8,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 48868,
+          "forks": 4151
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Do...",
+          "language": "Python",
+          "stars": 42309,
+          "forks": 21277
+        },
+        {
+          "rank": 10,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 40915,
+          "forks": 2015
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52011,
+          "forks": 96142
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2545,
+          "forks": 87476
+        },
+        {
+          "rank": 3,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 180847,
+          "forks": 46253
+        },
+        {
+          "rank": 4,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1568,
+          "forks": 44422
+        },
+        {
+          "rank": 5,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 119644,
+          "forks": 42111
+        },
+        {
+          "rank": 6,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 59441,
+          "forks": 38892
+        },
+        {
+          "rank": 7,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 87534,
+          "forks": 38575
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 180342,
+          "forks": 37216
+        },
+        {
+          "rank": 9,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184212,
+          "forks": 33682
+        },
+        {
+          "rank": 10,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 523,
+          "forks": 32551
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 48868,
+          "forks": 4151
+        },
+        {
+          "rank": 2,
+          "name": "usememos/memos",
+          "url": "https://github.com/usememos/memos",
+          "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no trac...",
+          "language": "Go",
+          "stars": 51616,
+          "forks": 3720
+        },
+        {
+          "rank": 3,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 57016,
+          "forks": 5539
+        },
+        {
+          "rank": 4,
+          "name": "ourongxing/newsnow",
+          "url": "https://github.com/ourongxing/newsnow",
+          "description": "Elegant reading of real-time and hottest news",
+          "language": "TypeScript",
+          "stars": 16702,
+          "forks": 4827
+        },
+        {
+          "rank": 5,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 44641,
+          "forks": 7864
+        },
+        {
+          "rank": 6,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 70782,
+          "forks": 33822
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 19612,
+          "forks": 2180
+        },
+        {
+          "rank": 8,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars": 83051,
+          "forks": 7031
+        },
+        {
+          "rank": 9,
+          "name": "maplibre/maplibre-gl-js",
+          "url": "https://github.com/maplibre/maplibre-gl-js",
+          "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+          "language": "TypeScript",
+          "stars": 9249,
+          "forks": 965
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 51370,
+          "forks": 3698
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 57016,
+          "forks": 5539
+        },
+        {
+          "rank": 2,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 44641,
+          "forks": 7864
+        },
+        {
+          "rank": 3,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 70782,
+          "forks": 33822
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 19612,
+          "forks": 2180
+        },
+        {
+          "rank": 5,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars": 83051,
+          "forks": 7031
+        },
+        {
+          "rank": 6,
+          "name": "langgenius/dify",
+          "url": "https://github.com/langgenius/dify",
+          "description": "Production-ready platform for agentic workflow development.",
+          "language": "Python",
+          "stars": 124772,
+          "forks": 19400
+        },
+        {
+          "rank": 7,
+          "name": "subframe7536/maple-font",
+          "url": "https://github.com/subframe7536/maple-font",
+          "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE a...",
+          "language": "Python",
+          "stars": 22426,
+          "forks": 862
+        },
+        {
+          "rank": 8,
+          "name": "bytedance/Dolphin",
+          "url": "https://github.com/bytedance/Dolphin",
+          "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, ...",
+          "language": "Python",
+          "stars": 8362,
+          "forks": 705
+        },
+        {
+          "rank": 9,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 14384,
+          "forks": 1530
+        },
+        {
+          "rank": 10,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 71417,
+          "forks": 8437
+        }
+      ]
+    }
+  ]
+}

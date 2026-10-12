@@ -1,0 +1,391 @@
+{
+  "date": "20260814",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 240088,
+          "forks": 36438
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 217120,
+          "forks": 18698
+        },
+        {
+          "rank": 3,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195082,
+          "forks": 109155
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 169354,
+          "forks": 20158
+        },
+        {
+          "rank": 5,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 145427,
+          "forks": 23521
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 128001,
+          "forks": 11443
+        },
+        {
+          "rank": 7,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 127980,
+          "forks": 19264
+        },
+        {
+          "rank": 8,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 116632,
+          "forks": 12531
+        },
+        {
+          "rank": 9,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 106224,
+          "forks": 10344
+        },
+        {
+          "rank": 10,
+          "name": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 85356,
+          "forks": 450
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 55475,
+          "forks": 107890
+        },
+        {
+          "rank": 2,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 386293,
+          "forks": 81194
+        },
+        {
+          "rank": 3,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 242802,
+          "forks": 63921
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 117728,
+          "forks": 62102
+        },
+        {
+          "rank": 5,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8626,
+          "forks": 60107
+        },
+        {
+          "rank": 6,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 223746,
+          "forks": 50969
+        },
+        {
+          "rank": 7,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 457169,
+          "forks": 50492
+        },
+        {
+          "rank": 8,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 454016,
+          "forks": 45969
+        },
+        {
+          "rank": 9,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42459
+        },
+        {
+          "rank": 10,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 29235,
+          "forks": 42218
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "language": "HTML",
+          "stars": 16413,
+          "forks": 983
+        },
+        {
+          "rank": 2,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars": 5307,
+          "forks": 356
+        },
+        {
+          "rank": 3,
+          "name": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and wil...",
+          "language": "Python",
+          "stars": 12618,
+          "forks": 1693
+        },
+        {
+          "rank": 4,
+          "name": "macro-inc/macro",
+          "url": "https://github.com/macro-inc/macro",
+          "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-link...",
+          "language": "Rust",
+          "stars": 2838,
+          "forks": 291
+        },
+        {
+          "rank": 5,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 20795,
+          "forks": 3328
+        },
+        {
+          "rank": 6,
+          "name": "citrolabs/ego-lite",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in bro...",
+          "language": "JavaScript",
+          "stars": 10099,
+          "forks": 518
+        },
+        {
+          "rank": 7,
+          "name": "holaboss-ai/holaOS",
+          "url": "https://github.com/holaboss-ai/holaOS",
+          "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools...",
+          "language": "TypeScript",
+          "stars": 6942,
+          "forks": 621
+        },
+        {
+          "rank": 8,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 128001,
+          "forks": 11443
+        },
+        {
+          "rank": 9,
+          "name": "lightningpixel/modly",
+          "url": "https://github.com/lightningpixel/modly",
+          "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+          "language": "TypeScript",
+          "stars": 5740,
+          "forks": 595
+        },
+        {
+          "rank": 10,
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-e...",
+          "language": "Go",
+          "stars": 88286,
+          "forks": 10370
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars": 5307,
+          "forks": 356
+        },
+        {
+          "rank": 2,
+          "name": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and wil...",
+          "language": "Python",
+          "stars": 12618,
+          "forks": 1693
+        },
+        {
+          "rank": 3,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 20795,
+          "forks": 3328
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 128001,
+          "forks": 11443
+        },
+        {
+          "rank": 5,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 7277,
+          "forks": 759
+        },
+        {
+          "rank": 6,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemm...",
+          "language": "Python",
+          "stars": 71298,
+          "forks": 6427
+        },
+        {
+          "rank": 7,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+...",
+          "language": "Python",
+          "stars": 33496,
+          "forks": 3281
+        },
+        {
+          "rank": 8,
+          "name": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+          "language": "Python",
+          "stars": 9002,
+          "forks": 1417
+        },
+        {
+          "rank": 9,
+          "name": "github/awesome-copilot",
+          "url": "https://github.com/github/awesome-copilot",
+          "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most ...",
+          "language": "Python",
+          "stars": 37813,
+          "forks": 4773
+        },
+        {
+          "rank": 10,
+          "name": "newton-physics/newton",
+          "url": "https://github.com/newton-physics/newton",
+          "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically ta...",
+          "language": "Python",
+          "stars": 5341,
+          "forks": 631
+        }
+      ]
+    }
+  ]
+}

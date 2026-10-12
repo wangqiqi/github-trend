@@ -1,0 +1,391 @@
+{
+  "date": "20260911",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 259525,
+          "forks": 21874
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195200,
+          "forks": 108589
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 151669,
+          "forks": 24426
+        },
+        {
+          "rank": 4,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 135554,
+          "forks": 7266
+        },
+        {
+          "rank": 5,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 115361,
+          "forks": 12987
+        },
+        {
+          "rank": 6,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first ...",
+          "language": "TypeScript",
+          "stars": 95573,
+          "forks": 11075
+        },
+        {
+          "rank": 7,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 82051,
+          "forks": 6898
+        },
+        {
+          "rank": 8,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 80477,
+          "forks": 14774
+        },
+        {
+          "rank": 9,
+          "name": "career-ops-hq/career-ops",
+          "url": "https://github.com/career-ops-hq/career-ops",
+          "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with ...",
+          "language": "JavaScript",
+          "stars": 71255,
+          "forks": 13432
+        },
+        {
+          "rank": 10,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+          "language": "TypeScript",
+          "stars": 68949,
+          "forks": 5670
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 175712,
+          "forks": 82201
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2816,
+          "forks": 73364
+        },
+        {
+          "rank": 3,
+          "name": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+          "language": "C#",
+          "stars": 26505,
+          "forks": 67205
+        },
+        {
+          "rank": 4,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 204004,
+          "forks": 60637
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 90794,
+          "forks": 57037
+        },
+        {
+          "rank": 6,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20689,
+          "forks": 44289
+        },
+        {
+          "rank": 7,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 90378,
+          "forks": 38574
+        },
+        {
+          "rank": 8,
+          "name": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabl...",
+          "language": "N/A",
+          "stars": 505062,
+          "forks": 36834
+        },
+        {
+          "rank": 9,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 76838,
+          "forks": 35364
+        },
+        {
+          "rank": 10,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 90759,
+          "forks": 34250
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 40562,
+          "forks": 2312
+        },
+        {
+          "rank": 2,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial inte...",
+          "language": "JavaScript",
+          "stars": 26275,
+          "forks": 5374
+        },
+        {
+          "rank": 3,
+          "name": "nab138/iloader",
+          "url": "https://github.com/nab138/iloader",
+          "description": "User friendly sideloader",
+          "language": "TypeScript",
+          "stars": 2825,
+          "forks": 197
+        },
+        {
+          "rank": 4,
+          "name": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternati...",
+          "language": "TypeScript",
+          "stars": 1172,
+          "forks": 471
+        },
+        {
+          "rank": 5,
+          "name": "vastsa/PI-Desktop",
+          "url": "https://github.com/vastsa/PI-Desktop",
+          "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installa...",
+          "language": "TypeScript",
+          "stars": 2669,
+          "forks": 213
+        },
+        {
+          "rank": 6,
+          "name": "armory3d/armorpaint",
+          "url": "https://github.com/armory3d/armorpaint",
+          "description": "Graphics Creation Tools",
+          "language": "C",
+          "stars": 4642,
+          "forks": 527
+        },
+        {
+          "rank": 7,
+          "name": "alsk1992/CloddsBot",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi...",
+          "language": "TypeScript",
+          "stars": 2008,
+          "forks": 275
+        },
+        {
+          "rank": 8,
+          "name": "nashsu/llm_wiki",
+          "url": "https://github.com/nashsu/llm_wiki",
+          "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, int...",
+          "language": "TypeScript",
+          "stars": 18548,
+          "forks": 2122
+        },
+        {
+          "rank": 9,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 285177,
+          "forks": 25503
+        },
+        {
+          "rank": 10,
+          "name": "Sonarr/Sonarr",
+          "url": "https://github.com/Sonarr/Sonarr",
+          "description": "Smart PVR for newsgroup and bittorrent users.",
+          "language": "C#",
+          "stars": 15650,
+          "forks": 1945
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 40562,
+          "forks": 2312
+        },
+        {
+          "rank": 2,
+          "name": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modelin...",
+          "language": "Python",
+          "stars": 4782,
+          "forks": 388
+        },
+        {
+          "rank": 3,
+          "name": "jordan-gibbs/hyperresearch",
+          "url": "https://github.com/jordan-gibbs/hyperresearch",
+          "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a ...",
+          "language": "Python",
+          "stars": 2341,
+          "forks": 245
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 135607,
+          "forks": 12191
+        },
+        {
+          "rank": 5,
+          "name": "k2-fsa/OmniVoice",
+          "url": "https://github.com/k2-fsa/OmniVoice",
+          "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+          "language": "Python",
+          "stars": 12135,
+          "forks": 1878
+        },
+        {
+          "rank": 6,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-sca...",
+          "language": "Python",
+          "stars": 80240,
+          "forks": 8093
+        },
+        {
+          "rank": 7,
+          "name": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "language": "Python",
+          "stars": 45880,
+          "forks": 5126
+        },
+        {
+          "rank": 8,
+          "name": "SimplifyJobs/Summer2027-Internships",
+          "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+          "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware inter...",
+          "language": "Python",
+          "stars": 47327,
+          "forks": 3246
+        },
+        {
+          "rank": 9,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 54230,
+          "forks": 9453
+        },
+        {
+          "rank": 10,
+          "name": "bobeff/open-source-games",
+          "url": "https://github.com/bobeff/open-source-games",
+          "description": "A list of open source games.",
+          "language": "Python",
+          "stars": 13862,
+          "forks": 1119
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250410",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 95367,
+          "forks": 15460
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 47598,
+          "forks": 2246
+        },
+        {
+          "rank": 3,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 41060,
+          "forks": 926
+        },
+        {
+          "rank": 4,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 38807,
+          "forks": 3438
+        },
+        {
+          "rank": 5,
+          "name": "inkonchain/node",
+          "url": "https://github.com/inkonchain/node",
+          "description": "How to run an Ink Node",
+          "language": "Shell",
+          "stars": 36551,
+          "forks": 564
+        },
+        {
+          "rank": 6,
+          "name": "2noise/ChatTTS",
+          "url": "https://github.com/2noise/ChatTTS",
+          "description": "A generative speech model for daily dialogue.",
+          "language": "Python",
+          "stars": 35691,
+          "forks": 3869
+        },
+        {
+          "rank": 7,
+          "name": "shardeum/shardeum",
+          "url": "https://github.com/shardeum/shardeum",
+          "description": "Shardeum is an EVM based autoscaling blockchain",
+          "language": "TypeScript",
+          "stars": 31940,
+          "forks": 683
+        },
+        {
+          "rank": 8,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 27525,
+          "forks": 1697
+        },
+        {
+          "rank": 9,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 26761,
+          "forks": 1612
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/OmniParser",
+          "url": "https://github.com/microsoft/OmniParser",
+          "description": "A simple screen parsing tool towards pure vision based GUI agent",
+          "language": "Jupyter Notebook",
+          "stars": 21431,
+          "forks": 1771
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 12934,
+          "forks": 150401
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "JavaScript",
+          "stars": 172123,
+          "forks": 79078
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "HTML",
+          "stars": 354694,
+          "forks": 63174
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 82624,
+          "forks": 61076
+        },
+        {
+          "rank": 5,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56738
+        },
+        {
+          "rank": 6,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 94222,
+          "forks": 51892
+        },
+        {
+          "rank": 7,
+          "name": "CyC2018/CS-Notes",
+          "url": "https://github.com/CyC2018/CS-Notes",
+          "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+          "language": "N/A",
+          "stars": 179710,
+          "forks": 51201
+        },
+        {
+          "rank": 8,
+          "name": "academicpages/academicpages.github.io",
+          "url": "https://github.com/academicpages/academicpages.github.io",
+          "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
+          "language": "HTML",
+          "stars": 13792,
+          "forks": 46646
+        },
+        {
+          "rank": 9,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1406,
+          "forks": 37413
+        },
+        {
+          "rank": 10,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37073
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "girafe-ai/ml-course",
+          "url": "https://github.com/girafe-ai/ml-course",
+          "description": "Open Machine Learning course",
+          "language": "Jupyter Notebook",
+          "stars": 2727,
+          "forks": 1181
+        },
+        {
+          "rank": 2,
+          "name": "caddyserver/caddy",
+          "url": "https://github.com/caddyserver/caddy",
+          "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+          "language": "Go",
+          "stars": 62947,
+          "forks": 4235
+        },
+        {
+          "rank": 3,
+          "name": "clockworklabs/SpacetimeDB",
+          "url": "https://github.com/clockworklabs/SpacetimeDB",
+          "description": "Multiplayer at the speed of light",
+          "language": "Rust",
+          "stars": 12598,
+          "forks": 416
+        },
+        {
+          "rank": 4,
+          "name": "krillinai/KrillinAI",
+          "url": "https://github.com/krillinai/KrillinAI",
+          "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations an...",
+          "language": "Go",
+          "stars": 1465,
+          "forks": 131
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "10 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 11724,
+          "forks": 2932
+        },
+        {
+          "rank": 6,
+          "name": "NVIDIA/cuda-python",
+          "url": "https://github.com/NVIDIA/cuda-python",
+          "description": "CUDA Python: Performance meets Productivity",
+          "language": "Python",
+          "stars": 1822,
+          "forks": 124
+        },
+        {
+          "rank": 7,
+          "name": "datawhalechina/llm-cookbook",
+          "url": "https://github.com/datawhalechina/llm-cookbook",
+          "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+          "language": "Jupyter Notebook",
+          "stars": 18205,
+          "forks": 2222
+        },
+        {
+          "rank": 8,
+          "name": "getmaxun/maxun",
+          "url": "https://github.com/getmaxun/maxun",
+          "description": "🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-...",
+          "language": "TypeScript",
+          "stars": 10752,
+          "forks": 861
+        },
+        {
+          "rank": 9,
+          "name": "googleapis/google-cloud-go",
+          "url": "https://github.com/googleapis/google-cloud-go",
+          "description": "Google Cloud Client Libraries for Go.",
+          "language": "Go",
+          "stars": 4045,
+          "forks": 1394
+        },
+        {
+          "rank": 10,
+          "name": "mendableai/firecrawl",
+          "url": "https://github.com/mendableai/firecrawl",
+          "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with...",
+          "language": "TypeScript",
+          "stars": 34782,
+          "forks": 3046
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NVIDIA/cuda-python",
+          "url": "https://github.com/NVIDIA/cuda-python",
+          "description": "CUDA Python: Performance meets Productivity",
+          "language": "Python",
+          "stars": 1822,
+          "forks": 124
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 47598,
+          "forks": 2246
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 14638,
+          "forks": 2021
+        },
+        {
+          "rank": 4,
+          "name": "openedx/edx-platform",
+          "url": "https://github.com/openedx/edx-platform",
+          "description": "The Open edX LMS & Studio, powering education sites around the world!",
+          "language": "Python",
+          "stars": 7669,
+          "forks": 4004
+        },
+        {
+          "rank": 5,
+          "name": "volcengine/verl",
+          "url": "https://github.com/volcengine/verl",
+          "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+          "language": "Python",
+          "stars": 6413,
+          "forks": 681
+        },
+        {
+          "rank": 6,
+          "name": "zhayujie/chatgpt-on-wechat",
+          "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+          "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问...",
+          "language": "Python",
+          "stars": 36195,
+          "forks": 9070
+        },
+        {
+          "rank": 7,
+          "name": "openai/whisper",
+          "url": "https://github.com/openai/whisper",
+          "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+          "language": "Python",
+          "stars": 79716,
+          "forks": 9579
+        },
+        {
+          "rank": 8,
+          "name": "THUDM/CogVideo",
+          "url": "https://github.com/THUDM/CogVideo",
+          "description": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+          "language": "Python",
+          "stars": 11159,
+          "forks": 1066
+        },
+        {
+          "rank": 9,
+          "name": "instructlab/instructlab",
+          "url": "https://github.com/instructlab/instructlab",
+          "description": "InstructLab Core package. Use this to chat with a model and execute the InstructLab workflow to t...",
+          "language": "Python",
+          "stars": 1228,
+          "forks": 413
+        },
+        {
+          "rank": 10,
+          "name": "crewAIInc/crewAI",
+          "url": "https://github.com/crewAIInc/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intell...",
+          "language": "Python",
+          "stars": 29815,
+          "forks": 4025
+        }
+      ]
+    }
+  ]
+}

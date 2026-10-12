@@ -1,0 +1,382 @@
+{
+  "date": "20260321",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 126950,
+          "forks": 13407
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 92372,
+          "forks": 12117
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 57526,
+          "forks": 8608
+        },
+        {
+          "rank": 4,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 49457,
+          "forks": 22738
+        },
+        {
+          "rank": 5,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 47176,
+          "forks": 4891
+        },
+        {
+          "rank": 6,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 46574,
+          "forks": 4741
+        },
+        {
+          "rank": 7,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo; the best agent harness - previously oh-my-opencode",
+          "language": "TypeScript",
+          "stars": 42062,
+          "forks": 3130
+        },
+        {
+          "rank": 8,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, a...",
+          "language": "TypeScript",
+          "stars": 41946,
+          "forks": 6848
+        },
+        {
+          "rank": 9,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 41612,
+          "forks": 5050
+        },
+        {
+          "rank": 10,
+          "name": "VoltAgent/awesome-openclaw-skills",
+          "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+          "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the offici...",
+          "language": "N/A",
+          "stars": 40317,
+          "forks": 3863
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 53092,
+          "forks": 99879
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29458,
+          "forks": 87500
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 338049,
+          "forks": 81613
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 194281,
+          "forks": 75249
+        },
+        {
+          "rank": 5,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87560,
+          "forks": 60115
+        },
+        {
+          "rank": 6,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 86714,
+          "forks": 56566
+        },
+        {
+          "rank": 7,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 339665,
+          "forks": 54961
+        },
+        {
+          "rank": 8,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97768,
+          "forks": 54579
+        },
+        {
+          "rank": 9,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 182649,
+          "forks": 46221
+        },
+        {
+          "rank": 10,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1598,
+          "forks": 45734
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 16814,
+          "forks": 1804
+        },
+        {
+          "rank": 2,
+          "name": "systemd/systemd",
+          "url": "https://github.com/systemd/systemd",
+          "description": "The systemd System and Service Manager",
+          "language": "C",
+          "stars": 15558,
+          "forks": 4334
+        },
+        {
+          "rank": 3,
+          "name": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...",
+          "language": "Go",
+          "stars": 33260,
+          "forks": 115
+        },
+        {
+          "rank": 4,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, kno...",
+          "language": "TypeScript",
+          "stars": 5480,
+          "forks": 524
+        },
+        {
+          "rank": 5,
+          "name": "opendataloader-project/opendataloader-pdf",
+          "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+          "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+          "language": "Java",
+          "stars": 7509,
+          "forks": 521
+        },
+        {
+          "rank": 6,
+          "name": "jarrodwatts/claude-hud",
+          "url": "https://github.com/jarrodwatts/claude-hud",
+          "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, a...",
+          "language": "JavaScript",
+          "stars": 10040,
+          "forks": 433
+        },
+        {
+          "rank": 7,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars": 70884,
+          "forks": 16078
+        },
+        {
+          "rank": 8,
+          "name": "vllm-project/vllm-omni",
+          "url": "https://github.com/vllm-project/vllm-omni",
+          "description": "A framework for efficient model inference with omni-modality models",
+          "language": "Python",
+          "stars": 3385,
+          "forks": 582
+        },
+        {
+          "rank": 9,
+          "name": "louis-e/arnis",
+          "url": "https://github.com/louis-e/arnis",
+          "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+          "language": "Rust",
+          "stars": 11896,
+          "forks": 1002
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 16814,
+          "forks": 1804
+        },
+        {
+          "rank": 2,
+          "name": "vllm-project/vllm-omni",
+          "url": "https://github.com/vllm-project/vllm-omni",
+          "description": "A framework for efficient model inference with omni-modality models",
+          "language": "Python",
+          "stars": 3385,
+          "forks": 582
+        },
+        {
+          "rank": 3,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 34970,
+          "forks": 6647
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 91303,
+          "forks": 5411
+        },
+        {
+          "rank": 5,
+          "name": "langchain-ai/open-swe",
+          "url": "https://github.com/langchain-ai/open-swe",
+          "description": "An Open-Source Asynchronous Coding Agent",
+          "language": "Python",
+          "stars": 7839,
+          "forks": 933
+        },
+        {
+          "rank": 6,
+          "name": "opengaming/osgameclones",
+          "url": "https://github.com/opengaming/osgameclones",
+          "description": "Open Source Clones of Popular Games",
+          "language": "Python",
+          "stars": 2765,
+          "forks": 409
+        },
+        {
+          "rank": 7,
+          "name": "meta-pytorch/OpenEnv",
+          "url": "https://github.com/meta-pytorch/OpenEnv",
+          "description": "An interface library for RL post training with environments.",
+          "language": "Python",
+          "stars": 1280,
+          "forks": 207
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/apm",
+          "url": "https://github.com/microsoft/apm",
+          "description": "Agent Package Manager",
+          "language": "Python",
+          "stars": 663,
+          "forks": 48
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 13796,
+          "forks": 1378
+        },
+        {
+          "rank": 10,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+          "language": "Python",
+          "stars": 57225,
+          "forks": 4810
+        }
+      ]
+    }
+  ]
+}

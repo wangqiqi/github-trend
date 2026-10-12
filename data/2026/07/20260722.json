@@ -1,0 +1,391 @@
+{
+  "date": "20260722",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 259217,
+          "forks": 23106
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 123221,
+          "forks": 10982
+        },
+        {
+          "rank": 3,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 103782,
+          "forks": 11905
+        },
+        {
+          "rank": 4,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 91966,
+          "forks": 5220
+        },
+        {
+          "rank": 5,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 88204,
+          "forks": 7658
+        },
+        {
+          "rank": 6,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 75597,
+          "forks": 6294
+        },
+        {
+          "rank": 7,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 72536,
+          "forks": 4517
+        },
+        {
+          "rank": 8,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 67913,
+          "forks": 8437
+        },
+        {
+          "rank": 9,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codeb...",
+          "language": "TypeScript",
+          "stars": 66387,
+          "forks": 5407
+        },
+        {
+          "rank": 10,
+          "name": "shanraisshan/claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+          "language": "HTML",
+          "stars": 63271,
+          "forks": 6318
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 196447,
+          "forks": 75675
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2789,
+          "forks": 73260
+        },
+        {
+          "rank": 3,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8607,
+          "forks": 60193
+        },
+        {
+          "rank": 4,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 184474,
+          "forks": 55688
+        },
+        {
+          "rank": 5,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 530058,
+          "forks": 50146
+        },
+        {
+          "rank": 6,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 58249,
+          "forks": 50075
+        },
+        {
+          "rank": 7,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 362220,
+          "forks": 44628
+        },
+        {
+          "rank": 8,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20554,
+          "forks": 44101
+        },
+        {
+          "rank": 9,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1160,
+          "forks": 41951
+        },
+        {
+          "rank": 10,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1180,
+          "forks": 37812
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 67652,
+          "forks": 10402
+        },
+        {
+          "rank": 2,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 83077,
+          "forks": 11179
+        },
+        {
+          "rank": 3,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 7713,
+          "forks": 332
+        },
+        {
+          "rank": 4,
+          "name": "schollz/croc",
+          "url": "https://github.com/schollz/croc",
+          "description": "Easily and securely send things from one computer to another 🐊 📦",
+          "language": "Go",
+          "stars": 37215,
+          "forks": 1471
+        },
+        {
+          "rank": 5,
+          "name": "likec4/likec4",
+          "url": "https://github.com/likec4/likec4",
+          "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams...",
+          "language": "TypeScript",
+          "stars": 4103,
+          "forks": 293
+        },
+        {
+          "rank": 6,
+          "name": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+          "language": "Assembly",
+          "stars": 70338,
+          "forks": 7864
+        },
+        {
+          "rank": 7,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars": 45435,
+          "forks": 5550
+        },
+        {
+          "rank": 8,
+          "name": "diegosouzapw/OmniRoute",
+          "url": "https://github.com/diegosouzapw/OmniRoute",
+          "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Ki...",
+          "language": "TypeScript",
+          "stars": 24437,
+          "forks": 3264
+        },
+        {
+          "rank": 9,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 32451,
+          "forks": 5581
+        },
+        {
+          "rank": 10,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 68531,
+          "forks": 7785
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 32451,
+          "forks": 5581
+        },
+        {
+          "rank": 2,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 68531,
+          "forks": 7785
+        },
+        {
+          "rank": 3,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 41873,
+          "forks": 6972
+        },
+        {
+          "rank": 4,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 25089,
+          "forks": 2377
+        },
+        {
+          "rank": 5,
+          "name": "dottxt-ai/outlines",
+          "url": "https://github.com/dottxt-ai/outlines",
+          "description": "Structured Outputs",
+          "language": "Python",
+          "stars": 15011,
+          "forks": 802
+        },
+        {
+          "rank": 6,
+          "name": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "language": "Python",
+          "stars": 16996,
+          "forks": 1622
+        },
+        {
+          "rank": 7,
+          "name": "langchain-ai/open_deep_research",
+          "url": "https://github.com/langchain-ai/open_deep_research",
+          "description": "",
+          "language": "Python",
+          "stars": 12381,
+          "forks": 1748
+        },
+        {
+          "rank": 8,
+          "name": "LLMQuant/quant-mind",
+          "url": "https://github.com/LLMQuant/quant-mind",
+          "description": "QuantMind is an agent-native knowledge extraction and retrieval framework for quantitative finance.",
+          "language": "Python",
+          "stars": 2091,
+          "forks": 359
+        },
+        {
+          "rank": 9,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 83311,
+          "forks": 19873
+        },
+        {
+          "rank": 10,
+          "name": "luongnv89/claude-howto",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy...",
+          "language": "Python",
+          "stars": 40259,
+          "forks": 4884
+        }
+      ]
+    }
+  ]
+}

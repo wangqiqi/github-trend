@@ -1,0 +1,391 @@
+{
+  "date": "20260115",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 108359,
+          "forks": 28410
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91709,
+          "forks": 11782
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 90985,
+          "forks": 10573
+        },
+        {
+          "rank": 4,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 70559,
+          "forks": 6139
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 56754,
+          "forks": 4146
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 56200,
+          "forks": 7232
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 53052,
+          "forks": 9328
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49875,
+          "forks": 6028
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析...",
+          "language": "Python",
+          "stars": 43192,
+          "forks": 21502
+        },
+        {
+          "rank": 10,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 42024,
+          "forks": 2043
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2551,
+          "forks": 87775
+        },
+        {
+          "rank": 2,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18730,
+          "forks": 65597
+        },
+        {
+          "rank": 3,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 214224,
+          "forks": 59976
+        },
+        {
+          "rank": 4,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 242267,
+          "forks": 50390
+        },
+        {
+          "rank": 5,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 216866,
+          "forks": 49945
+        },
+        {
+          "rank": 6,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1145,
+          "forks": 42190
+        },
+        {
+          "rank": 7,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 87659,
+          "forks": 38703
+        },
+        {
+          "rank": 8,
+          "name": "trekhleb/javascript-algorithms",
+          "url": "https://github.com/trekhleb/javascript-algorithms",
+          "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further...",
+          "language": "JavaScript",
+          "stars": 195349,
+          "forks": 31123
+        },
+        {
+          "rank": 9,
+          "name": "macrozheng/mall",
+          "url": "https://github.com/macrozheng/mall",
+          "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、...",
+          "language": "Java",
+          "stars": 82698,
+          "forks": 29640
+        },
+        {
+          "rank": 10,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 108359,
+          "forks": 28410
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "eigent-ai/eigent",
+          "url": "https://github.com/eigent-ai/eigent",
+          "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+          "language": "TypeScript",
+          "stars": 5134,
+          "forks": 625
+        },
+        {
+          "rank": 2,
+          "name": "blakeblackshear/frigate",
+          "url": "https://github.com/blakeblackshear/frigate",
+          "description": "NVR with realtime local object detection for IP cameras",
+          "language": "TypeScript",
+          "stars": 29237,
+          "forks": 2728
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "Claude Code superpowers: core skills library",
+          "language": "Shell",
+          "stars": 23495,
+          "forks": 1754
+        },
+        {
+          "rank": 4,
+          "name": "cilium/cilium",
+          "url": "https://github.com/cilium/cilium",
+          "description": "eBPF-based Networking, Security, and Observability",
+          "language": "Go",
+          "stars": 23288,
+          "forks": 3530
+        },
+        {
+          "rank": 5,
+          "name": "wavetermdev/waveterm",
+          "url": "https://github.com/wavetermdev/waveterm",
+          "description": "An open-source, cross-platform terminal for seamless workflows",
+          "language": "Go",
+          "stars": 16303,
+          "forks": 704
+        },
+        {
+          "rank": 6,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO 🚀",
+          "language": "Python",
+          "stars": 51264,
+          "forks": 9889
+        },
+        {
+          "rank": 7,
+          "name": "mudler/LocalAI",
+          "url": "https://github.com/mudler/LocalAI",
+          "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Dr...",
+          "language": "Go",
+          "stars": 41780,
+          "forks": 3422
+        },
+        {
+          "rank": 8,
+          "name": "google-ai-edge/mediapipe",
+          "url": "https://github.com/google-ai-edge/mediapipe",
+          "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+          "language": "C++",
+          "stars": 33110,
+          "forks": 5723
+        },
+        {
+          "rank": 9,
+          "name": "puckeditor/puck",
+          "url": "https://github.com/puckeditor/puck",
+          "description": "The visual editor for React",
+          "language": "TypeScript",
+          "stars": 10394,
+          "forks": 735
+        },
+        {
+          "rank": 10,
+          "name": "twitter/the-algorithm",
+          "url": "https://github.com/twitter/the-algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "stars": 70092,
+          "forks": 12917
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO 🚀",
+          "language": "Python",
+          "stars": 51264,
+          "forks": 9889
+        },
+        {
+          "rank": 2,
+          "name": "skypilot-org/skypilot",
+          "url": "https://github.com/skypilot-org/skypilot",
+          "description": "Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage a...",
+          "language": "Python",
+          "stars": 9281,
+          "forks": 913
+        },
+        {
+          "rank": 3,
+          "name": "airbytehq/airbyte",
+          "url": "https://github.com/airbytehq/airbyte",
+          "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files t...",
+          "language": "Python",
+          "stars": 20460,
+          "forks": 4997
+        },
+        {
+          "rank": 4,
+          "name": "chidiwilliams/buzz",
+          "url": "https://github.com/chidiwilliams/buzz",
+          "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whis...",
+          "language": "Python",
+          "stars": 17160,
+          "forks": 1274
+        },
+        {
+          "rank": 5,
+          "name": "intuitem/ciso-assistant-community",
+          "url": "https://github.com/intuitem/ciso-assistant-community",
+          "description": "CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, T...",
+          "language": "Python",
+          "stars": 3483,
+          "forks": 575
+        },
+        {
+          "rank": 6,
+          "name": "inventree/InvenTree",
+          "url": "https://github.com/inventree/InvenTree",
+          "description": "Open Source Inventory Management System",
+          "language": "Python",
+          "stars": 6208,
+          "forks": 1203
+        },
+        {
+          "rank": 7,
+          "name": "OpenPipe/ART",
+          "url": "https://github.com/OpenPipe/ART",
+          "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your a...",
+          "language": "Python",
+          "stars": 8231,
+          "forks": 659
+        },
+        {
+          "rank": 8,
+          "name": "PriorLabs/TabPFN",
+          "url": "https://github.com/PriorLabs/TabPFN",
+          "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+          "language": "Python",
+          "stars": 5489,
+          "forks": 543
+        },
+        {
+          "rank": 9,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gem...",
+          "language": "Python",
+          "stars": 50721,
+          "forks": 4187
+        },
+        {
+          "rank": 10,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming servi...",
+          "language": "Python",
+          "stars": 1234,
+          "forks": 258
+        }
+      ]
+    }
+  ]
+}

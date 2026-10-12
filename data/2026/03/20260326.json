@@ -1,0 +1,382 @@
+{
+  "date": "20260326",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 130713,
+          "forks": 13898
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 103446,
+          "forks": 11368
+        },
+        {
+          "rank": 3,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 51367,
+          "forks": 4952
+        },
+        {
+          "rank": 4,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 49796,
+          "forks": 22794
+        },
+        {
+          "rank": 5,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 48065,
+          "forks": 4944
+        },
+        {
+          "rank": 6,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 39354,
+          "forks": 6163
+        },
+        {
+          "rank": 7,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes ...",
+          "language": "TypeScript",
+          "stars": 34595,
+          "forks": 3483
+        },
+        {
+          "rank": 8,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "Open-source orchestration for zero-human companies",
+          "language": "TypeScript",
+          "stars": 33334,
+          "forks": 4716
+        },
+        {
+          "rank": 9,
+          "name": "badlogic/pi-mono",
+          "url": "https://github.com/badlogic/pi-mono",
+          "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+          "language": "TypeScript",
+          "stars": 28125,
+          "forks": 2980
+        },
+        {
+          "rank": 10,
+          "name": "sickn33/antigravity-awesome-skills",
+          "url": "https://github.com/sickn33/antigravity-awesome-skills",
+          "description": "Installable GitHub library of 1,326+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CL...",
+          "language": "Python",
+          "stars": 27540,
+          "forks": 4634
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 53179,
+          "forks": 100197
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2611,
+          "forks": 89578
+        },
+        {
+          "rank": 3,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 181165,
+          "forks": 56188
+        },
+        {
+          "rank": 4,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 182843,
+          "forks": 46219
+        },
+        {
+          "rank": 5,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1603,
+          "forks": 45799
+        },
+        {
+          "rank": 6,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 121365,
+          "forks": 42735
+        },
+        {
+          "rank": 7,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 59787,
+          "forks": 38904
+        },
+        {
+          "rank": 8,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 88611,
+          "forks": 38863
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 183092,
+          "forks": 38777
+        },
+        {
+          "rank": 10,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 72113,
+          "forks": 34313
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 9032,
+          "forks": 799
+        },
+        {
+          "rank": 2,
+          "name": "Yeachan-Heo/oh-my-claudecode",
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+          "description": "Teams-first Multi-agent orchestration for Claude Code",
+          "language": "TypeScript",
+          "stars": 12015,
+          "forks": 812
+        },
+        {
+          "rank": 3,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars": 18704,
+          "forks": 2312
+        },
+        {
+          "rank": 4,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital...",
+          "language": "Rust",
+          "stars": 42782,
+          "forks": 5808
+        },
+        {
+          "rank": 5,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 47635,
+          "forks": 5674
+        },
+        {
+          "rank": 6,
+          "name": "Vaibhavs10/insanely-fast-whisper",
+          "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+          "description": "",
+          "language": "Jupyter Notebook",
+          "stars": 10638,
+          "forks": 784
+        },
+        {
+          "rank": 7,
+          "name": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "description": "Build and run agents you can see, understand and trust.",
+          "language": "Python",
+          "stars": 20090,
+          "forks": 1950
+        },
+        {
+          "rank": 8,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "Building a modern alternative to Salesforce, powered by the community.",
+          "language": "TypeScript",
+          "stars": 41005,
+          "forks": 5479
+        },
+        {
+          "rank": 9,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars": 5752,
+          "forks": 642
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 9032,
+          "forks": 799
+        },
+        {
+          "rank": 2,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 47635,
+          "forks": 5674
+        },
+        {
+          "rank": 3,
+          "name": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "description": "Build and run agents you can see, understand and trust.",
+          "language": "Python",
+          "stars": 20090,
+          "forks": 1950
+        },
+        {
+          "rank": 4,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars": 5752,
+          "forks": 642
+        },
+        {
+          "rank": 5,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 21996,
+          "forks": 2319
+        },
+        {
+          "rank": 6,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 17314,
+          "forks": 1731
+        },
+        {
+          "rank": 7,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 21588,
+          "forks": 4473
+        },
+        {
+          "rank": 8,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and p...",
+          "language": "Python",
+          "stars": 32606,
+          "forks": 2279
+        },
+        {
+          "rank": 9,
+          "name": "trustgraph-ai/trustgraph",
+          "url": "https://github.com/trustgraph-ai/trustgraph",
+          "description": "The context development platform. Store, enrich, and retrieve structured knowledge with graph-nat...",
+          "language": "Python",
+          "stars": 1550,
+          "forks": 145
+        },
+        {
+          "rank": 10,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 31101,
+          "forks": 3525
+        }
+      ]
+    }
+  ]
+}

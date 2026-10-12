@@ -1,0 +1,391 @@
+{
+  "date": "20251220",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 101239,
+          "forks": 27014
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100794,
+          "forks": 16423
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91609,
+          "forks": 11777
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 88057,
+          "forks": 10097
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 56669,
+          "forks": 4939
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 54351,
+          "forks": 6884
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48131,
+          "forks": 5551
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 47300,
+          "forks": 3321
+        },
+        {
+          "rank": 9,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 40542,
+          "forks": 3449
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+...",
+          "language": "Python",
+          "stars": 39764,
+          "forks": 20740
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29225,
+          "forks": 87412
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 171373,
+          "forks": 82972
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2638,
+          "forks": 72777
+        },
+        {
+          "rank": 4,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8388,
+          "forks": 59939
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85367,
+          "forks": 56413
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 104031,
+          "forks": 55322
+        },
+        {
+          "rank": 7,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 176610,
+          "forks": 55164
+        },
+        {
+          "rank": 8,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 163823,
+          "forks": 52333
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77681,
+          "forks": 45364
+        },
+        {
+          "rank": 10,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19948,
+          "forks": 43198
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 33932,
+          "forks": 2307
+        },
+        {
+          "rank": 2,
+          "name": "lintsinghua/DeepAudit",
+          "url": "https://github.com/lintsinghua/DeepAudit",
+          "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部...",
+          "language": "Python",
+          "stars": 1896,
+          "forks": 209
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 47300,
+          "forks": 3321
+        },
+        {
+          "rank": 4,
+          "name": "github/awesome-copilot",
+          "url": "https://github.com/github/awesome-copilot",
+          "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitH...",
+          "language": "JavaScript",
+          "stars": 14839,
+          "forks": 1755
+        },
+        {
+          "rank": 5,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 72733,
+          "forks": 16358
+        },
+        {
+          "rank": 6,
+          "name": "sgl-project/mini-sglang",
+          "url": "https://github.com/sgl-project/mini-sglang",
+          "description": "",
+          "language": "Python",
+          "stars": 1614,
+          "forks": 119
+        },
+        {
+          "rank": 7,
+          "name": "cloudcommunity/Free-Certifications",
+          "url": "https://github.com/cloudcommunity/Free-Certifications",
+          "description": "A curated list of free courses with certifications. Also available at https://free-certifications...",
+          "language": "N/A",
+          "stars": 46928,
+          "forks": 3164
+        },
+        {
+          "rank": 8,
+          "name": "GreyDGL/PentestGPT",
+          "url": "https://github.com/GreyDGL/PentestGPT",
+          "description": "A GPT-empowered penetration testing tool",
+          "language": "Python",
+          "stars": 9710,
+          "forks": 1422
+        },
+        {
+          "rank": 9,
+          "name": "NexaAI/nexa-sdk",
+          "url": "https://github.com/NexaAI/nexa-sdk",
+          "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iO...",
+          "language": "Go",
+          "stars": 6612,
+          "forks": 871
+        },
+        {
+          "rank": 10,
+          "name": "astral-sh/ty",
+          "url": "https://github.com/astral-sh/ty",
+          "description": "An extremely fast Python type checker and language server, written in Rust.",
+          "language": "Python",
+          "stars": 15103,
+          "forks": 160
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 33932,
+          "forks": 2307
+        },
+        {
+          "rank": 2,
+          "name": "lintsinghua/DeepAudit",
+          "url": "https://github.com/lintsinghua/DeepAudit",
+          "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部...",
+          "language": "Python",
+          "stars": 1896,
+          "forks": 209
+        },
+        {
+          "rank": 3,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 72733,
+          "forks": 16358
+        },
+        {
+          "rank": 4,
+          "name": "sgl-project/mini-sglang",
+          "url": "https://github.com/sgl-project/mini-sglang",
+          "description": "",
+          "language": "Python",
+          "stars": 1614,
+          "forks": 119
+        },
+        {
+          "rank": 5,
+          "name": "GreyDGL/PentestGPT",
+          "url": "https://github.com/GreyDGL/PentestGPT",
+          "description": "A GPT-empowered penetration testing tool",
+          "language": "Python",
+          "stars": 9710,
+          "forks": 1422
+        },
+        {
+          "rank": 6,
+          "name": "astral-sh/ty",
+          "url": "https://github.com/astral-sh/ty",
+          "description": "An extremely fast Python type checker and language server, written in Rust.",
+          "language": "Python",
+          "stars": 15103,
+          "forks": 160
+        },
+        {
+          "rank": 7,
+          "name": "fla-org/flash-linear-attention",
+          "url": "https://github.com/fla-org/flash-linear-attention",
+          "description": "🚀 Efficient implementations of state-of-the-art linear attention models",
+          "language": "Python",
+          "stars": 4087,
+          "forks": 333
+        },
+        {
+          "rank": 8,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 17654,
+          "forks": 1249
+        },
+        {
+          "rank": 9,
+          "name": "roboflow/rf-detr",
+          "url": "https://github.com/roboflow/rf-detr",
+          "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow...",
+          "language": "Python",
+          "stars": 4841,
+          "forks": 541
+        },
+        {
+          "rank": 10,
+          "name": "goauthentik/authentik",
+          "url": "https://github.com/goauthentik/authentik",
+          "description": "The authentication glue you need.",
+          "language": "Python",
+          "stars": 19318,
+          "forks": 1397
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250430",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 55334,
+          "forks": 2788
+        },
+        {
+          "rank": 2,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 46164,
+          "forks": 987
+        },
+        {
+          "rank": 3,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 45076,
+          "forks": 3294
+        },
+        {
+          "rank": 4,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 42249,
+          "forks": 4776
+        },
+        {
+          "rank": 5,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 41669,
+          "forks": 3787
+        },
+        {
+          "rank": 6,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36606,
+          "forks": 391
+        },
+        {
+          "rank": 7,
+          "name": "PatrickJS/awesome-cursorrules",
+          "url": "https://github.com/PatrickJS/awesome-cursorrules",
+          "description": "📄 A curated list of awesome .cursorrules files",
+          "language": "N/A",
+          "stars": 24056,
+          "forks": 1851
+        },
+        {
+          "rank": 8,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 22754,
+          "forks": 2834
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/OmniParser",
+          "url": "https://github.com/microsoft/OmniParser",
+          "description": "A simple screen parsing tool towards pure vision based GUI agent",
+          "language": "Jupyter Notebook",
+          "stars": 21862,
+          "forks": 1832
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "TypeScript",
+          "stars": 21001,
+          "forks": 2011
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1817,
+          "forks": 78309
+        },
+        {
+          "rank": 2,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37128,
+          "forks": 54323
+        },
+        {
+          "rank": 3,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 149406,
+          "forks": 45816
+        },
+        {
+          "rank": 4,
+          "name": "google/it-cert-automation-practice",
+          "url": "https://github.com/google/it-cert-automation-practice",
+          "description": "Google IT Automation with Python Professional Certificate - Practice files",
+          "language": "Python",
+          "stars": 922,
+          "forks": 45299
+        },
+        {
+          "rank": 5,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 76966,
+          "forks": 41125
+        },
+        {
+          "rank": 6,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 83129,
+          "forks": 37132
+        },
+        {
+          "rank": 7,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 184,
+          "forks": 27487
+        },
+        {
+          "rank": 8,
+          "name": "vagabond-systems/jpmc-task-1",
+          "url": "https://github.com/vagabond-systems/jpmc-task-1",
+          "description": "Starter repo for task 1 of the JPMC software engineering program",
+          "language": "Python",
+          "stars": 43,
+          "forks": 22335
+        },
+        {
+          "rank": 9,
+          "name": "rails/rails",
+          "url": "https://github.com/rails/rails",
+          "description": "Ruby on Rails",
+          "language": "Ruby",
+          "stars": 56812,
+          "forks": 21827
+        },
+        {
+          "rank": 10,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 166,
+          "forks": 20567
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 54220,
+          "forks": 7839
+        },
+        {
+          "rank": 2,
+          "name": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "language": "Jupyter Notebook",
+          "stars": 8536,
+          "forks": 1453
+        },
+        {
+          "rank": 3,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpret...",
+          "language": "Python",
+          "stars": 7259,
+          "forks": 633
+        },
+        {
+          "rank": 4,
+          "name": "QwenLM/Qwen3",
+          "url": "https://github.com/QwenLM/Qwen3",
+          "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+          "language": "Shell",
+          "stars": 19411,
+          "forks": 1280
+        },
+        {
+          "rank": 5,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 16610,
+          "forks": 1864
+        },
+        {
+          "rank": 6,
+          "name": "daytonaio/daytona",
+          "url": "https://github.com/daytonaio/daytona",
+          "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+          "language": "TypeScript",
+          "stars": 16843,
+          "forks": 1670
+        },
+        {
+          "rank": 7,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 46215,
+          "forks": 7169
+        },
+        {
+          "rank": 8,
+          "name": "simular-ai/Agent-S",
+          "url": "https://github.com/simular-ai/Agent-S",
+          "description": "Agent S: an open agentic framework that uses computers like a human",
+          "language": "Python",
+          "stars": 3426,
+          "forks": 349
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-f...",
+          "language": "Jupyter Notebook",
+          "stars": 81535,
+          "forks": 41892
+        },
+        {
+          "rank": 10,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 37905,
+          "forks": 1574
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 54220,
+          "forks": 7839
+        },
+        {
+          "rank": 2,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpret...",
+          "language": "Python",
+          "stars": 7259,
+          "forks": 633
+        },
+        {
+          "rank": 3,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 46215,
+          "forks": 7169
+        },
+        {
+          "rank": 4,
+          "name": "simular-ai/Agent-S",
+          "url": "https://github.com/simular-ai/Agent-S",
+          "description": "Agent S: an open agentic framework that uses computers like a human",
+          "language": "Python",
+          "stars": 3426,
+          "forks": 349
+        },
+        {
+          "rank": 5,
+          "name": "hiyouga/LLaMA-Factory",
+          "url": "https://github.com/hiyouga/LLaMA-Factory",
+          "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+          "language": "Python",
+          "stars": 47952,
+          "forks": 5859
+        },
+        {
+          "rank": 6,
+          "name": "Tencent/Hunyuan3D-2",
+          "url": "https://github.com/Tencent/Hunyuan3D-2",
+          "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+          "language": "Python",
+          "stars": 9193,
+          "forks": 772
+        },
+        {
+          "rank": 7,
+          "name": "pytorch/executorch",
+          "url": "https://github.com/pytorch/executorch",
+          "description": "On-device AI across mobile, embedded and edge for PyTorch",
+          "language": "Python",
+          "stars": 2781,
+          "forks": 531
+        },
+        {
+          "rank": 8,
+          "name": "xorbitsai/inference",
+          "url": "https://github.com/xorbitsai/inference",
+          "description": "Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference giv...",
+          "language": "Python",
+          "stars": 7691,
+          "forks": 651
+        },
+        {
+          "rank": 9,
+          "name": "meta-llama/PurpleLlama",
+          "url": "https://github.com/meta-llama/PurpleLlama",
+          "description": "Set of tools to assess and improve LLM security.",
+          "language": "Python",
+          "stars": 3114,
+          "forks": 526
+        },
+        {
+          "rank": 10,
+          "name": "vllm-project/vllm-ascend",
+          "url": "https://github.com/vllm-project/vllm-ascend",
+          "description": "Community maintained hardware plugin for vLLM on Ascend",
+          "language": "Python",
+          "stars": 560,
+          "forks": 121
+        }
+      ]
+    }
+  ]
+}

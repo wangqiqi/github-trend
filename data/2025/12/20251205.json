@@ -1,0 +1,391 @@
+{
+  "date": "20251205",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100573,
+          "forks": 16394
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 99497,
+          "forks": 26662
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91544,
+          "forks": 11781
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 85909,
+          "forks": 9796
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 53557,
+          "forks": 4619
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 51975,
+          "forks": 6589
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51134,
+          "forks": 8918
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 46922,
+          "forks": 5222
+        },
+        {
+          "rank": 9,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 45166,
+          "forks": 5394
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 44696,
+          "forks": 3091
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2528,
+          "forks": 86723
+        },
+        {
+          "rank": 2,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37309,
+          "forks": 53982
+        },
+        {
+          "rank": 3,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 152903,
+          "forks": 46073
+        },
+        {
+          "rank": 4,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 344893,
+          "forks": 43474
+        },
+        {
+          "rank": 5,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 28462,
+          "forks": 42172
+        },
+        {
+          "rank": 6,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 79262,
+          "forks": 41696
+        },
+        {
+          "rank": 7,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 87119,
+          "forks": 38300
+        },
+        {
+          "rank": 8,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 109686,
+          "forks": 36132
+        },
+        {
+          "rank": 9,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 114584,
+          "forks": 33952
+        },
+        {
+          "rank": 10,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "TypeScript",
+          "stars": 97414,
+          "forks": 32787
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "basecamp/fizzy",
+          "url": "https://github.com/basecamp/fizzy",
+          "description": "Kanban as it should be. Not as it has been.",
+          "language": "Ruby",
+          "stars": 3775,
+          "forks": 384
+        },
+        {
+          "rank": 2,
+          "name": "rustfs/rustfs",
+          "url": "https://github.com/rustfs/rustfs",
+          "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-per...",
+          "language": "Rust",
+          "stars": 13601,
+          "forks": 613
+        },
+        {
+          "rank": 3,
+          "name": "trustedsec/social-engineer-toolkit",
+          "url": "https://github.com/trustedsec/social-engineer-toolkit",
+          "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be de...",
+          "language": "Python",
+          "stars": 13159,
+          "forks": 3134
+        },
+        {
+          "rank": 4,
+          "name": "DayuanJiang/next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows ...",
+          "language": "TypeScript",
+          "stars": 3704,
+          "forks": 431
+        },
+        {
+          "rank": 5,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 241137,
+          "forks": 50000
+        },
+        {
+          "rank": 6,
+          "name": "CorentinTh/it-tools",
+          "url": "https://github.com/CorentinTh/it-tools",
+          "description": "Collection of handy online tools for developers, with great UX.",
+          "language": "Vue",
+          "stars": 34661,
+          "forks": 4308
+        },
+        {
+          "rank": 7,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 136116,
+          "forks": 29977
+        },
+        {
+          "rank": 8,
+          "name": "ashishpatel26/500-AI-Agents-Projects",
+          "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+          "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industrie...",
+          "language": "N/A",
+          "stars": 18242,
+          "forks": 3371
+        },
+        {
+          "rank": 9,
+          "name": "sinelaw/fresh",
+          "url": "https://github.com/sinelaw/fresh",
+          "description": "Text editor for your terminal: easy, powerful and fast",
+          "language": "Rust",
+          "stars": 409,
+          "forks": 10
+        },
+        {
+          "rank": 10,
+          "name": "oven-sh/bun",
+          "url": "https://github.com/oven-sh/bun",
+          "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+          "language": "Zig",
+          "stars": 83988,
+          "forks": 3702
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "trustedsec/social-engineer-toolkit",
+          "url": "https://github.com/trustedsec/social-engineer-toolkit",
+          "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be de...",
+          "language": "Python",
+          "stars": 13159,
+          "forks": 3134
+        },
+        {
+          "rank": 2,
+          "name": "fastapi/fastapi",
+          "url": "https://github.com/fastapi/fastapi",
+          "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+          "language": "Python",
+          "stars": 92691,
+          "forks": 8327
+        },
+        {
+          "rank": 3,
+          "name": "streamlit/streamlit",
+          "url": "https://github.com/streamlit/streamlit",
+          "description": "Streamlit — A faster way to build and share data apps.",
+          "language": "Python",
+          "stars": 42540,
+          "forks": 3937
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 83864,
+          "forks": 4809
+        },
+        {
+          "rank": 5,
+          "name": "airbytehq/airbyte",
+          "url": "https://github.com/airbytehq/airbyte",
+          "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files t...",
+          "language": "Python",
+          "stars": 20177,
+          "forks": 4955
+        },
+        {
+          "rank": 6,
+          "name": "YaoFANGUK/video-subtitle-remover",
+          "url": "https://github.com/YaoFANGUK/video-subtitle-remover",
+          "description": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-co...",
+          "language": "Python",
+          "stars": 8778,
+          "forks": 1095
+        },
+        {
+          "rank": 7,
+          "name": "zulip/zulip",
+          "url": "https://github.com/zulip/zulip",
+          "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focu...",
+          "language": "Python",
+          "stars": 23939,
+          "forks": 9011
+        },
+        {
+          "rank": 8,
+          "name": "ModelTC/LightX2V",
+          "url": "https://github.com/ModelTC/LightX2V",
+          "description": "Light Video Generation Inference Framework",
+          "language": "Python",
+          "stars": 1042,
+          "forks": 59
+        },
+        {
+          "rank": 9,
+          "name": "fastapi-practices/fastapi_best_architecture",
+          "url": "https://github.com/fastapi-practices/fastapi_best_architecture",
+          "description": "基于 FastAPI 构建的企业级后端架构解决方案",
+          "language": "Python",
+          "stars": 1833,
+          "forks": 283
+        },
+        {
+          "rank": 10,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 328566,
+          "forks": 53545
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20251116",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100292,
+          "forks": 16348
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 95796,
+          "forks": 25797
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91484,
+          "forks": 11777
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 82681,
+          "forks": 9284
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 75004,
+          "forks": 6300
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 72727,
+          "forks": 8773
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50850,
+          "forks": 8878
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 50604,
+          "forks": 6325
+        },
+        {
+          "rank": 9,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 48758,
+          "forks": 4169
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 44985,
+          "forks": 15236
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 51342,
+          "forks": 94203
+        },
+        {
+          "rank": 2,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 192442,
+          "forks": 74999
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 376918,
+          "forks": 65384
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 86439,
+          "forks": 60833
+        },
+        {
+          "rank": 5,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 96610,
+          "forks": 53992
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 326570,
+          "forks": 53175
+        },
+        {
+          "rank": 7,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 156579,
+          "forks": 50189
+        },
+        {
+          "rank": 8,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 69881,
+          "forks": 33429
+        },
+        {
+          "rank": 9,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1161,
+          "forks": 32939
+        },
+        {
+          "rank": 10,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 519,
+          "forks": 32308
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+...",
+          "language": "Python",
+          "stars": 14629,
+          "forks": 8470
+        },
+        {
+          "rank": 2,
+          "name": "google/adk-go",
+          "url": "https://github.com/google/adk-go",
+          "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI ag...",
+          "language": "Go",
+          "stars": 3544,
+          "forks": 196
+        },
+        {
+          "rank": 3,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars": 56594,
+          "forks": 12639
+        },
+        {
+          "rank": 4,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 42035,
+          "forks": 5079
+        },
+        {
+          "rank": 5,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 89305,
+          "forks": 9557
+        },
+        {
+          "rank": 6,
+          "name": "traefik/traefik",
+          "url": "https://github.com/traefik/traefik",
+          "description": "The Cloud Native Application Proxy",
+          "language": "Go",
+          "stars": 58276,
+          "forks": 5576
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 23228,
+          "forks": 3448
+        },
+        {
+          "rank": 8,
+          "name": "bobeff/open-source-games",
+          "url": "https://github.com/bobeff/open-source-games",
+          "description": "A list of open source games.",
+          "language": "N/A",
+          "stars": 5805,
+          "forks": 440
+        },
+        {
+          "rank": 9,
+          "name": "volcengine/verl",
+          "url": "https://github.com/volcengine/verl",
+          "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+          "language": "Python",
+          "stars": 15772,
+          "forks": 2537
+        },
+        {
+          "rank": 10,
+          "name": "GibsonAI/Memori",
+          "url": "https://github.com/GibsonAI/Memori",
+          "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+          "language": "Python",
+          "stars": 3964,
+          "forks": 320
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+...",
+          "language": "Python",
+          "stars": 14629,
+          "forks": 8470
+        },
+        {
+          "rank": 2,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 42035,
+          "forks": 5079
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 23228,
+          "forks": 3448
+        },
+        {
+          "rank": 4,
+          "name": "volcengine/verl",
+          "url": "https://github.com/volcengine/verl",
+          "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+          "language": "Python",
+          "stars": 15772,
+          "forks": 2537
+        },
+        {
+          "rank": 5,
+          "name": "GibsonAI/Memori",
+          "url": "https://github.com/GibsonAI/Memori",
+          "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+          "language": "Python",
+          "stars": 3964,
+          "forks": 320
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/call-center-ai",
+          "url": "https://github.com/microsoft/call-center-ai",
+          "description": "Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured ph...",
+          "language": "Python",
+          "stars": 3010,
+          "forks": 406
+        },
+        {
+          "rank": 7,
+          "name": "MustardChef/WSABuilds",
+          "url": "https://github.com/MustardChef/WSABuilds",
+          "description": "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries wi...",
+          "language": "Python",
+          "stars": 13273,
+          "forks": 2016
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 40886,
+          "forks": 4047
+        },
+        {
+          "rank": 9,
+          "name": "lzhoang2801/OpCore-Simplify",
+          "url": "https://github.com/lzhoang2801/OpCore-Simplify",
+          "description": "A tool designed to simplify the creation of OpenCore EFI",
+          "language": "Python",
+          "stars": 2536,
+          "forks": 236
+        },
+        {
+          "rank": 10,
+          "name": "volcengine/MineContext",
+          "url": "https://github.com/volcengine/MineContext",
+          "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+          "language": "Python",
+          "stars": 3687,
+          "forks": 234
+        }
+      ]
+    }
+  ]
+}

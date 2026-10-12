@@ -1,0 +1,391 @@
+{
+  "date": "20260201",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 137399,
+          "forks": 20171
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 112490,
+          "forks": 29263
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 94356,
+          "forks": 8800
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 93199,
+          "forks": 10931
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 66683,
+          "forks": 5750
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 62907,
+          "forks": 4729
+        },
+        {
+          "rank": 7,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 58314,
+          "forks": 7587
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54004,
+          "forks": 9486
+        },
+        {
+          "rank": 9,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 50703,
+          "forks": 6239
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45414,
+          "forks": 4558
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "facebook/create-react-app",
+          "url": "https://github.com/facebook/create-react-app",
+          "description": "Set up a modern web app by running one command.",
+          "language": "JavaScript",
+          "stars": 103959,
+          "forks": 27140
+        },
+        {
+          "rank": 2,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 97091,
+          "forks": 26705
+        },
+        {
+          "rank": 3,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 10441,
+          "forks": 25158
+        },
+        {
+          "rank": 4,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 166,
+          "forks": 20044
+        },
+        {
+          "rank": 5,
+          "name": "hakimel/reveal.js",
+          "url": "https://github.com/hakimel/reveal.js",
+          "description": "The HTML Presentation Framework",
+          "language": "JavaScript",
+          "stars": 70501,
+          "forks": 16814
+        },
+        {
+          "rank": 6,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 134,
+          "forks": 13895
+        },
+        {
+          "rank": 7,
+          "name": "Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "url": "https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "description": "cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo created by GitHub Classroom",
+          "language": "C",
+          "stars": 24,
+          "forks": 13602
+        },
+        {
+          "rank": 8,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 91559,
+          "forks": 13224
+        },
+        {
+          "rank": 9,
+          "name": "MithunTechnologiesDevOps/maven-web-application",
+          "url": "https://github.com/MithunTechnologiesDevOps/maven-web-application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 118,
+          "forks": 12966
+        },
+        {
+          "rank": 10,
+          "name": "WordPress/WordPress",
+          "url": "https://github.com/WordPress/WordPress",
+          "description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Pl...",
+          "language": "PHP",
+          "stars": 20843,
+          "forks": 12927
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 137399,
+          "forks": 20171
+        },
+        {
+          "rank": 2,
+          "name": "ThePrimeagen/99",
+          "url": "https://github.com/ThePrimeagen/99",
+          "description": "Neovim AI agent done right",
+          "language": "Lua",
+          "stars": 2595,
+          "forks": 117
+        },
+        {
+          "rank": 3,
+          "name": "pedramamini/Maestro",
+          "url": "https://github.com/pedramamini/Maestro",
+          "description": "Agent Orchestration Command Center",
+          "language": "TypeScript",
+          "stars": 810,
+          "forks": 108
+        },
+        {
+          "rank": 4,
+          "name": "kovidgoyal/calibre",
+          "url": "https://github.com/kovidgoyal/calibre",
+          "description": "The official source code repository for the calibre ebook manager",
+          "language": "Python",
+          "stars": 23551,
+          "forks": 2533
+        },
+        {
+          "rank": 5,
+          "name": "badlogic/pi-mono",
+          "url": "https://github.com/badlogic/pi-mono",
+          "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+          "language": "TypeScript",
+          "stars": 4463,
+          "forks": 491
+        },
+        {
+          "rank": 6,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 15838,
+          "forks": 1112
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 12789,
+          "forks": 1054
+        },
+        {
+          "rank": 8,
+          "name": "amantus-ai/vibetunnel",
+          "url": "https://github.com/amantus-ai/vibetunnel",
+          "description": "Turn any browser into your terminal & command your agents on the go.",
+          "language": "TypeScript",
+          "stars": 3368,
+          "forks": 223
+        },
+        {
+          "rank": 9,
+          "name": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+          "language": "Swift",
+          "stars": 3649,
+          "forks": 250
+        },
+        {
+          "rank": 10,
+          "name": "j178/prek",
+          "url": "https://github.com/j178/prek",
+          "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+          "language": "Rust",
+          "stars": 4101,
+          "forks": 126
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "kovidgoyal/calibre",
+          "url": "https://github.com/kovidgoyal/calibre",
+          "description": "The official source code repository for the calibre ebook manager",
+          "language": "Python",
+          "stars": 23551,
+          "forks": 2533
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 12789,
+          "forks": 1054
+        },
+        {
+          "rank": 3,
+          "name": "vita-epfl/Stable-Video-Infinity",
+          "url": "https://github.com/vita-epfl/Stable-Video-Infinity",
+          "description": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
+          "language": "Python",
+          "stars": 1586,
+          "forks": 128
+        },
+        {
+          "rank": 4,
+          "name": "kovidgoyal/kitty",
+          "url": "https://github.com/kovidgoyal/kitty",
+          "description": "If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.",
+          "language": "Python",
+          "stars": 31019,
+          "forks": 1268
+        },
+        {
+          "rank": 5,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 36172,
+          "forks": 2296
+        },
+        {
+          "rank": 6,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 145244,
+          "forks": 11764
+        },
+        {
+          "rank": 7,
+          "name": "ThanhNguyxn/SheerID-Verification-Tool",
+          "url": "https://github.com/ThanhNguyxn/SheerID-Verification-Tool",
+          "description": "A lightweight tool for integrating and testing SheerID verification workflows. It simplifies API ...",
+          "language": "Python",
+          "stars": 3022,
+          "forks": 521
+        },
+        {
+          "rank": 8,
+          "name": "ethereum/EIPs",
+          "url": "https://github.com/ethereum/EIPs",
+          "description": "The Ethereum Improvement Proposal repository",
+          "language": "Python",
+          "stars": 13767,
+          "forks": 6077
+        },
+        {
+          "rank": 9,
+          "name": "m-bain/whisperX",
+          "url": "https://github.com/m-bain/whisperX",
+          "description": "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+          "language": "Python",
+          "stars": 19904,
+          "forks": 2130
+        },
+        {
+          "rank": 10,
+          "name": "zulip/zulip",
+          "url": "https://github.com/zulip/zulip",
+          "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focu...",
+          "language": "Python",
+          "stars": 24338,
+          "forks": 9476
+        }
+      ]
+    }
+  ]
+}

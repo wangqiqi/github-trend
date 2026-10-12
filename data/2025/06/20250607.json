@@ -1,0 +1,391 @@
+{
+  "date": "20250607",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97477,
+          "forks": 15832
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 89944,
+          "forks": 11615
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 62560,
+          "forks": 7048
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 58698,
+          "forks": 3028
+        },
+        {
+          "rank": 5,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 55659,
+          "forks": 16996
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 53583,
+          "forks": 4053
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "Python",
+          "stars": 51945,
+          "forks": 5943
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 46569,
+          "forks": 8146
+        },
+        {
+          "rank": 9,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 45301,
+          "forks": 5551
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36540,
+          "forks": 402
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6607,
+          "forks": 243588
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13050,
+          "forks": 151561
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 856,
+          "forks": 143920
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48772,
+          "forks": 86883
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28491,
+          "forks": 86739
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 167052,
+          "forks": 83068
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1840,
+          "forks": 79911
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172382,
+          "forks": 79137
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 319378,
+          "forks": 79038
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190261,
+          "forks": 74696
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 5 lines of code",
+          "language": "Python",
+          "stars": 3582,
+          "forks": 298
+        },
+        {
+          "rank": 2,
+          "name": "netbirdio/netbird",
+          "url": "https://github.com/netbirdio/netbird",
+          "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular ac...",
+          "language": "Go",
+          "stars": 14892,
+          "forks": 704
+        },
+        {
+          "rank": 3,
+          "name": "codexu/note-gen",
+          "url": "https://github.com/codexu/note-gen",
+          "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and w...",
+          "language": "TypeScript",
+          "stars": 3453,
+          "forks": 223
+        },
+        {
+          "rank": 4,
+          "name": "scrapy/scrapy",
+          "url": "https://github.com/scrapy/scrapy",
+          "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+          "language": "Python",
+          "stars": 56344,
+          "forks": 10891
+        },
+        {
+          "rank": 5,
+          "name": "DavidHDev/react-bits",
+          "url": "https://github.com/DavidHDev/react-bits",
+          "description": "An open source collection of animated, interactive & fully customizable React components for buil...",
+          "language": "JavaScript",
+          "stars": 12693,
+          "forks": 475
+        },
+        {
+          "rank": 6,
+          "name": "jwohlwend/boltz",
+          "url": "https://github.com/jwohlwend/boltz",
+          "description": "Official repository for the Boltz biomolecular interaction models",
+          "language": "Python",
+          "stars": 1972,
+          "forks": 319
+        },
+        {
+          "rank": 7,
+          "name": "deepsense-ai/ragbits",
+          "url": "https://github.com/deepsense-ai/ragbits",
+          "description": "Building blocks for rapid development of GenAI applications",
+          "language": "Python",
+          "stars": 951,
+          "forks": 73
+        },
+        {
+          "rank": 8,
+          "name": "stanfordnlp/dspy",
+          "url": "https://github.com/stanfordnlp/dspy",
+          "description": "DSPy: The framework for programming—not prompting—language models",
+          "language": "Python",
+          "stars": 24936,
+          "forks": 1936
+        },
+        {
+          "rank": 9,
+          "name": "Daymychen/art-design-pro",
+          "url": "https://github.com/Daymychen/art-design-pro",
+          "description": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admi...",
+          "language": "Vue",
+          "stars": 1711,
+          "forks": 300
+        },
+        {
+          "rank": 10,
+          "name": "langgenius/dify",
+          "url": "https://github.com/langgenius/dify",
+          "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workf...",
+          "language": "TypeScript",
+          "stars": 101537,
+          "forks": 15276
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 5 lines of code",
+          "language": "Python",
+          "stars": 3582,
+          "forks": 298
+        },
+        {
+          "rank": 2,
+          "name": "scrapy/scrapy",
+          "url": "https://github.com/scrapy/scrapy",
+          "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+          "language": "Python",
+          "stars": 56344,
+          "forks": 10891
+        },
+        {
+          "rank": 3,
+          "name": "jwohlwend/boltz",
+          "url": "https://github.com/jwohlwend/boltz",
+          "description": "Official repository for the Boltz biomolecular interaction models",
+          "language": "Python",
+          "stars": 1972,
+          "forks": 319
+        },
+        {
+          "rank": 4,
+          "name": "deepsense-ai/ragbits",
+          "url": "https://github.com/deepsense-ai/ragbits",
+          "description": "Building blocks for rapid development of GenAI applications",
+          "language": "Python",
+          "stars": 951,
+          "forks": 73
+        },
+        {
+          "rank": 5,
+          "name": "stanfordnlp/dspy",
+          "url": "https://github.com/stanfordnlp/dspy",
+          "description": "DSPy: The framework for programming—not prompting—language models",
+          "language": "Python",
+          "stars": 24936,
+          "forks": 1936
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 349686,
+          "forks": 36771
+        },
+        {
+          "rank": 7,
+          "name": "vinta/awesome-python",
+          "url": "https://github.com/vinta/awesome-python",
+          "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+          "language": "Python",
+          "stars": 245754,
+          "forks": 25758
+        },
+        {
+          "rank": 8,
+          "name": "haris-musa/excel-mcp-server",
+          "url": "https://github.com/haris-musa/excel-mcp-server",
+          "description": "A Model Context Protocol server for Excel file manipulation",
+          "language": "Python",
+          "stars": 933,
+          "forks": 112
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/autogen",
+          "url": "https://github.com/microsoft/autogen",
+          "description": "A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-...",
+          "language": "Python",
+          "stars": 45629,
+          "forks": 6920
+        },
+        {
+          "rank": 10,
+          "name": "coleam00/Archon",
+          "url": "https://github.com/coleam00/Archon",
+          "description": "Archon is an AI agent that is able to create other AI agents using an advanced agentic coding wor...",
+          "language": "Python",
+          "stars": 4791,
+          "forks": 929
+        }
+      ]
+    }
+  ]
+}

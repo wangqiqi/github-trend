@@ -1,0 +1,328 @@
+{
+  "date": "20260317",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 123869,
+          "forks": 12929
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 95657,
+          "forks": 10285
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 82080,
+          "forks": 10620
+        },
+        {
+          "rank": 4,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 49137,
+          "forks": 22672
+        },
+        {
+          "rank": 5,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 46736,
+          "forks": 4845
+        },
+        {
+          "rank": 6,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 45011,
+          "forks": 4558
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 43442,
+          "forks": 4192
+        },
+        {
+          "rank": 8,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo; the best agent harness - previously oh-my-opencode",
+          "language": "TypeScript",
+          "stars": 40726,
+          "forks": 3062
+        },
+        {
+          "rank": 9,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 40572,
+          "forks": 1135
+        },
+        {
+          "rank": 10,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, a...",
+          "language": "TypeScript",
+          "stars": 39791,
+          "forks": 6579
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2600,
+          "forks": 89365
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29459,
+          "forks": 87502
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 337910,
+          "forks": 81612
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2705,
+          "forks": 73015
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 86632,
+          "forks": 56558
+        },
+        {
+          "rank": 6,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 179733,
+          "forks": 55513
+        },
+        {
+          "rank": 7,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 182536,
+          "forks": 46233
+        },
+        {
+          "rank": 8,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1597,
+          "forks": 45680
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77686,
+          "forks": 45233
+        },
+        {
+          "rank": 10,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 478930,
+          "forks": 45059
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 90637,
+          "forks": 7176
+        },
+        {
+          "rank": 2,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 478930,
+          "forks": 45060
+        },
+        {
+          "rank": 3,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 16206,
+          "forks": 1851
+        },
+        {
+          "rank": 4,
+          "name": "langchain-ai/deepagents",
+          "url": "https://github.com/langchain-ai/deepagents",
+          "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem bac...",
+          "language": "Python",
+          "stars": 13565,
+          "forks": 2067
+        },
+        {
+          "rank": 5,
+          "name": "jarrodwatts/claude-hud",
+          "url": "https://github.com/jarrodwatts/claude-hud",
+          "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, a...",
+          "language": "JavaScript",
+          "stars": 5174,
+          "forks": 233
+        },
+        {
+          "rank": 6,
+          "name": "cloudflare/workerd",
+          "url": "https://github.com/cloudflare/workerd",
+          "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+          "language": "C++",
+          "stars": 7657,
+          "forks": 566
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "langchain-ai/deepagents",
+          "url": "https://github.com/langchain-ai/deepagents",
+          "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem bac...",
+          "language": "Python",
+          "stars": 13565,
+          "forks": 2067
+        },
+        {
+          "rank": 2,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 23534,
+          "forks": 3115
+        },
+        {
+          "rank": 3,
+          "name": "dimensionalOS/dimos",
+          "url": "https://github.com/dimensionalOS/dimos",
+          "description": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, d...",
+          "language": "Python",
+          "stars": 1598,
+          "forks": 244
+        },
+        {
+          "rank": 4,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 32478,
+          "forks": 6267
+        },
+        {
+          "rank": 5,
+          "name": "MiroMindAI/MiroThinker",
+          "url": "https://github.com/MiroMindAI/MiroThinker",
+          "description": "MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our lat...",
+          "language": "Python",
+          "stars": 6969,
+          "forks": 534
+        },
+        {
+          "rank": 6,
+          "name": "financial-datasets/mcp-server",
+          "url": "https://github.com/financial-datasets/mcp-server",
+          "description": "An MCP server for interacting with the Financial Datasets stock market API.",
+          "language": "Python",
+          "stars": 1629,
+          "forks": 261
+        },
+        {
+          "rank": 7,
+          "name": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as opencla...",
+          "language": "Python",
+          "stars": 14845,
+          "forks": 1009
+        }
+      ]
+    }
+  ]
+}

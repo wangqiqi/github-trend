@@ -1,0 +1,391 @@
+{
+  "date": "20260824",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 387304,
+          "forks": 81329
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 276893,
+          "forks": 24771
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 242777,
+          "forks": 36744
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195113,
+          "forks": 108959
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 171305,
+          "forks": 20362
+        },
+        {
+          "rank": 6,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 129404,
+          "forks": 19486
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 120443,
+          "forks": 12923
+        },
+        {
+          "rank": 8,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 110005,
+          "forks": 10695
+        },
+        {
+          "rank": 9,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 109360,
+          "forks": 6035
+        },
+        {
+          "rank": 10,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Go",
+          "stars": 100620,
+          "forks": 5846
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2695,
+          "forks": 93482
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 359616,
+          "forks": 84700
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2809,
+          "forks": 73327
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 395125,
+          "forks": 66689
+        },
+        {
+          "rank": 5,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37327,
+          "forks": 53306
+        },
+        {
+          "rank": 6,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+          "language": "JavaScript",
+          "stars": 157994,
+          "forks": 46173
+        },
+        {
+          "rank": 7,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 81352,
+          "forks": 42092
+        },
+        {
+          "rank": 8,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 89993,
+          "forks": 39325
+        },
+        {
+          "rank": 9,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1181,
+          "forks": 37787
+        },
+        {
+          "rank": 10,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13559,
+          "forks": 27232
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, ID...",
+          "language": "Python",
+          "stars": 48446,
+          "forks": 7930
+        },
+        {
+          "rank": 2,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 116673,
+          "forks": 17788
+        },
+        {
+          "rank": 3,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: eval...",
+          "language": "Python",
+          "stars": 33459,
+          "forks": 11743
+        },
+        {
+          "rank": 4,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 206137,
+          "forks": 21059
+        },
+        {
+          "rank": 5,
+          "name": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project manageme...",
+          "language": "TypeScript",
+          "stars": 57666,
+          "forks": 5473
+        },
+        {
+          "rank": 6,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 235448,
+          "forks": 47461
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins...",
+          "language": "Python",
+          "stars": 1201,
+          "forks": 143
+        },
+        {
+          "rank": 8,
+          "name": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI,...",
+          "language": "Rust",
+          "stars": 15492,
+          "forks": 417
+        },
+        {
+          "rank": 9,
+          "name": "apache/maka",
+          "url": "https://github.com/apache/maka",
+          "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool re...",
+          "language": "TypeScript",
+          "stars": 2604,
+          "forks": 286
+        },
+        {
+          "rank": 10,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 38828,
+          "forks": 3267
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, ID...",
+          "language": "Python",
+          "stars": 48446,
+          "forks": 7930
+        },
+        {
+          "rank": 2,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: eval...",
+          "language": "Python",
+          "stars": 33459,
+          "forks": 11743
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 235448,
+          "forks": 47461
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins...",
+          "language": "Python",
+          "stars": 1201,
+          "forks": 143
+        },
+        {
+          "rank": 5,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 38828,
+          "forks": 3267
+        },
+        {
+          "rank": 6,
+          "name": "AgriciDaniel/claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, lin...",
+          "language": "Python",
+          "stars": 11504,
+          "forks": 1312
+        },
+        {
+          "rank": 7,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 48050,
+          "forks": 8472
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/Vibe-Trading",
+          "url": "https://github.com/HKUDS/Vibe-Trading",
+          "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+          "language": "Python",
+          "stars": 31618,
+          "forks": 5141
+        },
+        {
+          "rank": 9,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 74671,
+          "forks": 6371
+        },
+        {
+          "rank": 10,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 49974,
+          "forks": 6281
+        }
+      ]
+    }
+  ]
+}

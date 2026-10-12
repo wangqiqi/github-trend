@@ -1,0 +1,391 @@
+{
+  "date": "20260106",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 106113,
+          "forks": 28017
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91651,
+          "forks": 11778
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 89830,
+          "forks": 10378
+        },
+        {
+          "rank": 4,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 55329,
+          "forks": 7095
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 51993,
+          "forks": 3734
+        },
+        {
+          "rank": 6,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 50906,
+          "forks": 4301
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49236,
+          "forks": 5851
+        },
+        {
+          "rank": 8,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44834,
+          "forks": 4443
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Do...",
+          "language": "Python",
+          "stars": 42411,
+          "forks": 21295
+        },
+        {
+          "rank": 10,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 40983,
+          "forks": 2017
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 171642,
+          "forks": 82943
+        },
+        {
+          "rank": 2,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 331516,
+          "forks": 53958
+        },
+        {
+          "rank": 3,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 346763,
+          "forks": 43596
+        },
+        {
+          "rank": 4,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 86391,
+          "forks": 33438
+        },
+        {
+          "rank": 5,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 136979,
+          "forks": 30200
+        },
+        {
+          "rank": 6,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 174592,
+          "forks": 29792
+        },
+        {
+          "rank": 7,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 159698,
+          "forks": 29732
+        },
+        {
+          "rank": 8,
+          "name": "apache/spark",
+          "url": "https://github.com/apache/spark",
+          "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+          "language": "Scala",
+          "stars": 42596,
+          "forks": 28988
+        },
+        {
+          "rank": 9,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 12929,
+          "forks": 26660
+        },
+        {
+          "rank": 10,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 75792,
+          "forks": 25753
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars": 70024,
+          "forks": 15976
+        },
+        {
+          "rank": 2,
+          "name": "Lissy93/web-check",
+          "url": "https://github.com/Lissy93/web-check",
+          "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+          "language": "TypeScript",
+          "stars": 27411,
+          "forks": 2217
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline e...",
+          "language": "C#",
+          "stars": 127129,
+          "forks": 7567
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 4617,
+          "forks": 1328
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 25261,
+          "forks": 2016
+        },
+        {
+          "rank": 6,
+          "name": "marcelscruz/public-apis",
+          "url": "https://github.com/marcelscruz/public-apis",
+          "description": "A collaborative list of public APIs for developers",
+          "language": "JavaScript",
+          "stars": 6647,
+          "forks": 643
+        },
+        {
+          "rank": 7,
+          "name": "kirodotdev/Kiro",
+          "url": "https://github.com/kirodotdev/Kiro",
+          "description": "Kiro is an agentic IDE that works alongside you from prototype to production.",
+          "language": "N/A",
+          "stars": 2570,
+          "forks": 119
+        },
+        {
+          "rank": 8,
+          "name": "LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+          "url": "https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+          "description": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+          "language": "Python",
+          "stars": 6985,
+          "forks": 1525
+        },
+        {
+          "rank": 9,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
+          "language": "Jupyter Notebook",
+          "stars": 4582,
+          "forks": 359
+        },
+        {
+          "rank": 10,
+          "name": "bobbyiliev/introduction-to-bash-scripting",
+          "url": "https://github.com/bobbyiliev/introduction-to-bash-scripting",
+          "description": "Free Introduction to Bash Scripting eBook",
+          "language": "HTML",
+          "stars": 5255,
+          "forks": 567
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 25261,
+          "forks": 2016
+        },
+        {
+          "rank": 2,
+          "name": "LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+          "url": "https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment",
+          "description": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+          "language": "Python",
+          "stars": 6985,
+          "forks": 1525
+        },
+        {
+          "rank": 3,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 44894,
+          "forks": 7884
+        },
+        {
+          "rank": 4,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 49135,
+          "forks": 3419
+        },
+        {
+          "rank": 5,
+          "name": "ahujasid/blender-mcp",
+          "url": "https://github.com/ahujasid/blender-mcp",
+          "description": "",
+          "language": "Python",
+          "stars": 14825,
+          "forks": 1426
+        },
+        {
+          "rank": 6,
+          "name": "strands-agents/sdk-python",
+          "url": "https://github.com/strands-agents/sdk-python",
+          "description": "A model-driven approach to building AI agents in just a few lines of code.",
+          "language": "Python",
+          "stars": 4807,
+          "forks": 586
+        },
+        {
+          "rank": 7,
+          "name": "isaac-sim/IsaacLab",
+          "url": "https://github.com/isaac-sim/IsaacLab",
+          "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+          "language": "Python",
+          "stars": 5959,
+          "forks": 2874
+        },
+        {
+          "rank": 8,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 57364,
+          "forks": 5558
+        },
+        {
+          "rank": 9,
+          "name": "Asabeneh/30-Days-Of-Python",
+          "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+          "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programmi...",
+          "language": "Python",
+          "stars": 55010,
+          "forks": 10596
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 27055,
+          "forks": 3845
+        }
+      ]
+    }
+  ]
+}

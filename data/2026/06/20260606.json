@@ -1,0 +1,391 @@
+{
+  "date": "20260606",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 377214,
+          "forks": 78839
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 219298,
+          "forks": 19508
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 208775,
+          "forks": 32023
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 193379,
+          "forks": 109965
+        },
+        {
+          "rank": 5,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 184287,
+          "forks": 31595
+        },
+        {
+          "rank": 6,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 169109,
+          "forks": 17278
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 147130,
+          "forks": 17374
+        },
+        {
+          "rank": 8,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 119140,
+          "forks": 10442
+        },
+        {
+          "rank": 9,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 109364,
+          "forks": 9655
+        },
+        {
+          "rank": 10,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 107866,
+          "forks": 17773
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29590,
+          "forks": 87343
+        },
+        {
+          "rank": 2,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195566,
+          "forks": 75349
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 389771,
+          "forks": 66421
+        },
+        {
+          "rank": 4,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8584,
+          "forks": 60140
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77664,
+          "forks": 45044
+        },
+        {
+          "rank": 6,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 446295,
+          "forks": 44849
+        },
+        {
+          "rank": 7,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 29151,
+          "forks": 41976
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 185999,
+          "forks": 40387
+        },
+        {
+          "rank": 9,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system...",
+          "language": "Python",
+          "stars": 41031,
+          "forks": 39203
+        },
+        {
+          "rank": 10,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1178,
+          "forks": 37673
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 28453,
+          "forks": 2408
+        },
+        {
+          "rank": 2,
+          "name": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+          "language": "TypeScript",
+          "stars": 32963,
+          "forks": 4217
+        },
+        {
+          "rank": 3,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars": 54079,
+          "forks": 7096
+        },
+        {
+          "rank": 4,
+          "name": "danielmiessler/Personal_AI_Infrastructure",
+          "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+          "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+          "language": "TypeScript",
+          "stars": 14801,
+          "forks": 2110
+        },
+        {
+          "rank": 5,
+          "name": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "description": "OpenAI Plugins",
+          "language": "JavaScript",
+          "stars": 1645,
+          "forks": 252
+        },
+        {
+          "rank": 6,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 21976,
+          "forks": 1886
+        },
+        {
+          "rank": 7,
+          "name": "sveltejs/svelte",
+          "url": "https://github.com/sveltejs/svelte",
+          "description": "web development for the rest of us",
+          "language": "JavaScript",
+          "stars": 86865,
+          "forks": 4930
+        },
+        {
+          "rank": 8,
+          "name": "nginx/nginx",
+          "url": "https://github.com/nginx/nginx",
+          "description": "The official NGINX Open Source repository.",
+          "language": "C",
+          "stars": 30603,
+          "forks": 7953
+        },
+        {
+          "rank": 9,
+          "name": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositori...",
+          "language": "Go",
+          "stars": 35923,
+          "forks": 450
+        },
+        {
+          "rank": 10,
+          "name": "golang/go",
+          "url": "https://github.com/golang/go",
+          "description": "The Go programming language",
+          "language": "Go",
+          "stars": 134435,
+          "forks": 19108
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 28453,
+          "forks": 2408
+        },
+        {
+          "rank": 2,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars": 54079,
+          "forks": 7096
+        },
+        {
+          "rank": 3,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 21976,
+          "forks": 1886
+        },
+        {
+          "rank": 4,
+          "name": "openai/whisper",
+          "url": "https://github.com/openai/whisper",
+          "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+          "language": "Python",
+          "stars": 101696,
+          "forks": 12433
+        },
+        {
+          "rank": 5,
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR tool...",
+          "language": "Python",
+          "stars": 80764,
+          "forks": 10642
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 48320,
+          "forks": 5382
+        },
+        {
+          "rank": 7,
+          "name": "khoj-ai/khoj",
+          "url": "https://github.com/khoj-ai/khoj",
+          "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, ...",
+          "language": "Python",
+          "stars": 34899,
+          "forks": 2224
+        },
+        {
+          "rank": 8,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 64963,
+          "forks": 10099
+        },
+        {
+          "rank": 9,
+          "name": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "description": "Build and run agents you can see, understand and trust.",
+          "language": "Python",
+          "stars": 26317,
+          "forks": 2931
+        },
+        {
+          "rank": 10,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 109364,
+          "forks": 9655
+        }
+      ]
+    }
+  ]
+}

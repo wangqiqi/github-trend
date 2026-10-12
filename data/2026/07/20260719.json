@@ -1,0 +1,391 @@
+{
+  "date": "20260719",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 383458,
+          "forks": 80546
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 257363,
+          "forks": 22925
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 194206,
+          "forks": 19982
+        },
+        {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 177080,
+          "forks": 15186
+        },
+        {
+          "rank": 5,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 133584,
+          "forks": 21825
+        },
+        {
+          "rank": 6,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 122865,
+          "forks": 18367
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 91528,
+          "forks": 13112
+        },
+        {
+          "rank": 8,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 91319,
+          "forks": 8901
+        },
+        {
+          "rank": 9,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 90677,
+          "forks": 5139
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 87802,
+          "forks": 7622
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194821,
+          "forks": 109608
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 356569,
+          "forks": 84333
+        },
+        {
+          "rank": 3,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8604,
+          "forks": 60139
+        },
+        {
+          "rank": 4,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 197027,
+          "forks": 59461
+        },
+        {
+          "rank": 5,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 358210,
+          "forks": 57273
+        },
+        {
+          "rank": 6,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1160,
+          "forks": 41960
+        },
+        {
+          "rank": 7,
+          "name": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "description": "😎 Awesome lists about all kinds of interesting topics",
+          "language": "N/A",
+          "stars": 486609,
+          "forks": 35952
+        },
+        {
+          "rank": 8,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 73815,
+          "forks": 34944
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 162728,
+          "forks": 33937
+        },
+        {
+          "rank": 10,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 540,
+          "forks": 33526
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 20559,
+          "forks": 2139
+        },
+        {
+          "rank": 2,
+          "name": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+          "language": "Python",
+          "stars": 18165,
+          "forks": 1434
+        },
+        {
+          "rank": 3,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 39381,
+          "forks": 6585
+        },
+        {
+          "rank": 4,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars": 43030,
+          "forks": 5264
+        },
+        {
+          "rank": 5,
+          "name": "KnockOutEZ/wigolo",
+          "url": "https://github.com/KnockOutEZ/wigolo",
+          "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No...",
+          "language": "TypeScript",
+          "stars": 1554,
+          "forks": 98
+        },
+        {
+          "rank": 6,
+          "name": "andrewrabert/jellium-desktop",
+          "url": "https://github.com/andrewrabert/jellium-desktop",
+          "description": "An unofficial desktop client for Jellyfin",
+          "language": "Rust",
+          "stars": 1208,
+          "forks": 103
+        },
+        {
+          "rank": 7,
+          "name": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "language": "Java",
+          "stars": 9887,
+          "forks": 1345
+        },
+        {
+          "rank": 8,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 36782,
+          "forks": 3043
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/terminal",
+          "url": "https://github.com/microsoft/terminal",
+          "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+          "language": "C++",
+          "stars": 104032,
+          "forks": 9430
+        },
+        {
+          "rank": 10,
+          "name": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins an...",
+          "language": "Python",
+          "stars": 36595,
+          "forks": 2538
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 20559,
+          "forks": 2139
+        },
+        {
+          "rank": 2,
+          "name": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+          "language": "Python",
+          "stars": 18165,
+          "forks": 1434
+        },
+        {
+          "rank": 3,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 39381,
+          "forks": 6585
+        },
+        {
+          "rank": 4,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 36782,
+          "forks": 3043
+        },
+        {
+          "rank": 5,
+          "name": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins an...",
+          "language": "Python",
+          "stars": 36595,
+          "forks": 2538
+        },
+        {
+          "rank": 6,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars": 9684,
+          "forks": 1171
+        },
+        {
+          "rank": 7,
+          "name": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context...",
+          "language": "Python",
+          "stars": 16057,
+          "forks": 1832
+        },
+        {
+          "rank": 8,
+          "name": "Q00/ouroboros",
+          "url": "https://github.com/Q00/ouroboros",
+          "description": "Agent OS: Stop prompting. Start specifying.",
+          "language": "Python",
+          "stars": 4981,
+          "forks": 497
+        },
+        {
+          "rank": 9,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 27810,
+          "forks": 3693
+        },
+        {
+          "rank": 10,
+          "name": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+          "language": "Python",
+          "stars": 13385,
+          "forks": 1393
+        }
+      ]
+    }
+  ]
+}

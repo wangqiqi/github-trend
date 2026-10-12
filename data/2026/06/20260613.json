@@ -1,0 +1,391 @@
+{
+  "date": "20260613",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 378497,
+          "forks": 79164
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 226553,
+          "forks": 20134
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 214611,
+          "forks": 32984
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 193718,
+          "forks": 109967
+        },
+        {
+          "rank": 5,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 174538,
+          "forks": 17794
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 150166,
+          "forks": 17725
+        },
+        {
+          "rank": 7,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 127420,
+          "forks": 11139
+        },
+        {
+          "rank": 8,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 112733,
+          "forks": 18374
+        },
+        {
+          "rank": 9,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 111867,
+          "forks": 9866
+        },
+        {
+          "rank": 10,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 109673,
+          "forks": 16293
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29592,
+          "forks": 87342
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174315,
+          "forks": 78824
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77666,
+          "forks": 45031
+        },
+        {
+          "rank": 4,
+          "name": "anuraghazra/github-readme-stats",
+          "url": "https://github.com/anuraghazra/github-readme-stats",
+          "description": ":zap: Dynamically generated stats for your github readmes",
+          "language": "JavaScript",
+          "stars": 79637,
+          "forks": 34305
+        },
+        {
+          "rank": 5,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 192426,
+          "forks": 33555
+        },
+        {
+          "rank": 6,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 52382,
+          "forks": 32787
+        },
+        {
+          "rank": 7,
+          "name": "bia-pain-bache/BPB-Worker-Panel",
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private...",
+          "language": "TypeScript",
+          "stars": 11913,
+          "forks": 31438
+        },
+        {
+          "rank": 8,
+          "name": "mdn/learning-area",
+          "url": "https://github.com/mdn/learning-area",
+          "description": "GitHub repo for the MDN Learning Area.",
+          "language": "HTML",
+          "stars": 7578,
+          "forks": 27301
+        },
+        {
+          "rank": 9,
+          "name": "scikit-learn/scikit-learn",
+          "url": "https://github.com/scikit-learn/scikit-learn",
+          "description": "scikit-learn: machine learning in Python",
+          "language": "Python",
+          "stars": 66316,
+          "forks": 27061
+        },
+        {
+          "rank": 10,
+          "name": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "description": "🎓 Path to a free self-taught education in Computer Science!",
+          "language": "HTML",
+          "stars": 204883,
+          "forks": 25468
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars": 118417,
+          "forks": 6327
+        },
+        {
+          "rank": 2,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars": 57717,
+          "forks": 6236
+        },
+        {
+          "rank": 3,
+          "name": "chatwoot/chatwoot",
+          "url": "https://github.com/chatwoot/chatwoot",
+          "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Sal...",
+          "language": "Ruby",
+          "stars": 30683,
+          "forks": 7541
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 226553,
+          "forks": 20134
+        },
+        {
+          "rank": 5,
+          "name": "apple/container",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ...",
+          "language": "Swift",
+          "stars": 35841,
+          "forks": 1014
+        },
+        {
+          "rank": 6,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming servi...",
+          "language": "Python",
+          "stars": 1917,
+          "forks": 426
+        },
+        {
+          "rank": 7,
+          "name": "kenn-io/agentsview",
+          "url": "https://github.com/kenn-io/agentsview",
+          "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, ...",
+          "language": "Go",
+          "stars": 2173,
+          "forks": 202
+        },
+        {
+          "rank": 8,
+          "name": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+          "language": "Python",
+          "stars": 8769,
+          "forks": 1299
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ...",
+          "language": "C",
+          "stars": 134513,
+          "forks": 8070
+        },
+        {
+          "rank": 10,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 13998,
+          "forks": 1483
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming servi...",
+          "language": "Python",
+          "stars": 1917,
+          "forks": 426
+        },
+        {
+          "rank": 2,
+          "name": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+          "language": "Python",
+          "stars": 8769,
+          "forks": 1299
+        },
+        {
+          "rank": 3,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 13998,
+          "forks": 1483
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security ri...",
+          "language": "Python",
+          "stars": 3979,
+          "forks": 298
+        },
+        {
+          "rank": 5,
+          "name": "hexo-ai/sia",
+          "url": "https://github.com/hexo-ai/sia",
+          "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Mo...",
+          "language": "Python",
+          "stars": 1624,
+          "forks": 187
+        },
+        {
+          "rank": 6,
+          "name": "reflex-dev/reflex",
+          "url": "https://github.com/reflex-dev/reflex",
+          "description": "🕸️ Web apps in pure Python 🐍",
+          "language": "Python",
+          "stars": 28486,
+          "forks": 1740
+        },
+        {
+          "rank": 7,
+          "name": "scikit-learn/scikit-learn",
+          "url": "https://github.com/scikit-learn/scikit-learn",
+          "description": "scikit-learn: machine learning in Python",
+          "language": "Python",
+          "stars": 66316,
+          "forks": 27061
+        },
+        {
+          "rank": 8,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 18457,
+          "forks": 1978
+        },
+        {
+          "rank": 9,
+          "name": "NVIDIA/physicsnemo",
+          "url": "https://github.com/NVIDIA/physicsnemo",
+          "description": "Open-source deep-learning framework for building, training, and fine-tuning deep learning models ...",
+          "language": "Python",
+          "stars": 2927,
+          "forks": 703
+        },
+        {
+          "rank": 10,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "Python",
+          "stars": 66367,
+          "forks": 10815
+        }
+      ]
+    }
+  ]
+}

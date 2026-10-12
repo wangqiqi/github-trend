@@ -1,0 +1,391 @@
+{
+  "date": "20261006",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 156632,
+          "forks": 8409
+        },
+        {
+          "rank": 2,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first ...",
+          "language": "TypeScript",
+          "stars": 99694,
+          "forks": 11510
+        },
+        {
+          "rank": 3,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own s...",
+          "language": "TypeScript",
+          "stars": 86394,
+          "forks": 5545
+        },
+        {
+          "rank": 4,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars": 59434,
+          "forks": 7560
+        },
+        {
+          "rank": 5,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 54152,
+          "forks": 6053
+        },
+        {
+          "rank": 6,
+          "name": "multica-ai/multica",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+          "language": "Go",
+          "stars": 52054,
+          "forks": 6772
+        },
+        {
+          "rank": 7,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars": 50651,
+          "forks": 3905
+        },
+        {
+          "rank": 8,
+          "name": "siddharthvaddem/openscreen",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commer...",
+          "language": "TypeScript",
+          "stars": 39944,
+          "forks": 3149
+        },
+        {
+          "rank": 9,
+          "name": "Yeachan-Heo/oh-my-claudecode",
+          "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+          "description": "Teams-first Multi-agent orchestration for Claude Code",
+          "language": "TypeScript",
+          "stars": 39626,
+          "forks": 3546
+        },
+        {
+          "rank": 10,
+          "name": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "language": "Python",
+          "stars": 39300,
+          "forks": 3100
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 176032,
+          "forks": 82130
+        },
+        {
+          "rank": 2,
+          "name": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+          "language": "C#",
+          "stars": 30828,
+          "forks": 79704
+        },
+        {
+          "rank": 3,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1166,
+          "forks": 41871
+        },
+        {
+          "rank": 4,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 91362,
+          "forks": 36366
+        },
+        {
+          "rank": 5,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 143240,
+          "forks": 34054
+        },
+        {
+          "rank": 6,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 179362,
+          "forks": 33156
+        },
+        {
+          "rank": 7,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 154094,
+          "forks": 22515
+        },
+        {
+          "rank": 8,
+          "name": "Sloboscc/Slobos-AFK-Aternos-Bot",
+          "url": "https://github.com/Sloboscc/Slobos-AFK-Aternos-Bot",
+          "description": "A bot that can keep uptime within a Aternos server using a mineflayer bot system. Convenient for ...",
+          "language": "JavaScript",
+          "stars": 80,
+          "forks": 22446
+        },
+        {
+          "rank": 9,
+          "name": "rafaballerini/rafaballerini",
+          "url": "https://github.com/rafaballerini/rafaballerini",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 2696,
+          "forks": 18850
+        },
+        {
+          "rank": 10,
+          "name": "apache/airflow",
+          "url": "https://github.com/apache/airflow",
+          "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+          "language": "Python",
+          "stars": 47072,
+          "forks": 17970
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "description": "Next generation e2e testing framework for web and mobile apps.",
+          "language": "TypeScript",
+          "stars": 5974,
+          "forks": 267
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 277846,
+          "forks": 23270
+        },
+        {
+          "rank": 3,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 17839,
+          "forks": 1795
+        },
+        {
+          "rank": 4,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 5873,
+          "forks": 441
+        },
+        {
+          "rank": 5,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 77533,
+          "forks": 4618
+        },
+        {
+          "rank": 6,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during s...",
+          "language": "TypeScript",
+          "stars": 97017,
+          "forks": 8553
+        },
+        {
+          "rank": 7,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 54258,
+          "forks": 3119
+        },
+        {
+          "rank": 8,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 8005,
+          "forks": 888
+        },
+        {
+          "rank": 9,
+          "name": "deepseek-ai/DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+          "language": "Cuda",
+          "stars": 8633,
+          "forks": 1365
+        },
+        {
+          "rank": 10,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 157686,
+          "forks": 25417
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 17839,
+          "forks": 1795
+        },
+        {
+          "rank": 2,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 54258,
+          "forks": 3119
+        },
+        {
+          "rank": 3,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 33646,
+          "forks": 3753
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 26320,
+          "forks": 3075
+        },
+        {
+          "rank": 5,
+          "name": "0x4m4/hexstrike-ai",
+          "url": "https://github.com/0x4m4/hexstrike-ai",
+          "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc....",
+          "language": "Python",
+          "stars": 12458,
+          "forks": 2537
+        },
+        {
+          "rank": 6,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 65198,
+          "forks": 11231
+        },
+        {
+          "rank": 7,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term...",
+          "language": "Python",
+          "stars": 31473,
+          "forks": 3225
+        },
+        {
+          "rank": 8,
+          "name": "raullenchai/Rapid-MLX",
+          "url": "https://github.com/raullenchai/Rapid-MLX",
+          "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server fo...",
+          "language": "Python",
+          "stars": 3914,
+          "forks": 430
+        },
+        {
+          "rank": 9,
+          "name": "dortania/OpenCore-Legacy-Patcher",
+          "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+          "description": "Experience macOS just like before",
+          "language": "Python",
+          "stars": 18470,
+          "forks": 2018
+        },
+        {
+          "rank": 10,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 92511,
+          "forks": 8113
+        }
+      ]
+    }
+  ]
+}

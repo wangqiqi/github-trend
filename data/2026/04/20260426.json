@@ -1,0 +1,391 @@
+{
+  "date": "20260426",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 188491,
+          "forks": 109371
+        },
+        {
+          "rank": 2,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 149748,
+          "forks": 17204
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 124081,
+          "forks": 14515
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 117622,
+          "forks": 17413
+        },
+        {
+          "rank": 5,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 87154,
+          "forks": 14025
+        },
+        {
+          "rank": 6,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 83694,
+          "forks": 12214
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 70665,
+          "forks": 7254
+        },
+        {
+          "rank": 8,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 67734,
+          "forks": 5765
+        },
+        {
+          "rank": 9,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 65737,
+          "forks": 8113
+        },
+        {
+          "rank": 10,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 63832,
+          "forks": 8336
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8561,
+          "forks": 60309
+        },
+        {
+          "rank": 2,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 496448,
+          "forks": 47049
+        },
+        {
+          "rank": 3,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 353668,
+          "forks": 43970
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 184291,
+          "forks": 39450
+        },
+        {
+          "rank": 5,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184446,
+          "forks": 33587
+        },
+        {
+          "rank": 6,
+          "name": "apache/spark",
+          "url": "https://github.com/apache/spark",
+          "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+          "language": "Scala",
+          "stars": 43197,
+          "forks": 29163
+        },
+        {
+          "rank": 7,
+          "name": "lewagon/dotfiles",
+          "url": "https://github.com/lewagon/dotfiles",
+          "description": "Default configuration for Le Wagon's students",
+          "language": "Shell",
+          "stars": 21766,
+          "forks": 28645
+        },
+        {
+          "rank": 8,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 99450,
+          "forks": 27596
+        },
+        {
+          "rank": 9,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 10504,
+          "forks": 25268
+        },
+        {
+          "rank": 10,
+          "name": "godotengine/godot",
+          "url": "https://github.com/godotengine/godot",
+          "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+          "language": "C++",
+          "stars": 109974,
+          "forks": 25130
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "My personal directory of skills, straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 21443,
+          "forks": 1770
+        },
+        {
+          "rank": 2,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "language": "Python",
+          "stars": 12354,
+          "forks": 1832
+        },
+        {
+          "rank": 3,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars": 64669,
+          "forks": 7249
+        },
+        {
+          "rank": 4,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 29714,
+          "forks": 3424
+        },
+        {
+          "rank": 5,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product ...",
+          "language": "Python",
+          "stars": 33655,
+          "forks": 2621
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/typescript-go",
+          "url": "https://github.com/microsoft/typescript-go",
+          "description": "Staging repo for development of native port of TypeScript",
+          "language": "Go",
+          "stars": 25109,
+          "forks": 915
+        },
+        {
+          "rank": 7,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and ...",
+          "language": "HTML",
+          "stars": 14224,
+          "forks": 883
+        },
+        {
+          "rank": 8,
+          "name": "gastownhall/beads",
+          "url": "https://github.com/gastownhall/beads",
+          "description": "Beads - A memory upgrade for your coding agent",
+          "language": "Go",
+          "stars": 21469,
+          "forks": 1435
+        },
+        {
+          "rank": 9,
+          "name": "curl/curl",
+          "url": "https://github.com/curl/curl",
+          "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP...",
+          "language": "C",
+          "stars": 41421,
+          "forks": 7148
+        },
+        {
+          "rank": 10,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 86290,
+          "forks": 37348
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "language": "Python",
+          "stars": 12354,
+          "forks": 1832
+        },
+        {
+          "rank": 2,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars": 64669,
+          "forks": 7249
+        },
+        {
+          "rank": 3,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product ...",
+          "language": "Python",
+          "stars": 33655,
+          "forks": 2621
+        },
+        {
+          "rank": 4,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 86290,
+          "forks": 37348
+        },
+        {
+          "rank": 5,
+          "name": "ComposioHQ/awesome-codex-skills",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "language": "Python",
+          "stars": 1751,
+          "forks": 147
+        },
+        {
+          "rank": 6,
+          "name": "alexzhang13/rlm",
+          "url": "https://github.com/alexzhang13/rlm",
+          "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various ...",
+          "language": "Python",
+          "stars": 3922,
+          "forks": 701
+        },
+        {
+          "rank": 7,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 344497,
+          "forks": 55658
+        },
+        {
+          "rank": 8,
+          "name": "Universal-Commerce-Protocol/ucp",
+          "url": "https://github.com/Universal-Commerce-Protocol/ucp",
+          "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
+          "language": "Python",
+          "stars": 2871,
+          "forks": 353
+        },
+        {
+          "rank": 9,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 25492,
+          "forks": 2542
+        },
+        {
+          "rank": 10,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 162617,
+          "forks": 30288
+        }
+      ]
+    }
+  ]
+}

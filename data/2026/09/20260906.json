@@ -1,0 +1,391 @@
+{
+  "date": "20260906",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 389016,
+          "forks": 81740
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 282279,
+          "forks": 25290
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 253886,
+          "forks": 21426
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 250642,
+          "forks": 37701
+        },
+        {
+          "rank": 5,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 150369,
+          "forks": 24241
+        },
+        {
+          "rank": 6,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 131676,
+          "forks": 19732
+        },
+        {
+          "rank": 7,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Go",
+          "stars": 103881,
+          "forks": 6016
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 95305,
+          "forks": 13395
+        },
+        {
+          "rank": 9,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 79039,
+          "forks": 5000
+        },
+        {
+          "rank": 10,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 71984,
+          "forks": 11176
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174724,
+          "forks": 78613
+        },
+        {
+          "rank": 2,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 198880,
+          "forks": 76278
+        },
+        {
+          "rank": 3,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1164,
+          "forks": 41875
+        },
+        {
+          "rank": 4,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1181,
+          "forks": 37918
+        },
+        {
+          "rank": 5,
+          "name": "airbnb/javascript",
+          "url": "https://github.com/airbnb/javascript",
+          "description": "JavaScript Style Guide",
+          "language": "JavaScript",
+          "stars": 148164,
+          "forks": 26589
+        },
+        {
+          "rank": 6,
+          "name": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "description": "🎓 Path to a free self-taught education in Computer Science!",
+          "language": "HTML",
+          "stars": 208758,
+          "forks": 25835
+        },
+        {
+          "rank": 7,
+          "name": "react/react-native",
+          "url": "https://github.com/react/react-native",
+          "description": "A framework for building native applications using React",
+          "language": "C++",
+          "stars": 126509,
+          "forks": 25238
+        },
+        {
+          "rank": 8,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 70597,
+          "forks": 24342
+        },
+        {
+          "rank": 9,
+          "name": "NixOS/nixpkgs",
+          "url": "https://github.com/NixOS/nixpkgs",
+          "description": "Nix Packages collection & NixOS",
+          "language": "Nix",
+          "stars": 26037,
+          "forks": 20021
+        },
+        {
+          "rank": 10,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19632
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 250642,
+          "forks": 37701
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 253886,
+          "forks": 21426
+        },
+        {
+          "rank": 3,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows....",
+          "language": "HTML",
+          "stars": 32070,
+          "forks": 2065
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 242316,
+          "forks": 49810
+        },
+        {
+          "rank": 5,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 25482,
+          "forks": 1726
+        },
+        {
+          "rank": 6,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 205003,
+          "forks": 26740
+        },
+        {
+          "rank": 7,
+          "name": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "language": "Python",
+          "stars": 43935,
+          "forks": 3670
+        },
+        {
+          "rank": 8,
+          "name": "llvm/llvm-project",
+          "url": "https://github.com/llvm/llvm-project",
+          "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+          "language": "LLVM",
+          "stars": 40145,
+          "forks": 18554
+        },
+        {
+          "rank": 9,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 128828,
+          "forks": 6898
+        },
+        {
+          "rank": 10,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous ...",
+          "language": "TypeScript",
+          "stars": 70849,
+          "forks": 8426
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 242316,
+          "forks": 49810
+        },
+        {
+          "rank": 2,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 25482,
+          "forks": 1726
+        },
+        {
+          "rank": 3,
+          "name": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "language": "Python",
+          "stars": 43935,
+          "forks": 3670
+        },
+        {
+          "rank": 4,
+          "name": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence ...",
+          "language": "Python",
+          "stars": 4511,
+          "forks": 765
+        },
+        {
+          "rank": 5,
+          "name": "sooryathejas/METATRON",
+          "url": "https://github.com/sooryathejas/METATRON",
+          "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
+          "language": "Python",
+          "stars": 3941,
+          "forks": 784
+        },
+        {
+          "rank": 6,
+          "name": "ahujasid/blender-mcp",
+          "url": "https://github.com/ahujasid/blender-mcp",
+          "description": "Community plugin to control Blender 3D with any LLM of your choice",
+          "language": "Python",
+          "stars": 27198,
+          "forks": 2542
+        },
+        {
+          "rank": 7,
+          "name": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2...",
+          "language": "Python",
+          "stars": 5241,
+          "forks": 658
+        },
+        {
+          "rank": 8,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "A library of agent skills for CAD, CAE and CAM",
+          "language": "Python",
+          "stars": 14491,
+          "forks": 1532
+        },
+        {
+          "rank": 9,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 90280,
+          "forks": 38513
+        },
+        {
+          "rank": 10,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 131736,
+          "forks": 15532
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260424",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 363259,
+          "forks": 74274
+        },
+        {
+          "rank": 2,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 148725,
+          "forks": 17044
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 123282,
+          "forks": 14403
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 114513,
+          "forks": 16745
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 90637,
+          "forks": 7815
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 86294,
+          "forks": 13855
+        },
+        {
+          "rank": 7,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 82536,
+          "forks": 7854
+        },
+        {
+          "rank": 8,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 82157,
+          "forks": 11906
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 76217,
+          "forks": 11106
+        },
+        {
+          "rank": 10,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 69955,
+          "forks": 7156
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 194860,
+          "forks": 75279
+        },
+        {
+          "rank": 2,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87786,
+          "forks": 59799
+        },
+        {
+          "rank": 3,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97840,
+          "forks": 54602
+        },
+        {
+          "rank": 4,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 30325,
+          "forks": 45610
+        },
+        {
+          "rank": 5,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1171,
+          "forks": 36965
+        },
+        {
+          "rank": 6,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 112157,
+          "forks": 36339
+        },
+        {
+          "rank": 7,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 116892,
+          "forks": 35423
+        },
+        {
+          "rank": 8,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis syste...",
+          "language": "Python",
+          "stars": 31217,
+          "forks": 31812
+        },
+        {
+          "rank": 9,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 13368,
+          "forks": 27131
+        },
+        {
+          "rank": 10,
+          "name": "airbnb/javascript",
+          "url": "https://github.com/airbnb/javascript",
+          "description": "JavaScript Style Guide",
+          "language": "JavaScript",
+          "stars": 148133,
+          "forks": 26711
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "language": "Python",
+          "stars": 6834,
+          "forks": 1109
+        },
+        {
+          "rank": 2,
+          "name": "huggingface/ml-intern",
+          "url": "https://github.com/huggingface/ml-intern",
+          "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+          "language": "Python",
+          "stars": 4696,
+          "forks": 390
+        },
+        {
+          "rank": 3,
+          "name": "google/osv-scanner",
+          "url": "https://github.com/google/osv-scanner",
+          "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+          "language": "Go",
+          "stars": 9264,
+          "forks": 606
+        },
+        {
+          "rank": 4,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars": 61788,
+          "forks": 6931
+        },
+        {
+          "rank": 5,
+          "name": "zilliztech/claude-context",
+          "url": "https://github.com/zilliztech/claude-context",
+          "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+          "language": "TypeScript",
+          "stars": 8782,
+          "forks": 680
+        },
+        {
+          "rank": 6,
+          "name": "open-metadata/OpenMetadata",
+          "url": "https://github.com/open-metadata/OpenMetadata",
+          "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data gove...",
+          "language": "TypeScript",
+          "stars": 13179,
+          "forks": 2024
+        },
+        {
+          "rank": 7,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product ...",
+          "language": "Python",
+          "stars": 32881,
+          "forks": 2572
+        },
+        {
+          "rank": 8,
+          "name": "dani-garcia/vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+          "language": "Rust",
+          "stars": 59046,
+          "forks": 2720
+        },
+        {
+          "rank": 9,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 494118,
+          "forks": 46800
+        },
+        {
+          "rank": 10,
+          "name": "deepseek-ai/DeepEP",
+          "url": "https://github.com/deepseek-ai/DeepEP",
+          "description": "DeepEP: an efficient expert-parallel communication library",
+          "language": "Cuda",
+          "stars": 9240,
+          "forks": 1178
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+          "language": "Python",
+          "stars": 6834,
+          "forks": 1109
+        },
+        {
+          "rank": 2,
+          "name": "huggingface/ml-intern",
+          "url": "https://github.com/huggingface/ml-intern",
+          "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+          "language": "Python",
+          "stars": 4696,
+          "forks": 390
+        },
+        {
+          "rank": 3,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars": 61788,
+          "forks": 6931
+        },
+        {
+          "rank": 4,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product ...",
+          "language": "Python",
+          "stars": 32881,
+          "forks": 2572
+        },
+        {
+          "rank": 5,
+          "name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 6576,
+          "forks": 1037
+        },
+        {
+          "rank": 6,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
+          "language": "Python",
+          "stars": 62822,
+          "forks": 5479
+        },
+        {
+          "rank": 7,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 107304,
+          "forks": 15777
+        },
+        {
+          "rank": 8,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 17394,
+          "forks": 1096
+        },
+        {
+          "rank": 9,
+          "name": "google/adk-samples",
+          "url": "https://github.com/google/adk-samples",
+          "description": "A collection of sample agents built with Agent Development Kit (ADK)",
+          "language": "Python",
+          "stars": 8962,
+          "forks": 2424
+        },
+        {
+          "rank": 10,
+          "name": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "language": "Python",
+          "stars": 152819,
+          "forks": 11646
+        }
+      ]
+    }
+  ]
+}

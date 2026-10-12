@@ -1,0 +1,391 @@
+{
+  "date": "20251214",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100729,
+          "forks": 16415
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 100538,
+          "forks": 26881
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91581,
+          "forks": 11775
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 87259,
+          "forks": 9976
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 55316,
+          "forks": 4809
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 52579,
+          "forks": 6734
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51280,
+          "forks": 8952
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 47710,
+          "forks": 5433
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 45810,
+          "forks": 3198
+        },
+        {
+          "rank": 10,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 45799,
+          "forks": 5486
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2533,
+          "forks": 86898
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 171255,
+          "forks": 82976
+        },
+        {
+          "rank": 3,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37315,
+          "forks": 53973
+        },
+        {
+          "rank": 4,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 162561,
+          "forks": 52017
+        },
+        {
+          "rank": 5,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153020,
+          "forks": 46081
+        },
+        {
+          "rank": 6,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 345346,
+          "forks": 43498
+        },
+        {
+          "rank": 7,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 28586,
+          "forks": 42440
+        },
+        {
+          "rank": 8,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 79359,
+          "forks": 41723
+        },
+        {
+          "rank": 9,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 87218,
+          "forks": 38353
+        },
+        {
+          "rank": 10,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 109862,
+          "forks": 36159
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "description": "Open-source platform to build and deploy AI agent workflows.",
+          "language": "TypeScript",
+          "stars": 19634,
+          "forks": 2603
+        },
+        {
+          "rank": 2,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 52579,
+          "forks": 6734
+        },
+        {
+          "rank": 3,
+          "name": "mdn/content",
+          "url": "https://github.com/mdn/content",
+          "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HT...",
+          "language": "Markdown",
+          "stars": 9894,
+          "forks": 22978
+        },
+        {
+          "rank": 4,
+          "name": "Morganamilo/paru",
+          "url": "https://github.com/Morganamilo/paru",
+          "description": "Feature packed AUR helper",
+          "language": "Rust",
+          "stars": 7770,
+          "forks": 284
+        },
+        {
+          "rank": 5,
+          "name": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "description": "Common User Passwords Profiler (CUPP)",
+          "language": "Python",
+          "stars": 5137,
+          "forks": 1321
+        },
+        {
+          "rank": 6,
+          "name": "ZJU-LLMs/Foundations-of-LLMs",
+          "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+          "description": "A book for Learning the Foundations of LLMs",
+          "language": "N/A",
+          "stars": 13496,
+          "forks": 1264
+        },
+        {
+          "rank": 7,
+          "name": "daytonaio/daytona",
+          "url": "https://github.com/daytonaio/daytona",
+          "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+          "language": "TypeScript",
+          "stars": 37075,
+          "forks": 2778
+        },
+        {
+          "rank": 8,
+          "name": "shadcn-ui/ui",
+          "url": "https://github.com/shadcn-ui/ui",
+          "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with...",
+          "language": "TypeScript",
+          "stars": 102165,
+          "forks": 7431
+        },
+        {
+          "rank": 9,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 8898,
+          "forks": 948
+        },
+        {
+          "rank": 10,
+          "name": "HuLaSpark/HuLa",
+          "url": "https://github.com/HuLaSpark/HuLa",
+          "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Ru...",
+          "language": "Vue",
+          "stars": 5767,
+          "forks": 790
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Mebus/cupp",
+          "url": "https://github.com/Mebus/cupp",
+          "description": "Common User Passwords Profiler (CUPP)",
+          "language": "Python",
+          "stars": 5137,
+          "forks": 1321
+        },
+        {
+          "rank": 2,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 8898,
+          "forks": 948
+        },
+        {
+          "rank": 3,
+          "name": "thinking-machines-lab/tinker-cookbook",
+          "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+          "description": "Post-training with Tinker",
+          "language": "Python",
+          "stars": 2433,
+          "forks": 226
+        },
+        {
+          "rank": 4,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 42673,
+          "forks": 7600
+        },
+        {
+          "rank": 5,
+          "name": "spipm/Depixelization_poc",
+          "url": "https://github.com/spipm/Depixelization_poc",
+          "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
+          "language": "Python",
+          "stars": 3666,
+          "forks": 277
+        },
+        {
+          "rank": 6,
+          "name": "zhinianboke/xianyu-auto-reply",
+          "url": "https://github.com/zhinianboke/xianyu-auto-reply",
+          "description": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。",
+          "language": "Python",
+          "stars": 3376,
+          "forks": 913
+        },
+        {
+          "rank": 7,
+          "name": "freqtrade/freqtrade",
+          "url": "https://github.com/freqtrade/freqtrade",
+          "description": "Free, open source crypto trading bot",
+          "language": "Python",
+          "stars": 45264,
+          "forks": 9397
+        },
+        {
+          "rank": 8,
+          "name": "Mirrowel/LLM-API-Key-Proxy",
+          "url": "https://github.com/Mirrowel/LLM-API-Key-Proxy",
+          "description": "Universal LLM Gateway: One API, every LLM. OpenAI-compatible endpoints with multi-provider transl...",
+          "language": "Python",
+          "stars": 76,
+          "forks": 21
+        },
+        {
+          "rank": 9,
+          "name": "RVC-Boss/GPT-SoVITS",
+          "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+          "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+          "language": "Python",
+          "stars": 53102,
+          "forks": 5810
+        },
+        {
+          "rank": 10,
+          "name": "leminlimez/Nugget",
+          "url": "https://github.com/leminlimez/Nugget",
+          "description": "Unlock the fullest potential of your device",
+          "language": "Python",
+          "stars": 4922,
+          "forks": 285
+        }
+      ]
+    }
+  ]
+}

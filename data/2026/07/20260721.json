@@ -1,0 +1,391 @@
+{
+  "date": "20260721",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 383674,
+          "forks": 80612
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 231756,
+          "forks": 35361
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 194953,
+          "forks": 20073
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194846,
+          "forks": 109574
+        },
+        {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 179860,
+          "forks": 15373
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 135220,
+          "forks": 22024
+        },
+        {
+          "rank": 7,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 123350,
+          "forks": 18470
+        },
+        {
+          "rank": 8,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 123021,
+          "forks": 10971
+        },
+        {
+          "rank": 9,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 119640,
+          "forks": 8031
+        },
+        {
+          "rank": 10,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 92813,
+          "forks": 9013
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 55127,
+          "forks": 106458
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2671,
+          "forks": 92559
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 174953,
+          "forks": 82327
+        },
+        {
+          "rank": 4,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 383674,
+          "forks": 80612
+        },
+        {
+          "rank": 5,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174501,
+          "forks": 78722
+        },
+        {
+          "rank": 6,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 196433,
+          "forks": 75647
+        },
+        {
+          "rank": 7,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2789,
+          "forks": 73253
+        },
+        {
+          "rank": 8,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 392620,
+          "forks": 66548
+        },
+        {
+          "rank": 9,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 240013,
+          "forks": 63569
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 113323,
+          "forks": 60829
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 63617,
+          "forks": 9959
+        },
+        {
+          "rank": 2,
+          "name": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "language": "Python",
+          "stars": 13478,
+          "forks": 1283
+        },
+        {
+          "rank": 3,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 24238,
+          "forks": 2330
+        },
+        {
+          "rank": 4,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+          "language": "N/A",
+          "stars": 6058,
+          "forks": 240
+        },
+        {
+          "rank": 5,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "A collection of agent skills for CAD, robotics and hardware design",
+          "language": "JavaScript",
+          "stars": 8818,
+          "forks": 1006
+        },
+        {
+          "rank": 6,
+          "name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "The most intelligent agent harness for code",
+          "language": "Rust",
+          "stars": 10069,
+          "forks": 1111
+        },
+        {
+          "rank": 7,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 5559,
+          "forks": 391
+        },
+        {
+          "rank": 8,
+          "name": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins an...",
+          "language": "Python",
+          "stars": 37325,
+          "forks": 2600
+        },
+        {
+          "rank": 9,
+          "name": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "description": "Open source alternative to Semrush and Ahrefs",
+          "language": "TypeScript",
+          "stars": 6291,
+          "forks": 691
+        },
+        {
+          "rank": 10,
+          "name": "tradesdontlie/tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for pers...",
+          "language": "JavaScript",
+          "stars": 4636,
+          "forks": 2162
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "bojieli/ai-agent-book",
+          "url": "https://github.com/bojieli/ai-agent-book",
+          "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+          "language": "Python",
+          "stars": 13478,
+          "forks": 1283
+        },
+        {
+          "rank": 2,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so ...",
+          "language": "Python",
+          "stars": 24238,
+          "forks": 2330
+        },
+        {
+          "rank": 3,
+          "name": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins an...",
+          "language": "Python",
+          "stars": 37325,
+          "forks": 2600
+        },
+        {
+          "rank": 4,
+          "name": "langchain-ai/open_deep_research",
+          "url": "https://github.com/langchain-ai/open_deep_research",
+          "description": "",
+          "language": "Python",
+          "stars": 12088,
+          "forks": 1730
+        },
+        {
+          "rank": 5,
+          "name": "dottxt-ai/outlines",
+          "url": "https://github.com/dottxt-ai/outlines",
+          "description": "Structured Outputs",
+          "language": "Python",
+          "stars": 14656,
+          "forks": 791
+        },
+        {
+          "rank": 6,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars": 10431,
+          "forks": 1227
+        },
+        {
+          "rank": 7,
+          "name": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context...",
+          "language": "Python",
+          "stars": 16489,
+          "forks": 1861
+        },
+        {
+          "rank": 8,
+          "name": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+          "language": "Python",
+          "stars": 15360,
+          "forks": 2421
+        },
+        {
+          "rank": 9,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term...",
+          "language": "Python",
+          "stars": 28960,
+          "forks": 2754
+        },
+        {
+          "rank": 10,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "language": "Python",
+          "stars": 274502,
+          "forks": 35382
+        }
+      ]
+    }
+  ]
+}

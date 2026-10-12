@@ -1,0 +1,391 @@
+{
+  "date": "20260128",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 111524,
+          "forks": 29102
+        },
+        {
+          "rank": 2,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 92818,
+          "forks": 10863
+        },
+        {
+          "rank": 3,
+          "name": "moltbot/moltbot",
+          "url": "https://github.com/moltbot/moltbot",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 82316,
+          "forks": 10904
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 65804,
+          "forks": 5685
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 61662,
+          "forks": 4608
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 57940,
+          "forks": 7510
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 53812,
+          "forks": 9455
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 50537,
+          "forks": 6206
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45316,
+          "forks": 4543
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 44873,
+          "forks": 21921
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 333615,
+          "forks": 54232
+        },
+        {
+          "rank": 2,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1164,
+          "forks": 34515
+        },
+        {
+          "rank": 3,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 160264,
+          "forks": 29883
+        },
+        {
+          "rank": 4,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 13037,
+          "forks": 26873
+        },
+        {
+          "rank": 5,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 75978,
+          "forks": 25784
+        },
+        {
+          "rank": 6,
+          "name": "laravel/laravel",
+          "url": "https://github.com/laravel/laravel",
+          "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the fo...",
+          "language": "Blade",
+          "stars": 83453,
+          "forks": 24653
+        },
+        {
+          "rank": 7,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 166,
+          "forks": 20051
+        },
+        {
+          "rank": 8,
+          "name": "MarlinFirmware/Marlin",
+          "url": "https://github.com/MarlinFirmware/Marlin",
+          "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Ma...",
+          "language": "C++",
+          "stars": 17265,
+          "forks": 19654
+        },
+        {
+          "rank": 9,
+          "name": "iam-veeramalla/Jenkins-Zero-To-Hero",
+          "url": "https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero",
+          "description": "Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD...",
+          "language": "Python",
+          "stars": 9275,
+          "forks": 18109
+        },
+        {
+          "rank": 10,
+          "name": "zero-to-mastery/start-here-guidelines",
+          "url": "https://github.com/zero-to-mastery/start-here-guidelines",
+          "description": "Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playgro...",
+          "language": "Python",
+          "stars": 2819,
+          "forks": 17478
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "badlogic/pi-mono",
+          "url": "https://github.com/badlogic/pi-mono",
+          "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+          "language": "TypeScript",
+          "stars": 2949,
+          "forks": 362
+        },
+        {
+          "rank": 2,
+          "name": "hashicorp/vault",
+          "url": "https://github.com/hashicorp/vault",
+          "description": "A tool for secrets management, encryption as a service, and privileged access management",
+          "language": "Go",
+          "stars": 34265,
+          "forks": 4531
+        },
+        {
+          "rank": 3,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+          "language": "JavaScript",
+          "stars": 25749,
+          "forks": 4013
+        },
+        {
+          "rank": 4,
+          "name": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
+          "language": "Python",
+          "stars": 5273,
+          "forks": 372
+        },
+        {
+          "rank": 5,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars": 4324,
+          "forks": 432
+        },
+        {
+          "rank": 6,
+          "name": "kubernetes/ingress-nginx",
+          "url": "https://github.com/kubernetes/ingress-nginx",
+          "description": "Ingress NGINX Controller for Kubernetes",
+          "language": "Go",
+          "stars": 19312,
+          "forks": 8508
+        },
+        {
+          "rank": 7,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars": 70403,
+          "forks": 16015
+        },
+        {
+          "rank": 8,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that ...",
+          "language": "TypeScript",
+          "stars": 70722,
+          "forks": 14488
+        },
+        {
+          "rank": 9,
+          "name": "ran-j/PS2Recomp",
+          "url": "https://github.com/ran-j/PS2Recomp",
+          "description": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports",
+          "language": "C++",
+          "stars": 1261,
+          "forks": 24
+        },
+        {
+          "rank": 10,
+          "name": "bambulab/BambuStudio",
+          "url": "https://github.com/bambulab/BambuStudio",
+          "description": "PC Software for BambuLab and other 3D printers",
+          "language": "C++",
+          "stars": 3749,
+          "forks": 580
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
+          "language": "Python",
+          "stars": 5273,
+          "forks": 372
+        },
+        {
+          "rank": 2,
+          "name": "MoonshotAI/kimi-cli",
+          "url": "https://github.com/MoonshotAI/kimi-cli",
+          "description": "Kimi Code CLI is your next CLI agent.",
+          "language": "Python",
+          "stars": 4324,
+          "forks": 432
+        },
+        {
+          "rank": 3,
+          "name": "GetStream/Vision-Agents",
+          "url": "https://github.com/GetStream/Vision-Agents",
+          "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses ...",
+          "language": "Python",
+          "stars": 3930,
+          "forks": 352
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 90526,
+          "forks": 13061
+        },
+        {
+          "rank": 5,
+          "name": "Z4nzu/hackingtool",
+          "url": "https://github.com/Z4nzu/hackingtool",
+          "description": "ALL IN ONE Hacking Tool For Hackers",
+          "language": "Python",
+          "stars": 54633,
+          "forks": 5971
+        },
+        {
+          "rank": 6,
+          "name": "karpathy/minGPT",
+          "url": "https://github.com/karpathy/minGPT",
+          "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+          "language": "Python",
+          "stars": 23395,
+          "forks": 3072
+        },
+        {
+          "rank": 7,
+          "name": "suitenumerique/docs",
+          "url": "https://github.com/suitenumerique/docs",
+          "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and R...",
+          "language": "Python",
+          "stars": 15696,
+          "forks": 518
+        },
+        {
+          "rank": 8,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 122149,
+          "forks": 17242
+        },
+        {
+          "rank": 9,
+          "name": "frappe/erpnext",
+          "url": "https://github.com/frappe/erpnext",
+          "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+          "language": "Python",
+          "stars": 31369,
+          "forks": 10284
+        },
+        {
+          "rank": 10,
+          "name": "NVIDIA/earth2studio",
+          "url": "https://github.com/NVIDIA/earth2studio",
+          "description": "Open-source deep-learning framework for exploring, building and deploying AI weather/climate work...",
+          "language": "Python",
+          "stars": 451,
+          "forks": 114
+        }
+      ]
+    }
+  ]
+}

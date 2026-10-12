@@ -1,0 +1,391 @@
+{
+  "date": "20260618",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 379358,
+          "forks": 79409
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 232057,
+          "forks": 20615
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 217618,
+          "forks": 33394
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 196738,
+          "forks": 34693
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 152447,
+          "forks": 17963
+        },
+        {
+          "rank": 6,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 134921,
+          "forks": 11686
+        },
+        {
+          "rank": 7,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 114336,
+          "forks": 18675
+        },
+        {
+          "rank": 8,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 113771,
+          "forks": 10032
+        },
+        {
+          "rank": 9,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 111129,
+          "forks": 16534
+        },
+        {
+          "rank": 10,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 104064,
+          "forks": 6882
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2665,
+          "forks": 91573
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29611,
+          "forks": 87340
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 174493,
+          "forks": 82400
+        },
+        {
+          "rank": 4,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 20380,
+          "forks": 67493
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 390447,
+          "forks": 66438
+        },
+        {
+          "rank": 6,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88262,
+          "forks": 59551
+        },
+        {
+          "rank": 7,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 89251,
+          "forks": 56656
+        },
+        {
+          "rank": 8,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 98385,
+          "forks": 54621
+        },
+        {
+          "rank": 9,
+          "name": "react/react",
+          "url": "https://github.com/react/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 245947,
+          "forks": 51071
+        },
+        {
+          "rank": 10,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 516943,
+          "forks": 48928
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 22572,
+          "forks": 2176
+        },
+        {
+          "rank": 2,
+          "name": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+          "language": "Rust",
+          "stars": 9882,
+          "forks": 459
+        },
+        {
+          "rank": 3,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 449397,
+          "forks": 45106
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 232057,
+          "forks": 20615
+        },
+        {
+          "rank": 5,
+          "name": "zai-org/GLM-5",
+          "url": "https://github.com/zai-org/GLM-5",
+          "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+          "language": "N/A",
+          "stars": 3937,
+          "forks": 423
+        },
+        {
+          "rank": 6,
+          "name": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge grap...",
+          "language": "C",
+          "stars": 6636,
+          "forks": 541
+        },
+        {
+          "rank": 7,
+          "name": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "description": "A lightweight, lightning-fast, in-process vector database",
+          "language": "C++",
+          "stars": 11077,
+          "forks": 644
+        },
+        {
+          "rank": 8,
+          "name": "withastro/flue",
+          "url": "https://github.com/withastro/flue",
+          "description": "The sandbox agent framework.",
+          "language": "TypeScript",
+          "stars": 5368,
+          "forks": 289
+        },
+        {
+          "rank": 9,
+          "name": "Kilo-Org/kilocode",
+          "url": "https://github.com/Kilo-Org/kilocode",
+          "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the mos...",
+          "language": "TypeScript",
+          "stars": 21626,
+          "forks": 2689
+        },
+        {
+          "rank": 10,
+          "name": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project manageme...",
+          "language": "TypeScript",
+          "stars": 51653,
+          "forks": 4592
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 22573,
+          "forks": 2176
+        },
+        {
+          "rank": 2,
+          "name": "Lightricks/LTX-2",
+          "url": "https://github.com/Lightricks/LTX-2",
+          "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+          "language": "Python",
+          "stars": 7409,
+          "forks": 1199
+        },
+        {
+          "rank": 3,
+          "name": "LibreTranslate/LibreTranslate",
+          "url": "https://github.com/LibreTranslate/LibreTranslate",
+          "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+          "language": "Python",
+          "stars": 14849,
+          "forks": 1526
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 31786,
+          "forks": 4541
+        },
+        {
+          "rank": 5,
+          "name": "roboflow/rf-detr",
+          "url": "https://github.com/roboflow/rf-detr",
+          "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow...",
+          "language": "Python",
+          "stars": 7973,
+          "forks": 1008
+        },
+        {
+          "rank": 6,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 5788,
+          "forks": 1040
+        },
+        {
+          "rank": 7,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 22477,
+          "forks": 1524
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Resear...",
+          "language": "Python",
+          "stars": 44731,
+          "forks": 7093
+        },
+        {
+          "rank": 9,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 113771,
+          "forks": 10032
+        },
+        {
+          "rank": 10,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 25121,
+          "forks": 2700
+        }
+      ]
+    }
+  ]
+}

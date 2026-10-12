@@ -1,0 +1,391 @@
+{
+  "date": "20250704",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97996,
+          "forks": 15943
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90387,
+          "forks": 11660
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 64656,
+          "forks": 7386
+        },
+        {
+          "rank": 4,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 64470,
+          "forks": 18813
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 59841,
+          "forks": 3126
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 59607,
+          "forks": 4612
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 57670,
+          "forks": 6663
+        },
+        {
+          "rank": 8,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 52262,
+          "forks": 4499
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 47573,
+          "forks": 8311
+        },
+        {
+          "rank": 10,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 46934,
+          "forks": 6032
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6614,
+          "forks": 243625
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13083,
+          "forks": 152005
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 857,
+          "forks": 144004
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49182,
+          "forks": 87851
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28598,
+          "forks": 86912
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 167755,
+          "forks": 83045
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1876,
+          "forks": 81216
+        },
+        {
+          "rank": 8,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 321943,
+          "forks": 79467
+        },
+        {
+          "rank": 9,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172483,
+          "forks": 79120
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190568,
+          "forks": 74737
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 26031,
+          "forks": 6847
+        },
+        {
+          "rank": 2,
+          "name": "Genesis-Embodied-AI/Genesis",
+          "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+          "description": "A generative world for general-purpose robotics & embodied AI learning.",
+          "language": "Python",
+          "stars": 25608,
+          "forks": 2307
+        },
+        {
+          "rank": 3,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 44625,
+          "forks": 1905
+        },
+        {
+          "rank": 4,
+          "name": "swagger-api/swagger-ui",
+          "url": "https://github.com/swagger-api/swagger-ui",
+          "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautifu...",
+          "language": "JavaScript",
+          "stars": 27751,
+          "forks": 9138
+        },
+        {
+          "rank": 5,
+          "name": "HumanSignal/label-studio",
+          "url": "https://github.com/HumanSignal/label-studio",
+          "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+          "language": "JavaScript",
+          "stars": 22860,
+          "forks": 2861
+        },
+        {
+          "rank": 6,
+          "name": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base ...",
+          "language": "TypeScript",
+          "stars": 52444,
+          "forks": 3508
+        },
+        {
+          "rank": 7,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 21386,
+          "forks": 3664
+        },
+        {
+          "rank": 8,
+          "name": "datawhalechina/happy-llm",
+          "url": "https://github.com/datawhalechina/happy-llm",
+          "description": "📚 从零开始的大语言模型原理与实践教程",
+          "language": "N/A",
+          "stars": 7650,
+          "forks": 543
+        },
+        {
+          "rank": 9,
+          "name": "MotiaDev/motia",
+          "url": "https://github.com/MotiaDev/motia",
+          "description": "Unified Backend Framework for APIs, Events, and AI Agents",
+          "language": "TypeScript",
+          "stars": 3272,
+          "forks": 267
+        },
+        {
+          "rank": 10,
+          "name": "drawdb-io/drawdb",
+          "url": "https://github.com/drawdb-io/drawdb",
+          "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+          "language": "JavaScript",
+          "stars": 31208,
+          "forks": 2236
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 26032,
+          "forks": 6847
+        },
+        {
+          "rank": 2,
+          "name": "Genesis-Embodied-AI/Genesis",
+          "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+          "description": "A generative world for general-purpose robotics & embodied AI learning.",
+          "language": "Python",
+          "stars": 25608,
+          "forks": 2307
+        },
+        {
+          "rank": 3,
+          "name": "llmware-ai/llmware",
+          "url": "https://github.com/llmware-ai/llmware",
+          "description": "Unified framework for building enterprise RAG pipelines with small, specialized models",
+          "language": "Python",
+          "stars": 14127,
+          "forks": 2823
+        },
+        {
+          "rank": 4,
+          "name": "isaac-sim/IsaacLab",
+          "url": "https://github.com/isaac-sim/IsaacLab",
+          "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+          "language": "Python",
+          "stars": 4237,
+          "forks": 1952
+        },
+        {
+          "rank": 5,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 146438,
+          "forks": 29524
+        },
+        {
+          "rank": 6,
+          "name": "tadata-org/fastapi_mcp",
+          "url": "https://github.com/tadata-org/fastapi_mcp",
+          "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+          "language": "Python",
+          "stars": 6351,
+          "forks": 530
+        },
+        {
+          "rank": 7,
+          "name": "pipecat-ai/pipecat",
+          "url": "https://github.com/pipecat-ai/pipecat",
+          "description": "Open Source framework for voice and multimodal conversational AI",
+          "language": "Python",
+          "stars": 6691,
+          "forks": 1004
+        },
+        {
+          "rank": 8,
+          "name": "numpy/numpy",
+          "url": "https://github.com/numpy/numpy",
+          "description": "The fundamental package for scientific computing with Python.",
+          "language": "Python",
+          "stars": 29828,
+          "forks": 11047
+        },
+        {
+          "rank": 9,
+          "name": "mlflow/mlflow",
+          "url": "https://github.com/mlflow/mlflow",
+          "description": "Open source platform for the machine learning lifecycle",
+          "language": "Python",
+          "stars": 21119,
+          "forks": 4645
+        },
+        {
+          "rank": 10,
+          "name": "DepthAnything/Depth-Anything-V2",
+          "url": "https://github.com/DepthAnything/Depth-Anything-V2",
+          "description": "[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation",
+          "language": "Python",
+          "stars": 5918,
+          "forks": 548
+        }
+      ]
+    }
+  ]
+}

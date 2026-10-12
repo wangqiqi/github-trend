@@ -1,0 +1,391 @@
+{
+  "date": "20260621",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 379765,
+          "forks": 79496
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 219099,
+          "forks": 33593
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 198690,
+          "forks": 35269
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194109,
+          "forks": 109931
+        },
+        {
+          "rank": 5,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 179499,
+          "forks": 18368
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 153403,
+          "forks": 18083
+        },
+        {
+          "rank": 7,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 139036,
+          "forks": 12059
+        },
+        {
+          "rank": 8,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 105526,
+          "forks": 6984
+        },
+        {
+          "rank": 9,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 94590,
+          "forks": 9908
+        },
+        {
+          "rank": 10,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 91988,
+          "forks": 10926
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 379765,
+          "forks": 79496
+        },
+        {
+          "rank": 2,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 20398,
+          "forks": 67525
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 390580,
+          "forks": 66438
+        },
+        {
+          "rank": 4,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 237125,
+          "forks": 62806
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 112184,
+          "forks": 60253
+        },
+        {
+          "rank": 6,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37338,
+          "forks": 53480
+        },
+        {
+          "rank": 7,
+          "name": "react/react",
+          "url": "https://github.com/react/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 245971,
+          "forks": 51079
+        },
+        {
+          "rank": 8,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 222093,
+          "forks": 50771
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 443252,
+          "forks": 48583
+        },
+        {
+          "rank": 10,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1636,
+          "forks": 47118
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description": "macOS video editor built for AI",
+          "language": "Swift",
+          "stars": 4265,
+          "forks": 338
+        },
+        {
+          "rank": 2,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 7733,
+          "forks": 1217
+        },
+        {
+          "rank": 3,
+          "name": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens...",
+          "language": "Python",
+          "stars": 43108,
+          "forks": 2982
+        },
+        {
+          "rank": 4,
+          "name": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "description": "Turso is an in-process SQL database, compatible with SQLite.",
+          "language": "Rust",
+          "stars": 20580,
+          "forks": 1054
+        },
+        {
+          "rank": 5,
+          "name": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "description": "Penpot: The open-source design tool for design and code collaboration",
+          "language": "Clojure",
+          "stars": 51950,
+          "forks": 3324
+        },
+        {
+          "rank": 6,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 43987,
+          "forks": 41293
+        },
+        {
+          "rank": 7,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 57788,
+          "forks": 9183
+        },
+        {
+          "rank": 8,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 72280,
+          "forks": 9801
+        },
+        {
+          "rank": 9,
+          "name": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge grap...",
+          "language": "C",
+          "stars": 9874,
+          "forks": 748
+        },
+        {
+          "rank": 10,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CS...",
+          "language": "Python",
+          "stars": 17312,
+          "forks": 2101
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 7733,
+          "forks": 1217
+        },
+        {
+          "rank": 2,
+          "name": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens...",
+          "language": "Python",
+          "stars": 43108,
+          "forks": 2982
+        },
+        {
+          "rank": 3,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 43987,
+          "forks": 41293
+        },
+        {
+          "rank": 4,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 72280,
+          "forks": 9801
+        },
+        {
+          "rank": 5,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CS...",
+          "language": "Python",
+          "stars": 17312,
+          "forks": 2101
+        },
+        {
+          "rank": 6,
+          "name": "mikumifa/biliTickerBuy",
+          "url": "https://github.com/mikumifa/biliTickerBuy",
+          "description": "b站会员购购票辅助工具",
+          "language": "Python",
+          "stars": 3686,
+          "forks": 462
+        },
+        {
+          "rank": 7,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 18597,
+          "forks": 3094
+        },
+        {
+          "rank": 8,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term...",
+          "language": "Python",
+          "stars": 18442,
+          "forks": 1959
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 443252,
+          "forks": 48583
+        },
+        {
+          "rank": 10,
+          "name": "THUDM/slime",
+          "url": "https://github.com/THUDM/slime",
+          "description": "slime is an LLM post-training framework for RL Scaling.",
+          "language": "Python",
+          "stars": 6598,
+          "forks": 949
+        }
+      ]
+    }
+  ]
+}

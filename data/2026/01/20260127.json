@@ -1,0 +1,337 @@
+{
+  "date": "20260127",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 111353,
+          "forks": 29070
+        },
+        {
+          "rank": 2,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 92689,
+          "forks": 10840
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 89606,
+          "forks": 8222
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 65496,
+          "forks": 5660
+        },
+        {
+          "rank": 5,
+          "name": "moltbot/moltbot",
+          "url": "https://github.com/moltbot/moltbot",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 62424,
+          "forks": 7574
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 61262,
+          "forks": 4571
+        },
+        {
+          "rank": 7,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 57809,
+          "forks": 7487
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 53714,
+          "forks": 9445
+        },
+        {
+          "rank": 9,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 50482,
+          "forks": 6179
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 44738,
+          "forks": 21889
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 381119,
+          "forks": 65785
+        },
+        {
+          "rank": 2,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37339,
+          "forks": 53881
+        },
+        {
+          "rank": 3,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153609,
+          "forks": 46103
+        },
+        {
+          "rank": 4,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 79773,
+          "forks": 41831
+        },
+        {
+          "rank": 5,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 48688,
+          "forks": 31247
+        },
+        {
+          "rank": 6,
+          "name": "mdn/learning-area",
+          "url": "https://github.com/mdn/learning-area",
+          "description": "GitHub repo for the MDN Learning Area.",
+          "language": "HTML",
+          "stars": 7526,
+          "forks": 27414
+        },
+        {
+          "rank": 7,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13375,
+          "forks": 27359
+        },
+        {
+          "rank": 8,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 96966,
+          "forks": 26654
+        },
+        {
+          "rank": 9,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 10437,
+          "forks": 25155
+        },
+        {
+          "rank": 10,
+          "name": "hiifeng/V2ray-for-Doprax",
+          "url": "https://github.com/hiifeng/V2ray-for-Doprax",
+          "description": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatica...",
+          "language": "Dockerfile",
+          "stars": 8386,
+          "forks": 22240
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "badlogic/pi-mono",
+          "url": "https://github.com/badlogic/pi-mono",
+          "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+          "language": "TypeScript",
+          "stars": 2490,
+          "forks": 318
+        },
+        {
+          "rank": 2,
+          "name": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "language": "TypeScript",
+          "stars": 15339,
+          "forks": 1584
+        },
+        {
+          "rank": 3,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 5324,
+          "forks": 391
+        },
+        {
+          "rank": 4,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 12268,
+          "forks": 1859
+        },
+        {
+          "rank": 5,
+          "name": "hashicorp/vault",
+          "url": "https://github.com/hashicorp/vault",
+          "description": "A tool for secrets management, encryption as a service, and privileged access management",
+          "language": "Go",
+          "stars": 33917,
+          "forks": 4515
+        },
+        {
+          "rank": 6,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 89858,
+          "forks": 12976
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 5324,
+          "forks": 391
+        },
+        {
+          "rank": 2,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 12268,
+          "forks": 1859
+        },
+        {
+          "rank": 3,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 89858,
+          "forks": 12976
+        },
+        {
+          "rank": 4,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 44738,
+          "forks": 21889
+        },
+        {
+          "rank": 5,
+          "name": "ranaroussi/yfinance",
+          "url": "https://github.com/ranaroussi/yfinance",
+          "description": "Download market data from Yahoo! Finance's API",
+          "language": "Python",
+          "stars": 21109,
+          "forks": 3032
+        },
+        {
+          "rank": 6,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 10016,
+          "forks": 734
+        },
+        {
+          "rank": 7,
+          "name": "flashinfer-ai/flashinfer",
+          "url": "https://github.com/flashinfer-ai/flashinfer",
+          "description": "FlashInfer: Kernel Library for LLM Serving",
+          "language": "Python",
+          "stars": 4773,
+          "forks": 670
+        },
+        {
+          "rank": 8,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 18143,
+          "forks": 2027
+        }
+      ]
+    }
+  ]
+}

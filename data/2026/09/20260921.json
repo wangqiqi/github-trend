@@ -1,0 +1,391 @@
+{
+  "date": "20260921",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 390204,
+          "forks": 82079
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 267019,
+          "forks": 22550
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 264560,
+          "forks": 39540
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195280,
+          "forks": 108466
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 177438,
+          "forks": 21020
+        },
+        {
+          "rank": 6,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 143616,
+          "forks": 7692
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 129540,
+          "forks": 13798
+        },
+        {
+          "rank": 8,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 120136,
+          "forks": 11602
+        },
+        {
+          "rank": 9,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 117035,
+          "forks": 13124
+        },
+        {
+          "rank": 10,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65%...",
+          "language": "Go",
+          "stars": 107127,
+          "forks": 6204
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2717,
+          "forks": 94031
+        },
+        {
+          "rank": 2,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 390204,
+          "forks": 82079
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 200227,
+          "forks": 77041
+        },
+        {
+          "rank": 4,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 249691,
+          "forks": 65305
+        },
+        {
+          "rank": 5,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 65433,
+          "forks": 54711
+        },
+        {
+          "rank": 6,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 224836,
+          "forks": 51106
+        },
+        {
+          "rank": 7,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 90229,
+          "forks": 39403
+        },
+        {
+          "rank": 8,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 143765,
+          "forks": 34809
+        },
+        {
+          "rank": 9,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 99070,
+          "forks": 32524
+        },
+        {
+          "rank": 10,
+          "name": "trekhleb/javascript-algorithms",
+          "url": "https://github.com/trekhleb/javascript-algorithms",
+          "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further...",
+          "language": "JavaScript",
+          "stars": 196787,
+          "forks": 31026
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "description": "A framework for building agentic apps",
+          "language": "TypeScript",
+          "stars": 5741,
+          "forks": 530
+        },
+        {
+          "rank": 2,
+          "name": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, ev...",
+          "language": "HTML",
+          "stars": 25591,
+          "forks": 1765
+        },
+        {
+          "rank": 3,
+          "name": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, se...",
+          "language": "TypeScript",
+          "stars": 17498,
+          "forks": 2176
+        },
+        {
+          "rank": 4,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different a...",
+          "language": "Rust",
+          "stars": 7556,
+          "forks": 518
+        },
+        {
+          "rank": 5,
+          "name": "coder/coder",
+          "url": "https://github.com/coder/coder",
+          "description": "Secure environments for developers and their agents",
+          "language": "Go",
+          "stars": 16330,
+          "forks": 1562
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 35713,
+          "forks": 5263
+        },
+        {
+          "rank": 7,
+          "name": "cloudflare/quiche",
+          "url": "https://github.com/cloudflare/quiche",
+          "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+          "language": "Rust",
+          "stars": 12259,
+          "forks": 1129
+        },
+        {
+          "rank": 8,
+          "name": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to f...",
+          "language": "Python",
+          "stars": 13466,
+          "forks": 1317
+        },
+        {
+          "rank": 9,
+          "name": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+          "language": "Python",
+          "stars": 8111,
+          "forks": 1563
+        },
+        {
+          "rank": 10,
+          "name": "ruanyf/weekly",
+          "url": "https://github.com/ruanyf/weekly",
+          "description": "科技爱好者周刊，每周五发布",
+          "language": "N/A",
+          "stars": 103864,
+          "forks": 4445
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 35713,
+          "forks": 5263
+        },
+        {
+          "rank": 2,
+          "name": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to f...",
+          "language": "Python",
+          "stars": 13466,
+          "forks": 1317
+        },
+        {
+          "rank": 3,
+          "name": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+          "language": "Python",
+          "stars": 8111,
+          "forks": 1563
+        },
+        {
+          "rank": 4,
+          "name": "cv-cat/DouYin_Spider",
+          "url": "https://github.com/cv-cat/DouYin_Spider",
+          "description": "抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听",
+          "language": "Python",
+          "stars": 3111,
+          "forks": 829
+        },
+        {
+          "rank": 5,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 45801,
+          "forks": 3172
+        },
+        {
+          "rank": 6,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 67517,
+          "forks": 4874
+        },
+        {
+          "rank": 7,
+          "name": "TNT-Likely/PanWatch",
+          "url": "https://github.com/TNT-Likely/PanWatch",
+          "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+          "language": "Python",
+          "stars": 1133,
+          "forks": 250
+        },
+        {
+          "rank": 8,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 65433,
+          "forks": 54711
+        },
+        {
+          "rank": 9,
+          "name": "owainlewis/awesome-artificial-intelligence",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+          "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+          "language": "Python",
+          "stars": 16529,
+          "forks": 2562
+        },
+        {
+          "rank": 10,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 31809,
+          "forks": 3301
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "date": "20251023",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "minio/minio",
+          "url": "https://github.com/minio/minio",
+          "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+          "language": "Go",
+          "stars": 56007,
+          "forks": 6277
+        },
+        {
+          "rank": 2,
+          "name": "guofei9987/blind_watermark",
+          "url": "https://github.com/guofei9987/blind_watermark",
+          "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+          "language": "Python",
+          "stars": 8515,
+          "forks": 929
+        },
+        {
+          "rank": 3,
+          "name": "mountain-loop/yaak",
+          "url": "https://github.com/mountain-loop/yaak",
+          "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sen...",
+          "language": "TypeScript",
+          "stars": 12961,
+          "forks": 456
+        },
+        {
+          "rank": 4,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 50262,
+          "forks": 2197
+        },
+        {
+          "rank": 5,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 33048,
+          "forks": 2061
+        },
+        {
+          "rank": 6,
+          "name": "dyad-sh/dyad",
+          "url": "https://github.com/dyad-sh/dyad",
+          "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+          "language": "TypeScript",
+          "stars": 16835,
+          "forks": 1821
+        },
+        {
+          "rank": 7,
+          "name": "k2-fsa/sherpa-onnx",
+          "url": "https://github.com/k2-fsa/sherpa-onnx",
+          "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and V...",
+          "language": "C++",
+          "stars": 8083,
+          "forks": 920
+        },
+        {
+          "rank": 8,
+          "name": "rossant/awesome-math",
+          "url": "https://github.com/rossant/awesome-math",
+          "description": "A curated list of awesome mathematics resources",
+          "language": "Python",
+          "stars": 10855,
+          "forks": 1099
+        },
+        {
+          "rank": 9,
+          "name": "louislam/uptime-kuma",
+          "url": "https://github.com/louislam/uptime-kuma",
+          "description": "A fancy self-hosted monitoring tool",
+          "language": "JavaScript",
+          "stars": 76816,
+          "forks": 6799
+        },
+        {
+          "rank": 10,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Introduction to Machine Learning Systems",
+          "language": "Python",
+          "stars": 4535,
+          "forks": 466
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "guofei9987/blind_watermark",
+          "url": "https://github.com/guofei9987/blind_watermark",
+          "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+          "language": "Python",
+          "stars": 8515,
+          "forks": 929
+        },
+        {
+          "rank": 2,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 33048,
+          "forks": 2061
+        },
+        {
+          "rank": 3,
+          "name": "rossant/awesome-math",
+          "url": "https://github.com/rossant/awesome-math",
+          "description": "A curated list of awesome mathematics resources",
+          "language": "Python",
+          "stars": 10855,
+          "forks": 1099
+        },
+        {
+          "rank": 4,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Introduction to Machine Learning Systems",
+          "language": "Python",
+          "stars": 4535,
+          "forks": 466
+        },
+        {
+          "rank": 5,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 131725,
+          "forks": 10583
+        },
+        {
+          "rank": 6,
+          "name": "meta-pytorch/torchforge",
+          "url": "https://github.com/meta-pytorch/torchforge",
+          "description": "PyTorch-native post-training at scale",
+          "language": "Python",
+          "stars": 207,
+          "forks": 26
+        },
+        {
+          "rank": 7,
+          "name": "guofei9987/scikit-opt",
+          "url": "https://github.com/guofei9987/scikit-opt",
+          "description": "Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algo...",
+          "language": "Python",
+          "stars": 5958,
+          "forks": 1041
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 7763,
+          "forks": 1104
+        },
+        {
+          "rank": 9,
+          "name": "crewAIInc/crewAI",
+          "url": "https://github.com/crewAIInc/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intell...",
+          "language": "Python",
+          "stars": 39539,
+          "forks": 5259
+        },
+        {
+          "rank": 10,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "",
+          "language": "Python",
+          "stars": 99872,
+          "forks": 16289
+        }
+      ]
+    }
+  ]
+}

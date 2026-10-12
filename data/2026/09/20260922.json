@@ -1,0 +1,355 @@
+{
+  "date": "20260922",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 129791,
+          "forks": 13816
+        },
+        {
+          "rank": 2,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 117270,
+          "forks": 13137
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 98369,
+          "forks": 10337
+        },
+        {
+          "rank": 4,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "JavaScript",
+          "stars": 89245,
+          "forks": 6073
+        },
+        {
+          "rank": 5,
+          "name": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 87506,
+          "forks": 942
+        },
+        {
+          "rank": 6,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 84701,
+          "forks": 7437
+        },
+        {
+          "rank": 7,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 75484,
+          "forks": 8751
+        },
+        {
+          "rank": 8,
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens fo...",
+          "language": "Python",
+          "stars": 73478,
+          "forks": 5664
+        },
+        {
+          "rank": 9,
+          "name": "career-ops-hq/career-ops",
+          "url": "https://github.com/career-ops-hq/career-ops",
+          "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with ...",
+          "language": "JavaScript",
+          "stars": 72423,
+          "forks": 13624
+        },
+        {
+          "rank": 10,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+          "language": "TypeScript",
+          "stars": 69284,
+          "forks": 5709
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 200246,
+          "forks": 77043
+        },
+        {
+          "rank": 2,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 65495,
+          "forks": 54748
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1676,
+          "forks": 48697
+        },
+        {
+          "rank": 4,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 31497,
+          "forks": 46563
+        },
+        {
+          "rank": 5,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 302,
+          "forks": 42378
+        },
+        {
+          "rank": 6,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 122034,
+          "forks": 37501
+        },
+        {
+          "rank": 7,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 115753,
+          "forks": 36556
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 542,
+          "forks": 33648
+        },
+        {
+          "rank": 9,
+          "name": "airbnb/javascript",
+          "url": "https://github.com/airbnb/javascript",
+          "description": "JavaScript Style Guide",
+          "language": "JavaScript",
+          "stars": 148254,
+          "forks": 26564
+        },
+        {
+          "rank": 10,
+          "name": "react/react-native",
+          "url": "https://github.com/react/react-native",
+          "description": "A framework for building native applications using React",
+          "language": "C++",
+          "stars": 126690,
+          "forks": 25280
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 36159,
+          "forks": 5296
+        },
+        {
+          "rank": 2,
+          "name": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "description": "Agent Substrate: the core system",
+          "language": "Go",
+          "stars": 2814,
+          "forks": 374
+        },
+        {
+          "rank": 3,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF...",
+          "language": "TypeScript",
+          "stars": 15104,
+          "forks": 1357
+        },
+        {
+          "rank": 4,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 30987,
+          "forks": 3532
+        },
+        {
+          "rank": 5,
+          "name": "google/ax",
+          "url": "https://github.com/google/ax",
+          "description": "Google's open agentic orchestration runtime",
+          "language": "Go",
+          "stars": 7156,
+          "forks": 338
+        },
+        {
+          "rank": 6,
+          "name": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to f...",
+          "language": "Python",
+          "stars": 13858,
+          "forks": 1342
+        },
+        {
+          "rank": 7,
+          "name": "superdesigndev/treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+          "language": "Python",
+          "stars": 2060,
+          "forks": 209
+        },
+        {
+          "rank": 8,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 25638,
+          "forks": 3104
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 36159,
+          "forks": 5296
+        },
+        {
+          "rank": 2,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 30987,
+          "forks": 3532
+        },
+        {
+          "rank": 3,
+          "name": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to f...",
+          "language": "Python",
+          "stars": 13858,
+          "forks": 1342
+        },
+        {
+          "rank": 4,
+          "name": "superdesigndev/treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+          "language": "Python",
+          "stars": 2060,
+          "forks": 209
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "description": "Edit videos with coding agents",
+          "language": "Python",
+          "stars": 25638,
+          "forks": 3104
+        },
+        {
+          "rank": 6,
+          "name": "FareedKhan-dev/train-llm-from-scratch",
+          "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+          "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+          "language": "Python",
+          "stars": 10793,
+          "forks": 1516
+        },
+        {
+          "rank": 7,
+          "name": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+          "language": "Python",
+          "stars": 8673,
+          "forks": 1606
+        },
+        {
+          "rank": 8,
+          "name": "TNT-Likely/PanWatch",
+          "url": "https://github.com/TNT-Likely/PanWatch",
+          "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+          "language": "Python",
+          "stars": 1292,
+          "forks": 277
+        }
+      ]
+    }
+  ]
+}

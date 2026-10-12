@@ -1,0 +1,199 @@
+{
+  "date": "20250729",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "9001/copyparty",
+          "url": "https://github.com/9001/copyparty",
+          "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, medi...",
+          "language": "Python",
+          "stars": 8673,
+          "forks": 257
+        },
+        {
+          "rank": 2,
+          "name": "cloudwego/eino",
+          "url": "https://github.com/cloudwego/eino",
+          "description": "The ultimate LLM/AI application development framework in Golang.",
+          "language": "Go",
+          "stars": 5545,
+          "forks": 450
+        },
+        {
+          "rank": 3,
+          "name": "n0-computer/iroh",
+          "url": "https://github.com/n0-computer/iroh",
+          "description": "peer-2-peer that just works",
+          "language": "Rust",
+          "stars": 6087,
+          "forks": 276
+        },
+        {
+          "rank": 4,
+          "name": "tldr-pages/tldr",
+          "url": "https://github.com/tldr-pages/tldr",
+          "description": "📚 Collaborative cheatsheets for console commands",
+          "language": "Markdown",
+          "stars": 57411,
+          "forks": 4616
+        },
+        {
+          "rank": 5,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 53317,
+          "forks": 6207
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "description": "Windows system utilities to maximize productivity",
+          "language": "C#",
+          "stars": 121320,
+          "forks": 7218
+        },
+        {
+          "rank": 7,
+          "name": "lapce/lapce",
+          "url": "https://github.com/lapce/lapce",
+          "description": "Lightning-fast and Powerful Code Editor written in Rust",
+          "language": "Rust",
+          "stars": 36845,
+          "forks": 1161
+        },
+        {
+          "rank": 8,
+          "name": "ashishpatel26/500-AI-Agents-Projects",
+          "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+          "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industrie...",
+          "language": "N/A",
+          "stars": 3193,
+          "forks": 687
+        },
+        {
+          "rank": 9,
+          "name": "linshenkx/prompt-optimizer",
+          "url": "https://github.com/linshenkx/prompt-optimizer",
+          "description": "一款提示词优化器，助力于编写高质量的提示词",
+          "language": "TypeScript",
+          "stars": 10885,
+          "forks": 1346
+        },
+        {
+          "rank": 10,
+          "name": "outline/outline",
+          "url": "https://github.com/outline/outline",
+          "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, ...",
+          "language": "TypeScript",
+          "stars": 33336,
+          "forks": 2727
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "9001/copyparty",
+          "url": "https://github.com/9001/copyparty",
+          "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, medi...",
+          "language": "Python",
+          "stars": 8673,
+          "forks": 257
+        },
+        {
+          "rank": 2,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 53317,
+          "forks": 6207
+        },
+        {
+          "rank": 3,
+          "name": "daveebbelaar/ai-cookbook",
+          "url": "https://github.com/daveebbelaar/ai-cookbook",
+          "description": "Examples and tutorials to help developers build AI systems",
+          "language": "Python",
+          "stars": 2311,
+          "forks": 831
+        },
+        {
+          "rank": 4,
+          "name": "sinaptik-ai/pandas-ai",
+          "url": "https://github.com/sinaptik-ai/pandas-ai",
+          "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conver...",
+          "language": "Python",
+          "stars": 21153,
+          "forks": 2045
+        },
+        {
+          "rank": 5,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 13370,
+          "forks": 983
+        },
+        {
+          "rank": 6,
+          "name": "myshell-ai/MeloTTS",
+          "url": "https://github.com/myshell-ai/MeloTTS",
+          "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French...",
+          "language": "Python",
+          "stars": 6421,
+          "forks": 896
+        },
+        {
+          "rank": 7,
+          "name": "dgtlmoon/changedetection.io",
+          "url": "https://github.com/dgtlmoon/changedetection.io",
+          "description": "Best and simplest tool for website change detection, web page monitoring, and website change aler...",
+          "language": "Python",
+          "stars": 25637,
+          "forks": 1410
+        },
+        {
+          "rank": 8,
+          "name": "potpie-ai/potpie",
+          "url": "https://github.com/potpie-ai/potpie",
+          "description": "Prompt-To-Agent : Create custom engineering agents for your codebase",
+          "language": "Python",
+          "stars": 4807,
+          "forks": 442
+        },
+        {
+          "rank": 9,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance syste...",
+          "language": "Python",
+          "stars": 55587,
+          "forks": 9981
+        },
+        {
+          "rank": 10,
+          "name": "sissbruecker/linkding",
+          "url": "https://github.com/sissbruecker/linkding",
+          "description": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Do...",
+          "language": "Python",
+          "stars": 8737,
+          "forks": 432
+        }
+      ]
+    }
+  ]
+}

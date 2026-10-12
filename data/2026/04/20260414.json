@@ -1,0 +1,382 @@
+{
+  "date": "20260414",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 143004,
+          "forks": 16103
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 117128,
+          "forks": 13472
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 82506,
+          "forks": 11046
+        },
+        {
+          "rank": 4,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 64715,
+          "forks": 6513
+        },
+        {
+          "rank": 5,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 48227,
+          "forks": 7871
+        },
+        {
+          "rank": 6,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 48021,
+          "forks": 5046
+        },
+        {
+          "rank": 7,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 46923,
+          "forks": 1423
+        },
+        {
+          "rank": 8,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital...",
+          "language": "Rust",
+          "stars": 46628,
+          "forks": 6298
+        },
+        {
+          "rank": 9,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
+          "language": "Python",
+          "stars": 45431,
+          "forks": 5874
+        },
+        {
+          "rank": 10,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & G...",
+          "language": "Rust",
+          "stars": 44566,
+          "forks": 2816
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 168,
+          "forks": 19887
+        },
+        {
+          "rank": 2,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9778
+        },
+        {
+          "rank": 3,
+          "name": "aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "url": "https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "description": "Sample web application for the AWS DevOps Engineer Learning Path.",
+          "language": "JavaScript",
+          "stars": 106,
+          "forks": 9355
+        },
+        {
+          "rank": 4,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8943
+        },
+        {
+          "rank": 5,
+          "name": "CrunchyData/postgres-operator-examples",
+          "url": "https://github.com/CrunchyData/postgres-operator-examples",
+          "description": "Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data",
+          "language": "Go Template",
+          "stars": 226,
+          "forks": 6482
+        },
+        {
+          "rank": 6,
+          "name": "jenkins-docs/simple-python-pyinstaller-app",
+          "url": "https://github.com/jenkins-docs/simple-python-pyinstaller-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Python application with PyIn...",
+          "language": "Python",
+          "stars": 100,
+          "forks": 6156
+        },
+        {
+          "rank": 7,
+          "name": "ironhack-labs/lab-javascript-basic-algorithms",
+          "url": "https://github.com/ironhack-labs/lab-javascript-basic-algorithms",
+          "description": "An exercise designed to learn basic JS algorithms (variables, loops, etc...)",
+          "language": "HTML",
+          "stars": 111,
+          "forks": 5874
+        },
+        {
+          "rank": 8,
+          "name": "wangxinleo/wechat-public-account-push",
+          "url": "https://github.com/wangxinleo/wechat-public-account-push",
+          "description": "✨微信公众号推送-给女朋友的浪漫",
+          "language": "JavaScript",
+          "stars": 1836,
+          "forks": 5267
+        },
+        {
+          "rank": 9,
+          "name": "vuejs/docs",
+          "url": "https://github.com/vuejs/docs",
+          "description": "📄 Documentation for Vue 3",
+          "language": "Vue",
+          "stars": 3208,
+          "forks": 5006
+        },
+        {
+          "rank": 10,
+          "name": "mate-academy/layout_catalog",
+          "url": "https://github.com/mate-academy/layout_catalog",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 7,
+          "forks": 5147
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 29814,
+          "forks": 2442
+        },
+        {
+          "rank": 2,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 54677,
+          "forks": 4377
+        },
+        {
+          "rank": 3,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source voice synthesis studio",
+          "language": "TypeScript",
+          "stars": 16838,
+          "forks": 1988
+        },
+        {
+          "rank": 4,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars": 10871,
+          "forks": 1394
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 107904,
+          "forks": 6827
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 151537,
+          "forks": 13119
+        },
+        {
+          "rank": 7,
+          "name": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+          "language": "Assembly",
+          "stars": 66030,
+          "forks": 7559
+        },
+        {
+          "rank": 8,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 53668,
+          "forks": 9318
+        },
+        {
+          "rank": 9,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 17555,
+          "forks": 3282
+        },
+        {
+          "rank": 10,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 82506,
+          "forks": 11046
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 107904,
+          "forks": 6827
+        },
+        {
+          "rank": 2,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 53668,
+          "forks": 9318
+        },
+        {
+          "rank": 3,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 17555,
+          "forks": 3282
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 82506,
+          "forks": 11046
+        },
+        {
+          "rank": 5,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 76541,
+          "forks": 15566
+        },
+        {
+          "rank": 6,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...",
+          "language": "Python",
+          "stars": 7866,
+          "forks": 1115
+        },
+        {
+          "rank": 7,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+          "language": "Python",
+          "stars": 651,
+          "forks": 93
+        },
+        {
+          "rank": 8,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO 🚀",
+          "language": "Python",
+          "stars": 55890,
+          "forks": 10762
+        },
+        {
+          "rank": 9,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more co...",
+          "language": "Python",
+          "stars": 11004,
+          "forks": 1406
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260203",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 96332,
+          "forks": 9028
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 63551,
+          "forks": 4798
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 61764,
+          "forks": 6058
+        },
+        {
+          "rank": 4,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54102,
+          "forks": 9501
+        },
+        {
+          "rank": 5,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45467,
+          "forks": 4568
+        },
+        {
+          "rank": 6,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 45397,
+          "forks": 22006
+        },
+        {
+          "rank": 7,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 44565,
+          "forks": 2133
+        },
+        {
+          "rank": 8,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 43117,
+          "forks": 3278
+        },
+        {
+          "rank": 9,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Bat...",
+          "language": "JavaScript",
+          "stars": 38672,
+          "forks": 4789
+        },
+        {
+          "rank": 10,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 33910,
+          "forks": 4330
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18864,
+          "forks": 65847
+        },
+        {
+          "rank": 2,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 216165,
+          "forks": 60285
+        },
+        {
+          "rank": 3,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 242733,
+          "forks": 50494
+        },
+        {
+          "rank": 4,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 217443,
+          "forks": 50035
+        },
+        {
+          "rank": 5,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 348485,
+          "forks": 43698
+        },
+        {
+          "rank": 6,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 463215,
+          "forks": 43509
+        },
+        {
+          "rank": 7,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1147,
+          "forks": 42207
+        },
+        {
+          "rank": 8,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 97757,
+          "forks": 32785
+        },
+        {
+          "rank": 9,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 524,
+          "forks": 32707
+        },
+        {
+          "rank": 10,
+          "name": "trekhleb/javascript-algorithms",
+          "url": "https://github.com/trekhleb/javascript-algorithms",
+          "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further...",
+          "language": "JavaScript",
+          "stars": 195495,
+          "forks": 31123
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 18966,
+          "forks": 1301
+        },
+        {
+          "rank": 2,
+          "name": "masoncl/review-prompts",
+          "url": "https://github.com/masoncl/review-prompts",
+          "description": "AI review prompts",
+          "language": "Python",
+          "stars": 212,
+          "forks": 29
+        },
+        {
+          "rank": 3,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 2679,
+          "forks": 169
+        },
+        {
+          "rank": 4,
+          "name": "automazeio/ccpm",
+          "url": "https://github.com/automazeio/ccpm",
+          "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agen...",
+          "language": "Shell",
+          "stars": 6504,
+          "forks": 686
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 43117,
+          "forks": 3278
+        },
+        {
+          "rank": 6,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars": 9927,
+          "forks": 1212
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 41872,
+          "forks": 5409
+        },
+        {
+          "rank": 8,
+          "name": "kovidgoyal/calibre",
+          "url": "https://github.com/kovidgoyal/calibre",
+          "description": "The official source code repository for the calibre ebook manager",
+          "language": "Python",
+          "stars": 23870,
+          "forks": 2546
+        },
+        {
+          "rank": 9,
+          "name": "OpenBMB/ChatDev",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "language": "Python",
+          "stars": 29668,
+          "forks": 3679
+        },
+        {
+          "rank": 10,
+          "name": "pedramamini/Maestro",
+          "url": "https://github.com/pedramamini/Maestro",
+          "description": "Agent Orchestration Command Center",
+          "language": "TypeScript",
+          "stars": 1406,
+          "forks": 150
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "masoncl/review-prompts",
+          "url": "https://github.com/masoncl/review-prompts",
+          "description": "AI review prompts",
+          "language": "Python",
+          "stars": 212,
+          "forks": 29
+        },
+        {
+          "rank": 2,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 2679,
+          "forks": 169
+        },
+        {
+          "rank": 3,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 41872,
+          "forks": 5409
+        },
+        {
+          "rank": 4,
+          "name": "kovidgoyal/calibre",
+          "url": "https://github.com/kovidgoyal/calibre",
+          "description": "The official source code repository for the calibre ebook manager",
+          "language": "Python",
+          "stars": 23870,
+          "forks": 2546
+        },
+        {
+          "rank": 5,
+          "name": "OpenBMB/ChatDev",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "language": "Python",
+          "stars": 29668,
+          "forks": 3679
+        },
+        {
+          "rank": 6,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 381979,
+          "forks": 65886
+        },
+        {
+          "rank": 7,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 12805,
+          "forks": 919
+        },
+        {
+          "rank": 8,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all You need - Write a nano Claude Code 0 - 1",
+          "language": "Python",
+          "stars": 16244,
+          "forks": 3527
+        },
+        {
+          "rank": 9,
+          "name": "xerrors/Yuxi-Know",
+          "url": "https://github.com/xerrors/Yuxi-Know",
+          "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowled...",
+          "language": "Python",
+          "stars": 4218,
+          "forks": 533
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 38608,
+          "forks": 4634
+        }
+      ]
+    }
+  ]
+}

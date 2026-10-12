@@ -1,0 +1,391 @@
+{
+  "date": "20260204",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 161217,
+          "forks": 25195
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 113166,
+          "forks": 29411
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 97199,
+          "forks": 9146
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 93534,
+          "forks": 11011
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 67480,
+          "forks": 5827
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 63934,
+          "forks": 4832
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 62786,
+          "forks": 6154
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 58891,
+          "forks": 7668
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54143,
+          "forks": 9507
+        },
+        {
+          "rank": 10,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 50866,
+          "forks": 6279
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52502,
+          "forks": 97398
+        },
+        {
+          "rank": 2,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 524,
+          "forks": 32721
+        },
+        {
+          "rank": 3,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 156143,
+          "forks": 31954
+        },
+        {
+          "rank": 4,
+          "name": "dotnet/AspNetCore.Docs",
+          "url": "https://github.com/dotnet/AspNetCore.Docs",
+          "description": "Documentation for ASP.NET Core",
+          "language": "C#",
+          "stars": 13063,
+          "forks": 24985
+        },
+        {
+          "rank": 5,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 166,
+          "forks": 20036
+        },
+        {
+          "rank": 6,
+          "name": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and...",
+          "language": "MDX",
+          "stars": 144521,
+          "forks": 19096
+        },
+        {
+          "rank": 7,
+          "name": "electron/electron",
+          "url": "https://github.com/electron/electron",
+          "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+          "language": "C++",
+          "stars": 120002,
+          "forks": 16968
+        },
+        {
+          "rank": 8,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars": 70635,
+          "forks": 16028
+        },
+        {
+          "rank": 9,
+          "name": "github/opensource.guide",
+          "url": "https://github.com/github/opensource.guide",
+          "description": "📚 Community guides for open source creators",
+          "language": "HTML",
+          "stars": 15196,
+          "forks": 15269
+        },
+        {
+          "rank": 10,
+          "name": "krahets/hello-algo",
+          "url": "https://github.com/krahets/hello-algo",
+          "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Ru...",
+          "language": "Java",
+          "stars": 122107,
+          "forks": 14822
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 21544,
+          "forks": 1438
+        },
+        {
+          "rank": 2,
+          "name": "masoncl/review-prompts",
+          "url": "https://github.com/masoncl/review-prompts",
+          "description": "AI review prompts",
+          "language": "Python",
+          "stars": 498,
+          "forks": 39
+        },
+        {
+          "rank": 3,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 3403,
+          "forks": 196
+        },
+        {
+          "rank": 4,
+          "name": "automazeio/ccpm",
+          "url": "https://github.com/automazeio/ccpm",
+          "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agen...",
+          "language": "Shell",
+          "stars": 6885,
+          "forks": 711
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 44098,
+          "forks": 3336
+        },
+        {
+          "rank": 6,
+          "name": "virattt/dexter",
+          "url": "https://github.com/virattt/dexter",
+          "description": "An autonomous agent for deep financial research",
+          "language": "TypeScript",
+          "stars": 10326,
+          "forks": 1249
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 42171,
+          "forks": 5442
+        },
+        {
+          "rank": 8,
+          "name": "kovidgoyal/calibre",
+          "url": "https://github.com/kovidgoyal/calibre",
+          "description": "The official source code repository for the calibre ebook manager",
+          "language": "Python",
+          "stars": 23977,
+          "forks": 2551
+        },
+        {
+          "rank": 9,
+          "name": "OpenBMB/ChatDev",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "language": "Python",
+          "stars": 29885,
+          "forks": 3697
+        },
+        {
+          "rank": 10,
+          "name": "pedramamini/Maestro",
+          "url": "https://github.com/pedramamini/Maestro",
+          "description": "Agent Orchestration Command Center",
+          "language": "TypeScript",
+          "stars": 1590,
+          "forks": 162
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "masoncl/review-prompts",
+          "url": "https://github.com/masoncl/review-prompts",
+          "description": "AI review prompts",
+          "language": "Python",
+          "stars": 498,
+          "forks": 39
+        },
+        {
+          "rank": 2,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 3403,
+          "forks": 196
+        },
+        {
+          "rank": 3,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 42171,
+          "forks": 5442
+        },
+        {
+          "rank": 4,
+          "name": "kovidgoyal/calibre",
+          "url": "https://github.com/kovidgoyal/calibre",
+          "description": "The official source code repository for the calibre ebook manager",
+          "language": "Python",
+          "stars": 23978,
+          "forks": 2551
+        },
+        {
+          "rank": 5,
+          "name": "OpenBMB/ChatDev",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "language": "Python",
+          "stars": 29885,
+          "forks": 3697
+        },
+        {
+          "rank": 6,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 382053,
+          "forks": 65899
+        },
+        {
+          "rank": 7,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 13089,
+          "forks": 946
+        },
+        {
+          "rank": 8,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all You need - Write a nano Claude Code 0 - 1",
+          "language": "Python",
+          "stars": 16343,
+          "forks": 3542
+        },
+        {
+          "rank": 9,
+          "name": "xerrors/Yuxi-Know",
+          "url": "https://github.com/xerrors/Yuxi-Know",
+          "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowled...",
+          "language": "Python",
+          "stars": 4235,
+          "forks": 536
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 38704,
+          "forks": 4651
+        }
+      ]
+    }
+  ]
+}

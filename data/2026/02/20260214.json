@@ -1,0 +1,391 @@
+{
+  "date": "20260214",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 104344,
+          "forks": 10127
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 69632,
+          "forks": 6012
+        },
+        {
+          "rank": 3,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 60320,
+          "forks": 7949
+        },
+        {
+          "rank": 4,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54464,
+          "forks": 9534
+        },
+        {
+          "rank": 5,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 51392,
+          "forks": 6452
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 51298,
+          "forks": 3871
+        },
+        {
+          "rank": 7,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 46336,
+          "forks": 22169
+        },
+        {
+          "rank": 8,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Bat...",
+          "language": "JavaScript",
+          "stars": 45797,
+          "forks": 5671
+        },
+        {
+          "rank": 9,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 35572,
+          "forks": 4444
+        },
+        {
+          "rank": 10,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 34714,
+          "forks": 3362
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29399,
+          "forks": 87507
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 336977,
+          "forks": 81644
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173969,
+          "forks": 79114
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 106390,
+          "forks": 57001
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 86158,
+          "forks": 56526
+        },
+        {
+          "rank": 6,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77686,
+          "forks": 45297
+        },
+        {
+          "rank": 7,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 465832,
+          "forks": 43723
+        },
+        {
+          "rank": 8,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 349014,
+          "forks": 43697
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 398332,
+          "forks": 42612
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 181679,
+          "forks": 37934
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tambo-ai/tambo",
+          "url": "https://github.com/tambo-ai/tambo",
+          "description": "Generative UI SDK for React",
+          "language": "TypeScript",
+          "stars": 9420,
+          "forks": 457
+        },
+        {
+          "rank": 2,
+          "name": "SynkraAI/aios-core",
+          "url": "https://github.com/SynkraAI/aios-core",
+          "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+          "language": "JavaScript",
+          "stars": 509,
+          "forks": 225
+        },
+        {
+          "rank": 3,
+          "name": "rowboatlabs/rowboat",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "description": "Open-source AI coworker, with memory",
+          "language": "TypeScript",
+          "stars": 5594,
+          "forks": 445
+        },
+        {
+          "rank": 4,
+          "name": "minio/minio",
+          "url": "https://github.com/minio/minio",
+          "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+          "language": "Go",
+          "stars": 60226,
+          "forks": 7002
+        },
+        {
+          "rank": 5,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 24881,
+          "forks": 1473
+        },
+        {
+          "rank": 6,
+          "name": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "description": "A lightweight, lightning-fast, in-process vector database",
+          "language": "C++",
+          "stars": 976,
+          "forks": 56
+        },
+        {
+          "rank": 7,
+          "name": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estima...",
+          "language": "Python",
+          "stars": 5962,
+          "forks": 544
+        },
+        {
+          "rank": 8,
+          "name": "Zipstack/unstract",
+          "url": "https://github.com/Zipstack/unstract",
+          "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+          "language": "Python",
+          "stars": 6164,
+          "forks": 588
+        },
+        {
+          "rank": 9,
+          "name": "letta-ai/letta-code",
+          "url": "https://github.com/letta-ai/letta-code",
+          "description": "The memory-first coding agent",
+          "language": "TypeScript",
+          "stars": 1088,
+          "forks": 133
+        },
+        {
+          "rank": 10,
+          "name": "ruby/ruby",
+          "url": "https://github.com/ruby/ruby",
+          "description": "The Ruby Programming Language",
+          "language": "Ruby",
+          "stars": 23317,
+          "forks": 5562
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estima...",
+          "language": "Python",
+          "stars": 5962,
+          "forks": 544
+        },
+        {
+          "rank": 2,
+          "name": "Zipstack/unstract",
+          "url": "https://github.com/Zipstack/unstract",
+          "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+          "language": "Python",
+          "stars": 6164,
+          "forks": 588
+        },
+        {
+          "rank": 3,
+          "name": "GetStream/Vision-Agents",
+          "url": "https://github.com/GetStream/Vision-Agents",
+          "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses ...",
+          "language": "Python",
+          "stars": 5737,
+          "forks": 460
+        },
+        {
+          "rank": 4,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 123880,
+          "forks": 17500
+        },
+        {
+          "rank": 5,
+          "name": "music-assistant/server",
+          "url": "https://github.com/music-assistant/server",
+          "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming servi...",
+          "language": "Python",
+          "stars": 1328,
+          "forks": 296
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "description": "A collection of projects designed to help developers quickly get started with building deployable...",
+          "language": "Python",
+          "stars": 14002,
+          "forks": 2352
+        },
+        {
+          "rank": 7,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 94903,
+          "forks": 13746
+        },
+        {
+          "rank": 8,
+          "name": "cheahjs/free-llm-api-resources",
+          "url": "https://github.com/cheahjs/free-llm-api-resources",
+          "description": "A list of free LLM inference resources accessible via API.",
+          "language": "Python",
+          "stars": 10890,
+          "forks": 1056
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 14713,
+          "forks": 1246
+        },
+        {
+          "rank": 10,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 52994,
+          "forks": 3599
+        }
+      ]
+    }
+  ]
+}

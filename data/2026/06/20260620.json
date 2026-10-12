@@ -1,0 +1,391 @@
+{
+  "date": "20260620",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 379607,
+          "forks": 79464
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 198011,
+          "forks": 35096
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 153062,
+          "forks": 18031
+        },
+        {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 137604,
+          "forks": 11940
+        },
+        {
+          "rank": 5,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 114646,
+          "forks": 18724
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 114259,
+          "forks": 10087
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 94161,
+          "forks": 9859
+        },
+        {
+          "rank": 8,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 91730,
+          "forks": 10891
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 87749,
+          "forks": 12690
+        },
+        {
+          "rank": 10,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 75031,
+          "forks": 4232
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19773
+        },
+        {
+          "rank": 2,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14703
+        },
+        {
+          "rank": 3,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 137,
+          "forks": 13789
+        },
+        {
+          "rank": 4,
+          "name": "Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "url": "https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "description": "cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo created by GitHub Classroom",
+          "language": "C",
+          "stars": 35,
+          "forks": 13748
+        },
+        {
+          "rank": 5,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8957
+        },
+        {
+          "rank": 6,
+          "name": "javahometech/my-app",
+          "url": "https://github.com/javahometech/my-app",
+          "description": "No description",
+          "language": "Java",
+          "stars": 88,
+          "forks": 8718
+        },
+        {
+          "rank": 7,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 14,
+          "forks": 6731
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-python-pyinstaller-app",
+          "url": "https://github.com/jenkins-docs/simple-python-pyinstaller-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Python application with PyIn...",
+          "language": "Python",
+          "stars": 100,
+          "forks": 6145
+        },
+        {
+          "rank": 9,
+          "name": "ironhack-labs/lab-javascript-basic-algorithms",
+          "url": "https://github.com/ironhack-labs/lab-javascript-basic-algorithms",
+          "description": "An exercise designed to learn basic JS algorithms (variables, loops, etc...)",
+          "language": "HTML",
+          "stars": 111,
+          "forks": 5899
+        },
+        {
+          "rank": 10,
+          "name": "mate-academy/layout_catalog",
+          "url": "https://github.com/mate-academy/layout_catalog",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 8,
+          "forks": 5227
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "palmier-io/palmier-pro",
+          "url": "https://github.com/palmier-io/palmier-pro",
+          "description": "macOS video editor built for AI",
+          "language": "Swift",
+          "stars": 2477,
+          "forks": 225
+        },
+        {
+          "rank": 2,
+          "name": "penpot/penpot",
+          "url": "https://github.com/penpot/penpot",
+          "description": "Penpot: The open-source design tool for design and code collaboration",
+          "language": "Clojure",
+          "stars": 50877,
+          "forks": 3282
+        },
+        {
+          "rank": 3,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 6644,
+          "forks": 1121
+        },
+        {
+          "rank": 4,
+          "name": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "description": "Turso is an in-process SQL database, compatible with SQLite.",
+          "language": "Rust",
+          "stars": 20060,
+          "forks": 1034
+        },
+        {
+          "rank": 5,
+          "name": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge grap...",
+          "language": "C",
+          "stars": 8880,
+          "forks": 677
+        },
+        {
+          "rank": 6,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 24298,
+          "forks": 2298
+        },
+        {
+          "rank": 7,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "language": "TypeScript",
+          "stars": 50700,
+          "forks": 7394
+        },
+        {
+          "rank": 8,
+          "name": "Kong/insomnia",
+          "url": "https://github.com/Kong/insomnia",
+          "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Clou...",
+          "language": "TypeScript",
+          "stars": 39147,
+          "forks": 2319
+        },
+        {
+          "rank": 9,
+          "name": "tw93/Pake",
+          "url": "https://github.com/tw93/Pake",
+          "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+          "language": "Rust",
+          "stars": 53410,
+          "forks": 10699
+        },
+        {
+          "rank": 10,
+          "name": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens...",
+          "language": "Python",
+          "stars": 40620,
+          "forks": 2764
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 6644,
+          "forks": 1121
+        },
+        {
+          "rank": 2,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 24298,
+          "forks": 2298
+        },
+        {
+          "rank": 3,
+          "name": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens...",
+          "language": "Python",
+          "stars": 40620,
+          "forks": 2764
+        },
+        {
+          "rank": 4,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 443071,
+          "forks": 48562
+        },
+        {
+          "rank": 5,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 87856,
+          "forks": 37710
+        },
+        {
+          "rank": 6,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 30445,
+          "forks": 4170
+        },
+        {
+          "rank": 7,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 171973,
+          "forks": 14501
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/presidio",
+          "url": "https://github.com/microsoft/presidio",
+          "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) ...",
+          "language": "Python",
+          "stars": 9304,
+          "forks": 1143
+        },
+        {
+          "rank": 9,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, ...",
+          "language": "Python",
+          "stars": 66947,
+          "forks": 6012
+        },
+        {
+          "rank": 10,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CS...",
+          "language": "Python",
+          "stars": 16917,
+          "forks": 2052
+        }
+      ]
+    }
+  ]
+}

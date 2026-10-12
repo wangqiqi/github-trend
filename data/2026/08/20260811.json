@@ -1,0 +1,391 @@
+{
+  "date": "20260811",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars": 40392,
+          "forks": 2659
+        },
+        {
+          "rank": 2,
+          "name": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from di...",
+          "language": "C",
+          "stars": 23948,
+          "forks": 2602
+        },
+        {
+          "rank": 3,
+          "name": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-pow...",
+          "language": "PowerShell",
+          "stars": 23746,
+          "forks": 3228
+        },
+        {
+          "rank": 4,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 23693,
+          "forks": 1207
+        },
+        {
+          "rank": 5,
+          "name": "h4ckf0r0day/obscura",
+          "url": "https://github.com/h4ckf0r0day/obscura",
+          "description": "The headless browser for AI agents and web scraping",
+          "language": "Rust",
+          "stars": 21216,
+          "forks": 1521
+        },
+        {
+          "rank": 6,
+          "name": "webadderallorg/Recordly",
+          "url": "https://github.com/webadderallorg/Recordly",
+          "description": "Create polished demo videos without editing skills. Mac/Windows/Linux",
+          "language": "TypeScript",
+          "stars": 20758,
+          "forks": 1527
+        },
+        {
+          "rank": 7,
+          "name": "KKKKhazix/khazix-skills",
+          "url": "https://github.com/KKKKhazix/khazix-skills",
+          "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-write...",
+          "language": "Python",
+          "stars": 19536,
+          "forks": 2140
+        },
+        {
+          "rank": 8,
+          "name": "kurikomi-labs/komi-store",
+          "url": "https://github.com/kurikomi-labs/komi-store",
+          "description": "🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, ...",
+          "language": "Kotlin",
+          "stars": 17502,
+          "forks": 667
+        },
+        {
+          "rank": 9,
+          "name": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "description": "A skill file for removing AI tells from prose",
+          "language": "N/A",
+          "stars": 15473,
+          "forks": 1107
+        },
+        {
+          "rank": 10,
+          "name": "NanmiCoder/cc-haha",
+          "url": "https://github.com/NanmiCoder/cc-haha",
+          "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees...",
+          "language": "TypeScript",
+          "stars": 14036,
+          "forks": 8528
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1161,
+          "forks": 41905
+        },
+        {
+          "rank": 2,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1181,
+          "forks": 37774
+        },
+        {
+          "rank": 3,
+          "name": "jquery/jquery",
+          "url": "https://github.com/jquery/jquery",
+          "description": "jQuery JavaScript Library",
+          "language": "JavaScript",
+          "stars": 59783,
+          "forks": 20378
+        },
+        {
+          "rank": 4,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19682
+        },
+        {
+          "rank": 5,
+          "name": "hakimel/reveal.js",
+          "url": "https://github.com/hakimel/reveal.js",
+          "description": "The HTML Presentation Framework",
+          "language": "JavaScript",
+          "stars": 72102,
+          "forks": 16996
+        },
+        {
+          "rank": 6,
+          "name": "Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "url": "https://github.com/Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "description": "⚡🦄Arbitrage between USDC/ETH 0.3% fee pool and USDC/ETH 0.05% fee pool",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 15975
+        },
+        {
+          "rank": 7,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14704
+        },
+        {
+          "rank": 8,
+          "name": "giansales/cosmos-staking-apr",
+          "url": "https://github.com/giansales/cosmos-staking-apr",
+          "description": "Cosmos chain staking APR",
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0
+        },
+        {
+          "rank": 9,
+          "name": "bitnami/charts",
+          "url": "https://github.com/bitnami/charts",
+          "description": "Bitnami Helm Charts",
+          "language": "Go Template",
+          "stars": 10396,
+          "forks": 10340
+        },
+        {
+          "rank": 10,
+          "name": "gatsbyjs/gatsby",
+          "url": "https://github.com/gatsbyjs/gatsby",
+          "description": "React-based framework with performance, scalability, and security built in.",
+          "language": "JavaScript",
+          "stars": 55941,
+          "forks": 10130
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 142364,
+          "forks": 23188
+        },
+        {
+          "rank": 2,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 4572,
+          "forks": 508
+        },
+        {
+          "rank": 3,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 94417,
+          "forks": 10348
+        },
+        {
+          "rank": 4,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 86041,
+          "forks": 9255
+        },
+        {
+          "rank": 5,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 61915,
+          "forks": 52356
+        },
+        {
+          "rank": 6,
+          "name": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the...",
+          "language": "Python",
+          "stars": 3696,
+          "forks": 555
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 167832,
+          "forks": 20009
+        },
+        {
+          "rank": 8,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars": 89964,
+          "forks": 7468
+        },
+        {
+          "rank": 9,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 34364,
+          "forks": 4397
+        },
+        {
+          "rank": 10,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own s...",
+          "language": "TypeScript",
+          "stars": 42199,
+          "forks": 2947
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 4572,
+          "forks": 508
+        },
+        {
+          "rank": 2,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 61915,
+          "forks": 52356
+        },
+        {
+          "rank": 3,
+          "name": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the...",
+          "language": "Python",
+          "stars": 3696,
+          "forks": 555
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 167832,
+          "forks": 20009
+        },
+        {
+          "rank": 5,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars": 89964,
+          "forks": 7468
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 34364,
+          "forks": 4397
+        },
+        {
+          "rank": 7,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 163603,
+          "forks": 34191
+        },
+        {
+          "rank": 8,
+          "name": "harveyai/harvey-labs",
+          "url": "https://github.com/harveyai/harvey-labs",
+          "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+          "language": "Python",
+          "stars": 985,
+          "forks": 190
+        },
+        {
+          "rank": 9,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 47009,
+          "forks": 5868
+        },
+        {
+          "rank": 10,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "language": "Python",
+          "stars": 278168,
+          "forks": 35758
+        }
+      ]
+    }
+  ]
+}

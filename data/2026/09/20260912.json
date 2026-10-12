@@ -1,0 +1,391 @@
+{
+  "date": "20260912",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 221330,
+          "forks": 26225
+        },
+        {
+          "rank": 2,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 212540,
+          "forks": 21549
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 175932,
+          "forks": 20822
+        },
+        {
+          "rank": 4,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 136347,
+          "forks": 7311
+        },
+        {
+          "rank": 5,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 127071,
+          "forks": 13562
+        },
+        {
+          "rank": 6,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 117145,
+          "forks": 11347
+        },
+        {
+          "rank": 7,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Go",
+          "stars": 105176,
+          "forks": 6092
+        },
+        {
+          "rank": 8,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first ...",
+          "language": "TypeScript",
+          "stars": 95726,
+          "forks": 11094
+        },
+        {
+          "rank": 9,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 93671,
+          "forks": 9962
+        },
+        {
+          "rank": 10,
+          "name": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 87152,
+          "forks": 859
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 192039,
+          "forks": 42112
+        },
+        {
+          "rank": 2,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1164,
+          "forks": 41866
+        },
+        {
+          "rank": 3,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184861,
+          "forks": 33413
+        },
+        {
+          "rank": 4,
+          "name": "ArduPilot/ardupilot",
+          "url": "https://github.com/ArduPilot/ardupilot",
+          "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+          "language": "C++",
+          "stars": 15851,
+          "forks": 21375
+        },
+        {
+          "rank": 5,
+          "name": "mruniquehacker/Knightbot-MD",
+          "url": "https://github.com/mruniquehacker/Knightbot-MD",
+          "description": "A simple WhatsApp bot to manage groups",
+          "language": "JavaScript",
+          "stars": 8017,
+          "forks": 20424
+        },
+        {
+          "rank": 6,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19627
+        },
+        {
+          "rank": 7,
+          "name": "Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "url": "https://github.com/Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "description": "⚡🦄Arbitrage between USDC/ETH 0.3% fee pool and USDC/ETH 0.05% fee pool",
+          "language": "JavaScript",
+          "stars": 11,
+          "forks": 15975
+        },
+        {
+          "rank": 8,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14703
+        },
+        {
+          "rank": 9,
+          "name": "MithunTechnologiesDevOps/Maven-Web-Application",
+          "url": "https://github.com/MithunTechnologiesDevOps/Maven-Web-Application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 124,
+          "forks": 13310
+        },
+        {
+          "rank": 10,
+          "name": "axios/axios",
+          "url": "https://github.com/axios/axios",
+          "description": "Promise based HTTP client for the browser and node.js",
+          "language": "JavaScript",
+          "stars": 109218,
+          "forks": 11849
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial inte...",
+          "language": "JavaScript",
+          "stars": 28600,
+          "forks": 5814
+        },
+        {
+          "rank": 2,
+          "name": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternati...",
+          "language": "TypeScript",
+          "stars": 1622,
+          "forks": 528
+        },
+        {
+          "rank": 3,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. O...",
+          "language": "JavaScript",
+          "stars": 65104,
+          "forks": 10698
+        },
+        {
+          "rank": 4,
+          "name": "nab138/iloader",
+          "url": "https://github.com/nab138/iloader",
+          "description": "User friendly sideloader",
+          "language": "TypeScript",
+          "stars": 3011,
+          "forks": 209
+        },
+        {
+          "rank": 5,
+          "name": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "description": "",
+          "language": "Batchfile",
+          "stars": 33178,
+          "forks": 2538
+        },
+        {
+          "rank": 6,
+          "name": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modelin...",
+          "language": "Python",
+          "stars": 5052,
+          "forks": 400
+        },
+        {
+          "rank": 7,
+          "name": "Sonarr/Sonarr",
+          "url": "https://github.com/Sonarr/Sonarr",
+          "description": "Smart PVR for newsgroup and bittorrent users.",
+          "language": "C#",
+          "stars": 15847,
+          "forks": 1952
+        },
+        {
+          "rank": 8,
+          "name": "alsk1992/CloddsBot",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi...",
+          "language": "TypeScript",
+          "stars": 2349,
+          "forks": 301
+        },
+        {
+          "rank": 9,
+          "name": "yuliskov/SmartTube",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "description": "Browse media content with your own rules on Android TV",
+          "language": "Java",
+          "stars": 33113,
+          "forks": 2011
+        },
+        {
+          "rank": 10,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+          "language": "Python",
+          "stars": 137420,
+          "forks": 20220
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modelin...",
+          "language": "Python",
+          "stars": 5052,
+          "forks": 400
+        },
+        {
+          "rank": 2,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+          "language": "Python",
+          "stars": 137420,
+          "forks": 20220
+        },
+        {
+          "rank": 3,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills syste...",
+          "language": "Python",
+          "stars": 3417,
+          "forks": 543
+        },
+        {
+          "rank": 4,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars": 7099,
+          "forks": 811
+        },
+        {
+          "rank": 5,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 43039,
+          "forks": 2450
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 135962,
+          "forks": 12216
+        },
+        {
+          "rank": 7,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 30203,
+          "forks": 3135
+        },
+        {
+          "rank": 8,
+          "name": "petergyang/no-ai-slop",
+          "url": "https://github.com/petergyang/no-ai-slop",
+          "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+          "language": "Python",
+          "stars": 8547,
+          "forks": 644
+        },
+        {
+          "rank": 9,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-sca...",
+          "language": "Python",
+          "stars": 80445,
+          "forks": 8121
+        },
+        {
+          "rank": 10,
+          "name": "k2-fsa/OmniVoice",
+          "url": "https://github.com/k2-fsa/OmniVoice",
+          "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+          "language": "Python",
+          "stars": 12639,
+          "forks": 1931
+        }
+      ]
+    }
+  ]
+}

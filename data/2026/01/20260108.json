@@ -1,0 +1,391 @@
+{
+  "date": "20260108",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 106703,
+          "forks": 28107
+        },
+        {
+          "rank": 2,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 90134,
+          "forks": 10419
+        },
+        {
+          "rank": 3,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 60894,
+          "forks": 5287
+        },
+        {
+          "rank": 4,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 55490,
+          "forks": 7129
+        },
+        {
+          "rank": 5,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 54667,
+          "forks": 4650
+        },
+        {
+          "rank": 6,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 52437,
+          "forks": 9216
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49406,
+          "forks": 5904
+        },
+        {
+          "rank": 8,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 41228,
+          "forks": 2022
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 39924,
+          "forks": 5113
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 35617,
+          "forks": 3231
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2547,
+          "forks": 87563
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29271,
+          "forks": 87454
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 171680,
+          "forks": 82942
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77699,
+          "forks": 45339
+        },
+        {
+          "rank": 5,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 346877,
+          "forks": 43602
+        },
+        {
+          "rank": 6,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 87581,
+          "forks": 38582
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 180450,
+          "forks": 37254
+        },
+        {
+          "rank": 8,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184234,
+          "forks": 33678
+        },
+        {
+          "rank": 9,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 86407,
+          "forks": 33446
+        },
+        {
+          "rank": 10,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 137023,
+          "forks": 30220
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 19189,
+          "forks": 1186
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 53065,
+          "forks": 3813
+        },
+        {
+          "rank": 3,
+          "name": "nothings/stb",
+          "url": "https://github.com/nothings/stb",
+          "description": "stb single-file public domain libraries for C/C++",
+          "language": "C",
+          "stars": 31530,
+          "forks": 7969
+        },
+        {
+          "rank": 4,
+          "name": "MiroMindAI/MiroThinker",
+          "url": "https://github.com/MiroMindAI/MiroThinker",
+          "description": "MiroThinker is a open-source search agent suite, built for tool-augmented reasoning and real-worl...",
+          "language": "Python",
+          "stars": 3195,
+          "forks": 206
+        },
+        {
+          "rank": 5,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars": 70208,
+          "forks": 15995
+        },
+        {
+          "rank": 6,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 12268,
+          "forks": 768
+        },
+        {
+          "rank": 7,
+          "name": "xpipe-io/xpipe",
+          "url": "https://github.com/xpipe-io/xpipe",
+          "description": "Access your entire server infrastructure from your local desktop",
+          "language": "Java",
+          "stars": 12656,
+          "forks": 494
+        },
+        {
+          "rank": 8,
+          "name": "Lissy93/web-check",
+          "url": "https://github.com/Lissy93/web-check",
+          "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+          "language": "TypeScript",
+          "stars": 28825,
+          "forks": 2318
+        },
+        {
+          "rank": 9,
+          "name": "google/googletest",
+          "url": "https://github.com/google/googletest",
+          "description": "GoogleTest - Google Testing and Mocking Framework",
+          "language": "C++",
+          "stars": 37827,
+          "forks": 10652
+        },
+        {
+          "rank": 10,
+          "name": "apache/superset",
+          "url": "https://github.com/apache/superset",
+          "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+          "language": "TypeScript",
+          "stars": 69728,
+          "forks": 16449
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "MiroMindAI/MiroThinker",
+          "url": "https://github.com/MiroMindAI/MiroThinker",
+          "description": "MiroThinker is a open-source search agent suite, built for tool-augmented reasoning and real-worl...",
+          "language": "Python",
+          "stars": 3195,
+          "forks": 206
+        },
+        {
+          "rank": 2,
+          "name": "Lightricks/ComfyUI-LTXVideo",
+          "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+          "description": "LTX-Video Support for ComfyUI",
+          "language": "Python",
+          "stars": 2573,
+          "forks": 256
+        },
+        {
+          "rank": 3,
+          "name": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "description": "Memory infrastructure for LLMs and AI agents",
+          "language": "Python",
+          "stars": 3582,
+          "forks": 242
+        },
+        {
+          "rank": 4,
+          "name": "HKUDS/VideoRAG",
+          "url": "https://github.com/HKUDS/VideoRAG",
+          "description": "[KDD'2026] \"VideoRAG: Chat with Your Videos\"",
+          "language": "Python",
+          "stars": 1883,
+          "forks": 283
+        },
+        {
+          "rank": 5,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "Universal memory layer for AI Agents",
+          "language": "Python",
+          "stars": 45208,
+          "forks": 4929
+        },
+        {
+          "rank": 6,
+          "name": "crewAIInc/crewAI",
+          "url": "https://github.com/crewAIInc/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intell...",
+          "language": "Python",
+          "stars": 42402,
+          "forks": 5688
+        },
+        {
+          "rank": 7,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 390173,
+          "forks": 41707
+        },
+        {
+          "rank": 8,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 74941,
+          "forks": 8951
+        },
+        {
+          "rank": 9,
+          "name": "hiyouga/LlamaFactory",
+          "url": "https://github.com/hiyouga/LlamaFactory",
+          "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+          "language": "Python",
+          "stars": 65226,
+          "forks": 7928
+        },
+        {
+          "rank": 10,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 96433,
+          "forks": 26453
+        }
+      ]
+    }
+  ]
+}

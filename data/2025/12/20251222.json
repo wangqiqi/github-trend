@@ -1,0 +1,391 @@
+{
+  "date": "20251222",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 101416,
+          "forks": 27052
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100799,
+          "forks": 16424
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91596,
+          "forks": 11778
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 88260,
+          "forks": 10129
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 57037,
+          "forks": 4966
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 54479,
+          "forks": 6922
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51406,
+          "forks": 8968
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48237,
+          "forks": 5574
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 47885,
+          "forks": 3357
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44537,
+          "forks": 4365
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29232,
+          "forks": 87423
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 171415,
+          "forks": 82968
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 335034,
+          "forks": 81493
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173841,
+          "forks": 79170
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85395,
+          "forks": 56421
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 104107,
+          "forks": 55376
+        },
+        {
+          "rank": 7,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 329924,
+          "forks": 53711
+        },
+        {
+          "rank": 8,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 164147,
+          "forks": 52446
+        },
+        {
+          "rank": 9,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 180426,
+          "forks": 46193
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77683,
+          "forks": 45364
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 36383,
+          "forks": 2439
+        },
+        {
+          "rank": 2,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars": 106281,
+          "forks": 4910
+        },
+        {
+          "rank": 3,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 73274,
+          "forks": 16387
+        },
+        {
+          "rank": 4,
+          "name": "GreyDGL/PentestGPT",
+          "url": "https://github.com/GreyDGL/PentestGPT",
+          "description": "A GPT-empowered penetration testing tool",
+          "language": "Python",
+          "stars": 10214,
+          "forks": 1507
+        },
+        {
+          "rank": 5,
+          "name": "cocoindex-io/cocoindex",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if yo...",
+          "language": "Rust",
+          "stars": 4655,
+          "forks": 364
+        },
+        {
+          "rank": 6,
+          "name": "danielmiessler/Fabric",
+          "url": "https://github.com/danielmiessler/Fabric",
+          "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system f...",
+          "language": "Go",
+          "stars": 35889,
+          "forks": 3644
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 192916,
+          "forks": 75189
+        },
+        {
+          "rank": 8,
+          "name": "rendercv/rendercv",
+          "url": "https://github.com/rendercv/rendercv",
+          "description": "Typst-based CV/resume generator for academics and engineers",
+          "language": "Python",
+          "stars": 4340,
+          "forks": 359
+        },
+        {
+          "rank": 9,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 83359,
+          "forks": 36246
+        },
+        {
+          "rank": 10,
+          "name": "Semperis/EntraGoat",
+          "url": "https://github.com/Semperis/EntraGoat",
+          "description": "A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-o...",
+          "language": "PowerShell",
+          "stars": 740,
+          "forks": 77
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 36383,
+          "forks": 2439
+        },
+        {
+          "rank": 2,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 73274,
+          "forks": 16387
+        },
+        {
+          "rank": 3,
+          "name": "GreyDGL/PentestGPT",
+          "url": "https://github.com/GreyDGL/PentestGPT",
+          "description": "A GPT-empowered penetration testing tool",
+          "language": "Python",
+          "stars": 10214,
+          "forks": 1507
+        },
+        {
+          "rank": 4,
+          "name": "rendercv/rendercv",
+          "url": "https://github.com/rendercv/rendercv",
+          "description": "Typst-based CV/resume generator for academics and engineers",
+          "language": "Python",
+          "stars": 4340,
+          "forks": 359
+        },
+        {
+          "rank": 5,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 83359,
+          "forks": 36246
+        },
+        {
+          "rank": 6,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 18011,
+          "forks": 1287
+        },
+        {
+          "rank": 7,
+          "name": "lintsinghua/DeepAudit",
+          "url": "https://github.com/lintsinghua/DeepAudit",
+          "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有...",
+          "language": "Python",
+          "stars": 2317,
+          "forks": 240
+        },
+        {
+          "rank": 8,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 13222,
+          "forks": 1353
+        },
+        {
+          "rank": 9,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 159156,
+          "forks": 29585
+        },
+        {
+          "rank": 10,
+          "name": "dortania/OpenCore-Legacy-Patcher",
+          "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+          "description": "Experience macOS just like before",
+          "language": "Python",
+          "stars": 16237,
+          "forks": 1677
+        }
+      ]
+    }
+  ]
+}

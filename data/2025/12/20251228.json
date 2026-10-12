@@ -1,0 +1,373 @@
+{
+  "date": "20251228",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 102787,
+          "forks": 27290
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91617,
+          "forks": 11773
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 88877,
+          "forks": 10229
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 58218,
+          "forks": 5072
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 54807,
+          "forks": 6977
+        },
+        {
+          "rank": 6,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51490,
+          "forks": 8990
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 49162,
+          "forks": 3480
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48590,
+          "forks": 5663
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44652,
+          "forks": 4399
+        },
+        {
+          "rank": 10,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 43094,
+          "forks": 3694
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2641,
+          "forks": 72792
+        },
+        {
+          "rank": 2,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 86852,
+          "forks": 60612
+        },
+        {
+          "rank": 3,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 176890,
+          "forks": 55202
+        },
+        {
+          "rank": 4,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97106,
+          "forks": 54282
+        },
+        {
+          "rank": 5,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37320,
+          "forks": 53956
+        },
+        {
+          "rank": 6,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 165119,
+          "forks": 52710
+        },
+        {
+          "rank": 7,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 180549,
+          "forks": 46201
+        },
+        {
+          "rank": 8,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153233,
+          "forks": 46098
+        },
+        {
+          "rank": 9,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1561,
+          "forks": 44271
+        },
+        {
+          "rank": 10,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19973,
+          "forks": 43245
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "description": "",
+          "language": "Batchfile",
+          "stars": 20024,
+          "forks": 1644
+        },
+        {
+          "rank": 2,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 215706,
+          "forks": 49750
+        },
+        {
+          "rank": 3,
+          "name": "Sergeydigl3/zapret-discord-youtube-linux",
+          "url": "https://github.com/Sergeydigl3/zapret-discord-youtube-linux",
+          "description": "(NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on ...",
+          "language": "Shell",
+          "stars": 808,
+          "forks": 38
+        },
+        {
+          "rank": 4,
+          "name": "BloopAI/vibe-kanban",
+          "url": "https://github.com/BloopAI/vibe-kanban",
+          "description": "Kanban board to manage your AI coding agents",
+          "language": "Rust",
+          "stars": 6943,
+          "forks": 710
+        },
+        {
+          "rank": 5,
+          "name": "RustPython/RustPython",
+          "url": "https://github.com/RustPython/RustPython",
+          "description": "A Python Interpreter written in Rust",
+          "language": "Rust",
+          "stars": 21017,
+          "forks": 1372
+        },
+        {
+          "rank": 6,
+          "name": "QuantConnect/Lean",
+          "url": "https://github.com/QuantConnect/Lean",
+          "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+          "language": "C#",
+          "stars": 14260,
+          "forks": 4054
+        },
+        {
+          "rank": 7,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 84686,
+          "forks": 12038
+        },
+        {
+          "rank": 8,
+          "name": "sinelaw/fresh",
+          "url": "https://github.com/sinelaw/fresh",
+          "description": "Text editor for your terminal: easy, powerful and fast",
+          "language": "Rust",
+          "stars": 3593,
+          "forks": 112
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 215706,
+          "forks": 49750
+        },
+        {
+          "rank": 2,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 84686,
+          "forks": 12038
+        },
+        {
+          "rank": 3,
+          "name": "wshobson/agents",
+          "url": "https://github.com/wshobson/agents",
+          "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+          "language": "Python",
+          "stars": 23684,
+          "forks": 2625
+        },
+        {
+          "rank": 4,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 41054,
+          "forks": 9189
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "language": "Python",
+          "stars": 11558,
+          "forks": 1377
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 388233,
+          "forks": 41464
+        },
+        {
+          "rank": 7,
+          "name": "alexta69/metube",
+          "url": "https://github.com/alexta69/metube",
+          "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+          "language": "Python",
+          "stars": 11256,
+          "forks": 759
+        },
+        {
+          "rank": 8,
+          "name": "MODSetter/SurfSense",
+          "url": "https://github.com/MODSetter/SurfSense",
+          "description": "Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, ...",
+          "language": "Python",
+          "stars": 11990,
+          "forks": 1009
+        },
+        {
+          "rank": 9,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 6 lines of code",
+          "language": "Python",
+          "stars": 10636,
+          "forks": 978
+        },
+        {
+          "rank": 10,
+          "name": "SkyworkAI/SkyReels-V2",
+          "url": "https://github.com/SkyworkAI/SkyReels-V2",
+          "description": "SkyReels-V2: Infinite-length Film Generative model",
+          "language": "Python",
+          "stars": 5400,
+          "forks": 940
+        }
+      ]
+    }
+  ]
+}

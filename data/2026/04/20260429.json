@@ -1,0 +1,391 @@
+{
+  "date": "20260429",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 366211,
+          "forks": 75096
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 172535,
+          "forks": 15219
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 169897,
+          "forks": 26330
+        },
+        {
+          "rank": 4,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 98551,
+          "forks": 9579
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 91686,
+          "forks": 7936
+        },
+        {
+          "rank": 6,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 77767,
+          "forks": 11346
+        },
+        {
+          "rank": 7,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 69570,
+          "forks": 5938
+        },
+        {
+          "rank": 8,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 67923,
+          "forks": 8353
+        },
+        {
+          "rank": 9,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 64224,
+          "forks": 8427
+        },
+        {
+          "rank": 10,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 58646,
+          "forks": 4965
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 194931,
+          "forks": 75292
+        },
+        {
+          "rank": 2,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1171,
+          "forks": 37070
+        },
+        {
+          "rank": 3,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 535,
+          "forks": 33273
+        },
+        {
+          "rank": 4,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis syste...",
+          "language": "Python",
+          "stars": 32457,
+          "forks": 32836
+        },
+        {
+          "rank": 5,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 99523,
+          "forks": 27618
+        },
+        {
+          "rank": 6,
+          "name": "airbnb/javascript",
+          "url": "https://github.com/airbnb/javascript",
+          "description": "JavaScript Style Guide",
+          "language": "JavaScript",
+          "stars": 148122,
+          "forks": 26705
+        },
+        {
+          "rank": 7,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 10508,
+          "forks": 25272
+        },
+        {
+          "rank": 8,
+          "name": "facebook/react-native",
+          "url": "https://github.com/facebook/react-native",
+          "description": "A framework for building native applications using React",
+          "language": "C++",
+          "stars": 125736,
+          "forks": 25153
+        },
+        {
+          "rank": 9,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 168,
+          "forks": 19860
+        },
+        {
+          "rank": 10,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 108012,
+          "forks": 15924
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "warpdotdev/warp",
+          "url": "https://github.com/warpdotdev/warp",
+          "description": "Warp is an agentic development environment, born out of the terminal.",
+          "language": "Rust",
+          "stars": 39810,
+          "forks": 2209
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 41647,
+          "forks": 3269
+        },
+        {
+          "rank": 3,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 11185,
+          "forks": 1540
+        },
+        {
+          "rank": 4,
+          "name": "ComposioHQ/awesome-codex-skills",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "language": "Python",
+          "stars": 4523,
+          "forks": 285
+        },
+        {
+          "rank": 5,
+          "name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "language": "Rust",
+          "stars": 1061,
+          "forks": 111
+        },
+        {
+          "rank": 6,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 33080,
+          "forks": 3750
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 45431,
+          "forks": 5023
+        },
+        {
+          "rank": 8,
+          "name": "CJackHwang/ds2api",
+          "url": "https://github.com/CJackHwang/ds2api",
+          "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocol...",
+          "language": "Go",
+          "stars": 2591,
+          "forks": 702
+        },
+        {
+          "rank": 9,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 172535,
+          "forks": 15219
+        },
+        {
+          "rank": 10,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis syste...",
+          "language": "Python",
+          "stars": 32457,
+          "forks": 32836
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 11185,
+          "forks": 1540
+        },
+        {
+          "rank": 2,
+          "name": "ComposioHQ/awesome-codex-skills",
+          "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+          "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+          "language": "Python",
+          "stars": 4523,
+          "forks": 285
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 45431,
+          "forks": 5023
+        },
+        {
+          "rank": 4,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis syste...",
+          "language": "Python",
+          "stars": 32457,
+          "forks": 32836
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 386963,
+          "forks": 66175
+        },
+        {
+          "rank": 6,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 19891,
+          "forks": 1407
+        },
+        {
+          "rank": 7,
+          "name": "neuphonic/neutts",
+          "url": "https://github.com/neuphonic/neutts",
+          "description": "On-device TTS model by Neuphonic",
+          "language": "Python",
+          "stars": 5719,
+          "forks": 618
+        },
+        {
+          "rank": 8,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 54591,
+          "forks": 9902
+        },
+        {
+          "rank": 9,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 346160,
+          "forks": 55854
+        },
+        {
+          "rank": 10,
+          "name": "KellerJordan/modded-nanogpt",
+          "url": "https://github.com/KellerJordan/modded-nanogpt",
+          "description": "NanoGPT (124M) in 90 seconds",
+          "language": "Python",
+          "stars": 5163,
+          "forks": 724
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250414",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "2noise/ChatTTS",
+          "url": "https://github.com/2noise/ChatTTS",
+          "description": "A generative speech model for daily dialogue.",
+          "language": "Python",
+          "stars": 35746,
+          "forks": 3879
+        },
+        {
+          "rank": 2,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 28042,
+          "forks": 3153
+        },
+        {
+          "rank": 3,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artific...",
+          "language": "Python",
+          "stars": 27918,
+          "forks": 4175
+        },
+        {
+          "rank": 4,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 21425,
+          "forks": 3866
+        },
+        {
+          "rank": 5,
+          "name": "yuaotian/go-cursor-help",
+          "url": "https://github.com/yuaotian/go-cursor-help",
+          "description": "解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accou...",
+          "language": "Shell",
+          "stars": 19018,
+          "forks": 2374
+        },
+        {
+          "rank": 6,
+          "name": "deepseek-ai/Janus",
+          "url": "https://github.com/deepseek-ai/Janus",
+          "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+          "language": "Python",
+          "stars": 17094,
+          "forks": 2227
+        },
+        {
+          "rank": 7,
+          "name": "raga-ai-hub/RagaAI-Catalyst",
+          "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+          "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features lik...",
+          "language": "Python",
+          "stars": 16151,
+          "forks": 3799
+        },
+        {
+          "rank": 8,
+          "name": "KindXiaoming/pykan",
+          "url": "https://github.com/KindXiaoming/pykan",
+          "description": "Kolmogorov Arnold Networks",
+          "language": "Jupyter Notebook",
+          "stars": 15580,
+          "forks": 1468
+        },
+        {
+          "rank": 9,
+          "name": "elizaOS/eliza",
+          "url": "https://github.com/elizaOS/eliza",
+          "description": "Autonomous agents for everyone",
+          "language": "TypeScript",
+          "stars": 15508,
+          "forks": 5070
+        },
+        {
+          "rank": 10,
+          "name": "dzhng/deep-research",
+          "url": "https://github.com/dzhng/deep-research",
+          "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining...",
+          "language": "TypeScript",
+          "stars": 15476,
+          "forks": 1594
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 165710,
+          "forks": 83083
+        },
+        {
+          "rank": 2,
+          "name": "academicpages/academicpages.github.io",
+          "url": "https://github.com/academicpages/academicpages.github.io",
+          "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
+          "language": "HTML",
+          "stars": 13835,
+          "forks": 46721
+        },
+        {
+          "rank": 3,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "TypeScript",
+          "stars": 95342,
+          "forks": 32549
+        },
+        {
+          "rank": 4,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 83150,
+          "forks": 32476
+        },
+        {
+          "rank": 5,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 169746,
+          "forks": 28357
+        },
+        {
+          "rank": 6,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 131026,
+          "forks": 28138
+        },
+        {
+          "rank": 7,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 184,
+          "forks": 27463
+        },
+        {
+          "rank": 8,
+          "name": "streamlit/streamlit-example",
+          "url": "https://github.com/streamlit/streamlit-example",
+          "description": "Example Streamlit app that you can fork to test out share.streamlit.io",
+          "language": "Python",
+          "stars": 373,
+          "forks": 26035
+        },
+        {
+          "rank": 9,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 9974,
+          "forks": 24086
+        },
+        {
+          "rank": 10,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 88954,
+          "forks": 23838
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 C...",
+          "language": "Python",
+          "stars": 14514,
+          "forks": 1744
+        },
+        {
+          "rank": 2,
+          "name": "krillinai/KrillinAI",
+          "url": "https://github.com/krillinai/KrillinAI",
+          "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations an...",
+          "language": "Go",
+          "stars": 3773,
+          "forks": 277
+        },
+        {
+          "rank": 3,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 21425,
+          "forks": 3866
+        },
+        {
+          "rank": 4,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 2152,
+          "forks": 123
+        },
+        {
+          "rank": 5,
+          "name": "BasedHardware/omi",
+          "url": "https://github.com/BasedHardware/omi",
+          "description": "AI wearables. Put it on, speak, transcribe, automatically",
+          "language": "C",
+          "stars": 4968,
+          "forks": 724
+        },
+        {
+          "rank": 6,
+          "name": "GuijiAI/HeyGem.ai",
+          "url": "https://github.com/GuijiAI/HeyGem.ai",
+          "description": "",
+          "language": "C",
+          "stars": 6658,
+          "forks": 1141
+        },
+        {
+          "rank": 7,
+          "name": "Zackriya-Solutions/meeting-minutes",
+          "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+          "description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generato...",
+          "language": "C++",
+          "stars": 2392,
+          "forks": 161
+        },
+        {
+          "rank": 8,
+          "name": "Pennyw0rth/NetExec",
+          "url": "https://github.com/Pennyw0rth/NetExec",
+          "description": "The Network Execution Tool",
+          "language": "Python",
+          "stars": 3802,
+          "forks": 433
+        },
+        {
+          "rank": 9,
+          "name": "neovim/nvim-lspconfig",
+          "url": "https://github.com/neovim/nvim-lspconfig",
+          "description": "Quickstart configs for Nvim LSP",
+          "language": "Lua",
+          "stars": 11567,
+          "forks": 2155
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "10 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 14104,
+          "forks": 3417
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 C...",
+          "language": "Python",
+          "stars": 14514,
+          "forks": 1744
+        },
+        {
+          "rank": 2,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 21425,
+          "forks": 3866
+        },
+        {
+          "rank": 3,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 2152,
+          "forks": 123
+        },
+        {
+          "rank": 4,
+          "name": "Pennyw0rth/NetExec",
+          "url": "https://github.com/Pennyw0rth/NetExec",
+          "description": "The Network Execution Tool",
+          "language": "Python",
+          "stars": 3802,
+          "forks": 433
+        },
+        {
+          "rank": 5,
+          "name": "freqtrade/freqtrade",
+          "url": "https://github.com/freqtrade/freqtrade",
+          "description": "Free, open source crypto trading bot",
+          "language": "Python",
+          "stars": 38120,
+          "forks": 7533
+        },
+        {
+          "rank": 6,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 73700,
+          "forks": 16387
+        },
+        {
+          "rank": 7,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "A high-performance algorithmic trading platform and event-driven backtester",
+          "language": "Python",
+          "stars": 5127,
+          "forks": 767
+        },
+        {
+          "rank": 8,
+          "name": "xaoyaoo/PyWxDump",
+          "url": "https://github.com/xaoyaoo/PyWxDump",
+          "description": "获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。",
+          "language": "Python",
+          "stars": 6843,
+          "forks": 1084
+        },
+        {
+          "rank": 9,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 151191,
+          "forks": 28137
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind-v",
+          "url": "https://github.com/jingyaogong/minimind-v",
+          "description": "🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!",
+          "language": "Python",
+          "stars": 2568,
+          "forks": 266
+        }
+      ]
+    }
+  ]
+}

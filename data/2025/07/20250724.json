@@ -1,0 +1,391 @@
+{
+  "date": "20250724",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98344,
+          "forks": 16020
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90646,
+          "forks": 11701
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 70808,
+          "forks": 20136
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 69135,
+          "forks": 3689
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 66181,
+          "forks": 7596
+        },
+        {
+          "rank": 6,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 63424,
+          "forks": 5968
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 63075,
+          "forks": 4965
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 61211,
+          "forks": 7092
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 48317,
+          "forks": 8462
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 38422,
+          "forks": 6767
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6623,
+          "forks": 243591
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13120,
+          "forks": 152321
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 861,
+          "forks": 144011
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49530,
+          "forks": 88851
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28695,
+          "forks": 87058
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168185,
+          "forks": 83048
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2121,
+          "forks": 82212
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172569,
+          "forks": 79110
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190876,
+          "forks": 74772
+        },
+        {
+          "rank": 10,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2564,
+          "forks": 72451
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "srbhr/Resume-Matcher",
+          "url": "https://github.com/srbhr/Resume-Matcher",
+          "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes...",
+          "language": "TypeScript",
+          "stars": 17710,
+          "forks": 3967
+        },
+        {
+          "rank": 2,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 45291,
+          "forks": 4092
+        },
+        {
+          "rank": 3,
+          "name": "HumanSignal/label-studio",
+          "url": "https://github.com/HumanSignal/label-studio",
+          "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+          "language": "JavaScript",
+          "stars": 23519,
+          "forks": 2926
+        },
+        {
+          "rank": 4,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 32952,
+          "forks": 4068
+        },
+        {
+          "rank": 5,
+          "name": "aaPanel/BillionMail",
+          "url": "https://github.com/aaPanel/BillionMail",
+          "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, de...",
+          "language": "Go",
+          "stars": 7038,
+          "forks": 608
+        },
+        {
+          "rank": 6,
+          "name": "frappe/hrms",
+          "url": "https://github.com/frappe/hrms",
+          "description": "Open Source HR and Payroll Software",
+          "language": "Python",
+          "stars": 3424,
+          "forks": 1299
+        },
+        {
+          "rank": 7,
+          "name": "QwenLM/Qwen3",
+          "url": "https://github.com/QwenLM/Qwen3",
+          "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+          "language": "Python",
+          "stars": 23096,
+          "forks": 1562
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-f...",
+          "language": "Jupyter Notebook",
+          "stars": 92426,
+          "forks": 47690
+        },
+        {
+          "rank": 9,
+          "name": "minio/minio",
+          "url": "https://github.com/minio/minio",
+          "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+          "language": "Go",
+          "stars": 53965,
+          "forks": 6026
+        },
+        {
+          "rank": 10,
+          "name": "langchain-ai/rag-from-scratch",
+          "url": "https://github.com/langchain-ai/rag-from-scratch",
+          "description": "",
+          "language": "Jupyter Notebook",
+          "stars": 4788,
+          "forks": 1335
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 45291,
+          "forks": 4092
+        },
+        {
+          "rank": 2,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 32952,
+          "forks": 4068
+        },
+        {
+          "rank": 3,
+          "name": "frappe/hrms",
+          "url": "https://github.com/frappe/hrms",
+          "description": "Open Source HR and Payroll Software",
+          "language": "Python",
+          "stars": 3424,
+          "forks": 1299
+        },
+        {
+          "rank": 4,
+          "name": "QwenLM/Qwen3",
+          "url": "https://github.com/QwenLM/Qwen3",
+          "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+          "language": "Python",
+          "stars": 23096,
+          "forks": 1562
+        },
+        {
+          "rank": 5,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, ...",
+          "language": "Python",
+          "stars": 25914,
+          "forks": 3580
+        },
+        {
+          "rank": 6,
+          "name": "pixeltable/pixeltable",
+          "url": "https://github.com/pixeltable/pixeltable",
+          "description": "Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal ...",
+          "language": "Python",
+          "stars": 641,
+          "forks": 91
+        },
+        {
+          "rank": 7,
+          "name": "frappe/frappe",
+          "url": "https://github.com/frappe/frappe",
+          "description": "Low code web framework for real world applications, in Python and Javascript",
+          "language": "Python",
+          "stars": 8750,
+          "forks": 4071
+        },
+        {
+          "rank": 8,
+          "name": "serengil/deepface",
+          "url": "https://github.com/serengil/deepface",
+          "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Libr...",
+          "language": "Python",
+          "stars": 19912,
+          "forks": 2691
+        },
+        {
+          "rank": 9,
+          "name": "Physical-Intelligence/openpi",
+          "url": "https://github.com/Physical-Intelligence/openpi",
+          "description": "",
+          "language": "Python",
+          "stars": 4076,
+          "forks": 499
+        },
+        {
+          "rank": 10,
+          "name": "Azure-Samples/azure-search-openai-demo",
+          "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+          "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Sear...",
+          "language": "Python",
+          "stars": 7161,
+          "forks": 4876
+        }
+      ]
+    }
+  ]
+}

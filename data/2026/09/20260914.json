@@ -1,0 +1,391 @@
+{
+  "date": "20260914",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 133006,
+          "forks": 19849
+        },
+        {
+          "rank": 2,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 115831,
+          "forks": 13017
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 94278,
+          "forks": 10028
+        },
+        {
+          "rank": 4,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 82723,
+          "forks": 6961
+        },
+        {
+          "rank": 5,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 81016,
+          "forks": 7055
+        },
+        {
+          "rank": 6,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 75019,
+          "forks": 8669
+        },
+        {
+          "rank": 7,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 72994,
+          "forks": 11277
+        },
+        {
+          "rank": 8,
+          "name": "headroomlabs-ai/headroom",
+          "url": "https://github.com/headroomlabs-ai/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens fo...",
+          "language": "Python",
+          "stars": 72082,
+          "forks": 5521
+        },
+        {
+          "rank": 9,
+          "name": "career-ops-hq/career-ops",
+          "url": "https://github.com/career-ops-hq/career-ops",
+          "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with ...",
+          "language": "JavaScript",
+          "stars": 71579,
+          "forks": 13505
+        },
+        {
+          "rank": 10,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+          "language": "TypeScript",
+          "stars": 69034,
+          "forks": 5686
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2710,
+          "forks": 93920
+        },
+        {
+          "rank": 2,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 302,
+          "forks": 42396
+        },
+        {
+          "rank": 3,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 90175,
+          "forks": 39384
+        },
+        {
+          "rank": 4,
+          "name": "dayanch96/YTLite",
+          "url": "https://github.com/dayanch96/YTLite",
+          "description": "A flexible enhancer for YouTube on iOS",
+          "language": "Logos",
+          "stars": 5446,
+          "forks": 22964
+        },
+        {
+          "rank": 5,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19625
+        },
+        {
+          "rank": 6,
+          "name": "MithunTechnologiesDevOps/Maven-Web-Application",
+          "url": "https://github.com/MithunTechnologiesDevOps/Maven-Web-Application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 124,
+          "forks": 13311
+        },
+        {
+          "rank": 7,
+          "name": "openwrt/openwrt",
+          "url": "https://github.com/openwrt/openwrt",
+          "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference on...",
+          "language": "C",
+          "stars": 28397,
+          "forks": 12954
+        },
+        {
+          "rank": 8,
+          "name": "OpenHands/OpenHands",
+          "url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "language": "TypeScript",
+          "stars": 87879,
+          "forks": 11515
+        },
+        {
+          "rank": 9,
+          "name": "dayanch96/YTMusicUltimate",
+          "url": "https://github.com/dayanch96/YTMusicUltimate",
+          "description": "The best tweak for YouTube Music iOS.",
+          "language": "C",
+          "stars": 2565,
+          "forks": 9976
+        },
+        {
+          "rank": 10,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+          "language": "TypeScript",
+          "stars": 180330,
+          "forks": 9791
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from di...",
+          "language": "C",
+          "stars": 31564,
+          "forks": 3353
+        },
+        {
+          "rank": 2,
+          "name": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: determin...",
+          "language": "Go",
+          "stars": 25131,
+          "forks": 1835
+        },
+        {
+          "rank": 3,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars": 8208,
+          "forks": 897
+        },
+        {
+          "rank": 4,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 28748,
+          "forks": 3512
+        },
+        {
+          "rank": 5,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 72994,
+          "forks": 11277
+        },
+        {
+          "rank": 6,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 81016,
+          "forks": 7055
+        },
+        {
+          "rank": 7,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. O...",
+          "language": "JavaScript",
+          "stars": 66626,
+          "forks": 10856
+        },
+        {
+          "rank": 8,
+          "name": "rlaope/oh-my-hermes",
+          "url": "https://github.com/rlaope/oh-my-hermes",
+          "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model...",
+          "language": "Python",
+          "stars": 1909,
+          "forks": 154
+        },
+        {
+          "rank": 9,
+          "name": "localsend/localsend",
+          "url": "https://github.com/localsend/localsend",
+          "description": "An open-source cross-platform alternative to AirDrop",
+          "language": "Dart",
+          "stars": 91148,
+          "forks": 5088
+        },
+        {
+          "rank": 10,
+          "name": "dani-garcia/vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+          "language": "Rust",
+          "stars": 67465,
+          "forks": 3207
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+          "language": "Python",
+          "stars": 8208,
+          "forks": 897
+        },
+        {
+          "rank": 2,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 28748,
+          "forks": 3512
+        },
+        {
+          "rank": 3,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 72994,
+          "forks": 11277
+        },
+        {
+          "rank": 4,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 81016,
+          "forks": 7055
+        },
+        {
+          "rank": 5,
+          "name": "rlaope/oh-my-hermes",
+          "url": "https://github.com/rlaope/oh-my-hermes",
+          "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model...",
+          "language": "Python",
+          "stars": 1909,
+          "forks": 154
+        },
+        {
+          "rank": 6,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 105883,
+          "forks": 20281
+        },
+        {
+          "rank": 7,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 37280,
+          "forks": 4235
+        },
+        {
+          "rank": 8,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 165878,
+          "forks": 34573
+        },
+        {
+          "rank": 9,
+          "name": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "description": "claude-red is a curated library of offensive security skills designed for the Claude skills syste...",
+          "language": "Python",
+          "stars": 4578,
+          "forks": 620
+        },
+        {
+          "rank": 10,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: eval...",
+          "language": "Python",
+          "stars": 42653,
+          "forks": 14638
+        }
+      ]
+    }
+  ]
+}

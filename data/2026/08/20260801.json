@@ -1,0 +1,391 @@
+{
+  "date": "20260801",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 264644,
+          "forks": 23620
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 236744,
+          "forks": 35993
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 198439,
+          "forks": 17086
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 165568,
+          "forks": 19689
+        },
+        {
+          "rank": 5,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 137967,
+          "forks": 22527
+        },
+        {
+          "rank": 6,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 125659,
+          "forks": 18856
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 112303,
+          "forks": 11998
+        },
+        {
+          "rank": 8,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 99995,
+          "forks": 9698
+        },
+        {
+          "rank": 9,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 95013,
+          "forks": 5446
+        },
+        {
+          "rank": 10,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 93323,
+          "forks": 5127
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 55307,
+          "forks": 107070
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2683,
+          "forks": 92904
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 393476,
+          "forks": 66592
+        },
+        {
+          "rank": 4,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 533813,
+          "forks": 50459
+        },
+        {
+          "rank": 5,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 363311,
+          "forks": 44708
+        },
+        {
+          "rank": 6,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42489
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 188089,
+          "forks": 41358
+        },
+        {
+          "rank": 8,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 89742,
+          "forks": 39174
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 163218,
+          "forks": 34085
+        },
+        {
+          "rank": 10,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 541,
+          "forks": 33563
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "language": "Jupyter Notebook",
+          "stars": 55911,
+          "forks": 11224
+        },
+        {
+          "rank": 2,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...",
+          "language": "Python",
+          "stars": 12012,
+          "forks": 1499
+        },
+        {
+          "rank": 3,
+          "name": "usekaneo/kaneo",
+          "url": "https://github.com/usekaneo/kaneo",
+          "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against...",
+          "language": "TypeScript",
+          "stars": 5424,
+          "forks": 468
+        },
+        {
+          "rank": 4,
+          "name": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-pow...",
+          "language": "PowerShell",
+          "stars": 11401,
+          "forks": 1739
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 113915,
+          "forks": 61175
+        },
+        {
+          "rank": 6,
+          "name": "github/copilot-sdk",
+          "url": "https://github.com/github/copilot-sdk",
+          "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+          "language": "Java",
+          "stars": 10211,
+          "forks": 1380
+        },
+        {
+          "rank": 7,
+          "name": "github/gh-stack",
+          "url": "https://github.com/github/gh-stack",
+          "description": "GitHub Stacked PRs",
+          "language": "Go",
+          "stars": 696,
+          "forks": 32
+        },
+        {
+          "rank": 8,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 10007,
+          "forks": 1212
+        },
+        {
+          "rank": 9,
+          "name": "abus-aikorea/voice-pro",
+          "url": "https://github.com/abus-aikorea/voice-pro",
+          "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voic...",
+          "language": "Python",
+          "stars": 11557,
+          "forks": 1702
+        },
+        {
+          "rank": 10,
+          "name": "iv-org/invidious",
+          "url": "https://github.com/iv-org/invidious",
+          "description": "Invidious is an alternative front-end to YouTube",
+          "language": "Crystal",
+          "stars": 21463,
+          "forks": 2422
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...",
+          "language": "Python",
+          "stars": 12012,
+          "forks": 1499
+        },
+        {
+          "rank": 2,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 10007,
+          "forks": 1212
+        },
+        {
+          "rank": 3,
+          "name": "abus-aikorea/voice-pro",
+          "url": "https://github.com/abus-aikorea/voice-pro",
+          "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voic...",
+          "language": "Python",
+          "stars": 11557,
+          "forks": 1702
+        },
+        {
+          "rank": 4,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 70027,
+          "forks": 24257
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/TRELLIS.2",
+          "url": "https://github.com/microsoft/TRELLIS.2",
+          "description": "Native and Compact Structured Latents for 3D Generation",
+          "language": "Python",
+          "stars": 9787,
+          "forks": 1188
+        },
+        {
+          "rank": 6,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 78546,
+          "forks": 10727
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 92718,
+          "forks": 13197
+        },
+        {
+          "rank": 8,
+          "name": "SimplifyJobs/Summer2027-Internships",
+          "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+          "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware inter...",
+          "language": "Python",
+          "stars": 45641,
+          "forks": 3201
+        },
+        {
+          "rank": 9,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 223654,
+          "forks": 43117
+        },
+        {
+          "rank": 10,
+          "name": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "description": "Deepfakes Software For All",
+          "language": "Python",
+          "stars": 57177,
+          "forks": 13486
+        }
+      ]
+    }
+  ]
+}

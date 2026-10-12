@@ -1,0 +1,391 @@
+{
+  "date": "20260603",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 205255,
+          "forks": 31508
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 193210,
+          "forks": 109980
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 166689,
+          "forks": 17054
+        },
+        {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 116045,
+          "forks": 10174
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 108009,
+          "forks": 9559
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 107167,
+          "forks": 17674
+        },
+        {
+          "rank": 7,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 106654,
+          "forks": 15864
+        },
+        {
+          "rank": 8,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "TypeScript",
+          "stars": 80415,
+          "forks": 6924
+        },
+        {
+          "rank": 9,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 68919,
+          "forks": 12778
+        },
+        {
+          "rank": 10,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "Python",
+          "stars": 64494,
+          "forks": 10532
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 193210,
+          "forks": 109980
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 54311,
+          "forks": 103557
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 348862,
+          "forks": 83149
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2766,
+          "forks": 73169
+        },
+        {
+          "rank": 5,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88169,
+          "forks": 59661
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 351591,
+          "forks": 56569
+        },
+        {
+          "rank": 7,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 182989,
+          "forks": 55662
+        },
+        {
+          "rank": 8,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 98245,
+          "forks": 54625
+        },
+        {
+          "rank": 9,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 511448,
+          "forks": 48488
+        },
+        {
+          "rank": 10,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1625,
+          "forks": 46782
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens...",
+          "language": "Python",
+          "stars": 8901,
+          "forks": 589
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 142526,
+          "forks": 9726
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 205255,
+          "forks": 31508
+        },
+        {
+          "rank": 4,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-sca...",
+          "language": "Python",
+          "stars": 59915,
+          "forks": 5783
+        },
+        {
+          "rank": 5,
+          "name": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+          "language": "Python",
+          "stars": 12982,
+          "forks": 1585
+        },
+        {
+          "rank": 6,
+          "name": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecur...",
+          "language": "TypeScript",
+          "stars": 4851,
+          "forks": 605
+        },
+        {
+          "rank": 7,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 25529,
+          "forks": 2907
+        },
+        {
+          "rank": 8,
+          "name": "stefan-jansen/machine-learning-for-trading",
+          "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+          "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+          "language": "Jupyter Notebook",
+          "stars": 18963,
+          "forks": 5268
+        },
+        {
+          "rank": 9,
+          "name": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description": "",
+          "language": "Python",
+          "stars": 6649,
+          "forks": 1507
+        },
+        {
+          "rank": 10,
+          "name": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+          "language": "TypeScript",
+          "stars": 25038,
+          "forks": 2200
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "chopratejas/headroom",
+          "url": "https://github.com/chopratejas/headroom",
+          "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens...",
+          "language": "Python",
+          "stars": 8901,
+          "forks": 589
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 142526,
+          "forks": 9726
+        },
+        {
+          "rank": 3,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-sca...",
+          "language": "Python",
+          "stars": 59915,
+          "forks": 5783
+        },
+        {
+          "rank": 4,
+          "name": "nesquena/hermes-webui",
+          "url": "https://github.com/nesquena/hermes-webui",
+          "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+          "language": "Python",
+          "stars": 12982,
+          "forks": 1585
+        },
+        {
+          "rank": 5,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-t...",
+          "language": "Python",
+          "stars": 25529,
+          "forks": 2907
+        },
+        {
+          "rank": 6,
+          "name": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description": "",
+          "language": "Python",
+          "stars": 6649,
+          "forks": 1507
+        },
+        {
+          "rank": 7,
+          "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+          "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+          "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face run...",
+          "language": "Python",
+          "stars": 8813,
+          "forks": 1099
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Python",
+          "stars": 129802,
+          "forks": 21101
+        },
+        {
+          "rank": 9,
+          "name": "awslabs/aidlc-workflows",
+          "url": "https://github.com/awslabs/aidlc-workflows",
+          "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+          "language": "Python",
+          "stars": 2698,
+          "forks": 441
+        },
+        {
+          "rank": 10,
+          "name": "datalab-to/surya",
+          "url": "https://github.com/datalab-to/surya",
+          "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+          "language": "Python",
+          "stars": 20550,
+          "forks": 1458
+        }
+      ]
+    }
+  ]
+}

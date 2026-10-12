@@ -1,0 +1,391 @@
+{
+  "date": "20260223",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 108914,
+          "forks": 10818
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 73727,
+          "forks": 7568
+        },
+        {
+          "rank": 3,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 71365,
+          "forks": 6162
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 58790,
+          "forks": 4470
+        },
+        {
+          "rank": 5,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Bat...",
+          "language": "JavaScript",
+          "stars": 49782,
+          "forks": 6169
+        },
+        {
+          "rank": 6,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 46583,
+          "forks": 2209
+        },
+        {
+          "rank": 7,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 37175,
+          "forks": 4618
+        },
+        {
+          "rank": 8,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 36570,
+          "forks": 993
+        },
+        {
+          "rank": 9,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 33662,
+          "forks": 3328
+        },
+        {
+          "rank": 10,
+          "name": "code-yeongyu/oh-my-opencode",
+          "url": "https://github.com/code-yeongyu/oh-my-opencode",
+          "description": "the best agent harness",
+          "language": "TypeScript",
+          "stars": 33344,
+          "forks": 2510
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174010,
+          "forks": 79094
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2686,
+          "forks": 72958
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 382963,
+          "forks": 65933
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87345,
+          "forks": 60335
+        },
+        {
+          "rank": 5,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 178870,
+          "forks": 55435
+        },
+        {
+          "rank": 6,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 175924,
+          "forks": 55099
+        },
+        {
+          "rank": 7,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97640,
+          "forks": 54525
+        },
+        {
+          "rank": 8,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37347,
+          "forks": 53825
+        },
+        {
+          "rank": 9,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 181947,
+          "forks": 46219
+        },
+        {
+          "rank": 10,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153834,
+          "forks": 46115
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 118870,
+          "forks": 30878
+        },
+        {
+          "rank": 2,
+          "name": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "description": "",
+          "language": "Python",
+          "stars": 3369,
+          "forks": 228
+        },
+        {
+          "rank": 3,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 61214,
+          "forks": 5971
+        },
+        {
+          "rank": 4,
+          "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, an...",
+          "language": "Python",
+          "stars": 8641,
+          "forks": 687
+        },
+        {
+          "rank": 5,
+          "name": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and...",
+          "language": "HTML",
+          "stars": 146785,
+          "forks": 19381
+        },
+        {
+          "rank": 6,
+          "name": "CompVis/stable-diffusion",
+          "url": "https://github.com/CompVis/stable-diffusion",
+          "description": "A latent text-to-image diffusion model",
+          "language": "Jupyter Notebook",
+          "stars": 72436,
+          "forks": 10595
+        },
+        {
+          "rank": 7,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 1721,
+          "forks": 131
+        },
+        {
+          "rank": 8,
+          "name": "Stremio/stremio-web",
+          "url": "https://github.com/Stremio/stremio-web",
+          "description": "Stremio - Freedom to Stream",
+          "language": "JavaScript",
+          "stars": 9831,
+          "forks": 1076
+        },
+        {
+          "rank": 9,
+          "name": "stan-smith/FossFLOW",
+          "url": "https://github.com/stan-smith/FossFLOW",
+          "description": "Make beautiful isometric infrastructure diagrams",
+          "language": "TypeScript",
+          "stars": 18368,
+          "forks": 1186
+        },
+        {
+          "rank": 10,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 16397,
+          "forks": 1173
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "description": "",
+          "language": "Python",
+          "stars": 3369,
+          "forks": 228
+        },
+        {
+          "rank": 2,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 61214,
+          "forks": 5971
+        },
+        {
+          "rank": 3,
+          "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, an...",
+          "language": "Python",
+          "stars": 8641,
+          "forks": 687
+        },
+        {
+          "rank": 4,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 16397,
+          "forks": 1173
+        },
+        {
+          "rank": 5,
+          "name": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+          "language": "Python",
+          "stars": 9890,
+          "forks": 751
+        },
+        {
+          "rank": 6,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 46965,
+          "forks": 22298
+        },
+        {
+          "rank": 7,
+          "name": "Netflix/metaflow",
+          "url": "https://github.com/Netflix/metaflow",
+          "description": "Build, Manage and Deploy AI/ML Systems",
+          "language": "Python",
+          "stars": 9812,
+          "forks": 1038
+        },
+        {
+          "rank": 8,
+          "name": "inventree/InvenTree",
+          "url": "https://github.com/inventree/InvenTree",
+          "description": "Open Source Inventory Management System",
+          "language": "Python",
+          "stars": 6371,
+          "forks": 1243
+        },
+        {
+          "rank": 9,
+          "name": "mihail911/modern-software-dev-assignments",
+          "url": "https://github.com/mihail911/modern-software-dev-assignments",
+          "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)",
+          "language": "Python",
+          "stars": 2023,
+          "forks": 492
+        },
+        {
+          "rank": 10,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 20495,
+          "forks": 2145
+        }
+      ]
+    }
+  ]
+}

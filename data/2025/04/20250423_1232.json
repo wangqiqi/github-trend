@@ -1,0 +1,391 @@
+{
+  "date": "20250423",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 39939,
+          "forks": 4340
+        },
+        {
+          "rank": 2,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.",
+          "language": "TypeScript",
+          "stars": 24510,
+          "forks": 2086
+        },
+        {
+          "rank": 3,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21435,
+          "forks": 1517
+        },
+        {
+          "rank": 4,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 19745,
+          "forks": 2269
+        },
+        {
+          "rank": 5,
+          "name": "huggingface/agents-course",
+          "url": "https://github.com/huggingface/agents-course",
+          "description": "This repository contains the Hugging Face Agents Course.",
+          "language": "Jupyter Notebook",
+          "stars": 16624,
+          "forks": 1088
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 15535,
+          "forks": 2112
+        },
+        {
+          "rank": 7,
+          "name": "NirDiamant/RAG_Techniques",
+          "url": "https://github.com/NirDiamant/RAG_Techniques",
+          "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) sy...",
+          "language": "Jupyter Notebook",
+          "stars": 15529,
+          "forks": 1545
+        },
+        {
+          "rank": 8,
+          "name": "kvcache-ai/ktransformers",
+          "url": "https://github.com/kvcache-ai/ktransformers",
+          "description": "A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations",
+          "language": "Python",
+          "stars": 13629,
+          "forks": 960
+        },
+        {
+          "rank": 9,
+          "name": "browser-use/web-ui",
+          "url": "https://github.com/browser-use/web-ui",
+          "description": "Run AI Agent in your browser.",
+          "language": "Python",
+          "stars": 12413,
+          "forks": 2025
+        },
+        {
+          "rank": 10,
+          "name": "github/github-mcp-server",
+          "url": "https://github.com/github/github-mcp-server",
+          "description": "GitHub's official MCP Server",
+          "language": "Go",
+          "stars": 12078,
+          "forks": 638
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 850,
+          "forks": 143900
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48060,
+          "forks": 85290
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 165955,
+          "forks": 83070
+        },
+        {
+          "rank": 4,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17285,
+          "forks": 61561
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 81825,
+          "forks": 56136
+        },
+        {
+          "rank": 6,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 234797,
+          "forks": 48309
+        },
+        {
+          "rank": 7,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 284,
+          "forks": 43331
+        },
+        {
+          "rank": 8,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1132,
+          "forks": 42202
+        },
+        {
+          "rank": 9,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37077
+        },
+        {
+          "rank": 10,
+          "name": "zizifn/edgetunnel",
+          "url": "https://github.com/zizifn/edgetunnel",
+          "description": "Running V2ray inside edge/serverless runtime",
+          "language": "JavaScript",
+          "stars": 7786,
+          "forks": 34491
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 52756,
+          "forks": 2604
+        },
+        {
+          "rank": 2,
+          "name": "hydralauncher/hydra",
+          "url": "https://github.com/hydralauncher/hydra",
+          "description": "Hydra is a game launcher with its own embedded bittorrent client",
+          "language": "TypeScript",
+          "stars": 12509,
+          "forks": 3524
+        },
+        {
+          "rank": 3,
+          "name": "pocketbase/pocketbase",
+          "url": "https://github.com/pocketbase/pocketbase",
+          "description": "Open Source realtime backend in 1 file",
+          "language": "Go",
+          "stars": 45959,
+          "forks": 2257
+        },
+        {
+          "rank": 4,
+          "name": "bytedance/UI-TARS",
+          "url": "https://github.com/bytedance/UI-TARS",
+          "description": "",
+          "language": "Python",
+          "stars": 4415,
+          "forks": 295
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/courses",
+          "url": "https://github.com/anthropics/courses",
+          "description": "Anthropic's educational courses",
+          "language": "Jupyter Notebook",
+          "stars": 10498,
+          "forks": 954
+        },
+        {
+          "rank": 6,
+          "name": "drawdb-io/drawdb",
+          "url": "https://github.com/drawdb-io/drawdb",
+          "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+          "language": "JavaScript",
+          "stars": 27721,
+          "forks": 1953
+        },
+        {
+          "rank": 7,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 315638,
+          "forks": 78549
+        },
+        {
+          "rank": 8,
+          "name": "PKUFlyingPig/cs-self-learning",
+          "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+          "description": "计算机自学指南",
+          "language": "HTML",
+          "stars": 62609,
+          "forks": 7274
+        },
+        {
+          "rank": 9,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 315274,
+          "forks": 40952
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "C++",
+          "stars": 16519,
+          "forks": 1189
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 52756,
+          "forks": 2604
+        },
+        {
+          "rank": 2,
+          "name": "bytedance/UI-TARS",
+          "url": "https://github.com/bytedance/UI-TARS",
+          "description": "",
+          "language": "Python",
+          "stars": 4415,
+          "forks": 295
+        },
+        {
+          "rank": 3,
+          "name": "1Panel-dev/MaxKB",
+          "url": "https://github.com/1Panel-dev/MaxKB",
+          "description": "💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, su...",
+          "language": "Python",
+          "stars": 16068,
+          "forks": 2086
+        },
+        {
+          "rank": 4,
+          "name": "RVC-Boss/GPT-SoVITS",
+          "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+          "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+          "language": "Python",
+          "stars": 44860,
+          "forks": 4987
+        },
+        {
+          "rank": 5,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 21629,
+          "forks": 1832
+        },
+        {
+          "rank": 6,
+          "name": "jumpserver/jumpserver",
+          "url": "https://github.com/jumpserver/jumpserver",
+          "description": "JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT ...",
+          "language": "Python",
+          "stars": 27215,
+          "forks": 5459
+        },
+        {
+          "rank": 7,
+          "name": "ansible/awx",
+          "url": "https://github.com/ansible/awx",
+          "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is...",
+          "language": "Python",
+          "stars": 14533,
+          "forks": 3504
+        },
+        {
+          "rank": 8,
+          "name": "autogluon/autogluon",
+          "url": "https://github.com/autogluon/autogluon",
+          "description": "Fast and Accurate ML in 3 Lines of Code",
+          "language": "Python",
+          "stars": 8699,
+          "forks": 998
+        },
+        {
+          "rank": 9,
+          "name": "oumi-ai/oumi",
+          "url": "https://github.com/oumi-ai/oumi",
+          "description": "Everything you need to build state-of-the-art foundation models, end-to-end.",
+          "language": "Python",
+          "stars": 8042,
+          "forks": 584
+        },
+        {
+          "rank": 10,
+          "name": "D-Ogi/WatermarkRemover-AI",
+          "url": "https://github.com/D-Ogi/WatermarkRemover-AI",
+          "description": "AI-Powered Watermark Remover using Florence-2 and LaMA Models: A Python application leveraging st...",
+          "language": "Python",
+          "stars": 307,
+          "forks": 68
+        }
+      ]
+    }
+  ]
+}

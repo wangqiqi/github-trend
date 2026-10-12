@@ -1,0 +1,391 @@
+{
+  "date": "20260221",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 72651,
+          "forks": 7437
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 68157,
+          "forks": 5348
+        },
+        {
+          "rank": 3,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54561,
+          "forks": 9552
+        },
+        {
+          "rank": 4,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 46685,
+          "forks": 22242
+        },
+        {
+          "rank": 5,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 46392,
+          "forks": 2200
+        },
+        {
+          "rank": 6,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45945,
+          "forks": 4699
+        },
+        {
+          "rank": 7,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 36378,
+          "forks": 3549
+        },
+        {
+          "rank": 8,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 33196,
+          "forks": 3291
+        },
+        {
+          "rank": 9,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 29669,
+          "forks": 2001
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/playwright-mcp",
+          "url": "https://github.com/microsoft/playwright-mcp",
+          "description": "Playwright MCP server",
+          "language": "TypeScript",
+          "stars": 27457,
+          "forks": 2220
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29414,
+          "forks": 87516
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 172638,
+          "forks": 82824
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174000,
+          "forks": 79098
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87330,
+          "forks": 60339
+        },
+        {
+          "rank": 5,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8482,
+          "forks": 60275
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 106685,
+          "forks": 57173
+        },
+        {
+          "rank": 7,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 86242,
+          "forks": 56531
+        },
+        {
+          "rank": 8,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97630,
+          "forks": 54525
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77684,
+          "forks": 45291
+        },
+        {
+          "rank": 10,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 29513,
+          "forks": 44456
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "language": "Go",
+          "stars": 4706,
+          "forks": 623
+        },
+        {
+          "rank": 2,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 835,
+          "forks": 77
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 56576,
+          "forks": 4288
+        },
+        {
+          "rank": 4,
+          "name": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "description": "",
+          "language": "Python",
+          "stars": 1541,
+          "forks": 136
+        },
+        {
+          "rank": 5,
+          "name": "PowerShell/PowerShell",
+          "url": "https://github.com/PowerShell/PowerShell",
+          "description": "PowerShell for every system!",
+          "language": "C#",
+          "stars": 51466,
+          "forks": 8180
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 68157,
+          "forks": 5348
+        },
+        {
+          "rank": 7,
+          "name": "stan-smith/FossFLOW",
+          "url": "https://github.com/stan-smith/FossFLOW",
+          "description": "Make beautiful isometric infrastructure diagrams",
+          "language": "TypeScript",
+          "stars": 17602,
+          "forks": 1150
+        },
+        {
+          "rank": 8,
+          "name": "ggml-org/ggml",
+          "url": "https://github.com/ggml-org/ggml",
+          "description": "Tensor library for machine learning",
+          "language": "C++",
+          "stars": 14013,
+          "forks": 1475
+        },
+        {
+          "rank": 9,
+          "name": "Stremio/stremio-web",
+          "url": "https://github.com/Stremio/stremio-web",
+          "description": "Stremio - Freedom to Stream",
+          "language": "JavaScript",
+          "stars": 9311,
+          "forks": 1037
+        },
+        {
+          "rank": 10,
+          "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+          "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+          "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+          "language": "Jupyter Notebook",
+          "stars": 22357,
+          "forks": 5211
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "description": "",
+          "language": "Python",
+          "stars": 1541,
+          "forks": 136
+        },
+        {
+          "rank": 2,
+          "name": "RichardAtCT/claude-code-telegram",
+          "url": "https://github.com/RichardAtCT/claude-code-telegram",
+          "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to intera...",
+          "language": "Python",
+          "stars": 1264,
+          "forks": 160
+        },
+        {
+          "rank": 3,
+          "name": "oppia/oppia",
+          "url": "https://github.com/oppia/oppia",
+          "description": "A free, online learning platform to make quality education accessible for all.",
+          "language": "Python",
+          "stars": 6522,
+          "forks": 5357
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/agent-framework",
+          "url": "https://github.com/microsoft/agent-framework",
+          "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with su...",
+          "language": "Python",
+          "stars": 7317,
+          "forks": 1192
+        },
+        {
+          "rank": 5,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 8961,
+          "forks": 740
+        },
+        {
+          "rank": 6,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 20277,
+          "forks": 2122
+        },
+        {
+          "rank": 7,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 70913,
+          "forks": 6120
+        },
+        {
+          "rank": 8,
+          "name": "wagtail/wagtail",
+          "url": "https://github.com/wagtail/wagtail",
+          "description": "A Django content management system focused on flexibility and user experience",
+          "language": "Python",
+          "stars": 20175,
+          "forks": 4433
+        },
+        {
+          "rank": 9,
+          "name": "pandas-dev/pandas",
+          "url": "https://github.com/pandas-dev/pandas",
+          "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data str...",
+          "language": "Python",
+          "stars": 47929,
+          "forks": 19691
+        },
+        {
+          "rank": 10,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product ...",
+          "language": "Python",
+          "stars": 31684,
+          "forks": 2312
+        }
+      ]
+    }
+  ]
+}

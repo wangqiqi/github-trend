@@ -1,0 +1,391 @@
+{
+  "date": "20251230",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 103800,
+          "forks": 27563
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91615,
+          "forks": 11775
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 89128,
+          "forks": 10261
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 58600,
+          "forks": 5114
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 54939,
+          "forks": 7009
+        },
+        {
+          "rank": 6,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51630,
+          "forks": 9016
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 49780,
+          "forks": 3527
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48759,
+          "forks": 5711
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44702,
+          "forks": 4411
+        },
+        {
+          "rank": 10,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 44077,
+          "forks": 3786
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2541,
+          "forks": 87333
+        },
+        {
+          "rank": 2,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 87450,
+          "forks": 38647
+        },
+        {
+          "rank": 3,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 12874,
+          "forks": 26528
+        },
+        {
+          "rank": 4,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 75757,
+          "forks": 25751
+        },
+        {
+          "rank": 5,
+          "name": "laravel/laravel",
+          "url": "https://github.com/laravel/laravel",
+          "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the fo...",
+          "language": "Blade",
+          "stars": 83171,
+          "forks": 24646
+        },
+        {
+          "rank": 6,
+          "name": "springframeworkguru/spring5webapp",
+          "url": "https://github.com/springframeworkguru/spring5webapp",
+          "description": "Example Spring 5 Web Application",
+          "language": "Java",
+          "stars": 751,
+          "forks": 18781
+        },
+        {
+          "rank": 7,
+          "name": "ultralytics/yolov5",
+          "url": "https://github.com/ultralytics/yolov5",
+          "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+          "language": "Python",
+          "stars": 56511,
+          "forks": 17383
+        },
+        {
+          "rank": 8,
+          "name": "josephmisiti/awesome-machine-learning",
+          "url": "https://github.com/josephmisiti/awesome-machine-learning",
+          "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+          "language": "Python",
+          "stars": 71129,
+          "forks": 15215
+        },
+        {
+          "rank": 9,
+          "name": "apache/kafka",
+          "url": "https://github.com/apache/kafka",
+          "description": "Mirror of Apache Kafka",
+          "language": "Java",
+          "stars": 31611,
+          "forks": 14861
+        },
+        {
+          "rank": 10,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 134,
+          "forks": 13915
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "BloopAI/vibe-kanban",
+          "url": "https://github.com/BloopAI/vibe-kanban",
+          "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+          "language": "Rust",
+          "stars": 8356,
+          "forks": 805
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 103800,
+          "forks": 27563
+        },
+        {
+          "rank": 3,
+          "name": "QuantConnect/Lean",
+          "url": "https://github.com/QuantConnect/Lean",
+          "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+          "language": "C#",
+          "stars": 15063,
+          "forks": 4111
+        },
+        {
+          "rank": 4,
+          "name": "jrouwe/JoltPhysics",
+          "url": "https://github.com/jrouwe/JoltPhysics",
+          "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitabl...",
+          "language": "C++",
+          "stars": 8935,
+          "forks": 606
+        },
+        {
+          "rank": 5,
+          "name": "timescale/pg-aiguide",
+          "url": "https://github.com/timescale/pg-aiguide",
+          "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generat...",
+          "language": "Python",
+          "stars": 625,
+          "forks": 36
+        },
+        {
+          "rank": 6,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 19433,
+          "forks": 2540
+        },
+        {
+          "rank": 7,
+          "name": "RustPython/RustPython",
+          "url": "https://github.com/RustPython/RustPython",
+          "description": "A Python Interpreter written in Rust",
+          "language": "Rust",
+          "stars": 21428,
+          "forks": 1390
+        },
+        {
+          "rank": 8,
+          "name": "sinelaw/fresh",
+          "url": "https://github.com/sinelaw/fresh",
+          "description": "Text editor for your terminal: easy, powerful and fast",
+          "language": "Rust",
+          "stars": 4223,
+          "forks": 139
+        },
+        {
+          "rank": 9,
+          "name": "alexta69/metube",
+          "url": "https://github.com/alexta69/metube",
+          "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+          "language": "Python",
+          "stars": 11380,
+          "forks": 771
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 29806,
+          "forks": 2724
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "timescale/pg-aiguide",
+          "url": "https://github.com/timescale/pg-aiguide",
+          "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generat...",
+          "language": "Python",
+          "stars": 625,
+          "forks": 36
+        },
+        {
+          "rank": 2,
+          "name": "resemble-ai/chatterbox",
+          "url": "https://github.com/resemble-ai/chatterbox",
+          "description": "SoTA open-source TTS",
+          "language": "Python",
+          "stars": 19433,
+          "forks": 2540
+        },
+        {
+          "rank": 3,
+          "name": "alexta69/metube",
+          "url": "https://github.com/alexta69/metube",
+          "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+          "language": "Python",
+          "stars": 11380,
+          "forks": 771
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 29806,
+          "forks": 2724
+        },
+        {
+          "rank": 5,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 85330,
+          "forks": 12126
+        },
+        {
+          "rank": 6,
+          "name": "kijai/ComfyUI-KJNodes",
+          "url": "https://github.com/kijai/ComfyUI-KJNodes",
+          "description": "Various custom nodes for ComfyUI",
+          "language": "Python",
+          "stars": 2102,
+          "forks": 223
+        },
+        {
+          "rank": 7,
+          "name": "allenai/olmocr",
+          "url": "https://github.com/allenai/olmocr",
+          "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+          "language": "Python",
+          "stars": 16493,
+          "forks": 1292
+        },
+        {
+          "rank": 8,
+          "name": "tencent-ailab/SongGeneration",
+          "url": "https://github.com/tencent-ailab/SongGeneration",
+          "description": "The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment",
+          "language": "Python",
+          "stars": 1092,
+          "forks": 130
+        },
+        {
+          "rank": 9,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 379588,
+          "forks": 65670
+        },
+        {
+          "rank": 10,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 66525,
+          "forks": 12292
+        }
+      ]
+    }
+  ]
+}

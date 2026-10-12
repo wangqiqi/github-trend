@@ -1,0 +1,391 @@
+{
+  "date": "20250917",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99285,
+          "forks": 16205
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91075,
+          "forks": 11738
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 76704,
+          "forks": 4234
+        },
+        {
+          "rank": 4,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 70403,
+          "forks": 5797
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70025,
+          "forks": 8173
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 68048,
+          "forks": 7992
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49810,
+          "forks": 8717
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 41823,
+          "forks": 4872
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 40696,
+          "forks": 7174
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 38821,
+          "forks": 12518
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50391,
+          "forks": 91276
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28956,
+          "forks": 87246
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2474,
+          "forks": 84455
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 169415,
+          "forks": 83002
+        },
+        {
+          "rank": 5,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 327907,
+          "forks": 80429
+        },
+        {
+          "rank": 6,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191669,
+          "forks": 74842
+        },
+        {
+          "rank": 7,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2592,
+          "forks": 72608
+        },
+        {
+          "rank": 8,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 368328,
+          "forks": 64166
+        },
+        {
+          "rank": 9,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17863,
+          "forks": 63307
+        },
+        {
+          "rank": 10,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8174,
+          "forks": 58587
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "category-labs/monad",
+          "url": "https://github.com/category-labs/monad",
+          "description": "",
+          "language": "C++",
+          "stars": 304,
+          "forks": 125
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 76704,
+          "forks": 4234
+        },
+        {
+          "rank": 3,
+          "name": "category-labs/monad-bft",
+          "url": "https://github.com/category-labs/monad-bft",
+          "description": "",
+          "language": "Rust",
+          "stars": 297,
+          "forks": 98
+        },
+        {
+          "rank": 4,
+          "name": "WebKit/WebKit",
+          "url": "https://github.com/WebKit/WebKit",
+          "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other app...",
+          "language": "JavaScript",
+          "stars": 9015,
+          "forks": 1672
+        },
+        {
+          "rank": 5,
+          "name": "ItzCrazyKns/Perplexica",
+          "url": "https://github.com/ItzCrazyKns/Perplexica",
+          "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+          "language": "TypeScript",
+          "stars": 25118,
+          "forks": 2608
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 41823,
+          "forks": 4872
+        },
+        {
+          "rank": 7,
+          "name": "nocodb/nocodb",
+          "url": "https://github.com/nocodb/nocodb",
+          "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+          "language": "TypeScript",
+          "stars": 57007,
+          "forks": 4154
+        },
+        {
+          "rank": 8,
+          "name": "dataease/SQLBot",
+          "url": "https://github.com/dataease/SQLBot",
+          "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+          "language": "Python",
+          "stars": 2084,
+          "forks": 233
+        },
+        {
+          "rank": 9,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 5567,
+          "forks": 515
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 40696,
+          "forks": 7174
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 76704,
+          "forks": 4234
+        },
+        {
+          "rank": 2,
+          "name": "dataease/SQLBot",
+          "url": "https://github.com/dataease/SQLBot",
+          "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+          "language": "Python",
+          "stars": 2084,
+          "forks": 233
+        },
+        {
+          "rank": 3,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 5567,
+          "forks": 515
+        },
+        {
+          "rank": 4,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 40696,
+          "forks": 7174
+        },
+        {
+          "rank": 5,
+          "name": "Alibaba-NLP/DeepResearch",
+          "url": "https://github.com/Alibaba-NLP/DeepResearch",
+          "description": "Tongyi DeepResearch, the Leading Open-source DeepResearch Agent",
+          "language": "Python",
+          "stars": 7221,
+          "forks": 535
+        },
+        {
+          "rank": 6,
+          "name": "facebookresearch/detectron2",
+          "url": "https://github.com/facebookresearch/detectron2",
+          "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+          "language": "Python",
+          "stars": 32840,
+          "forks": 7792
+        },
+        {
+          "rank": 7,
+          "name": "ccxt/ccxt",
+          "url": "https://github.com/ccxt/ccxt",
+          "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C...",
+          "language": "Python",
+          "stars": 38763,
+          "forks": 8204
+        },
+        {
+          "rank": 8,
+          "name": "apache/airflow",
+          "url": "https://github.com/apache/airflow",
+          "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+          "language": "Python",
+          "stars": 42405,
+          "forks": 15605
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞...",
+          "language": "Python",
+          "stars": 3145,
+          "forks": 2083
+        },
+        {
+          "rank": 10,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R...",
+          "language": "Python",
+          "stars": 45585,
+          "forks": 3715
+        }
+      ]
+    }
+  ]
+}

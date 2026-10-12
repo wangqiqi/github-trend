@@ -1,0 +1,391 @@
+{
+  "date": "20260110",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 107086,
+          "forks": 28177
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91674,
+          "forks": 11776
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 90336,
+          "forks": 10467
+        },
+        {
+          "rank": 4,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 58626,
+          "forks": 5017
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 55622,
+          "forks": 7159
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 54419,
+          "forks": 3925
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 52626,
+          "forks": 9248
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49487,
+          "forks": 5942
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析...",
+          "language": "Python",
+          "stars": 42685,
+          "forks": 21381
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 40046,
+          "forks": 5139
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2549,
+          "forks": 87620
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29277,
+          "forks": 87461
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 335752,
+          "forks": 81552
+        },
+        {
+          "rank": 4,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85659,
+          "forks": 56475
+        },
+        {
+          "rank": 5,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37323,
+          "forks": 53924
+        },
+        {
+          "rank": 6,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153395,
+          "forks": 46096
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77695,
+          "forks": 45339
+        },
+        {
+          "rank": 8,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 79621,
+          "forks": 41787
+        },
+        {
+          "rank": 9,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 84021,
+          "forks": 36461
+        },
+        {
+          "rank": 10,
+          "name": "samqin123/MoonTV",
+          "url": "https://github.com/samqin123/MoonTV",
+          "description": "No description",
+          "language": "TypeScript",
+          "stars": 1722,
+          "forks": 31461
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 54419,
+          "forks": 3925
+        },
+        {
+          "rank": 2,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 19875,
+          "forks": 1217
+        },
+        {
+          "rank": 3,
+          "name": "github/awesome-copilot",
+          "url": "https://github.com/github/awesome-copilot",
+          "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitH...",
+          "language": "JavaScript",
+          "stars": 16768,
+          "forks": 1943
+        },
+        {
+          "rank": 4,
+          "name": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "description": "Memory infrastructure for LLMs and AI agents",
+          "language": "Python",
+          "stars": 4135,
+          "forks": 275
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "Claude Code superpowers: core skills library",
+          "language": "Shell",
+          "stars": 15791,
+          "forks": 1261
+        },
+        {
+          "rank": 6,
+          "name": "google/googletest",
+          "url": "https://github.com/google/googletest",
+          "description": "GoogleTest - Google Testing and Mocking Framework",
+          "language": "C++",
+          "stars": 37980,
+          "forks": 10663
+        },
+        {
+          "rank": 7,
+          "name": "xpipe-io/xpipe",
+          "url": "https://github.com/xpipe-io/xpipe",
+          "description": "Access your entire server infrastructure from your local desktop",
+          "language": "Java",
+          "stars": 13121,
+          "forks": 508
+        },
+        {
+          "rank": 8,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars": 22108,
+          "forks": 2127
+        },
+        {
+          "rank": 9,
+          "name": "C4illin/ConvertX",
+          "url": "https://github.com/C4illin/ConvertX",
+          "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+          "language": "TypeScript",
+          "stars": 14100,
+          "forks": 755
+        },
+        {
+          "rank": 10,
+          "name": "opf/openproject",
+          "url": "https://github.com/opf/openproject",
+          "description": "OpenProject is the leading open source project management software.",
+          "language": "Ruby",
+          "stars": 13569,
+          "forks": 2995
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "description": "Memory infrastructure for LLMs and AI agents",
+          "language": "Python",
+          "stars": 4135,
+          "forks": 275
+        },
+        {
+          "rank": 2,
+          "name": "MiroMindAI/MiroThinker",
+          "url": "https://github.com/MiroMindAI/MiroThinker",
+          "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-wor...",
+          "language": "Python",
+          "stars": 4085,
+          "forks": 260
+        },
+        {
+          "rank": 3,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 77009,
+          "forks": 11271
+        },
+        {
+          "rank": 4,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product ...",
+          "language": "Python",
+          "stars": 30755,
+          "forks": 2183
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/VideoRAG",
+          "url": "https://github.com/HKUDS/VideoRAG",
+          "description": "[KDD'2026] \"VideoRAG: Chat with Your Videos\"",
+          "language": "Python",
+          "stars": 2260,
+          "forks": 300
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-agent-sdk-python",
+          "url": "https://github.com/anthropics/claude-agent-sdk-python",
+          "description": "",
+          "language": "Python",
+          "stars": 4019,
+          "forks": 533
+        },
+        {
+          "rank": 7,
+          "name": "Arindam200/awesome-ai-apps",
+          "url": "https://github.com/Arindam200/awesome-ai-apps",
+          "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+          "language": "Python",
+          "stars": 8416,
+          "forks": 1033
+        },
+        {
+          "rank": 8,
+          "name": "alibaba/ROLL",
+          "url": "https://github.com/alibaba/ROLL",
+          "description": "An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models",
+          "language": "Python",
+          "stars": 2612,
+          "forks": 196
+        },
+        {
+          "rank": 9,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 75174,
+          "forks": 8977
+        },
+        {
+          "rank": 10,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI agents for penetration testing",
+          "language": "Python",
+          "stars": 18840,
+          "forks": 1960
+        }
+      ]
+    }
+  ]
+}

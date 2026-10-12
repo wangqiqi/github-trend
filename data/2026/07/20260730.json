@@ -1,0 +1,391 @@
+{
+  "date": "20260730",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 263750,
+          "forks": 23546
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 236027,
+          "forks": 35902
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 197840,
+          "forks": 20346
+        },
+        {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 195690,
+          "forks": 16852
+        },
+        {
+          "rank": 5,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194947,
+          "forks": 109408
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 137605,
+          "forks": 22453
+        },
+        {
+          "rank": 7,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 124593,
+          "forks": 11122
+        },
+        {
+          "rank": 8,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 105476,
+          "forks": 12059
+        },
+        {
+          "rank": 9,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 94542,
+          "forks": 5411
+        },
+        {
+          "rank": 10,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 92161,
+          "forks": 5069
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194947,
+          "forks": 109408
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 357476,
+          "forks": 84454
+        },
+        {
+          "rank": 3,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88572,
+          "forks": 59359
+        },
+        {
+          "rank": 4,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 359752,
+          "forks": 57456
+        },
+        {
+          "rank": 5,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 98880,
+          "forks": 54684
+        },
+        {
+          "rank": 6,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 236027,
+          "forks": 35902
+        },
+        {
+          "rank": 7,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "language": "Python",
+          "stars": 275834,
+          "forks": 35524
+        },
+        {
+          "rank": 8,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 164306,
+          "forks": 30476
+        },
+        {
+          "rank": 9,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 102075,
+          "forks": 28605
+        },
+        {
+          "rank": 10,
+          "name": "LSPosed/MagiskOnWSALocal",
+          "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+          "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+          "language": "Shell",
+          "stars": 10580,
+          "forks": 25315
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 8277,
+          "forks": 1031
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "language": "Jupyter Notebook",
+          "stars": 53385,
+          "forks": 10860
+        },
+        {
+          "rank": 3,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...",
+          "language": "Python",
+          "stars": 10773,
+          "forks": 1378
+        },
+        {
+          "rank": 4,
+          "name": "different-ai/openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+          "language": "TypeScript",
+          "stars": 18389,
+          "forks": 1877
+        },
+        {
+          "rank": 5,
+          "name": "WhiskeySockets/Baileys",
+          "url": "https://github.com/WhiskeySockets/Baileys",
+          "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+          "language": "JavaScript",
+          "stars": 10346,
+          "forks": 3242
+        },
+        {
+          "rank": 6,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars": 19903,
+          "forks": 2613
+        },
+        {
+          "rank": 7,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 55271,
+          "forks": 4773
+        },
+        {
+          "rank": 8,
+          "name": "dotnet/aspnetcore",
+          "url": "https://github.com/dotnet/aspnetcore",
+          "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications ...",
+          "language": "C#",
+          "stars": 38254,
+          "forks": 10858
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization ...",
+          "language": "C",
+          "stars": 136957,
+          "forks": 8362
+        },
+        {
+          "rank": 10,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 69771,
+          "forks": 24248
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 8277,
+          "forks": 1031
+        },
+        {
+          "rank": 2,
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+          "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic...",
+          "language": "Python",
+          "stars": 10773,
+          "forks": 1378
+        },
+        {
+          "rank": 3,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 55271,
+          "forks": 4773
+        },
+        {
+          "rank": 4,
+          "name": "ansible/ansible",
+          "url": "https://github.com/ansible/ansible",
+          "description": "Ansible is a radically simple IT automation platform that makes your applications and systems eas...",
+          "language": "Python",
+          "stars": 69771,
+          "forks": 24248
+        },
+        {
+          "rank": 5,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 13486,
+          "forks": 1467
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/TRELLIS.2",
+          "url": "https://github.com/microsoft/TRELLIS.2",
+          "description": "Native and Compact Structured Latents for 3D Generation",
+          "language": "Python",
+          "stars": 9516,
+          "forks": 1156
+        },
+        {
+          "rank": 7,
+          "name": "deepfakes/faceswap",
+          "url": "https://github.com/deepfakes/faceswap",
+          "description": "Deepfakes Software For All",
+          "language": "Python",
+          "stars": 56674,
+          "forks": 13453
+        },
+        {
+          "rank": 8,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 100567,
+          "forks": 14969
+        },
+        {
+          "rank": 9,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 62737,
+          "forks": 5130
+        },
+        {
+          "rank": 10,
+          "name": "ScrapeGraphAI/Scrapegraph-ai",
+          "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+          "description": "Python scraper based on AI",
+          "language": "Python",
+          "stars": 28793,
+          "forks": 2809
+        }
+      ]
+    }
+  ]
+}

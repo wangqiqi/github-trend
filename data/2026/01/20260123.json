@@ -1,0 +1,391 @@
+{
+  "date": "20260123",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 84965,
+          "forks": 7617
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 59689,
+          "forks": 4442
+        },
+        {
+          "rank": 3,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 53472,
+          "forks": 9391
+        },
+        {
+          "rank": 4,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45221,
+          "forks": 4524
+        },
+        {
+          "rank": 5,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 44277,
+          "forks": 21778
+        },
+        {
+          "rank": 6,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 43127,
+          "forks": 2079
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 34159,
+          "forks": 2589
+        },
+        {
+          "rank": 8,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 31494,
+          "forks": 4137
+        },
+        {
+          "rank": 9,
+          "name": "wshobson/agents",
+          "url": "https://github.com/wshobson/agents",
+          "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+          "language": "C#",
+          "stars": 26489,
+          "forks": 2927
+        },
+        {
+          "rank": 10,
+          "name": "musistudio/claude-code-router",
+          "url": "https://github.com/musistudio/claude-code-router",
+          "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to intera...",
+          "language": "TypeScript",
+          "stars": 26360,
+          "forks": 2056
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2556,
+          "forks": 88014
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29331,
+          "forks": 87472
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 336146,
+          "forks": 81592
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2666,
+          "forks": 72868
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 380933,
+          "forks": 65778
+        },
+        {
+          "rank": 6,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85859,
+          "forks": 56497
+        },
+        {
+          "rank": 7,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 177909,
+          "forks": 55292
+        },
+        {
+          "rank": 8,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 170825,
+          "forks": 53992
+        },
+        {
+          "rank": 9,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 181389,
+          "forks": 46275
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77691,
+          "forks": 45328
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 27812,
+          "forks": 1638
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 21012,
+          "forks": 2316
+        },
+        {
+          "rank": 3,
+          "name": "block/goose",
+          "url": "https://github.com/block/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, a...",
+          "language": "Rust",
+          "stars": 27399,
+          "forks": 2482
+        },
+        {
+          "rank": 4,
+          "name": "ai-dynamo/dynamo",
+          "url": "https://github.com/ai-dynamo/dynamo",
+          "description": "A Datacenter Scale Distributed Inference Serving Framework",
+          "language": "Rust",
+          "stars": 5841,
+          "forks": 798
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 76188,
+          "forks": 9088
+        },
+        {
+          "rank": 6,
+          "name": "github/copilot-cli",
+          "url": "https://github.com/github/copilot-cli",
+          "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+          "language": "Shell",
+          "stars": 7010,
+          "forks": 941
+        },
+        {
+          "rank": 7,
+          "name": "Asabeneh/30-Days-Of-Python",
+          "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+          "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programmi...",
+          "language": "Python",
+          "stars": 56189,
+          "forks": 10776
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 59689,
+          "forks": 4442
+        },
+        {
+          "rank": 9,
+          "name": "deepseek-ai/FlashMLA",
+          "url": "https://github.com/deepseek-ai/FlashMLA",
+          "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+          "language": "C++",
+          "stars": 12247,
+          "forks": 957
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/Data-Science-For-Beginners",
+          "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+          "description": "10 Weeks, 20 Lessons, Data Science for All!",
+          "language": "Jupyter Notebook",
+          "stars": 33138,
+          "forks": 6864
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 21012,
+          "forks": 2316
+        },
+        {
+          "rank": 2,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 76188,
+          "forks": 9088
+        },
+        {
+          "rank": 3,
+          "name": "Asabeneh/30-Days-Of-Python",
+          "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+          "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programmi...",
+          "language": "Python",
+          "stars": 56189,
+          "forks": 10776
+        },
+        {
+          "rank": 4,
+          "name": "OpenBMB/UltraRAG",
+          "url": "https://github.com/OpenBMB/UltraRAG",
+          "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+          "language": "Python",
+          "stars": 2674,
+          "forks": 231
+        },
+        {
+          "rank": 5,
+          "name": "KellerJordan/modded-nanogpt",
+          "url": "https://github.com/KellerJordan/modded-nanogpt",
+          "description": "NanoGPT (124M) in 2 minutes",
+          "language": "Python",
+          "stars": 4316,
+          "forks": 580
+        },
+        {
+          "rank": 6,
+          "name": "xai-org/grok-1",
+          "url": "https://github.com/xai-org/grok-1",
+          "description": "Grok open release",
+          "language": "Python",
+          "stars": 51358,
+          "forks": 8473
+        },
+        {
+          "rank": 7,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 6 lines of code",
+          "language": "Python",
+          "stars": 11229,
+          "forks": 1054
+        },
+        {
+          "rank": 8,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 68300,
+          "forks": 12827
+        },
+        {
+          "rank": 9,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "DeerFlow is a community-driven Deep Research framework, combining language models with tools like...",
+          "language": "Python",
+          "stars": 19367,
+          "forks": 2435
+        },
+        {
+          "rank": 10,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 333060,
+          "forks": 54157
+        }
+      ]
+    }
+  ]
+}

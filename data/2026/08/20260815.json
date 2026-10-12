@@ -1,0 +1,295 @@
+{
+  "date": "20260815",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195049,
+          "forks": 109123
+        },
+        {
+          "rank": 2,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 108499,
+          "forks": 12384
+        },
+        {
+          "rank": 3,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 103030,
+          "forks": 5675
+        },
+        {
+          "rank": 4,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Go",
+          "stars": 98311,
+          "forks": 5684
+        },
+        {
+          "rank": 5,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 90804,
+          "forks": 7927
+        },
+        {
+          "rank": 6,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 79372,
+          "forks": 6667
+        },
+        {
+          "rank": 7,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 78206,
+          "forks": 14348
+        },
+        {
+          "rank": 8,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codeb...",
+          "language": "TypeScript",
+          "stars": 67895,
+          "forks": 5551
+        },
+        {
+          "rank": 9,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into ...",
+          "language": "JavaScript",
+          "stars": 63895,
+          "forks": 12592
+        },
+        {
+          "rank": 10,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 62930,
+          "forks": 52934
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "description": "Meta-Framework of Spatiotemporal Composability",
+          "language": "TypeScript",
+          "stars": 3709,
+          "forks": 178
+        },
+        {
+          "rank": 2,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+          "language": "HTML",
+          "stars": 17972,
+          "forks": 1073
+        },
+        {
+          "rank": 3,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 2866,
+          "forks": 230
+        },
+        {
+          "rank": 4,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars": 5839,
+          "forks": 392
+        },
+        {
+          "rank": 5,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemm...",
+          "language": "Python",
+          "stars": 71700,
+          "forks": 6471
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 459311,
+          "forks": 50773
+        },
+        {
+          "rank": 7,
+          "name": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+          "language": "Python",
+          "stars": 1434,
+          "forks": 240
+        },
+        {
+          "rank": 8,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 128844,
+          "forks": 11519
+        },
+        {
+          "rank": 9,
+          "name": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and wil...",
+          "language": "Python",
+          "stars": 12991,
+          "forks": 1731
+        },
+        {
+          "rank": 10,
+          "name": "altic-dev/FluidVoice",
+          "url": "https://github.com/altic-dev/FluidVoice",
+          "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. ...",
+          "language": "Swift",
+          "stars": 10160,
+          "forks": 687
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars": 5839,
+          "forks": 392
+        },
+        {
+          "rank": 2,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemm...",
+          "language": "Python",
+          "stars": 71700,
+          "forks": 6471
+        },
+        {
+          "rank": 3,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 459311,
+          "forks": 50773
+        },
+        {
+          "rank": 4,
+          "name": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+          "language": "Python",
+          "stars": 1434,
+          "forks": 240
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 128844,
+          "forks": 11519
+        },
+        {
+          "rank": 6,
+          "name": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and wil...",
+          "language": "Python",
+          "stars": 12991,
+          "forks": 1731
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 47150,
+          "forks": 4380
+        },
+        {
+          "rank": 8,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 7767,
+          "forks": 801
+        },
+        {
+          "rank": 9,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 103761,
+          "forks": 15721
+        },
+        {
+          "rank": 10,
+          "name": "sgl-project/sglang-omni",
+          "url": "https://github.com/sgl-project/sglang-omni",
+          "description": "SGLang-Omni empowers high-performance serving for TTS, ASR, speech and omni models.",
+          "language": "Python",
+          "stars": 816,
+          "forks": 339
+        }
+      ]
+    }
+  ]
+}

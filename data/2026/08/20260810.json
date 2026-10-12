@@ -1,0 +1,391 @@
+{
+  "date": "20260810",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 212053,
+          "forks": 18323
+        },
+        {
+          "rank": 2,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 141410,
+          "forks": 23062
+        },
+        {
+          "rank": 3,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 72006,
+          "forks": 8971
+        },
+        {
+          "rank": 4,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 46550,
+          "forks": 5790
+        },
+        {
+          "rank": 5,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voic...",
+          "language": "Python",
+          "stars": 45125,
+          "forks": 7466
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description": "Use Codex from Claude Code to review code or delegate tasks.",
+          "language": "JavaScript",
+          "stars": 31633,
+          "forks": 2162
+        },
+        {
+          "rank": 7,
+          "name": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible ...",
+          "language": "N/A",
+          "stars": 29933,
+          "forks": 3214
+        },
+        {
+          "rank": 8,
+          "name": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, e...",
+          "language": "N/A",
+          "stars": 25076,
+          "forks": 2690
+        },
+        {
+          "rank": 9,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 24685,
+          "forks": 1679
+        },
+        {
+          "rank": 10,
+          "name": "xai-org/grok-build",
+          "url": "https://github.com/xai-org/grok-build",
+          "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+          "language": "Rust",
+          "stars": 24574,
+          "forks": 4678
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19683
+        },
+        {
+          "rank": 2,
+          "name": "Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "url": "https://github.com/Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "description": "⚡🦄Arbitrage between USDC/ETH 0.3% fee pool and USDC/ETH 0.05% fee pool",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 15975
+        },
+        {
+          "rank": 3,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14704
+        },
+        {
+          "rank": 4,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 216,
+          "forks": 9703
+        },
+        {
+          "rank": 5,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8931
+        },
+        {
+          "rank": 6,
+          "name": "layui/layui",
+          "url": "https://github.com/layui/layui",
+          "description": "一套遵循浏览器原生态开发模式的 Web UI 组件库。",
+          "language": "JavaScript",
+          "stars": 30580,
+          "forks": 7367
+        },
+        {
+          "rank": 7,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 14,
+          "forks": 6844
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-python-pyinstaller-app",
+          "url": "https://github.com/jenkins-docs/simple-python-pyinstaller-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Python application with PyIn...",
+          "language": "Python",
+          "stars": 100,
+          "forks": 6130
+        },
+        {
+          "rank": 9,
+          "name": "yandex-praktikum/taski",
+          "url": "https://github.com/yandex-praktikum/taski",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 4,
+          "forks": 6132
+        },
+        {
+          "rank": 10,
+          "name": "AlreadyBored/basic-js-ds",
+          "url": "https://github.com/AlreadyBored/basic-js-ds",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 90,
+          "forks": 5956
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 3706,
+          "forks": 422
+        },
+        {
+          "rank": 2,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 141410,
+          "forks": 23062
+        },
+        {
+          "rank": 3,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 60753,
+          "forks": 11946
+        },
+        {
+          "rank": 4,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 85502,
+          "forks": 9196
+        },
+        {
+          "rank": 5,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 76188,
+          "forks": 14181
+        },
+        {
+          "rank": 6,
+          "name": "PrimeIntellect-ai/prime-agent",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+          "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+          "language": "TypeScript",
+          "stars": 12553,
+          "forks": 1264
+        },
+        {
+          "rank": 7,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 65152,
+          "forks": 3113
+        },
+        {
+          "rank": 8,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 89180,
+          "forks": 11873
+        },
+        {
+          "rank": 9,
+          "name": "danielmiessler/LifeOS",
+          "url": "https://github.com/danielmiessler/LifeOS",
+          "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in bot...",
+          "language": "TypeScript",
+          "stars": 17662,
+          "forks": 2360
+        },
+        {
+          "rank": 10,
+          "name": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+          "language": "TypeScript",
+          "stars": 164624,
+          "forks": 9265
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "semantica-agi/semantica",
+          "url": "https://github.com/semantica-agi/semantica",
+          "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+          "language": "Python",
+          "stars": 3706,
+          "forks": 422
+        },
+        {
+          "rank": 2,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 60753,
+          "forks": 11946
+        },
+        {
+          "rank": 3,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 96976,
+          "forks": 18715
+        },
+        {
+          "rank": 4,
+          "name": "google-deepmind/weathernext",
+          "url": "https://github.com/google-deepmind/weathernext",
+          "description": "",
+          "language": "Python",
+          "stars": 7244,
+          "forks": 947
+        },
+        {
+          "rank": 5,
+          "name": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the...",
+          "language": "Python",
+          "stars": 3365,
+          "forks": 539
+        },
+        {
+          "rank": 6,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 126018,
+          "forks": 14880
+        },
+        {
+          "rank": 7,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 61672,
+          "forks": 52166
+        },
+        {
+          "rank": 8,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars": 17518,
+          "forks": 1403
+        },
+        {
+          "rank": 9,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars": 89760,
+          "forks": 7453
+        },
+        {
+          "rank": 10,
+          "name": "stanfordnlp/dspy",
+          "url": "https://github.com/stanfordnlp/dspy",
+          "description": "DSPy: The framework for programming—not prompting—language models",
+          "language": "Python",
+          "stars": 37001,
+          "forks": 3205
+        }
+      ]
+    }
+  ]
+}

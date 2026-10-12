@@ -1,0 +1,391 @@
+{
+  "date": "20260821",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 241604,
+          "forks": 36627
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 228188,
+          "forks": 19538
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 170785,
+          "forks": 20304
+        },
+        {
+          "rank": 4,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 147062,
+          "forks": 23749
+        },
+        {
+          "rank": 5,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 119095,
+          "forks": 12795
+        },
+        {
+          "rank": 6,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 108944,
+          "forks": 10581
+        },
+        {
+          "rank": 7,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 91411,
+          "forks": 8002
+        },
+        {
+          "rank": 8,
+          "name": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 85860,
+          "forks": 570
+        },
+        {
+          "rank": 9,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 83610,
+          "forks": 12461
+        },
+        {
+          "rank": 10,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "JavaScript",
+          "stars": 78836,
+          "forks": 5382
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 175383,
+          "forks": 82259
+        },
+        {
+          "rank": 2,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 387013,
+          "forks": 81292
+        },
+        {
+          "rank": 3,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 243576,
+          "forks": 64012
+        },
+        {
+          "rank": 4,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 90535,
+          "forks": 56971
+        },
+        {
+          "rank": 5,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 223916,
+          "forks": 50983
+        },
+        {
+          "rank": 6,
+          "name": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+          "language": "C#",
+          "stars": 19296,
+          "forks": 50408
+        },
+        {
+          "rank": 7,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42436
+        },
+        {
+          "rank": 8,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 90023,
+          "forks": 38380
+        },
+        {
+          "rank": 9,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "language": "Python",
+          "stars": 280199,
+          "forks": 35974
+        },
+        {
+          "rank": 10,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 142964,
+          "forks": 34839
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "description": "The Modular Platform (includes MAX & Mojo)",
+          "language": "Mojo",
+          "stars": 28397,
+          "forks": 3023
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 228188,
+          "forks": 19538
+        },
+        {
+          "rank": 3,
+          "name": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI,...",
+          "language": "Rust",
+          "stars": 12460,
+          "forks": 340
+        },
+        {
+          "rank": 4,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 275352,
+          "forks": 24626
+        },
+        {
+          "rank": 5,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 4255,
+          "forks": 354
+        },
+        {
+          "rank": 6,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into ...",
+          "language": "JavaScript",
+          "stars": 67132,
+          "forks": 12857
+        },
+        {
+          "rank": 7,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different a...",
+          "language": "Rust",
+          "stars": 3839,
+          "forks": 289
+        },
+        {
+          "rank": 8,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 113503,
+          "forks": 17216
+        },
+        {
+          "rank": 9,
+          "name": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "description": "Agent Substrate: the core system",
+          "language": "Go",
+          "stars": 1529,
+          "forks": 257
+        },
+        {
+          "rank": 10,
+          "name": "chaitanyagiri/munder-difflin",
+          "url": "https://github.com/chaitanyagiri/munder-difflin",
+          "description": "local multi-agent harness",
+          "language": "TypeScript",
+          "stars": 3291,
+          "forks": 361
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 113503,
+          "forks": 17216
+        },
+        {
+          "rank": 2,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 38153,
+          "forks": 3225
+        },
+        {
+          "rank": 3,
+          "name": "volcengine/OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "language": "Python",
+          "stars": 31403,
+          "forks": 2409
+        },
+        {
+          "rank": 4,
+          "name": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan...",
+          "language": "Python",
+          "stars": 5201,
+          "forks": 500
+        },
+        {
+          "rank": 5,
+          "name": "Osmantic/ODS",
+          "url": "https://github.com/Osmantic/ODS",
+          "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflo...",
+          "language": "Python",
+          "stars": 4610,
+          "forks": 692
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/agent-framework",
+          "url": "https://github.com/microsoft/agent-framework",
+          "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with su...",
+          "language": "Python",
+          "stars": 13022,
+          "forks": 2204
+        },
+        {
+          "rank": 7,
+          "name": "ATH-MaaS/Pixelle-Video",
+          "url": "https://github.com/ATH-MaaS/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 27132,
+          "forks": 3939
+        },
+        {
+          "rank": 8,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 65345,
+          "forks": 4675
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Python",
+          "stars": 142237,
+          "forks": 22806
+        },
+        {
+          "rank": 10,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the ...",
+          "language": "Python",
+          "stars": 20175,
+          "forks": 1713
+        }
+      ]
+    }
+  ]
+}

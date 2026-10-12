@@ -1,0 +1,382 @@
+{
+  "date": "20251221",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 101318,
+          "forks": 27025
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100797,
+          "forks": 16423
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91607,
+          "forks": 11779
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 88157,
+          "forks": 10114
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 56827,
+          "forks": 4946
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 54416,
+          "forks": 6908
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51389,
+          "forks": 8965
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48175,
+          "forks": 5563
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 47578,
+          "forks": 3334
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44504,
+          "forks": 4362
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29229,
+          "forks": 87419
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 334983,
+          "forks": 81489
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173840,
+          "forks": 79171
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 192885,
+          "forks": 75169
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 379110,
+          "forks": 65635
+        },
+        {
+          "rank": 6,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 86770,
+          "forks": 60645
+        },
+        {
+          "rank": 7,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8391,
+          "forks": 59944
+        },
+        {
+          "rank": 8,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85380,
+          "forks": 56421
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 104072,
+          "forks": 55343
+        },
+        {
+          "rank": 10,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97039,
+          "forks": 54247
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 35059,
+          "forks": 2363
+        },
+        {
+          "rank": 2,
+          "name": "GreyDGL/PentestGPT",
+          "url": "https://github.com/GreyDGL/PentestGPT",
+          "description": "A GPT-empowered penetration testing tool",
+          "language": "Python",
+          "stars": 9894,
+          "forks": 1444
+        },
+        {
+          "rank": 3,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 72956,
+          "forks": 16368
+        },
+        {
+          "rank": 4,
+          "name": "sgl-project/mini-sglang",
+          "url": "https://github.com/sgl-project/mini-sglang",
+          "description": "",
+          "language": "Python",
+          "stars": 1812,
+          "forks": 144
+        },
+        {
+          "rank": 5,
+          "name": "pollen-robotics/reachy_mini",
+          "url": "https://github.com/pollen-robotics/reachy_mini",
+          "description": "Reachy Mini's SDK",
+          "language": "Python",
+          "stars": 434,
+          "forks": 70
+        },
+        {
+          "rank": 6,
+          "name": "cocoindex-io/cocoindex",
+          "url": "https://github.com/cocoindex-io/cocoindex",
+          "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if yo...",
+          "language": "Rust",
+          "stars": 4255,
+          "forks": 344
+        },
+        {
+          "rank": 7,
+          "name": "cloudcommunity/Free-Certifications",
+          "url": "https://github.com/cloudcommunity/Free-Certifications",
+          "description": "A curated list of free courses with certifications. Also available at https://free-certifications...",
+          "language": "N/A",
+          "stars": 47355,
+          "forks": 3185
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 47578,
+          "forks": 3334
+        },
+        {
+          "rank": 9,
+          "name": "trimstray/the-book-of-secret-knowledge",
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools an...",
+          "language": "N/A",
+          "stars": 198908,
+          "forks": 12120
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 35059,
+          "forks": 2363
+        },
+        {
+          "rank": 2,
+          "name": "GreyDGL/PentestGPT",
+          "url": "https://github.com/GreyDGL/PentestGPT",
+          "description": "A GPT-empowered penetration testing tool",
+          "language": "Python",
+          "stars": 9894,
+          "forks": 1444
+        },
+        {
+          "rank": 3,
+          "name": "swisskyrepo/PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+          "language": "Python",
+          "stars": 72956,
+          "forks": 16368
+        },
+        {
+          "rank": 4,
+          "name": "sgl-project/mini-sglang",
+          "url": "https://github.com/sgl-project/mini-sglang",
+          "description": "",
+          "language": "Python",
+          "stars": 1812,
+          "forks": 144
+        },
+        {
+          "rank": 5,
+          "name": "pollen-robotics/reachy_mini",
+          "url": "https://github.com/pollen-robotics/reachy_mini",
+          "description": "Reachy Mini's SDK",
+          "language": "Python",
+          "stars": 434,
+          "forks": 70
+        },
+        {
+          "rank": 6,
+          "name": "MODSetter/SurfSense",
+          "url": "https://github.com/MODSetter/SurfSense",
+          "description": "Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, ...",
+          "language": "Python",
+          "stars": 11632,
+          "forks": 969
+        },
+        {
+          "rank": 7,
+          "name": "lllyasviel/stable-diffusion-webui-forge",
+          "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+          "description": "",
+          "language": "Python",
+          "stars": 11965,
+          "forks": 1376
+        },
+        {
+          "rank": 8,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 57482,
+          "forks": 5814
+        },
+        {
+          "rank": 9,
+          "name": "JerBouma/FinanceDatabase",
+          "url": "https://github.com/JerBouma/FinanceDatabase",
+          "description": "This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cry...",
+          "language": "Python",
+          "stars": 6346,
+          "forks": 671
+        },
+        {
+          "rank": 10,
+          "name": "numpy/numpy",
+          "url": "https://github.com/numpy/numpy",
+          "description": "The fundamental package for scientific computing with Python.",
+          "language": "Python",
+          "stars": 31065,
+          "forks": 11871
+        }
+      ]
+    }
+  ]
+}

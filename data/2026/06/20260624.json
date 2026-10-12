@@ -1,0 +1,391 @@
+{
+  "date": "20260624",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 220970,
+          "forks": 33831
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194250,
+          "forks": 109903
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 181392,
+          "forks": 18558
+        },
+        {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 144408,
+          "forks": 12492
+        },
+        {
+          "rank": 5,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 114698,
+          "forks": 16952
+        },
+        {
+          "rank": 6,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 107632,
+          "forks": 7115
+        },
+        {
+          "rank": 7,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 76456,
+          "forks": 4327
+        },
+        {
+          "rank": 8,
+          "name": "safishamsi/graphify",
+          "url": "https://github.com/safishamsi/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 71465,
+          "forks": 7171
+        },
+        {
+          "rank": 9,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 71410,
+          "forks": 13292
+        },
+        {
+          "rank": 10,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 67107,
+          "forks": 10459
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194250,
+          "forks": 109903
+        },
+        {
+          "rank": 2,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195913,
+          "forks": 75189
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 390728,
+          "forks": 66443
+        },
+        {
+          "rank": 4,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 354644,
+          "forks": 56882
+        },
+        {
+          "rank": 5,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 48093,
+          "forks": 42856
+        },
+        {
+          "rank": 6,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1177,
+          "forks": 37635
+        },
+        {
+          "rank": 7,
+          "name": "bia-pain-bache/BPB-Worker-Panel",
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private...",
+          "language": "TypeScript",
+          "stars": 12138,
+          "forks": 31442
+        },
+        {
+          "rank": 8,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 163867,
+          "forks": 30363
+        },
+        {
+          "rank": 9,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13526,
+          "forks": 27278
+        },
+        {
+          "rank": 10,
+          "name": "scikit-learn/scikit-learn",
+          "url": "https://github.com/scikit-learn/scikit-learn",
+          "description": "scikit-learn: machine learning in Python",
+          "language": "Python",
+          "stars": 66429,
+          "forks": 27099
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 18070,
+          "forks": 2074
+        },
+        {
+          "rank": 2,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 48093,
+          "forks": 42857
+        },
+        {
+          "rank": 3,
+          "name": "apple/container",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ...",
+          "language": "Swift",
+          "stars": 41573,
+          "forks": 1214
+        },
+        {
+          "rank": 4,
+          "name": "interviewstreet/hiring-agent",
+          "url": "https://github.com/interviewstreet/hiring-agent",
+          "description": "AI agent to evaluate and score resumes.",
+          "language": "Python",
+          "stars": 1903,
+          "forks": 576
+        },
+        {
+          "rank": 5,
+          "name": "JCodesMore/ai-website-cloner-template",
+          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "description": "Clone any website with one command using AI coding agents",
+          "language": "TypeScript",
+          "stars": 19006,
+          "forks": 2845
+        },
+        {
+          "rank": 6,
+          "name": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates ...",
+          "language": "HTML",
+          "stars": 7609,
+          "forks": 1050
+        },
+        {
+          "rank": 7,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 177153,
+          "forks": 30541
+        },
+        {
+          "rank": 8,
+          "name": "andreknieriem/headunit-revived",
+          "url": "https://github.com/andreknieriem/headunit-revived",
+          "description": "Headunit App for displaying Android Auto",
+          "language": "Kotlin",
+          "stars": 1366,
+          "forks": 112
+        },
+        {
+          "rank": 9,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own s...",
+          "language": "TypeScript",
+          "stars": 6533,
+          "forks": 476
+        },
+        {
+          "rank": 10,
+          "name": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents ...",
+          "language": "TypeScript",
+          "stars": 16843,
+          "forks": 1552
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 18070,
+          "forks": 2074
+        },
+        {
+          "rank": 2,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 48093,
+          "forks": 42857
+        },
+        {
+          "rank": 3,
+          "name": "interviewstreet/hiring-agent",
+          "url": "https://github.com/interviewstreet/hiring-agent",
+          "description": "AI agent to evaluate and score resumes.",
+          "language": "Python",
+          "stars": 1903,
+          "forks": 576
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 201674,
+          "forks": 36015
+        },
+        {
+          "rank": 5,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 74337,
+          "forks": 10010
+        },
+        {
+          "rank": 6,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CS...",
+          "language": "Python",
+          "stars": 20341,
+          "forks": 2364
+        },
+        {
+          "rank": 7,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with co...",
+          "language": "Python",
+          "stars": 51391,
+          "forks": 9125
+        },
+        {
+          "rank": 8,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 42445,
+          "forks": 2828
+        },
+        {
+          "rank": 9,
+          "name": "wshobson/agents",
+          "url": "https://github.com/wshobson/agents",
+          "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Cop...",
+          "language": "Python",
+          "stars": 37128,
+          "forks": 4002
+        },
+        {
+          "rank": 10,
+          "name": "ariadng/metatrader-mcp-server",
+          "url": "https://github.com/ariadng/metatrader-mcp-server",
+          "description": "Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform",
+          "language": "Python",
+          "stars": 564,
+          "forks": 198
+        }
+      ]
+    }
+  ]
+}

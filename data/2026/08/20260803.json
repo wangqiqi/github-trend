@@ -1,0 +1,391 @@
+{
+  "date": "20260803",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 265516,
+          "forks": 23735
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 237236,
+          "forks": 36075
+        },
+        {
+          "rank": 3,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 199029,
+          "forks": 20479
+        },
+        {
+          "rank": 4,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 126055,
+          "forks": 18933
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 125138,
+          "forks": 11184
+        },
+        {
+          "rank": 6,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 106234,
+          "forks": 12140
+        },
+        {
+          "rank": 7,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 95440,
+          "forks": 5475
+        },
+        {
+          "rank": 8,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 94595,
+          "forks": 5208
+        },
+        {
+          "rank": 9,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 89405,
+          "forks": 7785
+        },
+        {
+          "rank": 10,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent bec...",
+          "language": "TypeScript",
+          "stars": 83344,
+          "forks": 9667
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194964,
+          "forks": 109342
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 55329,
+          "forks": 107182
+        },
+        {
+          "rank": 3,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 20601,
+          "forks": 68121
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88588,
+          "forks": 59343
+        },
+        {
+          "rank": 5,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 360321,
+          "forks": 57514
+        },
+        {
+          "rank": 6,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 98915,
+          "forks": 54676
+        },
+        {
+          "rank": 7,
+          "name": "react/react",
+          "url": "https://github.com/react/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 246931,
+          "forks": 51180
+        },
+        {
+          "rank": 8,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42483
+        },
+        {
+          "rank": 9,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1161,
+          "forks": 41934
+        },
+        {
+          "rank": 10,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 237236,
+          "forks": 36075
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "AirLLM 70B inference with single 4GB GPU",
+          "language": "Jupyter Notebook",
+          "stars": 26454,
+          "forks": 2938
+        },
+        {
+          "rank": 2,
+          "name": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-pow...",
+          "language": "PowerShell",
+          "stars": 15081,
+          "forks": 2222
+        },
+        {
+          "rank": 3,
+          "name": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects ...",
+          "language": "Rust",
+          "stars": 7014,
+          "forks": 497
+        },
+        {
+          "rank": 4,
+          "name": "esengine/DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — lea...",
+          "language": "Go",
+          "stars": 29658,
+          "forks": 1910
+        },
+        {
+          "rank": 5,
+          "name": "TencentCloud/TencentDB-Agent-Memory",
+          "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, an...",
+          "language": "TypeScript",
+          "stars": 11737,
+          "forks": 1117
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "description": "12 Weeks, 24 Lessons, AI for All!",
+          "language": "Jupyter Notebook",
+          "stars": 60386,
+          "forks": 11819
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 115306,
+          "forks": 61400
+        },
+        {
+          "rank": 8,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 360321,
+          "forks": 57514
+        },
+        {
+          "rank": 9,
+          "name": "antirez/ds4",
+          "url": "https://github.com/antirez/ds4",
+          "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+          "language": "C",
+          "stars": 20238,
+          "forks": 1789
+        },
+        {
+          "rank": 10,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 35740,
+          "forks": 5958
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 360321,
+          "forks": 57514
+        },
+        {
+          "rank": 2,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 35741,
+          "forks": 5958
+        },
+        {
+          "rank": 3,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 65407,
+          "forks": 5408
+        },
+        {
+          "rank": 4,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voic...",
+          "language": "Python",
+          "stars": 43881,
+          "forks": 7232
+        },
+        {
+          "rank": 5,
+          "name": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+          "language": "Python",
+          "stars": 11821,
+          "forks": 3452
+        },
+        {
+          "rank": 6,
+          "name": "SimplifyJobs/Summer2027-Internships",
+          "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+          "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware inter...",
+          "language": "Python",
+          "stars": 45756,
+          "forks": 3207
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/TRELLIS.2",
+          "url": "https://github.com/microsoft/TRELLIS.2",
+          "description": "Native and Compact Structured Latents for 3D Generation",
+          "language": "Python",
+          "stars": 10273,
+          "forks": 1232
+        },
+        {
+          "rank": 8,
+          "name": "vitali87/code-graph-rag",
+          "url": "https://github.com/vitali87/code-graph-rag",
+          "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the...",
+          "language": "Python",
+          "stars": 2493,
+          "forks": 409
+        },
+        {
+          "rank": 9,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 79106,
+          "forks": 10800
+        },
+        {
+          "rank": 10,
+          "name": "comet-ml/opik",
+          "url": "https://github.com/comet-ml/opik",
+          "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...",
+          "language": "Python",
+          "stars": 21085,
+          "forks": 1667
+        }
+      ]
+    }
+  ]
+}

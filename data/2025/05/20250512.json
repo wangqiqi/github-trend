@@ -1,0 +1,391 @@
+{
+  "date": "20250512",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 96657,
+          "forks": 15719
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (An...",
+          "language": "N/A",
+          "stars": 43077,
+          "forks": 12916
+        },
+        {
+          "rank": 3,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 41948,
+          "forks": 1745
+        },
+        {
+          "rank": 4,
+          "name": "inkonchain/node",
+          "url": "https://github.com/inkonchain/node",
+          "description": "How to run an Ink Node",
+          "language": "Shell",
+          "stars": 36633,
+          "forks": 572
+        },
+        {
+          "rank": 5,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artific...",
+          "language": "Python",
+          "stars": 28124,
+          "forks": 4212
+        },
+        {
+          "rank": 6,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 28053,
+          "forks": 1755
+        },
+        {
+          "rank": 7,
+          "name": "huggingface/open-r1",
+          "url": "https://github.com/huggingface/open-r1",
+          "description": "Fully open reproduction of DeepSeek-R1",
+          "language": "Python",
+          "stars": 24372,
+          "forks": 2241
+        },
+        {
+          "rank": 8,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 23265,
+          "forks": 1994
+        },
+        {
+          "rank": 9,
+          "name": "XiaoMi/ha_xiaomi_home",
+          "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+          "description": "Xiaomi Home Integration for Home Assistant",
+          "language": "Python",
+          "stars": 19655,
+          "forks": 991
+        },
+        {
+          "rank": 10,
+          "name": "huggingface/smolagents",
+          "url": "https://github.com/huggingface/smolagents",
+          "description": "🤗 smolagents: a barebones library for agents that think in python code.",
+          "language": "Python",
+          "stars": 18468,
+          "forks": 1601
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37062
+        },
+        {
+          "rank": 2,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 166,
+          "forks": 20540
+        },
+        {
+          "rank": 3,
+          "name": "linuxacademy/devops-essentials-sample-app",
+          "url": "https://github.com/linuxacademy/devops-essentials-sample-app",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 139,
+          "forks": 18353
+        },
+        {
+          "rank": 4,
+          "name": "coding-boot-camp/prework-about-me",
+          "url": "https://github.com/coding-boot-camp/prework-about-me",
+          "description": "No description",
+          "language": "CSS",
+          "stars": 63,
+          "forks": 15488
+        },
+        {
+          "rank": 5,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 126,
+          "forks": 13998
+        },
+        {
+          "rank": 6,
+          "name": "ServiceNow/devtraining-needit-utah",
+          "url": "https://github.com/ServiceNow/devtraining-needit-utah",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 85,
+          "forks": 13363
+        },
+        {
+          "rank": 7,
+          "name": "vagabond-systems/jpmc-task-3",
+          "url": "https://github.com/vagabond-systems/jpmc-task-3",
+          "description": "Starter repo for task 3 of JPMC's Forage program",
+          "language": "Python",
+          "stars": 6,
+          "forks": 10315
+        },
+        {
+          "rank": 8,
+          "name": "learn-co-curriculum/phase-0-html-issue-bot-9000-lab",
+          "url": "https://github.com/learn-co-curriculum/phase-0-html-issue-bot-9000-lab",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 4,
+          "forks": 10426
+        },
+        {
+          "rank": 9,
+          "name": "learn-co-curriculum/phase-0-html-document-structure-lab",
+          "url": "https://github.com/learn-co-curriculum/phase-0-html-document-structure-lab",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 5,
+          "forks": 10935
+        },
+        {
+          "rank": 10,
+          "name": "learn-co-curriculum/phase-0-html-link-tag-with-href",
+          "url": "https://github.com/learn-co-curriculum/phase-0-html-link-tag-with-href",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 4,
+          "forks": 10673
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 30679,
+          "forks": 4391
+        },
+        {
+          "rank": 2,
+          "name": "i-am-alice/3rd-devs",
+          "url": "https://github.com/i-am-alice/3rd-devs",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 265,
+          "forks": 237
+        },
+        {
+          "rank": 3,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 1806,
+          "forks": 126
+        },
+        {
+          "rank": 4,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 319487,
+          "forks": 41357
+        },
+        {
+          "rank": 5,
+          "name": "lobehub/lobe-chat",
+          "url": "https://github.com/lobehub/lobe-chat",
+          "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenA...",
+          "language": "TypeScript",
+          "stars": 60391,
+          "forks": 12708
+        },
+        {
+          "rank": 6,
+          "name": "Lightricks/ComfyUI-LTXVideo",
+          "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+          "description": "LTX-Video Support for ComfyUI",
+          "language": "Python",
+          "stars": 1580,
+          "forks": 128
+        },
+        {
+          "rank": 7,
+          "name": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "language": "TypeScript",
+          "stars": 93234,
+          "forks": 3478
+        },
+        {
+          "rank": 8,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your c...",
+          "language": "TypeScript",
+          "stars": 13449,
+          "forks": 1089
+        },
+        {
+          "rank": 9,
+          "name": "Mail-0/Zero",
+          "url": "https://github.com/Mail-0/Zero",
+          "description": "Experience email the way you want with 0 – the first open source email app that puts your privacy...",
+          "language": "TypeScript",
+          "stars": 7090,
+          "forks": 584
+        },
+        {
+          "rank": 10,
+          "name": "panaversity/learn-agentic-ai",
+          "url": "https://github.com/panaversity/learn-agentic-ai",
+          "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Tec...",
+          "language": "Jupyter Notebook",
+          "stars": 1894,
+          "forks": 472
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 30679,
+          "forks": 4391
+        },
+        {
+          "rank": 2,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 1806,
+          "forks": 126
+        },
+        {
+          "rank": 3,
+          "name": "Lightricks/ComfyUI-LTXVideo",
+          "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+          "description": "LTX-Video Support for ComfyUI",
+          "language": "Python",
+          "stars": 1580,
+          "forks": 128
+        },
+        {
+          "rank": 4,
+          "name": "Akkudoktor-EOS/EOS",
+          "url": "https://github.com/Akkudoktor-EOS/EOS",
+          "description": "This repository features an Energy Optimization System (EOS) that optimizes energy distribution, ...",
+          "language": "Python",
+          "stars": 1151,
+          "forks": 92
+        },
+        {
+          "rank": 5,
+          "name": "comet-ml/opik",
+          "url": "https://github.com/comet-ml/opik",
+          "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...",
+          "language": "Python",
+          "stars": 7542,
+          "forks": 521
+        },
+        {
+          "rank": 6,
+          "name": "pydantic/pydantic-ai",
+          "url": "https://github.com/pydantic/pydantic-ai",
+          "description": "Agent Framework / shim to use Pydantic with LLMs",
+          "language": "Python",
+          "stars": 9377,
+          "forks": 825
+        },
+        {
+          "rank": 7,
+          "name": "RVC-Boss/GPT-SoVITS",
+          "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+          "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+          "language": "Python",
+          "stars": 46197,
+          "forks": 5080
+        },
+        {
+          "rank": 8,
+          "name": "comfyanonymous/ComfyUI",
+          "url": "https://github.com/comfyanonymous/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 76593,
+          "forks": 8391
+        },
+        {
+          "rank": 9,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 5080,
+          "forks": 406
+        },
+        {
+          "rank": 10,
+          "name": "shane-mason/FieldStation42",
+          "url": "https://github.com/shane-mason/FieldStation42",
+          "description": "Broadcast TV simulator",
+          "language": "Python",
+          "stars": 568,
+          "forks": 25
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260124",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 86004,
+          "forks": 7764
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 60161,
+          "forks": 4481
+        },
+        {
+          "rank": 3,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 53504,
+          "forks": 9399
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 51539,
+          "forks": 4967
+        },
+        {
+          "rank": 5,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 44341,
+          "forks": 21805
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 34981,
+          "forks": 2656
+        },
+        {
+          "rank": 7,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 31622,
+          "forks": 4157
+        },
+        {
+          "rank": 8,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 31449,
+          "forks": 842
+        },
+        {
+          "rank": 9,
+          "name": "wshobson/agents",
+          "url": "https://github.com/wshobson/agents",
+          "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+          "language": "C#",
+          "stars": 26602,
+          "forks": 2932
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/playwright-mcp",
+          "url": "https://github.com/microsoft/playwright-mcp",
+          "description": "Playwright MCP server",
+          "language": "TypeScript",
+          "stars": 26128,
+          "forks": 2116
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 193467,
+          "forks": 75204
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2666,
+          "forks": 72873
+        },
+        {
+          "rank": 3,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18789,
+          "forks": 65716
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87133,
+          "forks": 60512
+        },
+        {
+          "rank": 5,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 215067,
+          "forks": 60118
+        },
+        {
+          "rank": 6,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8433,
+          "forks": 60103
+        },
+        {
+          "rank": 7,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97347,
+          "forks": 54420
+        },
+        {
+          "rank": 8,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 333174,
+          "forks": 54171
+        },
+        {
+          "rank": 9,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 242472,
+          "forks": 50453
+        },
+        {
+          "rank": 10,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 217125,
+          "forks": 49985
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "remotion-dev/remotion",
+          "url": "https://github.com/remotion-dev/remotion",
+          "description": "🎥 Make videos programmatically with React",
+          "language": "TypeScript",
+          "stars": 28989,
+          "forks": 1721
+        },
+        {
+          "rank": 2,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 7784,
+          "forks": 591
+        },
+        {
+          "rank": 3,
+          "name": "OpenBMB/UltraRAG",
+          "url": "https://github.com/OpenBMB/UltraRAG",
+          "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+          "language": "Python",
+          "stars": 3255,
+          "forks": 246
+        },
+        {
+          "rank": 4,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 76573,
+          "forks": 9116
+        },
+        {
+          "rank": 5,
+          "name": "block/goose",
+          "url": "https://github.com/block/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, a...",
+          "language": "Rust",
+          "stars": 27796,
+          "forks": 2507
+        },
+        {
+          "rank": 6,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 3393,
+          "forks": 285
+        },
+        {
+          "rank": 7,
+          "name": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "description": "Open-source platform to build and deploy AI agent workflows.",
+          "language": "TypeScript",
+          "stars": 26074,
+          "forks": 3258
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 21459,
+          "forks": 2352
+        },
+        {
+          "rank": 9,
+          "name": "putyy/res-downloader",
+          "url": "https://github.com/putyy/res-downloader",
+          "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+          "language": "Go",
+          "stars": 14244,
+          "forks": 1777
+        },
+        {
+          "rank": 10,
+          "name": "AI4Finance-Foundation/FinRobot",
+          "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+          "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
+          "language": "Jupyter Notebook",
+          "stars": 5042,
+          "forks": 926
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 7784,
+          "forks": 591
+        },
+        {
+          "rank": 2,
+          "name": "OpenBMB/UltraRAG",
+          "url": "https://github.com/OpenBMB/UltraRAG",
+          "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+          "language": "Python",
+          "stars": 3255,
+          "forks": 246
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 76573,
+          "forks": 9116
+        },
+        {
+          "rank": 4,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 3393,
+          "forks": 285
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 21459,
+          "forks": 2352
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 51539,
+          "forks": 4967
+        },
+        {
+          "rank": 7,
+          "name": "Polymarket/agents",
+          "url": "https://github.com/Polymarket/agents",
+          "description": "Trade autonomously on Polymarket using AI Agents",
+          "language": "Python",
+          "stars": 1842,
+          "forks": 482
+        },
+        {
+          "rank": 8,
+          "name": "business-science/ai-data-science-team",
+          "url": "https://github.com/business-science/ai-data-science-team",
+          "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
+          "language": "Python",
+          "stars": 3680,
+          "forks": 720
+        },
+        {
+          "rank": 9,
+          "name": "roboflow/rf-detr",
+          "url": "https://github.com/roboflow/rf-detr",
+          "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow...",
+          "language": "Python",
+          "stars": 5293,
+          "forks": 603
+        },
+        {
+          "rank": 10,
+          "name": "AI4Finance-Foundation/FinRL-Trading",
+          "url": "https://github.com/AI4Finance-Foundation/FinRL-Trading",
+          "description": "For trading. Please star.",
+          "language": "Python",
+          "stars": 2652,
+          "forks": 850
+        }
+      ]
+    }
+  ]
+}

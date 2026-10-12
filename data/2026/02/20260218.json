@@ -1,0 +1,391 @@
+{
+  "date": "20260218",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 71267,
+          "forks": 7272
+        },
+        {
+          "rank": 2,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 32958,
+          "forks": 2196
+        },
+        {
+          "rank": 3,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 32421,
+          "forks": 3225
+        },
+        {
+          "rank": 4,
+          "name": "code-yeongyu/oh-my-opencode",
+          "url": "https://github.com/code-yeongyu/oh-my-opencode",
+          "description": "the best agent harness",
+          "language": "TypeScript",
+          "stars": 32088,
+          "forks": 2407
+        },
+        {
+          "rank": 5,
+          "name": "wshobson/agents",
+          "url": "https://github.com/wshobson/agents",
+          "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+          "language": "Python",
+          "stars": 28816,
+          "forks": 3153
+        },
+        {
+          "rank": 6,
+          "name": "musistudio/claude-code-router",
+          "url": "https://github.com/musistudio/claude-code-router",
+          "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to intera...",
+          "language": "TypeScript",
+          "stars": 27992,
+          "forks": 2157
+        },
+        {
+          "rank": 7,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 25839,
+          "forks": 1519
+        },
+        {
+          "rank": 8,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15...",
+          "language": "TypeScript",
+          "stars": 23345,
+          "forks": 2323
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 23320,
+          "forks": 2560
+        },
+        {
+          "rank": 10,
+          "name": "oraios/serena",
+          "url": "https://github.com/oraios/serena",
+          "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server...",
+          "language": "Python",
+          "stars": 20345,
+          "forks": 1368
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2570,
+          "forks": 88785
+        },
+        {
+          "rank": 2,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18937,
+          "forks": 66029
+        },
+        {
+          "rank": 3,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 382660,
+          "forks": 65919
+        },
+        {
+          "rank": 4,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 217737,
+          "forks": 60475
+        },
+        {
+          "rank": 5,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37341,
+          "forks": 53842
+        },
+        {
+          "rank": 6,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 243066,
+          "forks": 50595
+        },
+        {
+          "rank": 7,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 217773,
+          "forks": 50064
+        },
+        {
+          "rank": 8,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153806,
+          "forks": 46115
+        },
+        {
+          "rank": 9,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1147,
+          "forks": 42253
+        },
+        {
+          "rank": 10,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 79943,
+          "forks": 41866
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "description": "A lightweight, lightning-fast, in-process vector database",
+          "language": "C++",
+          "stars": 4706,
+          "forks": 258
+        },
+        {
+          "rank": 2,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 7646,
+          "forks": 779
+        },
+        {
+          "rank": 3,
+          "name": "OpenCTI-Platform/opencti",
+          "url": "https://github.com/OpenCTI-Platform/opencti",
+          "description": "Open Cyber Threat Intelligence Platform",
+          "language": "TypeScript",
+          "stars": 8541,
+          "forks": 1233
+        },
+        {
+          "rank": 4,
+          "name": "QwenLM/qwen-code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI agent that lives in your terminal.",
+          "language": "TypeScript",
+          "stars": 18638,
+          "forks": 1631
+        },
+        {
+          "rank": 5,
+          "name": "NirDiamant/RAG_Techniques",
+          "url": "https://github.com/NirDiamant/RAG_Techniques",
+          "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) sy...",
+          "language": "Jupyter Notebook",
+          "stars": 25024,
+          "forks": 2950
+        },
+        {
+          "rank": 6,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Introduction to Machine Learning Systems",
+          "language": "JavaScript",
+          "stars": 19296,
+          "forks": 2271
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 54003,
+          "forks": 4098
+        },
+        {
+          "rank": 8,
+          "name": "HailToDodongo/pyrite64",
+          "url": "https://github.com/HailToDodongo/pyrite64",
+          "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+          "language": "C++",
+          "stars": 930,
+          "forks": 34
+        },
+        {
+          "rank": 9,
+          "name": "ComposioHQ/composio",
+          "url": "https://github.com/ComposioHQ/composio",
+          "description": "Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling",
+          "language": "TypeScript",
+          "stars": 26633,
+          "forks": 4416
+        },
+        {
+          "rank": 10,
+          "name": "p2r3/convert",
+          "url": "https://github.com/p2r3/convert",
+          "description": "Truly universal online file converter",
+          "language": "TypeScript",
+          "stars": 1149,
+          "forks": 116
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 7646,
+          "forks": 779
+        },
+        {
+          "rank": 2,
+          "name": "hummingbot/hummingbot",
+          "url": "https://github.com/hummingbot/hummingbot",
+          "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+          "language": "Python",
+          "stars": 17219,
+          "forks": 4429
+        },
+        {
+          "rank": 3,
+          "name": "AstrBotDevs/AstrBot",
+          "url": "https://github.com/AstrBotDevs/AstrBot",
+          "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feat...",
+          "language": "Python",
+          "stars": 16580,
+          "forks": 1305
+        },
+        {
+          "rank": 4,
+          "name": "mistralai/mistral-vibe",
+          "url": "https://github.com/mistralai/mistral-vibe",
+          "description": "Minimal CLI coding agent by Mistral",
+          "language": "Python",
+          "stars": 3129,
+          "forks": 317
+        },
+        {
+          "rank": 5,
+          "name": "NVIDIA-NeMo/Automodel",
+          "url": "https://github.com/NVIDIA-NeMo/Automodel",
+          "description": "Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support",
+          "language": "Python",
+          "stars": 318,
+          "forks": 69
+        },
+        {
+          "rank": 6,
+          "name": "SemiAnalysisAI/InferenceX",
+          "url": "https://github.com/SemiAnalysisAI/InferenceX",
+          "description": "Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X v...",
+          "language": "Python",
+          "stars": 493,
+          "forks": 86
+        },
+        {
+          "rank": 7,
+          "name": "databricks-solutions/ai-dev-kit",
+          "url": "https://github.com/databricks-solutions/ai-dev-kit",
+          "description": "Databricks Toolkit for Coding Agents provided by Field Engineering",
+          "language": "Python",
+          "stars": 365,
+          "forks": 82
+        },
+        {
+          "rank": 8,
+          "name": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estima...",
+          "language": "Python",
+          "stars": 6974,
+          "forks": 604
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/agent-framework",
+          "url": "https://github.com/microsoft/agent-framework",
+          "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with su...",
+          "language": "Python",
+          "stars": 7224,
+          "forks": 1176
+        },
+        {
+          "rank": 10,
+          "name": "Cinnamon/kotaemon",
+          "url": "https://github.com/Cinnamon/kotaemon",
+          "description": "An open-source RAG-based tool for chatting with your documents.",
+          "language": "Python",
+          "stars": 25118,
+          "forks": 2093
+        }
+      ]
+    }
+  ]
+}

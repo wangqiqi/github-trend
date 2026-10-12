@@ -1,0 +1,391 @@
+{
+  "date": "20260510",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 190910,
+          "forks": 109801
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 131413,
+          "forks": 15467
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 95629,
+          "forks": 15817
+        },
+        {
+          "rank": 4,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 76269,
+          "forks": 7864
+        },
+        {
+          "rank": 5,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 68602,
+          "forks": 5916
+        },
+        {
+          "rank": 6,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "Open-source orchestration for zero-human companies",
+          "language": "TypeScript",
+          "stars": 63907,
+          "forks": 11500
+        },
+        {
+          "rank": 7,
+          "name": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+          "language": "TypeScript",
+          "stars": 59473,
+          "forks": 9760
+        },
+        {
+          "rank": 8,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Python",
+          "stars": 57272,
+          "forks": 3143
+        },
+        {
+          "rank": 9,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo; the best agent harness - previously oh-my-opencode",
+          "language": "TypeScript",
+          "stars": 56930,
+          "forks": 4633
+        },
+        {
+          "rank": 10,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars": 51829,
+          "forks": 6832
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 87409,
+          "forks": 56557
+        },
+        {
+          "rank": 2,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 86985,
+          "forks": 37432
+        },
+        {
+          "rank": 3,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184449,
+          "forks": 33569
+        },
+        {
+          "rank": 4,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 536,
+          "forks": 33381
+        },
+        {
+          "rank": 5,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 98301,
+          "forks": 32643
+        },
+        {
+          "rank": 6,
+          "name": "bia-pain-bache/BPB-Worker-Panel",
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private...",
+          "language": "TypeScript",
+          "stars": 10333,
+          "forks": 31404
+        },
+        {
+          "rank": 7,
+          "name": "samqin123/MoonTV",
+          "url": "https://github.com/samqin123/MoonTV",
+          "description": "No description",
+          "language": "TypeScript",
+          "stars": 1939,
+          "forks": 30806
+        },
+        {
+          "rank": 8,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 13504,
+          "forks": 27236
+        },
+        {
+          "rank": 9,
+          "name": "scikit-learn/scikit-learn",
+          "url": "https://github.com/scikit-learn/scikit-learn",
+          "description": "scikit-learn: machine learning in Python",
+          "language": "Python",
+          "stars": 66022,
+          "forks": 26996
+        },
+        {
+          "rank": 10,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 76673,
+          "forks": 25877
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars": 31773,
+          "forks": 3159
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 18121,
+          "forks": 2331
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars": 37929,
+          "forks": 4221
+        },
+        {
+          "rank": 4,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source...",
+          "language": "Python",
+          "stars": 4210,
+          "forks": 339
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/AI-Trader",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "language": "Python",
+          "stars": 15206,
+          "forks": 2503
+        },
+        {
+          "rank": 6,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the ...",
+          "language": "Python",
+          "stars": 13098,
+          "forks": 1123
+        },
+        {
+          "rank": 7,
+          "name": "datawhalechina/easy-vibe",
+          "url": "https://github.com/datawhalechina/easy-vibe",
+          "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+          "language": "JavaScript",
+          "stars": 8849,
+          "forks": 878
+        },
+        {
+          "rank": 8,
+          "name": "playcanvas/supersplat",
+          "url": "https://github.com/playcanvas/supersplat",
+          "description": "3D Gaussian Splat Editor",
+          "language": "TypeScript",
+          "stars": 6564,
+          "forks": 753
+        },
+        {
+          "rank": 9,
+          "name": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-...",
+          "language": "Go",
+          "stars": 2810,
+          "forks": 304
+        },
+        {
+          "rank": 10,
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x ...",
+          "language": "Python",
+          "stars": 10387,
+          "forks": 1180
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 18121,
+          "forks": 2331
+        },
+        {
+          "rank": 2,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source...",
+          "language": "Python",
+          "stars": 4210,
+          "forks": 339
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/AI-Trader",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "language": "Python",
+          "stars": 15206,
+          "forks": 2503
+        },
+        {
+          "rank": 4,
+          "name": "jundot/omlx",
+          "url": "https://github.com/jundot/omlx",
+          "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the ...",
+          "language": "Python",
+          "stars": 13098,
+          "forks": 1123
+        },
+        {
+          "rank": 5,
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x ...",
+          "language": "Python",
+          "stars": 10387,
+          "forks": 1180
+        },
+        {
+          "rank": 6,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 46138,
+          "forks": 5565
+        },
+        {
+          "rank": 7,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 141786,
+          "forks": 22058
+        },
+        {
+          "rank": 8,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system...",
+          "language": "Python",
+          "stars": 34948,
+          "forks": 34594
+        },
+        {
+          "rank": 9,
+          "name": "vllm-project/vllm-ascend",
+          "url": "https://github.com/vllm-project/vllm-ascend",
+          "description": "Community maintained hardware plugin for vLLM on Ascend",
+          "language": "Python",
+          "stars": 2054,
+          "forks": 1182
+        },
+        {
+          "rank": 10,
+          "name": "MemoriLabs/Memori",
+          "url": "https://github.com/MemoriLabs/Memori",
+          "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and...",
+          "language": "Python",
+          "stars": 14244,
+          "forks": 1962
+        }
+      ]
+    }
+  ]
+}

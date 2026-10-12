@@ -1,0 +1,391 @@
+{
+  "date": "20260704",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 381673,
+          "forks": 80018
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 245902,
+          "forks": 21807
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 208993,
+          "forks": 38093
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194547,
+          "forks": 109837
+        },
+        {
+          "rank": 5,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 187414,
+          "forks": 19225
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 158101,
+          "forks": 18642
+        },
+        {
+          "rank": 7,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 156125,
+          "forks": 13439
+        },
+        {
+          "rank": 8,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 126838,
+          "forks": 20582
+        },
+        {
+          "rank": 9,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 119330,
+          "forks": 17786
+        },
+        {
+          "rank": 10,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 117892,
+          "forks": 10423
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 54827,
+          "forks": 105461
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2668,
+          "forks": 92012
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174422,
+          "forks": 78762
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 196027,
+          "forks": 75276
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 391248,
+          "forks": 66474
+        },
+        {
+          "rank": 6,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8595,
+          "forks": 60024
+        },
+        {
+          "rank": 7,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 522316,
+          "forks": 49411
+        },
+        {
+          "rank": 8,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1644,
+          "forks": 47342
+        },
+        {
+          "rank": 9,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 54074,
+          "forks": 46883
+        },
+        {
+          "rank": 10,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 185335,
+          "forks": 46118
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openai/codex-plugin-cc",
+          "url": "https://github.com/openai/codex-plugin-cc",
+          "description": "Use Codex from Claude Code to review code or delegate tasks.",
+          "language": "JavaScript",
+          "stars": 23670,
+          "forks": 1445
+        },
+        {
+          "rank": 2,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 83477,
+          "forks": 4655
+        },
+        {
+          "rank": 3,
+          "name": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+          "language": "TypeScript",
+          "stars": 22740,
+          "forks": 1972
+        },
+        {
+          "rank": 4,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 35510,
+          "forks": 3624
+        },
+        {
+          "rank": 5,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 45633,
+          "forks": 2970
+        },
+        {
+          "rank": 6,
+          "name": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker d...",
+          "language": "Rust",
+          "stars": 14523,
+          "forks": 1604
+        },
+        {
+          "rank": 7,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. O...",
+          "language": "JavaScript",
+          "stars": 48453,
+          "forks": 7899
+        },
+        {
+          "rank": 8,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Machine Learning Systems",
+          "language": "Python",
+          "stars": 26399,
+          "forks": 3154
+        },
+        {
+          "rank": 9,
+          "name": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "description": "A beautiful, powerful, self-hosted rom manager and player.",
+          "language": "Python",
+          "stars": 9977,
+          "forks": 483
+        },
+        {
+          "rank": 10,
+          "name": "ogulcancelik/herdr",
+          "url": "https://github.com/ogulcancelik/herdr",
+          "description": "agent multiplexer that lives in your terminal.",
+          "language": "Rust",
+          "stars": 11112,
+          "forks": 651
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "usestrix/strix",
+          "url": "https://github.com/usestrix/strix",
+          "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+          "language": "Python",
+          "stars": 35510,
+          "forks": 3624
+        },
+        {
+          "rank": 2,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Machine Learning Systems",
+          "language": "Python",
+          "stars": 26399,
+          "forks": 3154
+        },
+        {
+          "rank": 3,
+          "name": "rommapp/romm",
+          "url": "https://github.com/rommapp/romm",
+          "description": "A beautiful, powerful, self-hosted rom manager and player.",
+          "language": "Python",
+          "stars": 9977,
+          "forks": 483
+        },
+        {
+          "rank": 4,
+          "name": "agentskills/agentskills",
+          "url": "https://github.com/agentskills/agentskills",
+          "description": "Specification and documentation for Agent Skills",
+          "language": "Python",
+          "stars": 22175,
+          "forks": 1402
+        },
+        {
+          "rank": 5,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, cu...",
+          "language": "Python",
+          "stars": 19948,
+          "forks": 2737
+        },
+        {
+          "rank": 6,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, ...",
+          "language": "Python",
+          "stars": 47975,
+          "forks": 4206
+        },
+        {
+          "rank": 7,
+          "name": "jiji262/douyin-downloader",
+          "url": "https://github.com/jiji262/douyin-downloader",
+          "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress dis...",
+          "language": "Python",
+          "stars": 8465,
+          "forks": 1341
+        },
+        {
+          "rank": 8,
+          "name": "google/adk-python",
+          "url": "https://github.com/google/adk-python",
+          "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated A...",
+          "language": "Python",
+          "stars": 20444,
+          "forks": 3641
+        },
+        {
+          "rank": 9,
+          "name": "ai-boost/awesome-harness-engineering",
+          "url": "https://github.com/ai-boost/awesome-harness-engineering",
+          "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, ...",
+          "language": "Python",
+          "stars": 2669,
+          "forks": 273
+        },
+        {
+          "rank": 10,
+          "name": "huggingface/speech-to-speech",
+          "url": "https://github.com/huggingface/speech-to-speech",
+          "description": "Build local voice agents with open-source models",
+          "language": "Python",
+          "stars": 5274,
+          "forks": 646
+        }
+      ]
+    }
+  ]
+}

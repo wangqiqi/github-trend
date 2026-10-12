@@ -1,0 +1,391 @@
+{
+  "date": "20250702",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97956,
+          "forks": 15938
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90344,
+          "forks": 11655
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 64503,
+          "forks": 7365
+        },
+        {
+          "rank": 4,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 63960,
+          "forks": 18695
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 59748,
+          "forks": 3118
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 59139,
+          "forks": 4572
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 57235,
+          "forks": 6608
+        },
+        {
+          "rank": 8,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 49409,
+          "forks": 4137
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 47500,
+          "forks": 8284
+        },
+        {
+          "rank": 10,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 46836,
+          "forks": 5993
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6613,
+          "forks": 243631
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13082,
+          "forks": 151979
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 857,
+          "forks": 143990
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49146,
+          "forks": 87765
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28581,
+          "forks": 86893
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 167642,
+          "forks": 83036
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1870,
+          "forks": 81108
+        },
+        {
+          "rank": 8,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 321747,
+          "forks": 79426
+        },
+        {
+          "rank": 9,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172470,
+          "forks": 79124
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190544,
+          "forks": 74735
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-f...",
+          "language": "Jupyter Notebook",
+          "stars": 89190,
+          "forks": 46093
+        },
+        {
+          "rank": 2,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 24732,
+          "forks": 6683
+        },
+        {
+          "rank": 3,
+          "name": "zaidmukaddam/scira",
+          "url": "https://github.com/zaidmukaddam/scira",
+          "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find inform...",
+          "language": "TypeScript",
+          "stars": 8790,
+          "forks": 1087
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+          "url": "https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+          "description": "A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Pe...",
+          "language": "Python",
+          "stars": 6088,
+          "forks": 1220
+        },
+        {
+          "rank": 5,
+          "name": "binwiederhier/ntfy",
+          "url": "https://github.com/binwiederhier/ntfy",
+          "description": "Send push notifications to your phone or desktop using PUT/POST",
+          "language": "Go",
+          "stars": 24167,
+          "forks": 951
+        },
+        {
+          "rank": 6,
+          "name": "GraphiteEditor/Graphite",
+          "url": "https://github.com/GraphiteEditor/Graphite",
+          "description": "An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic...",
+          "language": "Rust",
+          "stars": 17547,
+          "forks": 762
+        },
+        {
+          "rank": 7,
+          "name": "The-Cool-Coders/Project-Ideas-And-Resources",
+          "url": "https://github.com/The-Cool-Coders/Project-Ideas-And-Resources",
+          "description": "A Collection of application ideas that can be used to improve your coding skills ❤.",
+          "language": "N/A",
+          "stars": 7478,
+          "forks": 638
+        },
+        {
+          "rank": 8,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars": 42842,
+          "forks": 9538
+        },
+        {
+          "rank": 9,
+          "name": "NginxProxyManager/nginx-proxy-manager",
+          "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+          "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
+          "language": "JavaScript",
+          "stars": 26909,
+          "forks": 3124
+        },
+        {
+          "rank": 10,
+          "name": "snailyp/gemini-balance",
+          "url": "https://github.com/snailyp/gemini-balance",
+          "description": "Gemini polling proxy service （gemini轮询代理服务）",
+          "language": "Python",
+          "stars": 2220,
+          "forks": 369
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 24732,
+          "forks": 6683
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+          "url": "https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+          "description": "A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Pe...",
+          "language": "Python",
+          "stars": 6088,
+          "forks": 1220
+        },
+        {
+          "rank": 3,
+          "name": "snailyp/gemini-balance",
+          "url": "https://github.com/snailyp/gemini-balance",
+          "description": "Gemini polling proxy service （gemini轮询代理服务）",
+          "language": "Python",
+          "stars": 2220,
+          "forks": 369
+        },
+        {
+          "rank": 4,
+          "name": "PaddlePaddle/ERNIE",
+          "url": "https://github.com/PaddlePaddle/ERNIE",
+          "description": "The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit bas...",
+          "language": "Python",
+          "stars": 7003,
+          "forks": 1345
+        },
+        {
+          "rank": 5,
+          "name": "tadata-org/fastapi_mcp",
+          "url": "https://github.com/tadata-org/fastapi_mcp",
+          "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+          "language": "Python",
+          "stars": 5918,
+          "forks": 500
+        },
+        {
+          "rank": 6,
+          "name": "iam-veeramalla/Jenkins-Zero-To-Hero",
+          "url": "https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero",
+          "description": "Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD...",
+          "language": "Python",
+          "stars": 8223,
+          "forks": 15941
+        },
+        {
+          "rank": 7,
+          "name": "Genesis-Embodied-AI/Genesis",
+          "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+          "description": "A generative world for general-purpose robotics & embodied AI learning.",
+          "language": "Python",
+          "stars": 25434,
+          "forks": 2296
+        },
+        {
+          "rank": 8,
+          "name": "Huanshere/VideoLingo",
+          "url": "https://github.com/Huanshere/VideoLingo",
+          "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automa...",
+          "language": "Python",
+          "stars": 13645,
+          "forks": 1374
+        },
+        {
+          "rank": 9,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 43896,
+          "forks": 28473
+        },
+        {
+          "rank": 10,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 8880,
+          "forks": 768
+        }
+      ]
+    }
+  ]
+}

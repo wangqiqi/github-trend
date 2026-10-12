@@ -1,0 +1,391 @@
+{
+  "date": "20260228",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 239287,
+          "forks": 46154
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 126196,
+          "forks": 32339
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 112880,
+          "forks": 11308
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 95983,
+          "forks": 11738
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 79206,
+          "forks": 8265
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 72762,
+          "forks": 6247
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 65510,
+          "forks": 4989
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 62372,
+          "forks": 8294
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54826,
+          "forks": 9589
+        },
+        {
+          "rank": 10,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Bat...",
+          "language": "JavaScript",
+          "stars": 54468,
+          "forks": 6738
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29425,
+          "forks": 87513
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 172722,
+          "forks": 82803
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 337494,
+          "forks": 81651
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174004,
+          "forks": 79080
+        },
+        {
+          "rank": 5,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2689,
+          "forks": 72974
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 107220,
+          "forks": 57468
+        },
+        {
+          "rank": 7,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 86342,
+          "forks": 56525
+        },
+        {
+          "rank": 8,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 179093,
+          "forks": 55465
+        },
+        {
+          "rank": 9,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37353,
+          "forks": 53819
+        },
+        {
+          "rank": 10,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153918,
+          "forks": 46118
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "TypeScript",
+          "stars": 18946,
+          "forks": 1817
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 71577,
+          "forks": 5659
+        },
+        {
+          "rank": 3,
+          "name": "tukaani-project/xz",
+          "url": "https://github.com/tukaani-project/xz",
+          "description": "XZ Utils",
+          "language": "C",
+          "stars": 1188,
+          "forks": 209
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 98004,
+          "forks": 14264
+        },
+        {
+          "rank": 5,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coo...",
+          "language": "TypeScript",
+          "stars": 16157,
+          "forks": 1847
+        },
+        {
+          "rank": 6,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes...",
+          "language": "Python",
+          "stars": 22425,
+          "forks": 2706
+        },
+        {
+          "rank": 7,
+          "name": "Wei-Shaw/claude-relay-service",
+          "url": "https://github.com/Wei-Shaw/claude-relay-service",
+          "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+          "language": "JavaScript",
+          "stars": 8642,
+          "forks": 1380
+        },
+        {
+          "rank": 8,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "",
+          "language": "Python",
+          "stars": 993,
+          "forks": 156
+        },
+        {
+          "rank": 9,
+          "name": "superset-sh/superset",
+          "url": "https://github.com/superset-sh/superset",
+          "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+          "language": "TypeScript",
+          "stars": 2242,
+          "forks": 176
+        },
+        {
+          "rank": 10,
+          "name": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+          "language": "C",
+          "stars": 6091,
+          "forks": 283
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 98004,
+          "forks": 14264
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "",
+          "language": "Python",
+          "stars": 993,
+          "forks": 156
+        },
+        {
+          "rank": 3,
+          "name": "datagouv/datagouv-mcp",
+          "url": "https://github.com/datagouv/datagouv-mcp",
+          "description": "Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, expl...",
+          "language": "Python",
+          "stars": 577,
+          "forks": 46
+        },
+        {
+          "rank": 4,
+          "name": "X-PLUG/MobileAgent",
+          "url": "https://github.com/X-PLUG/MobileAgent",
+          "description": "Mobile-Agent: The Powerful GUI Agent Family",
+          "language": "Python",
+          "stars": 7424,
+          "forks": 762
+        },
+        {
+          "rank": 5,
+          "name": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SD...",
+          "language": "Python",
+          "stars": 1685,
+          "forks": 124
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 79206,
+          "forks": 8265
+        },
+        {
+          "rank": 7,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 19185,
+          "forks": 1420
+        },
+        {
+          "rank": 8,
+          "name": "ginobefun/agentic-design-patterns-cn",
+          "url": "https://github.com/ginobefun/agentic-design-patterns-cn",
+          "description": "《Agentic Design Patterns》中文翻译版",
+          "language": "Python",
+          "stars": 7627,
+          "forks": 999
+        },
+        {
+          "rank": 9,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 23504,
+          "forks": 2661
+        },
+        {
+          "rank": 10,
+          "name": "derv82/wifite2",
+          "url": "https://github.com/derv82/wifite2",
+          "description": "Rewrite of the popular wireless network auditor, \"wifite\"",
+          "language": "Python",
+          "stars": 7628,
+          "forks": 1594
+        }
+      ]
+    }
+  ]
+}

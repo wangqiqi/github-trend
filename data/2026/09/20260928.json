@@ -1,0 +1,373 @@
+{
+  "date": "20260928",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a...",
+          "language": "Python",
+          "stars": 56829,
+          "forks": 4500
+        },
+        {
+          "rank": 2,
+          "name": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engi...",
+          "language": "JavaScript",
+          "stars": 51794,
+          "forks": 7812
+        },
+        {
+          "rank": 3,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 40713,
+          "forks": 5511
+        },
+        {
+          "rank": 4,
+          "name": "RightNow-AI/openfang",
+          "url": "https://github.com/RightNow-AI/openfang",
+          "description": "Open-source Agent Operating System",
+          "language": "Rust",
+          "stars": 18208,
+          "forks": 2290
+        },
+        {
+          "rank": 5,
+          "name": "hypit-ai/hypit",
+          "url": "https://github.com/hypit-ai/hypit",
+          "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the w...",
+          "language": "TypeScript",
+          "stars": 17190,
+          "forks": 2052
+        },
+        {
+          "rank": 6,
+          "name": "cft0808/edict",
+          "url": "https://github.com/cft0808/edict",
+          "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time das...",
+          "language": "Python",
+          "stars": 16934,
+          "forks": 1765
+        },
+        {
+          "rank": 7,
+          "name": "Snapchat/Valdi",
+          "url": "https://github.com/Snapchat/Valdi",
+          "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing devel...",
+          "language": "C++",
+          "stars": 16375,
+          "forks": 537
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/OpenHarness",
+          "url": "https://github.com/HKUDS/OpenHarness",
+          "description": "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\"",
+          "language": "Python",
+          "stars": 15881,
+          "forks": 2583
+        },
+        {
+          "rank": 9,
+          "name": "liketrek/TREK",
+          "url": "https://github.com/liketrek/TREK",
+          "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SS...",
+          "language": "TypeScript",
+          "stars": 14431,
+          "forks": 1248
+        },
+        {
+          "rank": 10,
+          "name": "facebook/astryx",
+          "url": "https://github.com/facebook/astryx",
+          "description": "An open source design system that's fully customizable and agent ready",
+          "language": "TypeScript",
+          "stars": 13480,
+          "forks": 1162
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195285,
+          "forks": 108340
+        },
+        {
+          "rank": 2,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 372358,
+          "forks": 58668
+        },
+        {
+          "rank": 3,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 302,
+          "forks": 42366
+        },
+        {
+          "rank": 4,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 165145,
+          "forks": 31946
+        },
+        {
+          "rank": 5,
+          "name": "lewagon/dotfiles",
+          "url": "https://github.com/lewagon/dotfiles",
+          "description": "Default configuration for Le Wagon's students",
+          "language": "Shell",
+          "stars": 21823,
+          "forks": 28882
+        },
+        {
+          "rank": 6,
+          "name": "expressjs/express",
+          "url": "https://github.com/expressjs/express",
+          "description": "Fast, unopinionated, minimalist web framework for node.",
+          "language": "JavaScript",
+          "stars": 69499,
+          "forks": 25094
+        },
+        {
+          "rank": 7,
+          "name": "MicrosoftDocs/azure-docs",
+          "url": "https://github.com/MicrosoftDocs/azure-docs",
+          "description": "Open source documentation of Microsoft Azure",
+          "language": "Markdown",
+          "stars": 10976,
+          "forks": 21763
+        },
+        {
+          "rank": 8,
+          "name": "MarlinFirmware/Marlin",
+          "url": "https://github.com/MarlinFirmware/Marlin",
+          "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Ma...",
+          "language": "C++",
+          "stars": 17603,
+          "forks": 19723
+        },
+        {
+          "rank": 9,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 168,
+          "forks": 19602
+        },
+        {
+          "rank": 10,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars": 82370,
+          "forks": 18687
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 43287,
+          "forks": 5046
+        },
+        {
+          "rank": 2,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 92373,
+          "forks": 15858
+        },
+        {
+          "rank": 3,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 40713,
+          "forks": 5511
+        },
+        {
+          "rank": 4,
+          "name": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+          "language": "PLSQL",
+          "stars": 25688,
+          "forks": 5882
+        },
+        {
+          "rank": 5,
+          "name": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+          "language": "TeX",
+          "stars": 2412,
+          "forks": 230
+        },
+        {
+          "rank": 6,
+          "name": "byoungd/up",
+          "url": "https://github.com/byoungd/up",
+          "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI...",
+          "language": "JavaScript",
+          "stars": 64578,
+          "forks": 6508
+        },
+        {
+          "rank": 7,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+          "language": "TypeScript",
+          "stars": 1571,
+          "forks": 129
+        },
+        {
+          "rank": 8,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF...",
+          "language": "TypeScript",
+          "stars": 21121,
+          "forks": 1795
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 43287,
+          "forks": 5046
+        },
+        {
+          "rank": 2,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 40713,
+          "forks": 5511
+        },
+        {
+          "rank": 3,
+          "name": "0x4m4/hexstrike-ai",
+          "url": "https://github.com/0x4m4/hexstrike-ai",
+          "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc....",
+          "language": "Python",
+          "stars": 12214,
+          "forks": 2486
+        },
+        {
+          "rank": 4,
+          "name": "ashhart/TensorFold",
+          "url": "https://github.com/ashhart/TensorFold",
+          "description": "Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint",
+          "language": "Python",
+          "stars": 546,
+          "forks": 55
+        },
+        {
+          "rank": 5,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 60225,
+          "forks": 10370
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/SkillOpt",
+          "url": "https://github.com/microsoft/SkillOpt",
+          "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM ag...",
+          "language": "Python",
+          "stars": 17790,
+          "forks": 1665
+        },
+        {
+          "rank": 7,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, cu...",
+          "language": "Python",
+          "stars": 26757,
+          "forks": 3773
+        },
+        {
+          "rank": 8,
+          "name": "samugit83/redamon",
+          "url": "https://github.com/samugit83/redamon",
+          "description": "An AI-powered agentic red team framework that automates offensive security operations, from recon...",
+          "language": "Python",
+          "stars": 2743,
+          "forks": 567
+        },
+        {
+          "rank": 9,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "language": "Python",
+          "stars": 285102,
+          "forks": 36442
+        },
+        {
+          "rank": 10,
+          "name": "agent0ai/agent-zero",
+          "url": "https://github.com/agent0ai/agent-zero",
+          "description": "Agent Zero AI framework",
+          "language": "Python",
+          "stars": 19330,
+          "forks": 3823
+        }
+      ]
+    }
+  ]
+}

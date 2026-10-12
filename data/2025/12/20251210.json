@@ -1,0 +1,391 @@
+{
+  "date": "20251210",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100675,
+          "forks": 16403
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 100170,
+          "forks": 26790
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 86638,
+          "forks": 9898
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 54499,
+          "forks": 4725
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 52248,
+          "forks": 6660
+        },
+        {
+          "rank": 6,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51225,
+          "forks": 8936
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 47434,
+          "forks": 5355
+        },
+        {
+          "rank": 8,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 45546,
+          "forks": 5444
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 45281,
+          "forks": 3151
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44249,
+          "forks": 4302
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 51610,
+          "forks": 95076
+        },
+        {
+          "rank": 2,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 192729,
+          "forks": 75036
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2635,
+          "forks": 72747
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 86652,
+          "forks": 60686
+        },
+        {
+          "rank": 5,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 176186,
+          "forks": 55095
+        },
+        {
+          "rank": 6,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 96926,
+          "forks": 54179
+        },
+        {
+          "rank": 7,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 329004,
+          "forks": 53595
+        },
+        {
+          "rank": 8,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19915,
+          "forks": 43133
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 179475,
+          "forks": 36726
+        },
+        {
+          "rank": 10,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184035,
+          "forks": 33678
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "JavaScript",
+          "stars": 1872,
+          "forks": 131
+        },
+        {
+          "rank": 2,
+          "name": "KaijuEngine/kaiju",
+          "url": "https://github.com/KaijuEngine/kaiju",
+          "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+          "language": "Go",
+          "stars": 2289,
+          "forks": 79
+        },
+        {
+          "rank": 3,
+          "name": "agentsmd/agents.md",
+          "url": "https://github.com/agentsmd/agents.md",
+          "description": "AGENTS.md — a simple, open format for guiding coding agents",
+          "language": "TypeScript",
+          "stars": 9191,
+          "forks": 731
+        },
+        {
+          "rank": 4,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "TypeScript",
+          "stars": 13841,
+          "forks": 1396
+        },
+        {
+          "rank": 5,
+          "name": "dyad-sh/dyad",
+          "url": "https://github.com/dyad-sh/dyad",
+          "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+          "language": "TypeScript",
+          "stars": 18139,
+          "forks": 2004
+        },
+        {
+          "rank": 6,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 6800,
+          "forks": 778
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 16703,
+          "forks": 1818
+        },
+        {
+          "rank": 8,
+          "name": "block/goose",
+          "url": "https://github.com/block/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, a...",
+          "language": "Rust",
+          "stars": 23166,
+          "forks": 2098
+        },
+        {
+          "rank": 9,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 32209,
+          "forks": 6193
+        },
+        {
+          "rank": 10,
+          "name": "cloudflare/vibesdk",
+          "url": "https://github.com/cloudflare/vibesdk",
+          "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built ent...",
+          "language": "TypeScript",
+          "stars": 4003,
+          "forks": 952
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 6800,
+          "forks": 778
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 16703,
+          "forks": 1818
+        },
+        {
+          "rank": 3,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 32209,
+          "forks": 6193
+        },
+        {
+          "rank": 4,
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-e...",
+          "language": "Python",
+          "stars": 69278,
+          "forks": 7522
+        },
+        {
+          "rank": 5,
+          "name": "google/adk-samples",
+          "url": "https://github.com/google/adk-samples",
+          "description": "A collection of sample agents built with Agent Development Kit (ADK)",
+          "language": "Python",
+          "stars": 7186,
+          "forks": 2018
+        },
+        {
+          "rank": 6,
+          "name": "AsyncFuncAI/deepwiki-open",
+          "url": "https://github.com/AsyncFuncAI/deepwiki-open",
+          "description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join th...",
+          "language": "Python",
+          "stars": 12714,
+          "forks": 1396
+        },
+        {
+          "rank": 7,
+          "name": "zhu-xlab/GlobalBuildingAtlas",
+          "url": "https://github.com/zhu-xlab/GlobalBuildingAtlas",
+          "description": "",
+          "language": "Python",
+          "stars": 1213,
+          "forks": 124
+        },
+        {
+          "rank": 8,
+          "name": "rany2/edge-tts",
+          "url": "https://github.com/rany2/edge-tts",
+          "description": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or ...",
+          "language": "Python",
+          "stars": 9520,
+          "forks": 904
+        },
+        {
+          "rank": 9,
+          "name": "NVIDIA/cutile-python",
+          "url": "https://github.com/NVIDIA/cutile-python",
+          "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+          "language": "Python",
+          "stars": 1319,
+          "forks": 63
+        },
+        {
+          "rank": 10,
+          "name": "srbhr/Resume-Matcher",
+          "url": "https://github.com/srbhr/Resume-Matcher",
+          "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes...",
+          "language": "Python",
+          "stars": 24512,
+          "forks": 4544
+        }
+      ]
+    }
+  ]
+}

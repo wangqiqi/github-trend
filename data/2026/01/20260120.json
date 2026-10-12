@@ -1,0 +1,364 @@
+{
+  "date": "20260120",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 109646,
+          "forks": 28678
+        },
+        {
+          "rank": 2,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 91776,
+          "forks": 10694
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 79762,
+          "forks": 7071
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 63760,
+          "forks": 5510
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 56629,
+          "forks": 7326
+        },
+        {
+          "rank": 6,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 53340,
+          "forks": 9367
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 50155,
+          "forks": 6087
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 46410,
+          "forks": 4376
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45133,
+          "forks": 4508
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 43936,
+          "forks": 21685
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29314,
+          "forks": 87470
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173942,
+          "forks": 79167
+        },
+        {
+          "rank": 3,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85805,
+          "forks": 56494
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 105377,
+          "forks": 56308
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77690,
+          "forks": 45329
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 392221,
+          "forks": 41977
+        },
+        {
+          "rank": 7,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 84286,
+          "forks": 36550
+        },
+        {
+          "rank": 8,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 71157,
+          "forks": 33931
+        },
+        {
+          "rank": 9,
+          "name": "bia-pain-bache/BPB-Worker-Panel",
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain pro...",
+          "language": "TypeScript",
+          "stars": 9418,
+          "forks": 31502
+        },
+        {
+          "rank": 10,
+          "name": "samqin123/MoonTV",
+          "url": "https://github.com/samqin123/MoonTV",
+          "description": "No description",
+          "language": "TypeScript",
+          "stars": 1751,
+          "forks": 31462
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 10541,
+          "forks": 865
+        },
+        {
+          "rank": 2,
+          "name": "iOfficeAI/AionUi",
+          "url": "https://github.com/iOfficeAI/AionUi",
+          "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cl...",
+          "language": "TypeScript",
+          "stars": 7352,
+          "forks": 556
+        },
+        {
+          "rank": 3,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 22987,
+          "forks": 1581
+        },
+        {
+          "rank": 4,
+          "name": "AlexxIT/go2rtc",
+          "url": "https://github.com/AlexxIT/go2rtc",
+          "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, M...",
+          "language": "Go",
+          "stars": 11317,
+          "forks": 861
+        },
+        {
+          "rank": 5,
+          "name": "lukasz-madon/awesome-remote-job",
+          "url": "https://github.com/lukasz-madon/awesome-remote-job",
+          "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome...",
+          "language": "N/A",
+          "stars": 42309,
+          "forks": 4409
+        },
+        {
+          "rank": 6,
+          "name": "tobi/try",
+          "url": "https://github.com/tobi/try",
+          "description": "fresh directories for every vibe",
+          "language": "Shell",
+          "stars": 2845,
+          "forks": 104
+        },
+        {
+          "rank": 7,
+          "name": "DavidXanatos/TaskExplorer",
+          "url": "https://github.com/DavidXanatos/TaskExplorer",
+          "description": "Power full Task Manager",
+          "language": "C",
+          "stars": 2643,
+          "forks": 220
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 10541,
+          "forks": 865
+        },
+        {
+          "rank": 2,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 22987,
+          "forks": 1581
+        },
+        {
+          "rank": 3,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 9472,
+          "forks": 815
+        },
+        {
+          "rank": 4,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 5803,
+          "forks": 471
+        },
+        {
+          "rank": 5,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 392222,
+          "forks": 41977
+        },
+        {
+          "rank": 6,
+          "name": "ahujasid/blender-mcp",
+          "url": "https://github.com/ahujasid/blender-mcp",
+          "description": "",
+          "language": "Python",
+          "stars": 16103,
+          "forks": 1533
+        },
+        {
+          "rank": 7,
+          "name": "verygoodplugins/automem",
+          "url": "https://github.com/verygoodplugins/automem",
+          "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
+          "language": "Python",
+          "stars": 456,
+          "forks": 54
+        },
+        {
+          "rank": 8,
+          "name": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Claude Code compound engineering plugin",
+          "language": "Python",
+          "stars": 5242,
+          "forks": 436
+        },
+        {
+          "rank": 9,
+          "name": "yusufkaraaslan/Skill_Seekers",
+          "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+          "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automati...",
+          "language": "Python",
+          "stars": 7310,
+          "forks": 734
+        },
+        {
+          "rank": 10,
+          "name": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+          "language": "Python",
+          "stars": 5204,
+          "forks": 608
+        }
+      ]
+    }
+  ]
+}

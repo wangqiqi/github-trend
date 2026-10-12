@@ -1,0 +1,391 @@
+{
+  "date": "20251211",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100695,
+          "forks": 16408
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91578,
+          "forks": 11776
+        },
+        {
+          "rank": 3,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 54731,
+          "forks": 4752
+        },
+        {
+          "rank": 4,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 52303,
+          "forks": 6677
+        },
+        {
+          "rank": 5,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 47508,
+          "forks": 5383
+        },
+        {
+          "rank": 6,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 45613,
+          "forks": 5453
+        },
+        {
+          "rank": 7,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44281,
+          "forks": 4305
+        },
+        {
+          "rank": 8,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 39091,
+          "forks": 1938
+        },
+        {
+          "rank": 9,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+...",
+          "language": "Python",
+          "stars": 38709,
+          "forks": 20358
+        },
+        {
+          "rank": 10,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 38024,
+          "forks": 3190
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2635,
+          "forks": 72752
+        },
+        {
+          "rank": 2,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 176258,
+          "forks": 55113
+        },
+        {
+          "rank": 3,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 161965,
+          "forks": 51843
+        },
+        {
+          "rank": 4,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 345194,
+          "forks": 43483
+        },
+        {
+          "rank": 5,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19916,
+          "forks": 43134
+        },
+        {
+          "rank": 6,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 28542,
+          "forks": 42355
+        },
+        {
+          "rank": 7,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 448151,
+          "forks": 42033
+        },
+        {
+          "rank": 8,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 109784,
+          "forks": 36147
+        },
+        {
+          "rank": 9,
+          "name": "nodejs/node",
+          "url": "https://github.com/nodejs/node",
+          "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+          "language": "JavaScript",
+          "stars": 114683,
+          "forks": 33996
+        },
+        {
+          "rank": 10,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 70241,
+          "forks": 33641
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "JavaScript",
+          "stars": 3494,
+          "forks": 200
+        },
+        {
+          "rank": 2,
+          "name": "Tencent/WeKnora",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answ...",
+          "language": "Go",
+          "stars": 7983,
+          "forks": 911
+        },
+        {
+          "rank": 3,
+          "name": "block/goose",
+          "url": "https://github.com/block/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, a...",
+          "language": "Rust",
+          "stars": 23598,
+          "forks": 2119
+        },
+        {
+          "rank": 4,
+          "name": "KaijuEngine/kaiju",
+          "url": "https://github.com/KaijuEngine/kaiju",
+          "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+          "language": "Go",
+          "stars": 3262,
+          "forks": 104
+        },
+        {
+          "rank": 5,
+          "name": "tempoxyz/tempo",
+          "url": "https://github.com/tempoxyz/tempo",
+          "description": "the blockchain for payments",
+          "language": "Rust",
+          "stars": 261,
+          "forks": 51
+        },
+        {
+          "rank": 6,
+          "name": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "description": "Experimental menu for GTA 5: Enhanced",
+          "language": "C++",
+          "stars": 718,
+          "forks": 188
+        },
+        {
+          "rank": 7,
+          "name": "mlabonne/llm-course",
+          "url": "https://github.com/mlabonne/llm-course",
+          "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "language": "N/A",
+          "stars": 69734,
+          "forks": 7963
+        },
+        {
+          "rank": 8,
+          "name": "agentsmd/agents.md",
+          "url": "https://github.com/agentsmd/agents.md",
+          "description": "AGENTS.md — a simple, open format for guiding coding agents",
+          "language": "TypeScript",
+          "stars": 9873,
+          "forks": 766
+        },
+        {
+          "rank": 9,
+          "name": "HotCakeX/Harden-Windows-Security",
+          "url": "https://github.com/HotCakeX/Harden-Windows-Security",
+          "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation...",
+          "language": "C#",
+          "stars": 3480,
+          "forks": 272
+        },
+        {
+          "rank": 10,
+          "name": "TapXWorld/ChinaTextbook",
+          "url": "https://github.com/TapXWorld/ChinaTextbook",
+          "description": "所有小初高、大学PDF教材。",
+          "language": "Roff",
+          "stars": 61596,
+          "forks": 13669
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+          "language": "Python",
+          "stars": 37557,
+          "forks": 6035
+        },
+        {
+          "rank": 2,
+          "name": "GoogleCloudPlatform/agent-starter-pack",
+          "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
+          "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in C...",
+          "language": "Python",
+          "stars": 3924,
+          "forks": 1072
+        },
+        {
+          "rank": 3,
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-e...",
+          "language": "Python",
+          "stars": 69505,
+          "forks": 7540
+        },
+        {
+          "rank": 4,
+          "name": "polarsource/polar",
+          "url": "https://github.com/polarsource/polar",
+          "description": "Turn your software into a business.",
+          "language": "Python",
+          "stars": 8738,
+          "forks": 584
+        },
+        {
+          "rank": 5,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 32506,
+          "forks": 6235
+        },
+        {
+          "rank": 6,
+          "name": "google/adk-samples",
+          "url": "https://github.com/google/adk-samples",
+          "description": "A collection of sample agents built with Agent Development Kit (ADK)",
+          "language": "Python",
+          "stars": 7501,
+          "forks": 2030
+        },
+        {
+          "rank": 7,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 47762,
+          "forks": 30711
+        },
+        {
+          "rank": 8,
+          "name": "zai-org/GLM-V",
+          "url": "https://github.com/zai-org/GLM-V",
+          "description": "GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement L...",
+          "language": "Python",
+          "stars": 1942,
+          "forks": 120
+        },
+        {
+          "rank": 9,
+          "name": "strands-agents/sdk-python",
+          "url": "https://github.com/strands-agents/sdk-python",
+          "description": "A model-driven approach to building AI agents in just a few lines of code.",
+          "language": "Python",
+          "stars": 4375,
+          "forks": 533
+        },
+        {
+          "rank": 10,
+          "name": "ladaapp/lada",
+          "url": "https://github.com/ladaapp/lada",
+          "description": "Restore videos with pixelated/mosaic regions",
+          "language": "Python",
+          "stars": 2026,
+          "forks": 292
+        }
+      ]
+    }
+  ]
+}

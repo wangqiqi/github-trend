@@ -1,0 +1,391 @@
+{
+  "date": "20250925",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99404,
+          "forks": 16227
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91190,
+          "forks": 11745
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovab...",
+          "language": "N/A",
+          "stars": 87866,
+          "forks": 24078
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 80036,
+          "forks": 4408
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 76561,
+          "forks": 8215
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 71137,
+          "forks": 5866
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70461,
+          "forks": 8251
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 68807,
+          "forks": 8106
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49993,
+          "forks": 8754
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 44394,
+          "forks": 5188
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50508,
+          "forks": 91656
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28978,
+          "forks": 87265
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2479,
+          "forks": 84692
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 169596,
+          "forks": 83002
+        },
+        {
+          "rank": 5,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173462,
+          "forks": 79171
+        },
+        {
+          "rank": 6,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2599,
+          "forks": 72625
+        },
+        {
+          "rank": 7,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17906,
+          "forks": 63412
+        },
+        {
+          "rank": 8,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 203286,
+          "forks": 57898
+        },
+        {
+          "rank": 9,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 84261,
+          "forks": 56297
+        },
+        {
+          "rank": 10,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 172674,
+          "forks": 54611
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "gin-gonic/gin",
+          "url": "https://github.com/gin-gonic/gin",
+          "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but wi...",
+          "language": "Go",
+          "stars": 85097,
+          "forks": 8381
+        },
+        {
+          "rank": 2,
+          "name": "humanlayer/humanlayer",
+          "url": "https://github.com/humanlayer/humanlayer",
+          "description": "The best way to get AI to solve hard problems in complex codebases.",
+          "language": "TypeScript",
+          "stars": 2787,
+          "forks": 251
+        },
+        {
+          "rank": 3,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 127672,
+          "forks": 10238
+        },
+        {
+          "rank": 4,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 208917,
+          "forks": 48109
+        },
+        {
+          "rank": 5,
+          "name": "ZuodaoTech/everyone-can-use-english",
+          "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+          "description": "人人都能用英语",
+          "language": "TypeScript",
+          "stars": 29159,
+          "forks": 4224
+        },
+        {
+          "rank": 6,
+          "name": "Olow304/memvid",
+          "url": "https://github.com/Olow304/memvid",
+          "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast sem...",
+          "language": "Python",
+          "stars": 8772,
+          "forks": 742
+        },
+        {
+          "rank": 7,
+          "name": "TanStack/router",
+          "url": "https://github.com/TanStack/router",
+          "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs,...",
+          "language": "TypeScript",
+          "stars": 11199,
+          "forks": 1208
+        },
+        {
+          "rank": 8,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 48690,
+          "forks": 2115
+        },
+        {
+          "rank": 9,
+          "name": "coinbase/x402",
+          "url": "https://github.com/coinbase/x402",
+          "description": "A payments protocol for the internet. Built on HTTP.",
+          "language": "TypeScript",
+          "stars": 1230,
+          "forks": 240
+        },
+        {
+          "rank": 10,
+          "name": "Asabeneh/30-Days-Of-Python",
+          "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+          "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming l...",
+          "language": "Python",
+          "stars": 49938,
+          "forks": 9545
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 127672,
+          "forks": 10238
+        },
+        {
+          "rank": 2,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 208917,
+          "forks": 48109
+        },
+        {
+          "rank": 3,
+          "name": "Olow304/memvid",
+          "url": "https://github.com/Olow304/memvid",
+          "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast sem...",
+          "language": "Python",
+          "stars": 8772,
+          "forks": 742
+        },
+        {
+          "rank": 4,
+          "name": "Asabeneh/30-Days-Of-Python",
+          "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+          "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming l...",
+          "language": "Python",
+          "stars": 49938,
+          "forks": 9545
+        },
+        {
+          "rank": 5,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 11075,
+          "forks": 955
+        },
+        {
+          "rank": 6,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.",
+          "language": "Python",
+          "stars": 13587,
+          "forks": 1911
+        },
+        {
+          "rank": 7,
+          "name": "StanfordVL/BEHAVIOR-1K",
+          "url": "https://github.com/StanfordVL/BEHAVIOR-1K",
+          "description": "BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: http...",
+          "language": "Python",
+          "stars": 883,
+          "forks": 84
+        },
+        {
+          "rank": 8,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 150237,
+          "forks": 30513
+        },
+        {
+          "rank": 9,
+          "name": "HKUDS/RAG-Anything",
+          "url": "https://github.com/HKUDS/RAG-Anything",
+          "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+          "language": "Python",
+          "stars": 5890,
+          "forks": 672
+        },
+        {
+          "rank": 10,
+          "name": "newren/git-filter-repo",
+          "url": "https://github.com/newren/git-filter-repo",
+          "description": "Quickly rewrite git repository history (filter-branch replacement)",
+          "language": "Python",
+          "stars": 10745,
+          "forks": 843
+        }
+      ]
+    }
+  ]
+}

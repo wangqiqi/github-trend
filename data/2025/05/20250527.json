@@ -1,0 +1,391 @@
+{
+  "date": "20250527",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97175,
+          "forks": 15792
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 89487,
+          "forks": 11568
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 61636,
+          "forks": 6898
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 58001,
+          "forks": 2981
+        },
+        {
+          "rank": 5,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 56122,
+          "forks": 1113
+        },
+        {
+          "rank": 6,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 52531,
+          "forks": 16077
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 51599,
+          "forks": 3854
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 49299,
+          "forks": 5614
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 46132,
+          "forks": 8059
+        },
+        {
+          "rank": 10,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 44519,
+          "forks": 5328
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6600,
+          "forks": 243573
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13029,
+          "forks": 151284
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 854,
+          "forks": 143910
+        },
+        {
+          "rank": 4,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28399,
+          "forks": 86697
+        },
+        {
+          "rank": 5,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 166816,
+          "forks": 83086
+        },
+        {
+          "rank": 6,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1824,
+          "forks": 79408
+        },
+        {
+          "rank": 7,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172343,
+          "forks": 79122
+        },
+        {
+          "rank": 8,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 318159,
+          "forks": 78897
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190135,
+          "forks": 74685
+        },
+        {
+          "rank": 10,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2537,
+          "forks": 72290
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Fosowl/agenticSeek",
+          "url": "https://github.com/Fosowl/agenticSeek",
+          "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, brow...",
+          "language": "Python",
+          "stars": 8382,
+          "forks": 712
+        },
+        {
+          "rank": 2,
+          "name": "ossu/computer-science",
+          "url": "https://github.com/ossu/computer-science",
+          "description": "🎓 Path to a free self-taught education in Computer Science!",
+          "language": "HTML",
+          "stars": 182399,
+          "forks": 23003
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empow...",
+          "language": "Python",
+          "stars": 22478,
+          "forks": 3513
+        },
+        {
+          "rank": 4,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 26054,
+          "forks": 572
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 4883,
+          "forks": 436
+        },
+        {
+          "rank": 6,
+          "name": "lobehub/lobe-chat",
+          "url": "https://github.com/lobehub/lobe-chat",
+          "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenA...",
+          "language": "TypeScript",
+          "stars": 61684,
+          "forks": 12877
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/typescript-go",
+          "url": "https://github.com/microsoft/typescript-go",
+          "description": "Staging repo for development of native port of TypeScript",
+          "language": "Go",
+          "stars": 20222,
+          "forks": 625
+        },
+        {
+          "rank": 8,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated...",
+          "language": "Python",
+          "stars": 30288,
+          "forks": 5132
+        },
+        {
+          "rank": 9,
+          "name": "groupultra/telegram-search",
+          "url": "https://github.com/groupultra/telegram-search",
+          "description": "🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。",
+          "language": "TypeScript",
+          "stars": 1864,
+          "forks": 124
+        },
+        {
+          "rank": 10,
+          "name": "stalwartlabs/stalwart",
+          "url": "https://github.com/stalwartlabs/stalwart",
+          "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP...",
+          "language": "Rust",
+          "stars": 7831,
+          "forks": 376
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Fosowl/agenticSeek",
+          "url": "https://github.com/Fosowl/agenticSeek",
+          "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, brow...",
+          "language": "Python",
+          "stars": 8382,
+          "forks": 712
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empow...",
+          "language": "Python",
+          "stars": 22478,
+          "forks": 3513
+        },
+        {
+          "rank": 3,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 26054,
+          "forks": 572
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 4883,
+          "forks": 436
+        },
+        {
+          "rank": 5,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated...",
+          "language": "Python",
+          "stars": 30288,
+          "forks": 5132
+        },
+        {
+          "rank": 6,
+          "name": "sktime/sktime",
+          "url": "https://github.com/sktime/sktime",
+          "description": "A unified framework for machine learning with time series",
+          "language": "Python",
+          "stars": 8477,
+          "forks": 1563
+        },
+        {
+          "rank": 7,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 48171,
+          "forks": 7621
+        },
+        {
+          "rank": 8,
+          "name": "open-mmlab/mmsegmentation",
+          "url": "https://github.com/open-mmlab/mmsegmentation",
+          "description": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+          "language": "Python",
+          "stars": 8917,
+          "forks": 2714
+        },
+        {
+          "rank": 9,
+          "name": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+          "language": "Python",
+          "stars": 64447,
+          "forks": 6578
+        },
+        {
+          "rank": 10,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 24101,
+          "forks": 2067
+        }
+      ]
+    }
+  ]
+}

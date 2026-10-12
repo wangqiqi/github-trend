@@ -1,0 +1,391 @@
+{
+  "date": "20260307",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 273903,
+          "forks": 52290
+        },
+        {
+          "rank": 2,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 117629,
+          "forks": 11998
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 96771,
+          "forks": 11987
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 86329,
+          "forks": 9128
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 74749,
+          "forks": 6373
+        },
+        {
+          "rank": 6,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 73016,
+          "forks": 5616
+        },
+        {
+          "rank": 7,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 63775,
+          "forks": 7890
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 63650,
+          "forks": 8461
+        },
+        {
+          "rank": 9,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 52596,
+          "forks": 6755
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 48155,
+          "forks": 22505
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52873,
+          "forks": 99134
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29447,
+          "forks": 87502
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 337646,
+          "forks": 81643
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 194021,
+          "forks": 75223
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 86471,
+          "forks": 56534
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 337772,
+          "forks": 54721
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77691,
+          "forks": 45253
+        },
+        {
+          "rank": 8,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1149,
+          "forks": 42226
+        },
+        {
+          "rank": 9,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 85188,
+          "forks": 36922
+        },
+        {
+          "rank": 10,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1167,
+          "forks": 35471
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 5205,
+          "forks": 593
+        },
+        {
+          "rank": 2,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 12394,
+          "forks": 685
+        },
+        {
+          "rank": 3,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "N/A",
+          "stars": 10400,
+          "forks": 1546
+        },
+        {
+          "rank": 4,
+          "name": "GoogleCloudPlatform/generative-ai",
+          "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+          "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+          "language": "Jupyter Notebook",
+          "stars": 13238,
+          "forks": 3804
+        },
+        {
+          "rank": 5,
+          "name": "agentjido/jido",
+          "url": "https://github.com/agentjido/jido",
+          "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic w...",
+          "language": "Elixir",
+          "stars": 1326,
+          "forks": 72
+        },
+        {
+          "rank": 6,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Inte...",
+          "language": "Python",
+          "stars": 14859,
+          "forks": 1414
+        },
+        {
+          "rank": 7,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 46444,
+          "forks": 8104
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/hve-core",
+          "url": "https://github.com/microsoft/hve-core",
+          "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and ...",
+          "language": "PowerShell",
+          "stars": 650,
+          "forks": 92
+        },
+        {
+          "rank": 9,
+          "name": "toeverything/AFFiNE",
+          "url": "https://github.com/toeverything/AFFiNE",
+          "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base ...",
+          "language": "TypeScript",
+          "stars": 64390,
+          "forks": 4512
+        },
+        {
+          "rank": 10,
+          "name": "shadcn-ui/ui",
+          "url": "https://github.com/shadcn-ui/ui",
+          "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with...",
+          "language": "TypeScript",
+          "stars": 107925,
+          "forks": 8030
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 5205,
+          "forks": 593
+        },
+        {
+          "rank": 2,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 12394,
+          "forks": 685
+        },
+        {
+          "rank": 3,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Inte...",
+          "language": "Python",
+          "stars": 14859,
+          "forks": 1414
+        },
+        {
+          "rank": 4,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 46444,
+          "forks": 8104
+        },
+        {
+          "rank": 5,
+          "name": "pgmpy/pgmpy",
+          "url": "https://github.com/pgmpy/pgmpy",
+          "description": "Python library for Causal AI",
+          "language": "Python",
+          "stars": 3187,
+          "forks": 1019
+        },
+        {
+          "rank": 6,
+          "name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 2900,
+          "forks": 480
+        },
+        {
+          "rank": 7,
+          "name": "Dao-AILab/flash-attention",
+          "url": "https://github.com/Dao-AILab/flash-attention",
+          "description": "Fast and memory-efficient exact attention",
+          "language": "Python",
+          "stars": 22592,
+          "forks": 2479
+        },
+        {
+          "rank": 8,
+          "name": "inclusionAI/AReaL",
+          "url": "https://github.com/inclusionAI/AReaL",
+          "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+          "language": "Python",
+          "stars": 4497,
+          "forks": 373
+        },
+        {
+          "rank": 9,
+          "name": "lingfengQAQ/webnovel-writer",
+          "url": "https://github.com/lingfengQAQ/webnovel-writer",
+          "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+          "language": "Python",
+          "stars": 939,
+          "forks": 206
+        },
+        {
+          "rank": 10,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 36399,
+          "forks": 6920
+        }
+      ]
+    }
+  ]
+}

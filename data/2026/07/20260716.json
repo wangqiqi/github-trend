@@ -1,0 +1,391 @@
+{
+  "date": "20260716",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 383114,
+          "forks": 80458
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 255817,
+          "forks": 22867
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 161602,
+          "forks": 19110
+        },
+        {
+          "rank": 4,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 132002,
+          "forks": 21704
+        },
+        {
+          "rank": 5,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 122221,
+          "forks": 18269
+        },
+        {
+          "rank": 6,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 106412,
+          "forks": 11289
+        },
+        {
+          "rank": 7,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 102335,
+          "forks": 11786
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 91308,
+          "forks": 13088
+        },
+        {
+          "rank": 9,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 88400,
+          "forks": 8652
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 87467,
+          "forks": 7576
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 194786,
+          "forks": 109642
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 356373,
+          "forks": 84298
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174483,
+          "forks": 78737
+        },
+        {
+          "rank": 4,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 357806,
+          "forks": 57228
+        },
+        {
+          "rank": 5,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1160,
+          "forks": 41966
+        },
+        {
+          "rank": 6,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "language": "Python",
+          "stars": 273625,
+          "forks": 35287
+        },
+        {
+          "rank": 7,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 162654,
+          "forks": 33896
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 540,
+          "forks": 33524
+        },
+        {
+          "rank": 9,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 98606,
+          "forks": 32572
+        },
+        {
+          "rank": 10,
+          "name": "bia-pain-bache/BPB-Worker-Panel",
+          "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+          "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private...",
+          "language": "TypeScript",
+          "stars": 12451,
+          "forks": 31491
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "1c7/chinese-independent-developer",
+          "url": "https://github.com/1c7/chinese-independent-developer",
+          "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+          "language": "Python",
+          "stars": 56485,
+          "forks": 4896
+        },
+        {
+          "rank": 2,
+          "name": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata...",
+          "language": "Python",
+          "stars": 753,
+          "forks": 125
+        },
+        {
+          "rank": 3,
+          "name": "Nutlope/hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "language": "CSS",
+          "stars": 10201,
+          "forks": 510
+        },
+        {
+          "rank": 4,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 73547,
+          "forks": 7458
+        },
+        {
+          "rank": 5,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product ...",
+          "language": "Python",
+          "stars": 35633,
+          "forks": 2980
+        },
+        {
+          "rank": 6,
+          "name": "openinterpreter/openinterpreter",
+          "url": "https://github.com/openinterpreter/openinterpreter",
+          "description": "A coding agent for low-cost models",
+          "language": "Rust",
+          "stars": 65800,
+          "forks": 5665
+        },
+        {
+          "rank": 7,
+          "name": "PrismML-Eng/Bonsai-demo",
+          "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+          "description": "Bonsai Demo",
+          "language": "Shell",
+          "stars": 1387,
+          "forks": 149
+        },
+        {
+          "rank": 8,
+          "name": "hasaneyldrm/exercises-dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment dat...",
+          "language": "HTML",
+          "stars": 14739,
+          "forks": 1766
+        },
+        {
+          "rank": 9,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 122458,
+          "forks": 18060
+        },
+        {
+          "rank": 10,
+          "name": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, sc...",
+          "language": "TypeScript",
+          "stars": 79955,
+          "forks": 15599
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "1c7/chinese-independent-developer",
+          "url": "https://github.com/1c7/chinese-independent-developer",
+          "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+          "language": "Python",
+          "stars": 56485,
+          "forks": 4896
+        },
+        {
+          "rank": 2,
+          "name": "apache/ossie",
+          "url": "https://github.com/apache/ossie",
+          "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata...",
+          "language": "Python",
+          "stars": 753,
+          "forks": 125
+        },
+        {
+          "rank": 3,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product ...",
+          "language": "Python",
+          "stars": 35633,
+          "forks": 2980
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+          "language": "Python",
+          "stars": 122458,
+          "forks": 18060
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+          "language": "Python",
+          "stars": 26679,
+          "forks": 3603
+        },
+        {
+          "rank": 6,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any ...",
+          "language": "Python",
+          "stars": 88400,
+          "forks": 8652
+        },
+        {
+          "rank": 7,
+          "name": "youtubediscord/zapret",
+          "url": "https://github.com/youtubediscord/zapret",
+          "description": "Zapret (Запрет обход блокировки Дискорда и Ютуба)",
+          "language": "Python",
+          "stars": 1441,
+          "forks": 112
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 166580,
+          "forks": 11944
+        },
+        {
+          "rank": 9,
+          "name": "thinking-machines-lab/tinker-cookbook",
+          "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+          "description": "Post-training with Tinker",
+          "language": "Python",
+          "stars": 3718,
+          "forks": 464
+        },
+        {
+          "rank": 10,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 215781,
+          "forks": 40259
+        }
+      ]
+    }
+  ]
+}

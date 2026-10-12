@@ -1,0 +1,391 @@
+{
+  "date": "20260907",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 389115,
+          "forks": 81764
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 255915,
+          "forks": 21546
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 252519,
+          "forks": 37892
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195186,
+          "forks": 108666
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 174998,
+          "forks": 20720
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 150687,
+          "forks": 24282
+        },
+        {
+          "rank": 7,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 131918,
+          "forks": 19761
+        },
+        {
+          "rank": 8,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 130682,
+          "forks": 6999
+        },
+        {
+          "rank": 9,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 125738,
+          "forks": 13448
+        },
+        {
+          "rank": 10,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 114602,
+          "forks": 12932
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195186,
+          "forks": 108666
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174738,
+          "forks": 78618
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2816,
+          "forks": 73349
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 119346,
+          "forks": 62845
+        },
+        {
+          "rank": 5,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8649,
+          "forks": 60003
+        },
+        {
+          "rank": 6,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claud...",
+          "language": "TypeScript",
+          "stars": 88718,
+          "forks": 59127
+        },
+        {
+          "rank": 7,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 368535,
+          "forks": 58280
+        },
+        {
+          "rank": 8,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 186101,
+          "forks": 55736
+        },
+        {
+          "rank": 9,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 99415,
+          "forks": 54711
+        },
+        {
+          "rank": 10,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37325,
+          "forks": 53270
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 45289,
+          "forks": 4290
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 179757,
+          "forks": 13238
+        },
+        {
+          "rank": 3,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists...",
+          "language": "TypeScript",
+          "stars": 20672,
+          "forks": 1514
+        },
+        {
+          "rank": 4,
+          "name": "jo-inc/camofox-browser",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Dro...",
+          "language": "JavaScript",
+          "stars": 9480,
+          "forks": 1006
+        },
+        {
+          "rank": 5,
+          "name": "MoonTechLab/LunaTV",
+          "url": "https://github.com/MoonTechLab/LunaTV",
+          "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+          "language": "TypeScript",
+          "stars": 9647,
+          "forks": 8980
+        },
+        {
+          "rank": 6,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 252519,
+          "forks": 37892
+        },
+        {
+          "rank": 7,
+          "name": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engi...",
+          "language": "JavaScript",
+          "stars": 47966,
+          "forks": 7417
+        },
+        {
+          "rank": 8,
+          "name": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence ...",
+          "language": "Python",
+          "stars": 5112,
+          "forks": 796
+        },
+        {
+          "rank": 9,
+          "name": "BraveOPotato/FckSignups",
+          "url": "https://github.com/BraveOPotato/FckSignups",
+          "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+          "language": "TypeScript",
+          "stars": 3681,
+          "forks": 217
+        },
+        {
+          "rank": 10,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 81749,
+          "forks": 11285
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 179757,
+          "forks": 13238
+        },
+        {
+          "rank": 2,
+          "name": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence ...",
+          "language": "Python",
+          "stars": 5112,
+          "forks": 796
+        },
+        {
+          "rank": 3,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 81749,
+          "forks": 11285
+        },
+        {
+          "rank": 4,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 25902,
+          "forks": 1744
+        },
+        {
+          "rank": 5,
+          "name": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "language": "Python",
+          "stars": 102843,
+          "forks": 29152
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 112914,
+          "forks": 12450
+        },
+        {
+          "rank": 7,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 131920,
+          "forks": 15552
+        },
+        {
+          "rank": 8,
+          "name": "bikini/exploitarium",
+          "url": "https://github.com/bikini/exploitarium",
+          "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post t...",
+          "language": "Python",
+          "stars": 4878,
+          "forks": 1276
+        },
+        {
+          "rank": 9,
+          "name": "mukul975/cve-mcp-server",
+          "url": "https://github.com/mukul975/cve-mcp-server",
+          "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE loo...",
+          "language": "Python",
+          "stars": 1461,
+          "forks": 250
+        },
+        {
+          "rank": 10,
+          "name": "AgriciDaniel/claude-ads",
+          "url": "https://github.com/AgriciDaniel/claude-ads",
+          "description": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, Yo...",
+          "language": "Python",
+          "stars": 8962,
+          "forks": 1335
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250408",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 37052,
+          "forks": 1555
+        },
+        {
+          "rank": 2,
+          "name": "inkonchain/docs",
+          "url": "https://github.com/inkonchain/docs",
+          "description": "Ink Documentation",
+          "language": "MDX",
+          "stars": 36467,
+          "forks": 397
+        },
+        {
+          "rank": 3,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artific...",
+          "language": "Python",
+          "stars": 27868,
+          "forks": 4162
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 27493,
+          "forks": 3088
+        },
+        {
+          "rank": 5,
+          "name": "ItzCrazyKns/Perplexica",
+          "url": "https://github.com/ItzCrazyKns/Perplexica",
+          "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+          "language": "TypeScript",
+          "stars": 21206,
+          "forks": 2153
+        },
+        {
+          "rank": 6,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 20734,
+          "forks": 3758
+        },
+        {
+          "rank": 7,
+          "name": "deepseek-ai/Janus",
+          "url": "https://github.com/deepseek-ai/Janus",
+          "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+          "language": "Python",
+          "stars": 17057,
+          "forks": 2224
+        },
+        {
+          "rank": 8,
+          "name": "KindXiaoming/pykan",
+          "url": "https://github.com/KindXiaoming/pykan",
+          "description": "Kolmogorov Arnold Networks",
+          "language": "Jupyter Notebook",
+          "stars": 15571,
+          "forks": 1470
+        },
+        {
+          "rank": 9,
+          "name": "elizaOS/eliza",
+          "url": "https://github.com/elizaOS/eliza",
+          "description": "Autonomous agents for everyone",
+          "language": "TypeScript",
+          "stars": 15425,
+          "forks": 5030
+        },
+        {
+          "rank": 10,
+          "name": "dzhng/deep-research",
+          "url": "https://github.com/dzhng/deep-research",
+          "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining...",
+          "language": "TypeScript",
+          "stars": 15350,
+          "forks": 1576
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 847,
+          "forks": 143905
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1802,
+          "forks": 77469
+        },
+        {
+          "rank": 3,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17241,
+          "forks": 61424
+        },
+        {
+          "rank": 4,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 82564,
+          "forks": 61081
+        },
+        {
+          "rank": 5,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56738
+        },
+        {
+          "rank": 6,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 191188,
+          "forks": 55436
+        },
+        {
+          "rank": 7,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37112,
+          "forks": 54373
+        },
+        {
+          "rank": 8,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 94188,
+          "forks": 51859
+        },
+        {
+          "rank": 9,
+          "name": "CyC2018/CS-Notes",
+          "url": "https://github.com/CyC2018/CS-Notes",
+          "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+          "language": "N/A",
+          "stars": 179683,
+          "forks": 51203
+        },
+        {
+          "rank": 10,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 234276,
+          "forks": 48167
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 45421,
+          "forks": 2147
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 13842,
+          "forks": 1961
+        },
+        {
+          "rank": 3,
+          "name": "supabase-community/supabase-mcp",
+          "url": "https://github.com/supabase-community/supabase-mcp",
+          "description": "Connect Supabase to your AI assistants",
+          "language": "TypeScript",
+          "stars": 683,
+          "forks": 36
+        },
+        {
+          "rank": 4,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 76509,
+          "forks": 20387
+        },
+        {
+          "rank": 5,
+          "name": "getmaxun/maxun",
+          "url": "https://github.com/getmaxun/maxun",
+          "description": "🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-C...",
+          "language": "TypeScript",
+          "stars": 10177,
+          "forks": 819
+        },
+        {
+          "rank": 6,
+          "name": "datawhalechina/llm-cookbook",
+          "url": "https://github.com/datawhalechina/llm-cookbook",
+          "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+          "language": "Jupyter Notebook",
+          "stars": 17486,
+          "forks": 2164
+        },
+        {
+          "rank": 7,
+          "name": "SimplifyJobs/Summer2025-Internships",
+          "url": "https://github.com/SimplifyJobs/Summer2025-Internships",
+          "description": "Collection of Summer 2025 tech internships!",
+          "language": "N/A",
+          "stars": 37069,
+          "forks": 2891
+        },
+        {
+          "rank": 8,
+          "name": "clockworklabs/SpacetimeDB",
+          "url": "https://github.com/clockworklabs/SpacetimeDB",
+          "description": "Multiplayer at the speed of light",
+          "language": "Rust",
+          "stars": 11803,
+          "forks": 393
+        },
+        {
+          "rank": 9,
+          "name": "modelscope/FunASR",
+          "url": "https://github.com/modelscope/FunASR",
+          "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Suppo...",
+          "language": "Python",
+          "stars": 9405,
+          "forks": 955
+        },
+        {
+          "rank": 10,
+          "name": "chartdb/chartdb",
+          "url": "https://github.com/chartdb/chartdb",
+          "description": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
+          "language": "TypeScript",
+          "stars": 14939,
+          "forks": 726
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 45421,
+          "forks": 2147
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 13842,
+          "forks": 1961
+        },
+        {
+          "rank": 3,
+          "name": "modelscope/FunASR",
+          "url": "https://github.com/modelscope/FunASR",
+          "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Suppo...",
+          "language": "Python",
+          "stars": 9405,
+          "forks": 955
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA/cuda-python",
+          "url": "https://github.com/NVIDIA/cuda-python",
+          "description": "CUDA Python: Performance meets Productivity",
+          "language": "Python",
+          "stars": 1542,
+          "forks": 113
+        },
+        {
+          "rank": 5,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 43798,
+          "forks": 6702
+        },
+        {
+          "rank": 6,
+          "name": "jiji262/douyin-downloader",
+          "url": "https://github.com/jiji262/douyin-downloader",
+          "description": "抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！",
+          "language": "Python",
+          "stars": 2808,
+          "forks": 421
+        },
+        {
+          "rank": 7,
+          "name": "meta-llama/llama-models",
+          "url": "https://github.com/meta-llama/llama-models",
+          "description": "Utilities intended for use with Llama models.",
+          "language": "Python",
+          "stars": 6655,
+          "forks": 1085
+        },
+        {
+          "rank": 8,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 1244,
+          "forks": 66
+        },
+        {
+          "rank": 9,
+          "name": "jwohlwend/boltz",
+          "url": "https://github.com/jwohlwend/boltz",
+          "description": "Official repository for the Boltz-1 biomolecular interaction model",
+          "language": "Python",
+          "stars": 1695,
+          "forks": 245
+        },
+        {
+          "rank": 10,
+          "name": "langchain-ai/langgraph",
+          "url": "https://github.com/langchain-ai/langgraph",
+          "description": "Build resilient language agents as graphs.",
+          "language": "Python",
+          "stars": 11203,
+          "forks": 1880
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250915",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99256,
+          "forks": 16200
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSC...",
+          "language": "N/A",
+          "stars": 84958,
+          "forks": 23418
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 75229,
+          "forks": 7967
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 74074,
+          "forks": 4112
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 70137,
+          "forks": 5759
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 67800,
+          "forks": 7962
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49755,
+          "forks": 8706
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 40887,
+          "forks": 4765
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 40170,
+          "forks": 7111
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 38486,
+          "forks": 12396
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50351,
+          "forks": 91164
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28953,
+          "forks": 87233
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2473,
+          "forks": 84387
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 169362,
+          "forks": 83009
+        },
+        {
+          "rank": 5,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 327396,
+          "forks": 80378
+        },
+        {
+          "rank": 6,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173418,
+          "forks": 79158
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191641,
+          "forks": 74827
+        },
+        {
+          "rank": 8,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2590,
+          "forks": 72603
+        },
+        {
+          "rank": 9,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 368201,
+          "forks": 64113
+        },
+        {
+          "rank": 10,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17860,
+          "forks": 63274
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 74074,
+          "forks": 4112
+        },
+        {
+          "rank": 2,
+          "name": "PowerShell/PowerShell",
+          "url": "https://github.com/PowerShell/PowerShell",
+          "description": "PowerShell for every system!",
+          "language": "C#",
+          "stars": 49678,
+          "forks": 7911
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSC...",
+          "language": "N/A",
+          "stars": 84958,
+          "forks": 23418
+        },
+        {
+          "rank": 4,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 40170,
+          "forks": 7111
+        },
+        {
+          "rank": 5,
+          "name": "SoftFever/OrcaSlicer",
+          "url": "https://github.com/SoftFever/OrcaSlicer",
+          "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+          "language": "C++",
+          "stars": 10747,
+          "forks": 1381
+        },
+        {
+          "rank": 6,
+          "name": "simdjson/simdjson",
+          "url": "https://github.com/simdjson/simdjson",
+          "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHou...",
+          "language": "C++",
+          "stars": 21852,
+          "forks": 1130
+        },
+        {
+          "rank": 7,
+          "name": "ItzCrazyKns/Perplexica",
+          "url": "https://github.com/ItzCrazyKns/Perplexica",
+          "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+          "language": "TypeScript",
+          "stars": 24450,
+          "forks": 2559
+        },
+        {
+          "rank": 8,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "AI coding agent, built for the terminal.",
+          "language": "TypeScript",
+          "stars": 23209,
+          "forks": 1610
+        },
+        {
+          "rank": 9,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "HTML",
+          "stars": 30077,
+          "forks": 1415
+        },
+        {
+          "rank": 10,
+          "name": "ccxt/ccxt",
+          "url": "https://github.com/ccxt/ccxt",
+          "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C...",
+          "language": "Python",
+          "stars": 38304,
+          "forks": 8173
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 74074,
+          "forks": 4112
+        },
+        {
+          "rank": 2,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 40170,
+          "forks": 7111
+        },
+        {
+          "rank": 3,
+          "name": "ccxt/ccxt",
+          "url": "https://github.com/ccxt/ccxt",
+          "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C...",
+          "language": "Python",
+          "stars": 38304,
+          "forks": 8173
+        },
+        {
+          "rank": 4,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 53130,
+          "forks": 5292
+        },
+        {
+          "rank": 5,
+          "name": "ml-explore/mlx-lm",
+          "url": "https://github.com/ml-explore/mlx-lm",
+          "description": "Run LLMs with MLX",
+          "language": "Python",
+          "stars": 2051,
+          "forks": 236
+        },
+        {
+          "rank": 6,
+          "name": "CorentinJ/Real-Time-Voice-Cloning",
+          "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+          "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+          "language": "Python",
+          "stars": 55493,
+          "forks": 9135
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/DeepCode",
+          "url": "https://github.com/HKUDS/DeepCode",
+          "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+          "language": "Python",
+          "stars": 6128,
+          "forks": 847
+        },
+        {
+          "rank": 8,
+          "name": "net4people/bbs",
+          "url": "https://github.com/net4people/bbs",
+          "description": "Forum for discussing Internet censorship circumvention",
+          "language": "Python",
+          "stars": 4231,
+          "forks": 95
+        },
+        {
+          "rank": 9,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 319725,
+          "forks": 52260
+        },
+        {
+          "rank": 10,
+          "name": "deepset-ai/haystack",
+          "url": "https://github.com/deepset-ai/haystack",
+          "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect comp...",
+          "language": "Python",
+          "stars": 22502,
+          "forks": 2361
+        }
+      ]
+    }
+  ]
+}

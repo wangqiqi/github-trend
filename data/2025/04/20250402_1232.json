@@ -1,0 +1,391 @@
+{
+  "date": "20250402",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 94920,
+          "forks": 15356
+        },
+        {
+          "rank": 2,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 38249,
+          "forks": 4026
+        },
+        {
+          "rank": 3,
+          "name": "inkonchain/node",
+          "url": "https://github.com/inkonchain/node",
+          "description": "How to run an Ink Node",
+          "language": "Shell",
+          "stars": 35848,
+          "forks": 547
+        },
+        {
+          "rank": 4,
+          "name": "mendableai/firecrawl",
+          "url": "https://github.com/mendableai/firecrawl",
+          "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with...",
+          "language": "TypeScript",
+          "stars": 33847,
+          "forks": 2936
+        },
+        {
+          "rank": 5,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 29583,
+          "forks": 3083
+        },
+        {
+          "rank": 6,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 27331,
+          "forks": 1682
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/llm.c",
+          "url": "https://github.com/karpathy/llm.c",
+          "description": "LLM training in simple, raw C/CUDA",
+          "language": "Cuda",
+          "stars": 26214,
+          "forks": 3014
+        },
+        {
+          "rank": 8,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1",
+          "language": "TypeScript",
+          "stars": 21861,
+          "forks": 1845
+        },
+        {
+          "rank": 9,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21152,
+          "forks": 1495
+        },
+        {
+          "rank": 10,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 19661,
+          "forks": 1640
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1795,
+          "forks": 77224
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56738
+        },
+        {
+          "rank": 3,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 190807,
+          "forks": 55376
+        },
+        {
+          "rank": 4,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37106,
+          "forks": 54379
+        },
+        {
+          "rank": 5,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 199017,
+          "forks": 46524
+        },
+        {
+          "rank": 6,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 149000,
+          "forks": 45777
+        },
+        {
+          "rank": 7,
+          "name": "google/it-cert-automation-practice",
+          "url": "https://github.com/google/it-cert-automation-practice",
+          "description": "Google IT Automation with Python Professional Certificate - Practice files",
+          "language": "Python",
+          "stars": 920,
+          "forks": 45214
+        },
+        {
+          "rank": 8,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 76676,
+          "forks": 41040
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-...",
+          "language": "Jupyter Notebook",
+          "stars": 77541,
+          "forks": 39886
+        },
+        {
+          "rank": 10,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 28277,
+          "forks": 39065
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 83239,
+          "forks": 8446
+        },
+        {
+          "rank": 2,
+          "name": "th-ch/youtube-music",
+          "url": "https://github.com/th-ch/youtube-music",
+          "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+          "language": "TypeScript",
+          "stars": 16505,
+          "forks": 855
+        },
+        {
+          "rank": 3,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 28083,
+          "forks": 1828
+        },
+        {
+          "rank": 4,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 35863,
+          "forks": 3143
+        },
+        {
+          "rank": 5,
+          "name": "elie222/inbox-zero",
+          "url": "https://github.com/elie222/inbox-zero",
+          "description": "Open source email app to reach inbox zero fast.",
+          "language": "TypeScript",
+          "stars": 4141,
+          "forks": 476
+        },
+        {
+          "rank": 6,
+          "name": "gitroomhq/postiz-app",
+          "url": "https://github.com/gitroomhq/postiz-app",
+          "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+          "language": "TypeScript",
+          "stars": 18953,
+          "forks": 3037
+        },
+        {
+          "rank": 7,
+          "name": "alibaba/higress",
+          "url": "https://github.com/alibaba/higress",
+          "description": "🤖 AI Gateway | AI Native API Gateway",
+          "language": "Go",
+          "stars": 4294,
+          "forks": 604
+        },
+        {
+          "rank": 8,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "JavaScript",
+          "stars": 86926,
+          "forks": 10728
+        },
+        {
+          "rank": 9,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 35643,
+          "forks": 369
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/docs",
+          "url": "https://github.com/inkonchain/docs",
+          "description": "Ink Documentation",
+          "language": "MDX",
+          "stars": 35788,
+          "forks": 386
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 35863,
+          "forks": 3143
+        },
+        {
+          "rank": 2,
+          "name": "All-Hands-AI/OpenHands",
+          "url": "https://github.com/All-Hands-AI/OpenHands",
+          "description": "🙌 OpenHands: Code Less, Make More",
+          "language": "Python",
+          "stars": 51892,
+          "forks": 5767
+        },
+        {
+          "rank": 3,
+          "name": "langflow-ai/langflow",
+          "url": "https://github.com/langflow-ai/langflow",
+          "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+          "language": "Python",
+          "stars": 53741,
+          "forks": 5890
+        },
+        {
+          "rank": 4,
+          "name": "dreammis/social-auto-upload",
+          "url": "https://github.com/dreammis/social-auto-upload",
+          "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+          "language": "Python",
+          "stars": 4034,
+          "forks": 699
+        },
+        {
+          "rank": 5,
+          "name": "apirrone/Open_Duck_Mini",
+          "url": "https://github.com/apirrone/Open_Duck_Mini",
+          "description": "Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe",
+          "language": "Python",
+          "stars": 1080,
+          "forks": 140
+        },
+        {
+          "rank": 6,
+          "name": "apache/airflow",
+          "url": "https://github.com/apache/airflow",
+          "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+          "language": "Python",
+          "stars": 39442,
+          "forks": 14835
+        },
+        {
+          "rank": 7,
+          "name": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description": "Developer-first error tracking and performance monitoring",
+          "language": "Python",
+          "stars": 40451,
+          "forks": 4301
+        },
+        {
+          "rank": 8,
+          "name": "jlowin/fastmcp",
+          "url": "https://github.com/jlowin/fastmcp",
+          "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀",
+          "language": "Python",
+          "stars": 3430,
+          "forks": 167
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 20387,
+          "forks": 3687
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 18126,
+          "forks": 2026
+        }
+      ]
+    }
+  ]
+}

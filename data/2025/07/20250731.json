@@ -1,0 +1,391 @@
+{
+  "date": "20250731",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98438,
+          "forks": 16032
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90710,
+          "forks": 11701
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 72692,
+          "forks": 20548
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 69910,
+          "forks": 3766
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 66643,
+          "forks": 7673
+        },
+        {
+          "rank": 6,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 65904,
+          "forks": 6325
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 64093,
+          "forks": 5085
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 62249,
+          "forks": 7223
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 48535,
+          "forks": 8493
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 38896,
+          "forks": 6839
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13133,
+          "forks": 152431
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 861,
+          "forks": 144019
+        },
+        {
+          "rank": 3,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49655,
+          "forks": 89160
+        },
+        {
+          "rank": 4,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28716,
+          "forks": 87087
+        },
+        {
+          "rank": 5,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168350,
+          "forks": 83047
+        },
+        {
+          "rank": 6,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2354,
+          "forks": 82558
+        },
+        {
+          "rank": 7,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 323608,
+          "forks": 79742
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172744,
+          "forks": 79128
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190978,
+          "forks": 74762
+        },
+        {
+          "rank": 10,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 364081,
+          "forks": 63842
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "kijai/ComfyUI-WanVideoWrapper",
+          "url": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
+          "description": "",
+          "language": "Python",
+          "stars": 3553,
+          "forks": 265
+        },
+        {
+          "rank": 2,
+          "name": "stenzek/duckstation",
+          "url": "https://github.com/stenzek/duckstation",
+          "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+          "language": "C++",
+          "stars": 8564,
+          "forks": 771
+        },
+        {
+          "rank": 3,
+          "name": "SkyworkAI/SkyReels-V2",
+          "url": "https://github.com/SkyworkAI/SkyReels-V2",
+          "description": "SkyReels-V2: Infinite-length Film Generative model",
+          "language": "Python",
+          "stars": 3728,
+          "forks": 482
+        },
+        {
+          "rank": 4,
+          "name": "OpenPipe/ART",
+          "url": "https://github.com/OpenPipe/ART",
+          "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your a...",
+          "language": "Python",
+          "stars": 4001,
+          "forks": 247
+        },
+        {
+          "rank": 5,
+          "name": "EmenstaNougat/ESP32-BlueJammer",
+          "url": "https://github.com/EmenstaNougat/ESP32-BlueJammer",
+          "description": "The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz commu...",
+          "language": "N/A",
+          "stars": 3382,
+          "forks": 508
+        },
+        {
+          "rank": 6,
+          "name": "9001/copyparty",
+          "url": "https://github.com/9001/copyparty",
+          "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, medi...",
+          "language": "Python",
+          "stars": 15506,
+          "forks": 493
+        },
+        {
+          "rank": 7,
+          "name": "puppeteer/puppeteer",
+          "url": "https://github.com/puppeteer/puppeteer",
+          "description": "JavaScript API for Chrome and Firefox",
+          "language": "TypeScript",
+          "stars": 91322,
+          "forks": 9240
+        },
+        {
+          "rank": 8,
+          "name": "Canner/WrenAI",
+          "url": "https://github.com/Canner/WrenAI",
+          "description": "⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurat...",
+          "language": "TypeScript",
+          "stars": 9001,
+          "forks": 927
+        },
+        {
+          "rank": 9,
+          "name": "pointfreeco/swift-composable-architecture",
+          "url": "https://github.com/pointfreeco/swift-composable-architecture",
+          "description": "A library for building applications in a consistent and understandable way, with composition, tes...",
+          "language": "Swift",
+          "stars": 13533,
+          "forks": 1555
+        },
+        {
+          "rank": 10,
+          "name": "fastrepl/hyprnote",
+          "url": "https://github.com/fastrepl/hyprnote",
+          "description": "Local-first AI Notepad for Private Meetings",
+          "language": "TypeScript",
+          "stars": 3459,
+          "forks": 180
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "kijai/ComfyUI-WanVideoWrapper",
+          "url": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
+          "description": "",
+          "language": "Python",
+          "stars": 3553,
+          "forks": 265
+        },
+        {
+          "rank": 2,
+          "name": "SkyworkAI/SkyReels-V2",
+          "url": "https://github.com/SkyworkAI/SkyReels-V2",
+          "description": "SkyReels-V2: Infinite-length Film Generative model",
+          "language": "Python",
+          "stars": 3728,
+          "forks": 482
+        },
+        {
+          "rank": 3,
+          "name": "OpenPipe/ART",
+          "url": "https://github.com/OpenPipe/ART",
+          "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your a...",
+          "language": "Python",
+          "stars": 4001,
+          "forks": 247
+        },
+        {
+          "rank": 4,
+          "name": "9001/copyparty",
+          "url": "https://github.com/9001/copyparty",
+          "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, medi...",
+          "language": "Python",
+          "stars": 15506,
+          "forks": 493
+        },
+        {
+          "rank": 5,
+          "name": "stanford-oval/storm",
+          "url": "https://github.com/stanford-oval/storm",
+          "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length repo...",
+          "language": "Python",
+          "stars": 27057,
+          "forks": 2438
+        },
+        {
+          "rank": 6,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars": 32305,
+          "forks": 2575
+        },
+        {
+          "rank": 7,
+          "name": "OSU-NLP-Group/HippoRAG",
+          "url": "https://github.com/OSU-NLP-Group/HippoRAG",
+          "description": "[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LL...",
+          "language": "Python",
+          "stars": 2624,
+          "forks": 242
+        },
+        {
+          "rank": 8,
+          "name": "tinygrad/tinygrad",
+          "url": "https://github.com/tinygrad/tinygrad",
+          "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+          "language": "Python",
+          "stars": 29755,
+          "forks": 3546
+        },
+        {
+          "rank": 9,
+          "name": "Alibaba-NLP/WebAgent",
+          "url": "https://github.com/Alibaba-NLP/WebAgent",
+          "description": "🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebSh...",
+          "language": "Python",
+          "stars": 5446,
+          "forks": 397
+        },
+        {
+          "rank": 10,
+          "name": "Pythagora-io/gpt-pilot",
+          "url": "https://github.com/Pythagora-io/gpt-pilot",
+          "description": "The first real AI developer",
+          "language": "Python",
+          "stars": 33248,
+          "forks": 3406
+        }
+      ]
+    }
+  ]
+}

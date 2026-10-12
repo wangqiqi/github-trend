@@ -1,0 +1,391 @@
+{
+  "date": "20261002",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 155762,
+          "forks": 25131
+        },
+        {
+          "rank": 2,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65%...",
+          "language": "Go",
+          "stars": 108958,
+          "forks": 6313
+        },
+        {
+          "rank": 3,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 65833,
+          "forks": 54932
+        },
+        {
+          "rank": 4,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 62358,
+          "forks": 7955
+        },
+        {
+          "rank": 5,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tok...",
+          "language": "Python",
+          "stars": 56378,
+          "forks": 9008
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, too...",
+          "language": "Python",
+          "stars": 48742,
+          "forks": 8599
+        },
+        {
+          "rank": 7,
+          "name": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+          "language": "Go",
+          "stars": 43207,
+          "forks": 9239
+        },
+        {
+          "rank": 8,
+          "name": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "The open agent skills tool - npx skills",
+          "language": "TypeScript",
+          "stars": 32980,
+          "forks": 2806
+        },
+        {
+          "rank": 9,
+          "name": "zeroclaw-labs/zeroclaw",
+          "url": "https://github.com/zeroclaw-labs/zeroclaw",
+          "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — de...",
+          "language": "Rust",
+          "stars": 32923,
+          "forks": 4953
+        },
+        {
+          "rank": 10,
+          "name": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1...",
+          "language": "TypeScript",
+          "stars": 30114,
+          "forks": 4211
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2723,
+          "forks": 94205
+        },
+        {
+          "rank": 2,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 391183,
+          "forks": 82224
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 176012,
+          "forks": 82155
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174975,
+          "forks": 78571
+        },
+        {
+          "rank": 5,
+          "name": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+          "language": "C#",
+          "stars": 30238,
+          "forks": 78003
+        },
+        {
+          "rank": 6,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 398318,
+          "forks": 66874
+        },
+        {
+          "rank": 7,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 250839,
+          "forks": 66468
+        },
+        {
+          "rank": 8,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8666,
+          "forks": 59994
+        },
+        {
+          "rank": 9,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 551174,
+          "forks": 51736
+        },
+        {
+          "rank": 10,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 225203,
+          "forks": 51151
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 88221,
+          "forks": 7775
+        },
+        {
+          "rank": 2,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65%...",
+          "language": "Go",
+          "stars": 108958,
+          "forks": 6313
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 294306,
+          "forks": 26311
+        },
+        {
+          "rank": 4,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 151393,
+          "forks": 8118
+        },
+        {
+          "rank": 5,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 74112,
+          "forks": 4467
+        },
+        {
+          "rank": 6,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 274523,
+          "forks": 23050
+        },
+        {
+          "rank": 7,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars": 14317,
+          "forks": 1651
+        },
+        {
+          "rank": 8,
+          "name": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engi...",
+          "language": "JavaScript",
+          "stars": 52310,
+          "forks": 7874
+        },
+        {
+          "rank": 9,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 55732,
+          "forks": 5033
+        },
+        {
+          "rank": 10,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists...",
+          "language": "TypeScript",
+          "stars": 24960,
+          "forks": 1796
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 88221,
+          "forks": 7775
+        },
+        {
+          "rank": 2,
+          "name": "google/skills",
+          "url": "https://github.com/google/skills",
+          "description": "Agent Skills for Google products and technologies",
+          "language": "Python",
+          "stars": 20659,
+          "forks": 1717
+        },
+        {
+          "rank": 3,
+          "name": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description": "Developer-first error tracking and performance monitoring",
+          "language": "Python",
+          "stars": 44970,
+          "forks": 4886
+        },
+        {
+          "rank": 4,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 16663,
+          "forks": 2276
+        },
+        {
+          "rank": 5,
+          "name": "tile-ai/tilelang",
+          "url": "https://github.com/tile-ai/tilelang",
+          "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accel...",
+          "language": "Python",
+          "stars": 8225,
+          "forks": 828
+        },
+        {
+          "rank": 6,
+          "name": "Friedrich-M/UniMate",
+          "url": "https://github.com/Friedrich-M/UniMate",
+          "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+          "language": "Python",
+          "stars": 1185,
+          "forks": 107
+        },
+        {
+          "rank": 7,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks,...",
+          "language": "Python",
+          "stars": 19063,
+          "forks": 1662
+        },
+        {
+          "rank": 8,
+          "name": "ifixai-ai/iFixAi",
+          "url": "https://github.com/ifixai-ai/iFixAi",
+          "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial q...",
+          "language": "Python",
+          "stars": 19043,
+          "forks": 1376
+        },
+        {
+          "rank": 9,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+          "language": "Python",
+          "stars": 11337,
+          "forks": 1658
+        },
+        {
+          "rank": 10,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 52873,
+          "forks": 3044
+        }
+      ]
+    }
+  ]
+}

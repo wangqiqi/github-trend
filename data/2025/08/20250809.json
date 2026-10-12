@@ -1,0 +1,391 @@
+{
+  "date": "20250809",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98563,
+          "forks": 16055
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90817,
+          "forks": 11715
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 74423,
+          "forks": 20972
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 70708,
+          "forks": 3827
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 68237,
+          "forks": 6729
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 67255,
+          "forks": 7762
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 65362,
+          "forks": 5216
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 63560,
+          "forks": 7388
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 48837,
+          "forks": 8555
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39175,
+          "forks": 6892
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13152,
+          "forks": 152587
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 862,
+          "forks": 144031
+        },
+        {
+          "rank": 3,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49815,
+          "forks": 89513
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168534,
+          "forks": 83030
+        },
+        {
+          "rank": 5,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2398,
+          "forks": 83032
+        },
+        {
+          "rank": 6,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 324054,
+          "forks": 79817
+        },
+        {
+          "rank": 7,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172812,
+          "forks": 79125
+        },
+        {
+          "rank": 8,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191110,
+          "forks": 74762
+        },
+        {
+          "rank": 9,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2571,
+          "forks": 72505
+        },
+        {
+          "rank": 10,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 364733,
+          "forks": 63880
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 33139,
+          "forks": 3840
+        },
+        {
+          "rank": 2,
+          "name": "xiaoyaocz/dart_simple_live",
+          "url": "https://github.com/xiaoyaocz/dart_simple_live",
+          "description": "简简单单的看直播",
+          "language": "Dart",
+          "stars": 11960,
+          "forks": 830
+        },
+        {
+          "rank": 3,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "A high-performance algorithmic trading platform and event-driven backtester",
+          "language": "Rust",
+          "stars": 13229,
+          "forks": 1434
+        },
+        {
+          "rank": 4,
+          "name": "nomic-ai/gpt4all",
+          "url": "https://github.com/nomic-ai/gpt4all",
+          "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+          "language": "C++",
+          "stars": 73994,
+          "forks": 8073
+        },
+        {
+          "rank": 5,
+          "name": "polarsource/polar",
+          "url": "https://github.com/polarsource/polar",
+          "description": "An open source engine for your digital products. Sell SaaS and digital products in minutes.",
+          "language": "Python",
+          "stars": 6280,
+          "forks": 393
+        },
+        {
+          "rank": 6,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 29389,
+          "forks": 1883
+        },
+        {
+          "rank": 7,
+          "name": "steveiliop56/tinyauth",
+          "url": "https://github.com/steveiliop56/tinyauth",
+          "description": "The simplest way to protect your apps with a login screen.",
+          "language": "Go",
+          "stars": 3922,
+          "forks": 109
+        },
+        {
+          "rank": 8,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "Python",
+          "stars": 2689,
+          "forks": 263
+        },
+        {
+          "rank": 9,
+          "name": "libsdl-org/SDL",
+          "url": "https://github.com/libsdl-org/SDL",
+          "description": "Simple Directmedia Layer",
+          "language": "C",
+          "stars": 13004,
+          "forks": 2289
+        },
+        {
+          "rank": 10,
+          "name": "sinaptik-ai/pandas-ai",
+          "url": "https://github.com/sinaptik-ai/pandas-ai",
+          "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conver...",
+          "language": "Python",
+          "stars": 21493,
+          "forks": 2088
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "polarsource/polar",
+          "url": "https://github.com/polarsource/polar",
+          "description": "An open source engine for your digital products. Sell SaaS and digital products in minutes.",
+          "language": "Python",
+          "stars": 6280,
+          "forks": 393
+        },
+        {
+          "rank": 2,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 29389,
+          "forks": 1883
+        },
+        {
+          "rank": 3,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "Python",
+          "stars": 2689,
+          "forks": 263
+        },
+        {
+          "rank": 4,
+          "name": "sinaptik-ai/pandas-ai",
+          "url": "https://github.com/sinaptik-ai/pandas-ai",
+          "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conver...",
+          "language": "Python",
+          "stars": 21493,
+          "forks": 2088
+        },
+        {
+          "rank": 5,
+          "name": "openai/openai-python",
+          "url": "https://github.com/openai/openai-python",
+          "description": "The official Python library for the OpenAI API",
+          "language": "Python",
+          "stars": 28032,
+          "forks": 4148
+        },
+        {
+          "rank": 6,
+          "name": "tadata-org/fastapi_mcp",
+          "url": "https://github.com/tadata-org/fastapi_mcp",
+          "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+          "language": "Python",
+          "stars": 6940,
+          "forks": 577
+        },
+        {
+          "rank": 7,
+          "name": "xlang-ai/OSWorld",
+          "url": "https://github.com/xlang-ai/OSWorld",
+          "description": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Envi...",
+          "language": "Python",
+          "stars": 2027,
+          "forks": 265
+        },
+        {
+          "rank": 8,
+          "name": "Pointcept/Pointcept",
+          "url": "https://github.com/Pointcept/Pointcept",
+          "description": "Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research....",
+          "language": "Python",
+          "stars": 2355,
+          "forks": 284
+        },
+        {
+          "rank": 9,
+          "name": "dataease/SQLBot",
+          "url": "https://github.com/dataease/SQLBot",
+          "description": "基于大模型和 RAG 的智能问数系统",
+          "language": "Python",
+          "stars": 345,
+          "forks": 38
+        },
+        {
+          "rank": 10,
+          "name": "assafelovic/gpt-researcher",
+          "url": "https://github.com/assafelovic/gpt-researcher",
+          "description": "LLM based autonomous agent that conducts deep local and web research on any topic and generates a...",
+          "language": "Python",
+          "stars": 22857,
+          "forks": 3018
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "date": "20260222",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 108378,
+          "forks": 10731
+        },
+        {
+          "rank": 2,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54578,
+          "forks": 9553
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Bat...",
+          "language": "JavaScript",
+          "stars": 49311,
+          "forks": 6114
+        },
+        {
+          "rank": 4,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 46848,
+          "forks": 22271
+        },
+        {
+          "rank": 5,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45954,
+          "forks": 4703
+        },
+        {
+          "rank": 6,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 36604,
+          "forks": 3570
+        },
+        {
+          "rank": 7,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 33472,
+          "forks": 2230
+        },
+        {
+          "rank": 8,
+          "name": "code-yeongyu/oh-my-opencode",
+          "url": "https://github.com/code-yeongyu/oh-my-opencode",
+          "description": "the best agent harness",
+          "language": "TypeScript",
+          "stars": 32992,
+          "forks": 2493
+        },
+        {
+          "rank": 9,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+          "language": "HTML",
+          "stars": 32488,
+          "forks": 5174
+        },
+        {
+          "rank": 10,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 30076,
+          "forks": 2028
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2572,
+          "forks": 88889
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29416,
+          "forks": 87517
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 172654,
+          "forks": 82820
+        },
+        {
+          "rank": 4,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 337290,
+          "forks": 81648
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 193884,
+          "forks": 75230
+        },
+        {
+          "rank": 6,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18966,
+          "forks": 66082
+        },
+        {
+          "rank": 7,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 218211,
+          "forks": 60544
+        },
+        {
+          "rank": 8,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 336160,
+          "forks": 54533
+        },
+        {
+          "rank": 9,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 243262,
+          "forks": 50610
+        },
+        {
+          "rank": 10,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 217958,
+          "forks": 50077
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "description": "",
+          "language": "Python",
+          "stars": 1894,
+          "forks": 155
+        },
+        {
+          "rank": 2,
+          "name": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+          "language": "Go",
+          "stars": 6272,
+          "forks": 765
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 68651,
+          "forks": 5388
+        },
+        {
+          "rank": 4,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 116454,
+          "forks": 30145
+        },
+        {
+          "rank": 5,
+          "name": "Stremio/stremio-web",
+          "url": "https://github.com/Stremio/stremio-web",
+          "description": "Stremio - Freedom to Stream",
+          "language": "JavaScript",
+          "stars": 9564,
+          "forks": 1063
+        },
+        {
+          "rank": 6,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 60747,
+          "forks": 5932
+        },
+        {
+          "rank": 7,
+          "name": "cloudflare/agents",
+          "url": "https://github.com/cloudflare/agents",
+          "description": "Build and deploy AI Agents on Cloudflare",
+          "language": "TypeScript",
+          "stars": 3569,
+          "forks": 395
+        },
+        {
+          "rank": 8,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 1255,
+          "forks": 101
+        },
+        {
+          "rank": 9,
+          "name": "stan-smith/FossFLOW",
+          "url": "https://github.com/stan-smith/FossFLOW",
+          "description": "Make beautiful isometric infrastructure diagrams",
+          "language": "TypeScript",
+          "stars": 17945,
+          "forks": 1171
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "description": "",
+          "language": "Python",
+          "stars": 1894,
+          "forks": 155
+        },
+        {
+          "rank": 2,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Financial data platform for analysts, quants and AI agents.",
+          "language": "Python",
+          "stars": 60747,
+          "forks": 5932
+        },
+        {
+          "rank": 3,
+          "name": "mihail911/modern-software-dev-assignments",
+          "url": "https://github.com/mihail911/modern-software-dev-assignments",
+          "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)",
+          "language": "Python",
+          "stars": 1968,
+          "forks": 480
+        },
+        {
+          "rank": 4,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 148000,
+          "forks": 11993
+        },
+        {
+          "rank": 5,
+          "name": "openai/evals",
+          "url": "https://github.com/openai/evals",
+          "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+          "language": "Python",
+          "stars": 17858,
+          "forks": 2890
+        },
+        {
+          "rank": 6,
+          "name": "opengeos/geoai",
+          "url": "https://github.com/opengeos/geoai",
+          "description": "GeoAI: Artificial Intelligence for Geospatial Data",
+          "language": "Python",
+          "stars": 2571,
+          "forks": 361
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 51927,
+          "forks": 6601
+        },
+        {
+          "rank": 8,
+          "name": "agno-agi/agno",
+          "url": "https://github.com/agno-agi/agno",
+          "description": "The programming language for agentic software. Build, run, and manage multi-agent systems at scale.",
+          "language": "Python",
+          "stars": 38080,
+          "forks": 5039
+        },
+        {
+          "rank": 9,
+          "name": "RichardAtCT/claude-code-telegram",
+          "url": "https://github.com/RichardAtCT/claude-code-telegram",
+          "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to intera...",
+          "language": "Python",
+          "stars": 1501,
+          "forks": 177
+        },
+        {
+          "rank": 10,
+          "name": "Netflix/metaflow",
+          "url": "https://github.com/Netflix/metaflow",
+          "description": "Build, Manage and Deploy AI/ML Systems",
+          "language": "Python",
+          "stars": 9793,
+          "forks": 1024
+        }
+      ]
+    }
+  ]
+}

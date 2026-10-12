@@ -1,0 +1,391 @@
+{
+  "date": "20260417",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 359270,
+          "forks": 73094
+        },
+        {
+          "rank": 2,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 144823,
+          "forks": 16386
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 119385,
+          "forks": 13813
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 95860,
+          "forks": 13420
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 88780,
+          "forks": 7638
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 81487,
+          "forks": 13045
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 73691,
+          "forks": 10727
+        },
+        {
+          "rank": 8,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 66870,
+          "forks": 6803
+        },
+        {
+          "rank": 9,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 62196,
+          "forks": 8033
+        },
+        {
+          "rank": 10,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 54305,
+          "forks": 4550
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 87158,
+          "forks": 56558
+        },
+        {
+          "rank": 2,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 86063,
+          "forks": 37254
+        },
+        {
+          "rank": 3,
+          "name": "samqin123/MoonTV",
+          "url": "https://github.com/samqin123/MoonTV",
+          "description": "No description",
+          "language": "TypeScript",
+          "stars": 1905,
+          "forks": 30946
+        },
+        {
+          "rank": 4,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 51868,
+          "forks": 23203
+        },
+        {
+          "rank": 5,
+          "name": "is-a-dev/register",
+          "url": "https://github.com/is-a-dev/register",
+          "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+          "language": "JavaScript",
+          "stars": 10127,
+          "forks": 20285
+        },
+        {
+          "rank": 6,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 168,
+          "forks": 19882
+        },
+        {
+          "rank": 7,
+          "name": "element-plus/element-plus",
+          "url": "https://github.com/element-plus/element-plus",
+          "description": "🎉 A Vue.js 3 UI Library made by Element team",
+          "language": "TypeScript",
+          "stars": 27340,
+          "forks": 19893
+        },
+        {
+          "rank": 8,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 132351,
+          "forks": 18791
+        },
+        {
+          "rank": 9,
+          "name": "springframeworkguru/spring5webapp",
+          "url": "https://github.com/springframeworkguru/spring5webapp",
+          "description": "Example Spring 5 Web Application",
+          "language": "Java",
+          "stars": 753,
+          "forks": 18769
+        },
+        {
+          "rank": 10,
+          "name": "zero-to-mastery/start-here-guidelines",
+          "url": "https://github.com/zero-to-mastery/start-here-guidelines",
+          "description": "Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playgro...",
+          "language": "Python",
+          "stars": 2845,
+          "forks": 17474
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "EvoMap/evolver",
+          "url": "https://github.com/EvoMap/evolver",
+          "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+          "language": "JavaScript",
+          "stars": 3656,
+          "forks": 375
+        },
+        {
+          "rank": 2,
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x ...",
+          "language": "Python",
+          "stars": 3282,
+          "forks": 359
+        },
+        {
+          "rank": 3,
+          "name": "SimoneAvogadro/android-reverse-engineering-skill",
+          "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+          "description": "Claude Code skill to support Android app's reverse engineering",
+          "language": "Shell",
+          "stars": 2562,
+          "forks": 273
+        },
+        {
+          "rank": 4,
+          "name": "BasedHardware/omi",
+          "url": "https://github.com/BasedHardware/omi",
+          "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+          "language": "Dart",
+          "stars": 9517,
+          "forks": 1652
+        },
+        {
+          "rank": 5,
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars": 31305,
+          "forks": 3801
+        },
+        {
+          "rank": 6,
+          "name": "Donchitos/Claude-Code-Game-Studios",
+          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+          "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete c...",
+          "language": "Shell",
+          "stars": 11480,
+          "forks": 1695
+        },
+        {
+          "rank": 7,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source voice synthesis studio",
+          "language": "TypeScript",
+          "stars": 19540,
+          "forks": 2248
+        },
+        {
+          "rank": 8,
+          "name": "lukilabs/craft-agents-oss",
+          "url": "https://github.com/lukilabs/craft-agents-oss",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 4205,
+          "forks": 624
+        },
+        {
+          "rank": 9,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+          "language": "Python",
+          "stars": 1164,
+          "forks": 153
+        },
+        {
+          "rank": 10,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 157175,
+          "forks": 13659
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x ...",
+          "language": "Python",
+          "stars": 3282,
+          "forks": 359
+        },
+        {
+          "rank": 2,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+          "language": "Python",
+          "stars": 1164,
+          "forks": 153
+        },
+        {
+          "rank": 3,
+          "name": "z-lab/dflash",
+          "url": "https://github.com/z-lab/dflash",
+          "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+          "language": "Python",
+          "stars": 1741,
+          "forks": 118
+        },
+        {
+          "rank": 4,
+          "name": "openai/openai-agents-python",
+          "url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "language": "Python",
+          "stars": 21600,
+          "forks": 3472
+        },
+        {
+          "rank": 5,
+          "name": "google/magika",
+          "url": "https://github.com/google/magika",
+          "description": "Fast and accurate AI powered file content types detection",
+          "language": "Python",
+          "stars": 15182,
+          "forks": 825
+        },
+        {
+          "rank": 6,
+          "name": "nv-tlabs/lyra",
+          "url": "https://github.com/nv-tlabs/lyra",
+          "description": "Project Lyra: Open Generative 3D World Models",
+          "language": "Python",
+          "stars": 1395,
+          "forks": 107
+        },
+        {
+          "rank": 7,
+          "name": "NVlabs/GR00T-WholeBodyControl",
+          "url": "https://github.com/NVlabs/GR00T-WholeBodyControl",
+          "description": "Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...",
+          "language": "Python",
+          "stars": 1496,
+          "forks": 185
+        },
+        {
+          "rank": 8,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+          "language": "Python",
+          "stars": 16099,
+          "forks": 1655
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 119385,
+          "forks": 13813
+        },
+        {
+          "rank": 10,
+          "name": "datalab-to/chandra",
+          "url": "https://github.com/datalab-to/chandra",
+          "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+          "language": "Python",
+          "stars": 9000,
+          "forks": 937
+        }
+      ]
+    }
+  ]
+}

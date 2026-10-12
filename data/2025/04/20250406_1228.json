@@ -1,0 +1,391 @@
+{
+  "date": "20250406",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 36992,
+          "forks": 1554
+        },
+        {
+          "rank": 2,
+          "name": "inkonchain/docs",
+          "url": "https://github.com/inkonchain/docs",
+          "description": "Ink Documentation",
+          "language": "MDX",
+          "stars": 36300,
+          "forks": 395
+        },
+        {
+          "rank": 3,
+          "name": "inkonchain/node",
+          "url": "https://github.com/inkonchain/node",
+          "description": "How to run an Ink Node",
+          "language": "Shell",
+          "stars": 36252,
+          "forks": 556
+        },
+        {
+          "rank": 4,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36151,
+          "forks": 378
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 31773,
+          "forks": 2170
+        },
+        {
+          "rank": 6,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 27435,
+          "forks": 1690
+        },
+        {
+          "rank": 7,
+          "name": "RSSNext/Folo",
+          "url": "https://github.com/RSSNext/Folo",
+          "description": "🧡 Follow everything in one place",
+          "language": "TypeScript",
+          "stars": 24866,
+          "forks": 1051
+        },
+        {
+          "rank": 8,
+          "name": "huggingface/open-r1",
+          "url": "https://github.com/huggingface/open-r1",
+          "description": "Fully open reproduction of DeepSeek-R1",
+          "language": "Python",
+          "stars": 23728,
+          "forks": 2163
+        },
+        {
+          "rank": 9,
+          "name": "PatrickJS/awesome-cursorrules",
+          "url": "https://github.com/PatrickJS/awesome-cursorrules",
+          "description": "📄 A curated list of awesome .cursorrules files",
+          "language": "N/A",
+          "stars": 20337,
+          "forks": 1500
+        },
+        {
+          "rank": 10,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 19778,
+          "forks": 1648
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37075
+        },
+        {
+          "rank": 2,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 368558,
+          "forks": 34250
+        },
+        {
+          "rank": 3,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 66148,
+          "forks": 31476
+        },
+        {
+          "rank": 4,
+          "name": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "description": "😎 Awesome lists about all kinds of interesting topics",
+          "language": "N/A",
+          "stars": 354827,
+          "forks": 28861
+        },
+        {
+          "rank": 5,
+          "name": "justjavac/free-programming-books-zh_CN",
+          "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+          "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+          "language": "N/A",
+          "stars": 113258,
+          "forks": 28307
+        },
+        {
+          "rank": 6,
+          "name": "lewagon/dotfiles",
+          "url": "https://github.com/lewagon/dotfiles",
+          "description": "Default configuration for Le Wagon's students",
+          "language": "Shell",
+          "stars": 21090,
+          "forks": 26998
+        },
+        {
+          "rank": 7,
+          "name": "iluwatar/java-design-patterns",
+          "url": "https://github.com/iluwatar/java-design-patterns",
+          "description": "Design patterns implemented in Java",
+          "language": "Java",
+          "stars": 91198,
+          "forks": 26882
+        },
+        {
+          "rank": 8,
+          "name": "vagabond-systems/jpmc-task-1",
+          "url": "https://github.com/vagabond-systems/jpmc-task-1",
+          "description": "Starter repo for task 1 of the JPMC software engineering program",
+          "language": "Python",
+          "stars": 43,
+          "forks": 22431
+        },
+        {
+          "rank": 9,
+          "name": "yankils/hello-world",
+          "url": "https://github.com/yankils/hello-world",
+          "description": "No description",
+          "language": "Java",
+          "stars": 259,
+          "forks": 22593
+        },
+        {
+          "rank": 10,
+          "name": "godotengine/godot",
+          "url": "https://github.com/godotengine/godot",
+          "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+          "language": "C++",
+          "stars": 95851,
+          "forks": 22052
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "meta-llama/llama-models",
+          "url": "https://github.com/meta-llama/llama-models",
+          "description": "Utilities intended for use with Llama models.",
+          "language": "Python",
+          "stars": 6166,
+          "forks": 1036
+        },
+        {
+          "rank": 2,
+          "name": "juliangarnier/anime",
+          "url": "https://github.com/juliangarnier/anime",
+          "description": "JavaScript animation engine",
+          "language": "JavaScript",
+          "stars": 53317,
+          "forks": 3780
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 42458,
+          "forks": 2027
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA-Omniverse/PhysX",
+          "url": "https://github.com/NVIDIA-Omniverse/PhysX",
+          "description": "NVIDIA PhysX SDK",
+          "language": "C++",
+          "stars": 3124,
+          "forks": 436
+        },
+        {
+          "rank": 5,
+          "name": "datawhalechina/llm-cookbook",
+          "url": "https://github.com/datawhalechina/llm-cookbook",
+          "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+          "language": "Jupyter Notebook",
+          "stars": 16831,
+          "forks": 2096
+        },
+        {
+          "rank": 6,
+          "name": "activepieces/activepieces",
+          "url": "https://github.com/activepieces/activepieces",
+          "description": "Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs",
+          "language": "TypeScript",
+          "stars": 12578,
+          "forks": 1670
+        },
+        {
+          "rank": 7,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 809,
+          "forks": 43
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "JavaScript",
+          "stars": 172010,
+          "forks": 79069
+        },
+        {
+          "rank": 9,
+          "name": "supabase-community/supabase-mcp",
+          "url": "https://github.com/supabase-community/supabase-mcp",
+          "description": "Connect Supabase to your AI assistants",
+          "language": "TypeScript",
+          "stars": 245,
+          "forks": 21
+        },
+        {
+          "rank": 10,
+          "name": "fleetdm/fleet",
+          "url": "https://github.com/fleetdm/fleet",
+          "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, ...",
+          "language": "Go",
+          "stars": 4450,
+          "forks": 529
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "meta-llama/llama-models",
+          "url": "https://github.com/meta-llama/llama-models",
+          "description": "Utilities intended for use with Llama models.",
+          "language": "Python",
+          "stars": 6166,
+          "forks": 1036
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 42458,
+          "forks": 2027
+        },
+        {
+          "rank": 3,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 809,
+          "forks": 43
+        },
+        {
+          "rank": 4,
+          "name": "dortania/OpenCore-Legacy-Patcher",
+          "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+          "description": "Experience macOS just like before",
+          "language": "Python",
+          "stars": 14200,
+          "forks": 1390
+        },
+        {
+          "rank": 5,
+          "name": "dgtlmoon/changedetection.io",
+          "url": "https://github.com/dgtlmoon/changedetection.io",
+          "description": "The best and simplest free open source web page change detection, website watcher, restock monito...",
+          "language": "Python",
+          "stars": 23110,
+          "forks": 1261
+        },
+        {
+          "rank": 6,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 77890,
+          "forks": 33165
+        },
+        {
+          "rank": 7,
+          "name": "stephengpope/no-code-architects-toolkit",
+          "url": "https://github.com/stephengpope/no-code-architects-toolkit",
+          "description": "The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalit...",
+          "language": "Python",
+          "stars": 564,
+          "forks": 249
+        },
+        {
+          "rank": 8,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "A high-performance algorithmic trading platform and event-driven backtester",
+          "language": "Python",
+          "stars": 4898,
+          "forks": 748
+        },
+        {
+          "rank": 9,
+          "name": "iam-veeramalla/aws-devops-zero-to-hero",
+          "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+          "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, ...",
+          "language": "Python",
+          "stars": 7722,
+          "forks": 10944
+        },
+        {
+          "rank": 10,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 106719,
+          "forks": 8387
+        }
+      ]
+    }
+  ]
+}

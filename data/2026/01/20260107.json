@@ -1,0 +1,391 @@
+{
+  "date": "20260107",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 106415,
+          "forks": 28067
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91652,
+          "forks": 11779
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 89956,
+          "forks": 10397
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 60572,
+          "forks": 5265
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 55402,
+          "forks": 7116
+        },
+        {
+          "rank": 6,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 52707,
+          "forks": 4456
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49323,
+          "forks": 5877
+        },
+        {
+          "rank": 8,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Do...",
+          "language": "Python",
+          "stars": 42504,
+          "forks": 21325
+        },
+        {
+          "rank": 9,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 41101,
+          "forks": 2022
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 39850,
+          "forks": 5091
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 171650,
+          "forks": 82944
+        },
+        {
+          "rank": 2,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 346827,
+          "forks": 43596
+        },
+        {
+          "rank": 3,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 86396,
+          "forks": 33442
+        },
+        {
+          "rank": 4,
+          "name": "mui/material-ui",
+          "url": "https://github.com/mui/material-ui",
+          "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free...",
+          "language": "JavaScript",
+          "stars": 97580,
+          "forks": 32788
+        },
+        {
+          "rank": 5,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 136994,
+          "forks": 30209
+        },
+        {
+          "rank": 6,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 174604,
+          "forks": 29793
+        },
+        {
+          "rank": 7,
+          "name": "apache/spark",
+          "url": "https://github.com/apache/spark",
+          "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+          "language": "Scala",
+          "stars": 42599,
+          "forks": 28991
+        },
+        {
+          "rank": 8,
+          "name": "d3/d3",
+          "url": "https://github.com/d3/d3",
+          "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+          "language": "Shell",
+          "stars": 112112,
+          "forks": 22850
+        },
+        {
+          "rank": 9,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 166,
+          "forks": 20094
+        },
+        {
+          "rank": 10,
+          "name": "coolsnowwolf/lede",
+          "url": "https://github.com/coolsnowwolf/lede",
+          "description": "Lean's LEDE source",
+          "language": "C",
+          "stars": 31222,
+          "forks": 19536
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 11493,
+          "forks": 722
+        },
+        {
+          "rank": 2,
+          "name": "google/googletest",
+          "url": "https://github.com/google/googletest",
+          "description": "GoogleTest - Google Testing and Mocking Framework",
+          "language": "C++",
+          "stars": 37713,
+          "forks": 10641
+        },
+        {
+          "rank": 3,
+          "name": "Lissy93/web-check",
+          "url": "https://github.com/Lissy93/web-check",
+          "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+          "language": "TypeScript",
+          "stars": 28199,
+          "forks": 2266
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline e...",
+          "language": "C#",
+          "stars": 127460,
+          "forks": 7578
+        },
+        {
+          "rank": 5,
+          "name": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "description": "Protocol Buffers - Google's data interchange format",
+          "language": "C++",
+          "stars": 70151,
+          "forks": 15989
+        },
+        {
+          "rank": 6,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 18874,
+          "forks": 1170
+        },
+        {
+          "rank": 7,
+          "name": "memvid/memvid",
+          "url": "https://github.com/memvid/memvid",
+          "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory l...",
+          "language": "Rust",
+          "stars": 11163,
+          "forks": 944
+        },
+        {
+          "rank": 8,
+          "name": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "language": "Jupyter Notebook",
+          "stars": 25074,
+          "forks": 4095
+        },
+        {
+          "rank": 9,
+          "name": "DrewThomasson/ebook2audiobook",
+          "url": "https://github.com/DrewThomasson/ebook2audiobook",
+          "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
+          "language": "Python",
+          "stars": 16541,
+          "forks": 1334
+        },
+        {
+          "rank": 10,
+          "name": "marcelscruz/public-apis",
+          "url": "https://github.com/marcelscruz/public-apis",
+          "description": "A collaborative list of public APIs for developers",
+          "language": "JavaScript",
+          "stars": 7106,
+          "forks": 669
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DrewThomasson/ebook2audiobook",
+          "url": "https://github.com/DrewThomasson/ebook2audiobook",
+          "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
+          "language": "Python",
+          "stars": 16541,
+          "forks": 1334
+        },
+        {
+          "rank": 2,
+          "name": "MiroMindAI/MiroThinker",
+          "url": "https://github.com/MiroMindAI/MiroThinker",
+          "description": "MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning ...",
+          "language": "Python",
+          "stars": 2408,
+          "forks": 165
+        },
+        {
+          "rank": 3,
+          "name": "ml-explore/mlx-lm",
+          "url": "https://github.com/ml-explore/mlx-lm",
+          "description": "Run LLMs with MLX",
+          "language": "Python",
+          "stars": 3250,
+          "forks": 364
+        },
+        {
+          "rank": 4,
+          "name": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "description": "Animation engine for explanatory math videos",
+          "language": "Python",
+          "stars": 83455,
+          "forks": 7052
+        },
+        {
+          "rank": 5,
+          "name": "sooperset/mcp-atlassian",
+          "url": "https://github.com/sooperset/mcp-atlassian",
+          "description": "MCP server for Atlassian tools (Confluence, Jira)",
+          "language": "Python",
+          "stars": 3908,
+          "forks": 827
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "Python",
+          "stars": 25512,
+          "forks": 2031
+        },
+        {
+          "rank": 7,
+          "name": "camel-ai/owl",
+          "url": "https://github.com/camel-ai/owl",
+          "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+          "language": "Python",
+          "stars": 18609,
+          "forks": 2156
+        },
+        {
+          "rank": 8,
+          "name": "trustgraph-ai/trustgraph",
+          "url": "https://github.com/trustgraph-ai/trustgraph",
+          "description": "The Context Graph Factory for AI. Build, manage, and deploy AI-optimized Context Graphs.",
+          "language": "Python",
+          "stars": 928,
+          "forks": 77
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 44966,
+          "forks": 7884
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 36722,
+          "forks": 4350
+        }
+      ]
+    }
+  ]
+}

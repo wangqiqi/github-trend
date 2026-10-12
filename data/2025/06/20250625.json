@@ -1,0 +1,391 @@
+{
+  "date": "20250625",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97833,
+          "forks": 15915
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90268,
+          "forks": 11653
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 63955,
+          "forks": 7277
+        },
+        {
+          "rank": 4,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 60900,
+          "forks": 18164
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 59481,
+          "forks": 3100
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 57376,
+          "forks": 4398
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "Python",
+          "stars": 55878,
+          "forks": 6423
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 47222,
+          "forks": 8244
+        },
+        {
+          "rank": 9,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 46224,
+          "forks": 5845
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 37056,
+          "forks": 6432
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6612,
+          "forks": 243620
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13073,
+          "forks": 151905
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 856,
+          "forks": 143960
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49034,
+          "forks": 87537
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28557,
+          "forks": 86842
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 167481,
+          "forks": 83050
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1859,
+          "forks": 80761
+        },
+        {
+          "rank": 8,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 321299,
+          "forks": 79356
+        },
+        {
+          "rank": 9,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172450,
+          "forks": 79128
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190476,
+          "forks": 74715
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "description": "Fullstack app framework for web, desktop, mobile, and more.",
+          "language": "Rust",
+          "stars": 28240,
+          "forks": 1159
+        },
+        {
+          "rank": 2,
+          "name": "vitejs/vite",
+          "url": "https://github.com/vitejs/vite",
+          "description": "Next generation frontend tooling. It's fast!",
+          "language": "TypeScript",
+          "stars": 73510,
+          "forks": 6858
+        },
+        {
+          "rank": 3,
+          "name": "musistudio/claude-code-router",
+          "url": "https://github.com/musistudio/claude-code-router",
+          "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to intera...",
+          "language": "TypeScript",
+          "stars": 1632,
+          "forks": 114
+        },
+        {
+          "rank": 4,
+          "name": "AykutSarac/jsoncrack.com",
+          "url": "https://github.com/AykutSarac/jsoncrack.com",
+          "description": "✨ Innovative and open-source visualization application that transforms various data formats, such...",
+          "language": "TypeScript",
+          "stars": 37980,
+          "forks": 2543
+        },
+        {
+          "rank": 5,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars": 99929,
+          "forks": 10723
+        },
+        {
+          "rank": 6,
+          "name": "sdmg15/Best-websites-a-programmer-should-visit",
+          "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+          "description": "🔗 Some useful websites for programmers.",
+          "language": "N/A",
+          "stars": 68112,
+          "forks": 8166
+        },
+        {
+          "rank": 7,
+          "name": "jujumilk3/leaked-system-prompts",
+          "url": "https://github.com/jujumilk3/leaked-system-prompts",
+          "description": "Collection of leaked system prompts",
+          "language": "N/A",
+          "stars": 10316,
+          "forks": 1362
+        },
+        {
+          "rank": 8,
+          "name": "ml-tooling/best-of-ml-python",
+          "url": "https://github.com/ml-tooling/best-of-ml-python",
+          "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+          "language": "N/A",
+          "stars": 20780,
+          "forks": 2840
+        },
+        {
+          "rank": 9,
+          "name": "bgstaal/multipleWindow3dScene",
+          "url": "https://github.com/bgstaal/multipleWindow3dScene",
+          "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js an...",
+          "language": "JavaScript",
+          "stars": 18387,
+          "forks": 2849
+        },
+        {
+          "rank": 10,
+          "name": "mikeroyal/Self-Hosting-Guide",
+          "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+          "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and manag...",
+          "language": "Dockerfile",
+          "stars": 14085,
+          "forks": 736
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "eriklindernoren/ML-From-Scratch",
+          "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+          "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and al...",
+          "language": "Python",
+          "stars": 25317,
+          "forks": 4695
+        },
+        {
+          "rank": 2,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 308103,
+          "forks": 50830
+        },
+        {
+          "rank": 3,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 353066,
+          "forks": 37067
+        },
+        {
+          "rank": 4,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
+          "language": "Python",
+          "stars": 35307,
+          "forks": 3571
+        },
+        {
+          "rank": 5,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 46365,
+          "forks": 4431
+        },
+        {
+          "rank": 6,
+          "name": "Epodonios/v2ray-configs",
+          "url": "https://github.com/Epodonios/v2ray-configs",
+          "description": "Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes",
+          "language": "Python",
+          "stars": 1312,
+          "forks": 205
+        },
+        {
+          "rank": 7,
+          "name": "ROCm/TheRock",
+          "url": "https://github.com/ROCm/TheRock",
+          "description": "The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm",
+          "language": "Python",
+          "stars": 183,
+          "forks": 41
+        },
+        {
+          "rank": 8,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 360697,
+          "forks": 63602
+        },
+        {
+          "rank": 9,
+          "name": "zhaochenyang20/Awesome-ML-SYS-Tutorial",
+          "url": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
+          "description": "My learning notes/codes for ML SYS.",
+          "language": "Python",
+          "stars": 2634,
+          "forks": 166
+        },
+        {
+          "rank": 10,
+          "name": "mlflow/mlflow",
+          "url": "https://github.com/mlflow/mlflow",
+          "description": "Open source platform for the machine learning lifecycle",
+          "language": "Python",
+          "stars": 21012,
+          "forks": 4626
+        }
+      ]
+    }
+  ]
+}

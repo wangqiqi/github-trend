@@ -1,0 +1,391 @@
+{
+  "date": "20250427",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 43812,
+          "forks": 3184
+        },
+        {
+          "rank": 2,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 37540,
+          "forks": 1564
+        },
+        {
+          "rank": 3,
+          "name": "inkonchain/docs",
+          "url": "https://github.com/inkonchain/docs",
+          "description": "Ink Documentation",
+          "language": "MDX",
+          "stars": 36744,
+          "forks": 396
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 30023,
+          "forks": 3360
+        },
+        {
+          "rank": 5,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 28406,
+          "forks": 1736
+        },
+        {
+          "rank": 6,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artific...",
+          "language": "Python",
+          "stars": 28026,
+          "forks": 4190
+        },
+        {
+          "rank": 7,
+          "name": "PatrickJS/awesome-cursorrules",
+          "url": "https://github.com/PatrickJS/awesome-cursorrules",
+          "description": "📄 A curated list of awesome .cursorrules files",
+          "language": "N/A",
+          "stars": 23613,
+          "forks": 1808
+        },
+        {
+          "rank": 8,
+          "name": "aidenybai/react-scan",
+          "url": "https://github.com/aidenybai/react-scan",
+          "description": "Scan for React performance issues and eliminate slow renders in your app",
+          "language": "TypeScript",
+          "stars": 17928,
+          "forks": 274
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "C++",
+          "stars": 17494,
+          "forks": 1259
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "10 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 17413,
+          "forks": 4355
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 849,
+          "forks": 143902
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1814,
+          "forks": 78179
+        },
+        {
+          "rank": 3,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17299,
+          "forks": 61597
+        },
+        {
+          "rank": 4,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 234960,
+          "forks": 48354
+        },
+        {
+          "rank": 5,
+          "name": "google/it-cert-automation-practice",
+          "url": "https://github.com/google/it-cert-automation-practice",
+          "description": "Google IT Automation with Python Professional Certificate - Practice files",
+          "language": "Python",
+          "stars": 922,
+          "forks": 45292
+        },
+        {
+          "rank": 6,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 284,
+          "forks": 43317
+        },
+        {
+          "rank": 7,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1132,
+          "forks": 42195
+        },
+        {
+          "rank": 8,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37076
+        },
+        {
+          "rank": 9,
+          "name": "zizifn/edgetunnel",
+          "url": "https://github.com/zizifn/edgetunnel",
+          "description": "Running V2ray inside edge/serverless runtime",
+          "language": "JavaScript",
+          "stars": 7787,
+          "forks": 34594
+        },
+        {
+          "rank": 10,
+          "name": "macrozheng/mall",
+          "url": "https://github.com/macrozheng/mall",
+          "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、...",
+          "language": "Java",
+          "stars": 80065,
+          "forks": 29211
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "getzep/graphiti",
+          "url": "https://github.com/getzep/graphiti",
+          "description": "Build Real-Time Knowledge Graphs for AI Agents",
+          "language": "Python",
+          "stars": 5734,
+          "forks": 409
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-f...",
+          "language": "Jupyter Notebook",
+          "stars": 80240,
+          "forks": 41404
+        },
+        {
+          "rank": 3,
+          "name": "rowboatlabs/rowboat",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "description": "AI-powered multi-agent builder",
+          "language": "TypeScript",
+          "stars": 1706,
+          "forks": 137
+        },
+        {
+          "rank": 4,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 74978,
+          "forks": 16711
+        },
+        {
+          "rank": 5,
+          "name": "Stirling-Tools/Stirling-PDF",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+          "language": "Java",
+          "stars": 56807,
+          "forks": 4763
+        },
+        {
+          "rank": 6,
+          "name": "tracel-ai/burn",
+          "url": "https://github.com/tracel-ai/burn",
+          "description": "Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficie...",
+          "language": "Rust",
+          "stars": 10621,
+          "forks": 543
+        },
+        {
+          "rank": 7,
+          "name": "trimstray/the-book-of-secret-knowledge",
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools an...",
+          "language": "N/A",
+          "stars": 166589,
+          "forks": 10426
+        },
+        {
+          "rank": 8,
+          "name": "0xk1h0/ChatGPT_DAN",
+          "url": "https://github.com/0xk1h0/ChatGPT_DAN",
+          "description": "ChatGPT DAN, Jailbreaks prompt",
+          "language": "N/A",
+          "stars": 7492,
+          "forks": 684
+        },
+        {
+          "rank": 9,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 375055,
+          "forks": 34918
+        },
+        {
+          "rank": 10,
+          "name": "simular-ai/Agent-S",
+          "url": "https://github.com/simular-ai/Agent-S",
+          "description": "Agent S: an open agentic framework that uses computers like a human",
+          "language": "Python",
+          "stars": 2733,
+          "forks": 296
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "getzep/graphiti",
+          "url": "https://github.com/getzep/graphiti",
+          "description": "Build Real-Time Knowledge Graphs for AI Agents",
+          "language": "Python",
+          "stars": 5734,
+          "forks": 409
+        },
+        {
+          "rank": 2,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 74978,
+          "forks": 16711
+        },
+        {
+          "rank": 3,
+          "name": "simular-ai/Agent-S",
+          "url": "https://github.com/simular-ai/Agent-S",
+          "description": "Agent S: an open agentic framework that uses computers like a human",
+          "language": "Python",
+          "stars": 2733,
+          "forks": 296
+        },
+        {
+          "rank": 4,
+          "name": "khoj-ai/khoj",
+          "url": "https://github.com/khoj-ai/khoj",
+          "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, ...",
+          "language": "Python",
+          "stars": 29620,
+          "forks": 1649
+        },
+        {
+          "rank": 5,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 109654,
+          "forks": 8601
+        },
+        {
+          "rank": 6,
+          "name": "ocrmypdf/OCRmyPDF",
+          "url": "https://github.com/ocrmypdf/OCRmyPDF",
+          "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+          "language": "Python",
+          "stars": 28416,
+          "forks": 1923
+        },
+        {
+          "rank": 7,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 40954,
+          "forks": 3704
+        },
+        {
+          "rank": 8,
+          "name": "comet-ml/opik",
+          "url": "https://github.com/comet-ml/opik",
+          "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...",
+          "language": "Python",
+          "stars": 6968,
+          "forks": 497
+        },
+        {
+          "rank": 9,
+          "name": "drivendataorg/cookiecutter-data-science",
+          "url": "https://github.com/drivendataorg/cookiecutter-data-science",
+          "description": "A logical, reasonably standardized, but flexible project structure for doing and sharing data sci...",
+          "language": "Python",
+          "stars": 8832,
+          "forks": 2519
+        },
+        {
+          "rank": 10,
+          "name": "Tencent/Hunyuan3D-2",
+          "url": "https://github.com/Tencent/Hunyuan3D-2",
+          "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+          "language": "Python",
+          "stars": 8774,
+          "forks": 750
+        }
+      ]
+    }
+  ]
+}

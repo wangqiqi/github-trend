@@ -1,0 +1,391 @@
+{
+  "date": "20250717",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98284,
+          "forks": 16001
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90578,
+          "forks": 11697
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 68730,
+          "forks": 19756
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 65921,
+          "forks": 3505
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 65697,
+          "forks": 7531
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 62090,
+          "forks": 4855
+        },
+        {
+          "rank": 7,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 60541,
+          "forks": 5575
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 60061,
+          "forks": 6974
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 48057,
+          "forks": 8411
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36706,
+          "forks": 405
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6620,
+          "forks": 243624
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13105,
+          "forks": 152217
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 857,
+          "forks": 144008
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49394,
+          "forks": 88447
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28657,
+          "forks": 87024
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168050,
+          "forks": 83058
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1889,
+          "forks": 81824
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172528,
+          "forks": 79109
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190773,
+          "forks": 74758
+        },
+        {
+          "rank": 10,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2561,
+          "forks": 72428
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 65921,
+          "forks": 3505
+        },
+        {
+          "rank": 2,
+          "name": "gitleaks/gitleaks",
+          "url": "https://github.com/gitleaks/gitleaks",
+          "description": "Find secrets with Gitleaks 🔑",
+          "language": "Go",
+          "stars": 21552,
+          "forks": 1677
+        },
+        {
+          "rank": 3,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+          "language": "Python",
+          "stars": 15797,
+          "forks": 1105
+        },
+        {
+          "rank": 4,
+          "name": "maotoumao/MusicFree",
+          "url": "https://github.com/maotoumao/MusicFree",
+          "description": "插件化、定制化、无广告的免费音乐播放器",
+          "language": "TypeScript",
+          "stars": 18418,
+          "forks": 1167
+        },
+        {
+          "rank": 5,
+          "name": "PromtEngineer/localGPT",
+          "url": "https://github.com/PromtEngineer/localGPT",
+          "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 10...",
+          "language": "Python",
+          "stars": 21250,
+          "forks": 2354
+        },
+        {
+          "rank": 6,
+          "name": "vanna-ai/vanna",
+          "url": "https://github.com/vanna-ai/vanna",
+          "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+          "language": "Python",
+          "stars": 19084,
+          "forks": 1746
+        },
+        {
+          "rank": 7,
+          "name": "AykutSarac/jsoncrack.com",
+          "url": "https://github.com/AykutSarac/jsoncrack.com",
+          "description": "✨ Innovative and open-source visualization application that transforms various data formats, such...",
+          "language": "TypeScript",
+          "stars": 40077,
+          "forks": 2690
+        },
+        {
+          "rank": 8,
+          "name": "musistudio/claude-code-router",
+          "url": "https://github.com/musistudio/claude-code-router",
+          "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to intera...",
+          "language": "TypeScript",
+          "stars": 5193,
+          "forks": 394
+        },
+        {
+          "rank": 9,
+          "name": "WasmEdge/WasmEdge",
+          "url": "https://github.com/WasmEdge/WasmEdge",
+          "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native,...",
+          "language": "C++",
+          "stars": 9680,
+          "forks": 872
+        },
+        {
+          "rank": 10,
+          "name": "strapi/strapi",
+          "url": "https://github.com/strapi/strapi",
+          "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customiz...",
+          "language": "TypeScript",
+          "stars": 67860,
+          "forks": 8744
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 65921,
+          "forks": 3505
+        },
+        {
+          "rank": 2,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+          "language": "Python",
+          "stars": 15797,
+          "forks": 1105
+        },
+        {
+          "rank": 3,
+          "name": "PromtEngineer/localGPT",
+          "url": "https://github.com/PromtEngineer/localGPT",
+          "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 10...",
+          "language": "Python",
+          "stars": 21250,
+          "forks": 2354
+        },
+        {
+          "rank": 4,
+          "name": "vanna-ai/vanna",
+          "url": "https://github.com/vanna-ai/vanna",
+          "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+          "language": "Python",
+          "stars": 19084,
+          "forks": 1746
+        },
+        {
+          "rank": 5,
+          "name": "langchain-ai/open_deep_research",
+          "url": "https://github.com/langchain-ai/open_deep_research",
+          "description": "",
+          "language": "Python",
+          "stars": 4594,
+          "forks": 668
+        },
+        {
+          "rank": 6,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 66914,
+          "forks": 7694
+        },
+        {
+          "rank": 7,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO11 🚀",
+          "language": "Python",
+          "stars": 43190,
+          "forks": 8438
+        },
+        {
+          "rank": 8,
+          "name": "lastmile-ai/mcp-agent",
+          "url": "https://github.com/lastmile-ai/mcp-agent",
+          "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+          "language": "Python",
+          "stars": 6530,
+          "forks": 645
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/autogen",
+          "url": "https://github.com/microsoft/autogen",
+          "description": "A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-...",
+          "language": "Python",
+          "stars": 47432,
+          "forks": 7209
+        },
+        {
+          "rank": 10,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 42996,
+          "forks": 3855
+        }
+      ]
+    }
+  ]
+}

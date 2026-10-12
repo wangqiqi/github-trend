@@ -1,0 +1,391 @@
+{
+  "date": "20250407",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 43503,
+          "forks": 2079
+        },
+        {
+          "rank": 2,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 41078,
+          "forks": 928
+        },
+        {
+          "rank": 3,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 37744,
+          "forks": 3334
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/OmniParser",
+          "url": "https://github.com/microsoft/OmniParser",
+          "description": "A simple screen parsing tool towards pure vision based GUI agent",
+          "language": "Jupyter Notebook",
+          "stars": 21353,
+          "forks": 1757
+        },
+        {
+          "rank": 5,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 18512,
+          "forks": 2086
+        },
+        {
+          "rank": 6,
+          "name": "huggingface/agents-course",
+          "url": "https://github.com/huggingface/agents-course",
+          "description": "This repository contains the Hugging Face Agents Course.",
+          "language": "Jupyter Notebook",
+          "stars": 15875,
+          "forks": 1028
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 13685,
+          "forks": 1930
+        },
+        {
+          "rank": 8,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 11885,
+          "forks": 1161
+        },
+        {
+          "rank": 9,
+          "name": "mihomo-party-org/mihomo-party",
+          "url": "https://github.com/mihomo-party-org/mihomo-party",
+          "description": ":electron: Another Mihomo GUI.",
+          "language": "TypeScript",
+          "stars": 11184,
+          "forks": 796
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/data-formulator",
+          "url": "https://github.com/microsoft/data-formulator",
+          "description": "🪄 Create rich visualizations with AI",
+          "language": "TypeScript",
+          "stars": 11182,
+          "forks": 862
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6598,
+          "forks": 243649
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 47764,
+          "forks": 84594
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2508,
+          "forks": 72132
+        },
+        {
+          "rank": 4,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56739
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 81551,
+          "forks": 56095
+        },
+        {
+          "rank": 6,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 191122,
+          "forks": 55432
+        },
+        {
+          "rank": 7,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 163669,
+          "forks": 53415
+        },
+        {
+          "rank": 8,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 199200,
+          "forks": 46548
+        },
+        {
+          "rank": 9,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 174239,
+          "forks": 45531
+        },
+        {
+          "rank": 10,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 285,
+          "forks": 43345
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 43503,
+          "forks": 2079
+        },
+        {
+          "rank": 2,
+          "name": "meta-llama/llama-models",
+          "url": "https://github.com/meta-llama/llama-models",
+          "description": "Utilities intended for use with Llama models.",
+          "language": "Python",
+          "stars": 6507,
+          "forks": 1068
+        },
+        {
+          "rank": 3,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 1041,
+          "forks": 58
+        },
+        {
+          "rank": 4,
+          "name": "supabase-community/supabase-mcp",
+          "url": "https://github.com/supabase-community/supabase-mcp",
+          "description": "Connect Supabase to your AI assistants",
+          "language": "TypeScript",
+          "stars": 493,
+          "forks": 30
+        },
+        {
+          "rank": 5,
+          "name": "clockworklabs/SpacetimeDB",
+          "url": "https://github.com/clockworklabs/SpacetimeDB",
+          "description": "Multiplayer at the speed of light",
+          "language": "Rust",
+          "stars": 11459,
+          "forks": 385
+        },
+        {
+          "rank": 6,
+          "name": "meta-llama/llama-cookbook",
+          "url": "https://github.com/meta-llama/llama-cookbook",
+          "description": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started ...",
+          "language": "Jupyter Notebook",
+          "stars": 16696,
+          "forks": 2412
+        },
+        {
+          "rank": 7,
+          "name": "NVIDIA-Omniverse/PhysX",
+          "url": "https://github.com/NVIDIA-Omniverse/PhysX",
+          "description": "NVIDIA PhysX SDK",
+          "language": "C++",
+          "stars": 3411,
+          "forks": 459
+        },
+        {
+          "rank": 8,
+          "name": "juliangarnier/anime",
+          "url": "https://github.com/juliangarnier/anime",
+          "description": "JavaScript animation engine",
+          "language": "JavaScript",
+          "stars": 54316,
+          "forks": 3811
+        },
+        {
+          "rank": 9,
+          "name": "SimplifyJobs/Summer2025-Internships",
+          "url": "https://github.com/SimplifyJobs/Summer2025-Internships",
+          "description": "Collection of Summer 2025 tech internships!",
+          "language": "N/A",
+          "stars": 36941,
+          "forks": 2887
+        },
+        {
+          "rank": 10,
+          "name": "maotoumao/MusicFree",
+          "url": "https://github.com/maotoumao/MusicFree",
+          "description": "插件化、定制化、无广告的免费音乐播放器",
+          "language": "TypeScript",
+          "stars": 12771,
+          "forks": 853
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 43503,
+          "forks": 2079
+        },
+        {
+          "rank": 2,
+          "name": "meta-llama/llama-models",
+          "url": "https://github.com/meta-llama/llama-models",
+          "description": "Utilities intended for use with Llama models.",
+          "language": "Python",
+          "stars": 6507,
+          "forks": 1068
+        },
+        {
+          "rank": 3,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 1041,
+          "forks": 58
+        },
+        {
+          "rank": 4,
+          "name": "jiji262/douyin-downloader",
+          "url": "https://github.com/jiji262/douyin-downloader",
+          "description": "抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！",
+          "language": "Python",
+          "stars": 2504,
+          "forks": 395
+        },
+        {
+          "rank": 5,
+          "name": "meta-llama/llama",
+          "url": "https://github.com/meta-llama/llama",
+          "description": "Inference code for Llama models",
+          "language": "Python",
+          "stars": 58045,
+          "forks": 9730
+        },
+        {
+          "rank": 6,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Finetune Llama 4, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥",
+          "language": "Python",
+          "stars": 36693,
+          "forks": 2847
+        },
+        {
+          "rank": 7,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 295689,
+          "forks": 49162
+        },
+        {
+          "rank": 8,
+          "name": "vllm-project/llm-compressor",
+          "url": "https://github.com/vllm-project/llm-compressor",
+          "description": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized...",
+          "language": "Python",
+          "stars": 1180,
+          "forks": 110
+        },
+        {
+          "rank": 9,
+          "name": "camel-ai/camel",
+          "url": "https://github.com/camel-ai/camel",
+          "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https:/...",
+          "language": "Python",
+          "stars": 11623,
+          "forks": 1223
+        },
+        {
+          "rank": 10,
+          "name": "dgtlmoon/changedetection.io",
+          "url": "https://github.com/dgtlmoon/changedetection.io",
+          "description": "The best and simplest free open source web page change detection, website watcher, restock monito...",
+          "language": "Python",
+          "stars": 23195,
+          "forks": 1264
+        }
+      ]
+    }
+  ]
+}

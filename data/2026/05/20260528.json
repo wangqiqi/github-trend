@@ -1,0 +1,391 @@
+{
+  "date": "20260528",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 375259,
+          "forks": 78281
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 210750,
+          "forks": 18759
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 196929,
+          "forks": 30284
+        },
+        {
+          "rank": 4,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 192698,
+          "forks": 109975
+        },
+        {
+          "rank": 5,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 171224,
+          "forks": 28694
+        },
+        {
+          "rank": 6,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 160152,
+          "forks": 16398
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 142545,
+          "forks": 16830
+        },
+        {
+          "rank": 8,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 109792,
+          "forks": 9632
+        },
+        {
+          "rank": 9,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 106722,
+          "forks": 9440
+        },
+        {
+          "rank": 10,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 105720,
+          "forks": 17415
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19814
+        },
+        {
+          "rank": 2,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 137,
+          "forks": 13803
+        },
+        {
+          "rank": 3,
+          "name": "Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "url": "https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "description": "cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo created by GitHub Classroom",
+          "language": "C",
+          "stars": 35,
+          "forks": 13752
+        },
+        {
+          "rank": 4,
+          "name": "MithunTechnologiesDevOps/Maven-Web-Application",
+          "url": "https://github.com/MithunTechnologiesDevOps/Maven-Web-Application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 122,
+          "forks": 13181
+        },
+        {
+          "rank": 5,
+          "name": "zamrokkk/PokeMMO-Online-Realtime-Multiplayer-Game",
+          "url": "https://github.com/zamrokkk/PokeMMO-Online-Realtime-Multiplayer-Game",
+          "description": "🕹️ A simple realtime Pokémon MMO game build with Phaser 3, Colyseus.io & Webpack 4",
+          "language": "JavaScript",
+          "stars": 6,
+          "forks": 9188
+        },
+        {
+          "rank": 6,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8967
+        },
+        {
+          "rank": 7,
+          "name": "cf-pages/Telegraph-Image",
+          "url": "https://github.com/cf-pages/Telegraph-Image",
+          "description": "Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. U...",
+          "language": "HTML",
+          "stars": 4548,
+          "forks": 8833
+        },
+        {
+          "rank": 8,
+          "name": "javahometech/my-app",
+          "url": "https://github.com/javahometech/my-app",
+          "description": "No description",
+          "language": "Java",
+          "stars": 88,
+          "forks": 8717
+        },
+        {
+          "rank": 9,
+          "name": "Cursos-TI/template_desafio-do-cadastro-das-cartas-SuperTrunfo",
+          "url": "https://github.com/Cursos-TI/template_desafio-do-cadastro-das-cartas-SuperTrunfo",
+          "description": "introducao-a-programacao-de-computadores-desafio-do-cadastro-das-cartas-no-super-trunfo-CartasSup...",
+          "language": "C",
+          "stars": 9,
+          "forks": 7666
+        },
+        {
+          "rank": 10,
+          "name": "malinkang/weread2notion",
+          "url": "https://github.com/malinkang/weread2notion",
+          "description": "将微信读书划线同步到Notion",
+          "language": "Python",
+          "stars": 2890,
+          "forks": 6683
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 65531,
+          "forks": 9504
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 196929,
+          "forks": 30284
+        },
+        {
+          "rank": 3,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "Shell",
+          "stars": 25801,
+          "forks": 1947
+        },
+        {
+          "rank": 4,
+          "name": "hardikpandya/stop-slop",
+          "url": "https://github.com/hardikpandya/stop-slop",
+          "description": "A skill file for removing AI tells from prose",
+          "language": "N/A",
+          "stars": 6201,
+          "forks": 456
+        },
+        {
+          "rank": 5,
+          "name": "twentyhq/twenty",
+          "url": "https://github.com/twentyhq/twenty",
+          "description": "The open alternative to Salesforce, designed for AI.",
+          "language": "TypeScript",
+          "stars": 47669,
+          "forks": 6767
+        },
+        {
+          "rank": 6,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 170315,
+          "forks": 3266
+        },
+        {
+          "rank": 7,
+          "name": "byoungd/English-level-up-tips",
+          "url": "https://github.com/byoungd/English-level-up-tips",
+          "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+          "language": "N/A",
+          "stars": 48088,
+          "forks": 5042
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 127123,
+          "forks": 8693
+        },
+        {
+          "rank": 9,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 210750,
+          "forks": 18759
+        },
+        {
+          "rank": 10,
+          "name": "revfactory/harness",
+          "url": "https://github.com/revfactory/harness",
+          "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates ...",
+          "language": "HTML",
+          "stars": 3762,
+          "forks": 571
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 65531,
+          "forks": 9504
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 127123,
+          "forks": 8693
+        },
+        {
+          "rank": 3,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 66786,
+          "forks": 6845
+        },
+        {
+          "rank": 4,
+          "name": "OpenMOSS/MOSS-TTS",
+          "url": "https://github.com/OpenMOSS/MOSS-TTS",
+          "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the O...",
+          "language": "Python",
+          "stars": 2103,
+          "forks": 207
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 142545,
+          "forks": 16830
+        },
+        {
+          "rank": 6,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 22242,
+          "forks": 2365
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Python",
+          "stars": 127266,
+          "forks": 20855
+        },
+        {
+          "rank": 8,
+          "name": "shiyu-coder/Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos",
+          "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+          "language": "Python",
+          "stars": 27100,
+          "forks": 4682
+        },
+        {
+          "rank": 9,
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CS...",
+          "language": "Python",
+          "stars": 11417,
+          "forks": 1292
+        },
+        {
+          "rank": 10,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Machine Learning Systems",
+          "language": "Python",
+          "stars": 24503,
+          "forks": 2938
+        }
+      ]
+    }
+  ]
+}

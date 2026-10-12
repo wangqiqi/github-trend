@@ -1,0 +1,199 @@
+{
+  "date": "20250830",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 25283,
+          "forks": 3937
+        },
+        {
+          "rank": 2,
+          "name": "inventree/InvenTree",
+          "url": "https://github.com/inventree/InvenTree",
+          "description": "Open Source Inventory Management System",
+          "language": "Python",
+          "stars": 5438,
+          "forks": 1037
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/mcp",
+          "url": "https://github.com/microsoft/mcp",
+          "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered ...",
+          "language": "C#",
+          "stars": 1399,
+          "forks": 117
+        },
+        {
+          "rank": 4,
+          "name": "QuentinFuxa/WhisperLiveKit",
+          "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+          "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+          "language": "Python",
+          "stars": 3449,
+          "forks": 338
+        },
+        {
+          "rank": 5,
+          "name": "activepieces/activepieces",
+          "url": "https://github.com/activepieces/activepieces",
+          "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI...",
+          "language": "TypeScript",
+          "stars": 16542,
+          "forks": 2414
+        },
+        {
+          "rank": 6,
+          "name": "elixir-lang/expert",
+          "url": "https://github.com/elixir-lang/expert",
+          "description": "Official Elixir Language Server Protocol implementation",
+          "language": "Elixir",
+          "stars": 997,
+          "forks": 20
+        },
+        {
+          "rank": 7,
+          "name": "laramies/theHarvester",
+          "url": "https://github.com/laramies/theHarvester",
+          "description": "E-mails, subdomains and names Harvester - OSINT",
+          "language": "Python",
+          "stars": 13402,
+          "forks": 2254
+        },
+        {
+          "rank": 8,
+          "name": "hashicorp/terraform",
+          "url": "https://github.com/hashicorp/terraform",
+          "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is...",
+          "language": "Go",
+          "stars": 46366,
+          "forks": 10004
+        },
+        {
+          "rank": 9,
+          "name": "dockur/windows",
+          "url": "https://github.com/dockur/windows",
+          "description": "Windows inside a Docker container.",
+          "language": "Shell",
+          "stars": 37785,
+          "forks": 2834
+        },
+        {
+          "rank": 10,
+          "name": "DevCaress/guia-entrevistas-de-programacion",
+          "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
+          "description": "",
+          "language": "N/A",
+          "stars": 5407,
+          "forks": 745
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "inventree/InvenTree",
+          "url": "https://github.com/inventree/InvenTree",
+          "description": "Open Source Inventory Management System",
+          "language": "Python",
+          "stars": 5438,
+          "forks": 1037
+        },
+        {
+          "rank": 2,
+          "name": "QuentinFuxa/WhisperLiveKit",
+          "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+          "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+          "language": "Python",
+          "stars": 3449,
+          "forks": 338
+        },
+        {
+          "rank": 3,
+          "name": "laramies/theHarvester",
+          "url": "https://github.com/laramies/theHarvester",
+          "description": "E-mails, subdomains and names Harvester - OSINT",
+          "language": "Python",
+          "stars": 13402,
+          "forks": 2254
+        },
+        {
+          "rank": 4,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 32931,
+          "forks": 954
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Resear...",
+          "language": "Python",
+          "stars": 29315,
+          "forks": 4528
+        },
+        {
+          "rank": 6,
+          "name": "MetaCubeX/mihomo",
+          "url": "https://github.com/MetaCubeX/mihomo",
+          "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.",
+          "language": "Python",
+          "stars": 22644,
+          "forks": 3260
+        },
+        {
+          "rank": 7,
+          "name": "pydantic/pydantic",
+          "url": "https://github.com/pydantic/pydantic",
+          "description": "Data validation using Python type hints",
+          "language": "Python",
+          "stars": 24994,
+          "forks": 2224
+        },
+        {
+          "rank": 8,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Te...",
+          "language": "Python",
+          "stars": 2432,
+          "forks": 1593
+        },
+        {
+          "rank": 9,
+          "name": "OpenBMB/MiniCPM-V",
+          "url": "https://github.com/OpenBMB/MiniCPM-V",
+          "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding...",
+          "language": "Python",
+          "stars": 20562,
+          "forks": 1501
+        },
+        {
+          "rank": 10,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 205287,
+          "forks": 47563
+        }
+      ]
+    }
+  ]
+}

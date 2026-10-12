@@ -1,0 +1,391 @@
+{
+  "date": "20260611",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 378169,
+          "forks": 79089
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 213264,
+          "forks": 32765
+        },
+        {
+          "rank": 3,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 193636,
+          "forks": 109959
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 190731,
+          "forks": 33090
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 111393,
+          "forks": 9825
+        },
+        {
+          "rank": 6,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 111226,
+          "forks": 18215
+        },
+        {
+          "rank": 7,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 109154,
+          "forks": 16228
+        },
+        {
+          "rank": 8,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini ...",
+          "language": "Rust",
+          "stars": 98399,
+          "forks": 6475
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 86159,
+          "forks": 12484
+        },
+        {
+          "rank": 10,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 71411,
+          "forks": 4019
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 193636,
+          "forks": 109959
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 54427,
+          "forks": 104087
+        },
+        {
+          "rank": 3,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29592,
+          "forks": 87344
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 174390,
+          "forks": 82424
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195604,
+          "forks": 75183
+        },
+        {
+          "rank": 6,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2772,
+          "forks": 73191
+        },
+        {
+          "rank": 7,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 20344,
+          "forks": 67402
+        },
+        {
+          "rank": 8,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 390092,
+          "forks": 66440
+        },
+        {
+          "rank": 9,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8586,
+          "forks": 60128
+        },
+        {
+          "rank": 10,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88225,
+          "forks": 59595
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "apple/container",
+          "url": "https://github.com/apple/container",
+          "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It ...",
+          "language": "Swift",
+          "stars": 31392,
+          "forks": 878
+        },
+        {
+          "rank": 2,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "Shell",
+          "stars": 53943,
+          "forks": 5876
+        },
+        {
+          "rank": 3,
+          "name": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "description": "open-source healthcare ai",
+          "language": "Python",
+          "stars": 2609,
+          "forks": 258
+        },
+        {
+          "rank": 4,
+          "name": "phuryn/pm-skills",
+          "url": "https://github.com/phuryn/pm-skills",
+          "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, e...",
+          "language": "N/A",
+          "stars": 16006,
+          "forks": 1676
+        },
+        {
+          "rank": 5,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security ri...",
+          "language": "Python",
+          "stars": 2410,
+          "forks": 199
+        },
+        {
+          "rank": 6,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 32446,
+          "forks": 2383
+        },
+        {
+          "rank": 7,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 139773,
+          "forks": 34611
+        },
+        {
+          "rank": 8,
+          "name": "refactoringhq/tolaria",
+          "url": "https://github.com/refactoringhq/tolaria",
+          "description": "Desktop app to manage markdown knowledge bases",
+          "language": "TypeScript",
+          "stars": 15279,
+          "forks": 1053
+        },
+        {
+          "rank": 9,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 224537,
+          "forks": 19950
+        },
+        {
+          "rank": 10,
+          "name": "restic/restic",
+          "url": "https://github.com/restic/restic",
+          "description": "Fast, secure, efficient backup program",
+          "language": "Go",
+          "stars": 34062,
+          "forks": 1781
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "description": "open-source healthcare ai",
+          "language": "Python",
+          "stars": 2609,
+          "forks": 258
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security ri...",
+          "language": "Python",
+          "stars": 2410,
+          "forks": 199
+        },
+        {
+          "rank": 3,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 32446,
+          "forks": 2383
+        },
+        {
+          "rank": 4,
+          "name": "hexo-ai/sia",
+          "url": "https://github.com/hexo-ai/sia",
+          "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Mo...",
+          "language": "Python",
+          "stars": 1110,
+          "forks": 148
+        },
+        {
+          "rank": 5,
+          "name": "francescopace/espectre",
+          "url": "https://github.com/francescopace/espectre",
+          "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant...",
+          "language": "Python",
+          "stars": 8524,
+          "forks": 644
+        },
+        {
+          "rank": 6,
+          "name": "alistaitsacle/free-llm-api-keys",
+          "url": "https://github.com/alistaitsacle/free-llm-api-keys",
+          "description": "Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x da...",
+          "language": "Python",
+          "stars": 2210,
+          "forks": 224
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 86159,
+          "forks": 12484
+        },
+        {
+          "rank": 8,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 30245,
+          "forks": 4135
+        },
+        {
+          "rank": 9,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 39583,
+          "forks": 3187
+        },
+        {
+          "rank": 10,
+          "name": "LLMQuant/quant-mind",
+          "url": "https://github.com/LLMQuant/quant-mind",
+          "description": "QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.",
+          "language": "Python",
+          "stars": 1100,
+          "forks": 169
+        }
+      ]
+    }
+  ]
+}

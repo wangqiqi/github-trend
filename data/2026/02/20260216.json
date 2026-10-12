@@ -1,0 +1,391 @@
+{
+  "date": "20260216",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 70467,
+          "forks": 7160
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 69939,
+          "forks": 6037
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 67091,
+          "forks": 5215
+        },
+        {
+          "rank": 4,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 60599,
+          "forks": 7997
+        },
+        {
+          "rank": 5,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 51500,
+          "forks": 6478
+        },
+        {
+          "rank": 6,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 34895,
+          "forks": 954
+        },
+        {
+          "rank": 7,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 31853,
+          "forks": 3164
+        },
+        {
+          "rank": 8,
+          "name": "code-yeongyu/oh-my-opencode",
+          "url": "https://github.com/code-yeongyu/oh-my-opencode",
+          "description": "the best agent harness",
+          "language": "TypeScript",
+          "stars": 31708,
+          "forks": 2375
+        },
+        {
+          "rank": 9,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+          "language": "HTML",
+          "stars": 31651,
+          "forks": 5054
+        },
+        {
+          "rank": 10,
+          "name": "wshobson/agents",
+          "url": "https://github.com/wshobson/agents",
+          "description": "Intelligent automation and multi-agent orchestration for Claude Code",
+          "language": "Python",
+          "stars": 28693,
+          "forks": 3143
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29404,
+          "forks": 87514
+        },
+        {
+          "rank": 2,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 382585,
+          "forks": 65907
+        },
+        {
+          "rank": 3,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37340,
+          "forks": 53845
+        },
+        {
+          "rank": 4,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153808,
+          "forks": 46114
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77686,
+          "forks": 45296
+        },
+        {
+          "rank": 6,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 79933,
+          "forks": 41863
+        },
+        {
+          "rank": 7,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 49020,
+          "forks": 31493
+        },
+        {
+          "rank": 8,
+          "name": "anuraghazra/github-readme-stats",
+          "url": "https://github.com/anuraghazra/github-readme-stats",
+          "description": ":zap: Dynamically generated stats for your github readmes",
+          "language": "JavaScript",
+          "stars": 78384,
+          "forks": 30531
+        },
+        {
+          "rank": 9,
+          "name": "mdn/learning-area",
+          "url": "https://github.com/mdn/learning-area",
+          "description": "GitHub repo for the MDN Learning Area.",
+          "language": "HTML",
+          "stars": 7527,
+          "forks": 27405
+        },
+        {
+          "rank": 10,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13396,
+          "forks": 27363
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "alibaba/zvec",
+          "url": "https://github.com/alibaba/zvec",
+          "description": "A lightweight, lightning-fast, in-process vector database",
+          "language": "C++",
+          "stars": 2813,
+          "forks": 139
+        },
+        {
+          "rank": 2,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "A high-performance algorithmic trading platform and event-driven backtester",
+          "language": "Rust",
+          "stars": 19581,
+          "forks": 2311
+        },
+        {
+          "rank": 3,
+          "name": "rowboatlabs/rowboat",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "description": "Open-source AI coworker, with memory",
+          "language": "TypeScript",
+          "stars": 7083,
+          "forks": 607
+        },
+        {
+          "rank": 4,
+          "name": "steipete/gogcli",
+          "url": "https://github.com/steipete/gogcli",
+          "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+          "language": "Go",
+          "stars": 3255,
+          "forks": 280
+        },
+        {
+          "rank": 5,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 199493,
+          "forks": 35267
+        },
+        {
+          "rank": 6,
+          "name": "SynkraAI/aios-core",
+          "url": "https://github.com/SynkraAI/aios-core",
+          "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+          "language": "JavaScript",
+          "stars": 874,
+          "forks": 303
+        },
+        {
+          "rank": 7,
+          "name": "letta-ai/letta-code",
+          "url": "https://github.com/letta-ai/letta-code",
+          "description": "The memory-first coding agent",
+          "language": "TypeScript",
+          "stars": 1331,
+          "forks": 150
+        },
+        {
+          "rank": 8,
+          "name": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estima...",
+          "language": "Python",
+          "stars": 6651,
+          "forks": 579
+        },
+        {
+          "rank": 9,
+          "name": "maxritter/claude-pilot",
+          "url": "https://github.com/maxritter/claude-pilot",
+          "description": "Claude Code is powerful. Pilot makes it reliable. Start a task, grab a coffee, come back to produ...",
+          "language": "TypeScript",
+          "stars": 1093,
+          "forks": 85
+        },
+        {
+          "rank": 10,
+          "name": "seerr-team/seerr",
+          "url": "https://github.com/seerr-team/seerr",
+          "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+          "language": "TypeScript",
+          "stars": 8902,
+          "forks": 592
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estima...",
+          "language": "Python",
+          "stars": 6651,
+          "forks": 579
+        },
+        {
+          "rank": 2,
+          "name": "hummingbot/hummingbot",
+          "url": "https://github.com/hummingbot/hummingbot",
+          "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+          "language": "Python",
+          "stars": 16236,
+          "forks": 4367
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "description": "A collection of projects designed to help developers quickly get started with building deployable...",
+          "language": "Python",
+          "stars": 14185,
+          "forks": 2404
+        },
+        {
+          "rank": 4,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 6056,
+          "forks": 601
+        },
+        {
+          "rank": 5,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and p...",
+          "language": "Python",
+          "stars": 23880,
+          "forks": 1406
+        },
+        {
+          "rank": 6,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 43440,
+          "forks": 5657
+        },
+        {
+          "rank": 7,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 84838,
+          "forks": 36756
+        },
+        {
+          "rank": 8,
+          "name": "lllyasviel/Fooocus",
+          "url": "https://github.com/lllyasviel/Fooocus",
+          "description": "Focus on prompting and generating",
+          "language": "Python",
+          "stars": 47705,
+          "forks": 7787
+        },
+        {
+          "rank": 9,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 20500,
+          "forks": 1913
+        },
+        {
+          "rank": 10,
+          "name": "freqtrade/freqtrade",
+          "url": "https://github.com/freqtrade/freqtrade",
+          "description": "Free, open source crypto trading bot",
+          "language": "Python",
+          "stars": 46830,
+          "forks": 9778
+        }
+      ]
+    }
+  ]
+}

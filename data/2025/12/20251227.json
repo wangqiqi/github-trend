@@ -1,0 +1,337 @@
+{
+  "date": "20251227",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 102491,
+          "forks": 27233
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91612,
+          "forks": 11770
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 88798,
+          "forks": 10213
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 58082,
+          "forks": 5056
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 54746,
+          "forks": 6970
+        },
+        {
+          "rank": 6,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51484,
+          "forks": 8989
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 48946,
+          "forks": 3452
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48528,
+          "forks": 5645
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44636,
+          "forks": 4393
+        },
+        {
+          "rank": 10,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 42768,
+          "forks": 3669
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29243,
+          "forks": 87423
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 171482,
+          "forks": 82966
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 335322,
+          "forks": 81529
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173852,
+          "forks": 79179
+        },
+        {
+          "rank": 5,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2641,
+          "forks": 72791
+        },
+        {
+          "rank": 6,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 379387,
+          "forks": 65649
+        },
+        {
+          "rank": 7,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18568,
+          "forks": 65201
+        },
+        {
+          "rank": 8,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 211880,
+          "forks": 59622
+        },
+        {
+          "rank": 9,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85472,
+          "forks": 56431
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 104259,
+          "forks": 55513
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 215359,
+          "forks": 49722
+        },
+        {
+          "rank": 2,
+          "name": "xerrors/Yuxi-Know",
+          "url": "https://github.com/xerrors/Yuxi-Know",
+          "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowled...",
+          "language": "Python",
+          "stars": 3400,
+          "forks": 412
+        },
+        {
+          "rank": 3,
+          "name": "agrinman/tunnelto",
+          "url": "https://github.com/agrinman/tunnelto",
+          "description": "Expose your local web server to the internet with a public URL.",
+          "language": "Rust",
+          "stars": 3228,
+          "forks": 188
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 84301,
+          "forks": 11991
+        },
+        {
+          "rank": 5,
+          "name": "rendercv/rendercv",
+          "url": "https://github.com/rendercv/rendercv",
+          "description": "CV/resume generator for academics and engineers, YAML to PDF",
+          "language": "Python",
+          "stars": 12415,
+          "forks": 819
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 215359,
+          "forks": 49722
+        },
+        {
+          "rank": 2,
+          "name": "xerrors/Yuxi-Know",
+          "url": "https://github.com/xerrors/Yuxi-Know",
+          "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowled...",
+          "language": "Python",
+          "stars": 3400,
+          "forks": 412
+        },
+        {
+          "rank": 3,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 84301,
+          "forks": 11991
+        },
+        {
+          "rank": 4,
+          "name": "rendercv/rendercv",
+          "url": "https://github.com/rendercv/rendercv",
+          "description": "CV/resume generator for academics and engineers, YAML to PDF",
+          "language": "Python",
+          "stars": 12415,
+          "forks": 819
+        },
+        {
+          "rank": 5,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 6 lines of code",
+          "language": "Python",
+          "stars": 10589,
+          "forks": 974
+        },
+        {
+          "rank": 6,
+          "name": "ModelTC/LightX2V",
+          "url": "https://github.com/ModelTC/LightX2V",
+          "description": "Light Video Generation Inference Framework",
+          "language": "Python",
+          "stars": 1560,
+          "forks": 108
+        },
+        {
+          "rank": 7,
+          "name": "vibrantlabsai/ragas",
+          "url": "https://github.com/vibrantlabsai/ragas",
+          "description": "Supercharge Your LLM Application Evaluations 🚀",
+          "language": "Python",
+          "stars": 11911,
+          "forks": 1181
+        },
+        {
+          "rank": 8,
+          "name": "facebookresearch/llm-transparency-tool",
+          "url": "https://github.com/facebookresearch/llm-transparency-tool",
+          "description": "LLM Transparency Tool (LLM-TT), an open-source interactive toolkit for analyzing internal working...",
+          "language": "Python",
+          "stars": 1161,
+          "forks": 97
+        },
+        {
+          "rank": 9,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 14205,
+          "forks": 3124
+        }
+      ]
+    }
+  ]
+}

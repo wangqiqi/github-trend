@@ -1,0 +1,373 @@
+{
+  "date": "20260816",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 386430,
+          "forks": 81205
+        },
+        {
+          "rank": 2,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 272636,
+          "forks": 24373
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 218824,
+          "forks": 18851
+        },
+        {
+          "rank": 4,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 202924,
+          "forks": 20824
+        },
+        {
+          "rank": 5,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and mainta...",
+          "language": "Rust",
+          "stars": 195058,
+          "forks": 109098
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 129401,
+          "forks": 11571
+        },
+        {
+          "rank": 7,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 128204,
+          "forks": 19293
+        },
+        {
+          "rank": 8,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 125310,
+          "forks": 12438
+        },
+        {
+          "rank": 9,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 108682,
+          "forks": 12398
+        },
+        {
+          "rank": 10,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 103717,
+          "forks": 5703
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 394518,
+          "forks": 66659
+        },
+        {
+          "rank": 2,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88616,
+          "forks": 59246
+        },
+        {
+          "rank": 3,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 99095,
+          "forks": 54693
+        },
+        {
+          "rank": 4,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42452
+        },
+        {
+          "rank": 5,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1161,
+          "forks": 41893
+        },
+        {
+          "rank": 6,
+          "name": "leereilly/swot",
+          "url": "https://github.com/leereilly/swot",
+          "description": "Archived — SWOT delighted millions of students with GitHub discounts and saved bazillions of revi...",
+          "language": "Ruby",
+          "stars": 1181,
+          "forks": 37798
+        },
+        {
+          "rank": 7,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 240371,
+          "forks": 36470
+        },
+        {
+          "rank": 8,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 53737,
+          "forks": 33433
+        },
+        {
+          "rank": 9,
+          "name": "mdn/learning-area",
+          "url": "https://github.com/mdn/learning-area",
+          "description": "GitHub repo for the MDN Learning Area.",
+          "language": "HTML",
+          "stars": 7596,
+          "forks": 27249
+        },
+        {
+          "rank": 10,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13556,
+          "forks": 27240
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cordiverse/cordis",
+          "url": "https://github.com/cordiverse/cordis",
+          "description": "Meta-Framework of Spatiotemporal Composability",
+          "language": "TypeScript",
+          "stars": 4423,
+          "forks": 220
+        },
+        {
+          "rank": 2,
+          "name": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "description": "Beautiful, Modern & Opinionated Linux",
+          "language": "Shell",
+          "stars": 25083,
+          "forks": 2556
+        },
+        {
+          "rank": 3,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemm...",
+          "language": "Python",
+          "stars": 72259,
+          "forks": 6509
+        },
+        {
+          "rank": 4,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 83524,
+          "forks": 8264
+        },
+        {
+          "rank": 5,
+          "name": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different a...",
+          "language": "Rust",
+          "stars": 1539,
+          "forks": 163
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 460841,
+          "forks": 50915
+        },
+        {
+          "rank": 7,
+          "name": "ToolJet/ToolJet",
+          "url": "https://github.com/ToolJet/ToolJet",
+          "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for ...",
+          "language": "JavaScript",
+          "stars": 39739,
+          "forks": 5310
+        },
+        {
+          "rank": 8,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars": 6279,
+          "forks": 417
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "unslothai/unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemm...",
+          "language": "Python",
+          "stars": 72259,
+          "forks": 6509
+        },
+        {
+          "rank": 2,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 460841,
+          "forks": 50915
+        },
+        {
+          "rank": 3,
+          "name": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+          "language": "Python",
+          "stars": 6279,
+          "forks": 417
+        },
+        {
+          "rank": 4,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 47558,
+          "forks": 4403
+        },
+        {
+          "rank": 5,
+          "name": "xai-org/grok-1",
+          "url": "https://github.com/xai-org/grok-1",
+          "description": "Grok open release",
+          "language": "Python",
+          "stars": 52139,
+          "forks": 8535
+        },
+        {
+          "rank": 6,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 104153,
+          "forks": 15800
+        },
+        {
+          "rank": 7,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 21102,
+          "forks": 3376
+        },
+        {
+          "rank": 8,
+          "name": "megadose/holehe",
+          "url": "https://github.com/megadose/holehe",
+          "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and wil...",
+          "language": "Python",
+          "stars": 13221,
+          "forks": 1754
+        },
+        {
+          "rank": 9,
+          "name": "MakazhanAlpamys/Soup",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+          "language": "Python",
+          "stars": 1883,
+          "forks": 279
+        },
+        {
+          "rank": 10,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 184762,
+          "forks": 15912
+        }
+      ]
+    }
+  ]
+}

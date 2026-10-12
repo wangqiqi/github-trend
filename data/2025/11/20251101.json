@@ -1,0 +1,391 @@
+{
+  "date": "20251101",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91424,
+          "forks": 11782
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 82396,
+          "forks": 4638
+        },
+        {
+          "rank": 3,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 74011,
+          "forks": 6194
+        },
+        {
+          "rank": 4,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 71703,
+          "forks": 8588
+        },
+        {
+          "rank": 5,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50588,
+          "forks": 8845
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 49477,
+          "forks": 6076
+        },
+        {
+          "rank": 7,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Shell",
+          "stars": 44069,
+          "forks": 3759
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 43647,
+          "forks": 14676
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 43025,
+          "forks": 4074
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 42159,
+          "forks": 7460
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173630,
+          "forks": 79159
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2620,
+          "forks": 72693
+        },
+        {
+          "rank": 3,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18155,
+          "forks": 64042
+        },
+        {
+          "rank": 4,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8296,
+          "forks": 59300
+        },
+        {
+          "rank": 5,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 206101,
+          "forks": 58188
+        },
+        {
+          "rank": 6,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 173931,
+          "forks": 54793
+        },
+        {
+          "rank": 7,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37287,
+          "forks": 54047
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 101219,
+          "forks": 53664
+        },
+        {
+          "rank": 9,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 240223,
+          "forks": 49710
+        },
+        {
+          "rank": 10,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 212279,
+          "forks": 49088
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "get-convex/chef",
+          "url": "https://github.com/get-convex/chef",
+          "description": "The only AI app builder that knows backend",
+          "language": "TypeScript",
+          "stars": 2547,
+          "forks": 499
+        },
+        {
+          "rank": 2,
+          "name": "suitenumerique/docs",
+          "url": "https://github.com/suitenumerique/docs",
+          "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and R...",
+          "language": "Python",
+          "stars": 14101,
+          "forks": 423
+        },
+        {
+          "rank": 3,
+          "name": "Tencent/WeKnora",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answ...",
+          "language": "Go",
+          "stars": 7083,
+          "forks": 807
+        },
+        {
+          "rank": 4,
+          "name": "janhq/jan",
+          "url": "https://github.com/janhq/jan",
+          "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+          "language": "TypeScript",
+          "stars": 38863,
+          "forks": 2344
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/Web-Dev-For-Beginners",
+          "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+          "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+          "language": "JavaScript",
+          "stars": 93602,
+          "forks": 14531
+        },
+        {
+          "rank": 6,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 74584,
+          "forks": 10874
+        },
+        {
+          "rank": 7,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 38785,
+          "forks": 4506
+        },
+        {
+          "rank": 8,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 88793,
+          "forks": 9509
+        },
+        {
+          "rank": 9,
+          "name": "github/copilot-cli",
+          "url": "https://github.com/github/copilot-cli",
+          "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+          "language": "N/A",
+          "stars": 4396,
+          "forks": 283
+        },
+        {
+          "rank": 10,
+          "name": "YunaiV/ruoyi-vue-pro",
+          "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+          "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微...",
+          "language": "Java",
+          "stars": 33845,
+          "forks": 7311
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "suitenumerique/docs",
+          "url": "https://github.com/suitenumerique/docs",
+          "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and R...",
+          "language": "Python",
+          "stars": 14101,
+          "forks": 423
+        },
+        {
+          "rank": 2,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 74584,
+          "forks": 10874
+        },
+        {
+          "rank": 3,
+          "name": "hanxi/xiaomusic",
+          "url": "https://github.com/hanxi/xiaomusic",
+          "description": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
+          "language": "Python",
+          "stars": 6445,
+          "forks": 637
+        },
+        {
+          "rank": 4,
+          "name": "666ghj/BettaFish",
+          "url": "https://github.com/666ghj/BettaFish",
+          "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+          "language": "Python",
+          "stars": 2675,
+          "forks": 324
+        },
+        {
+          "rank": 5,
+          "name": "aliasrobotics/cai",
+          "url": "https://github.com/aliasrobotics/cai",
+          "description": "Cybersecurity AI (CAI), the framework for AI Security",
+          "language": "Python",
+          "stars": 5022,
+          "forks": 696
+        },
+        {
+          "rank": 6,
+          "name": "livekit/agents",
+          "url": "https://github.com/livekit/agents",
+          "description": "A powerful framework for building realtime voice AI agents 🤖🎙️📹",
+          "language": "Python",
+          "stars": 8039,
+          "forks": 1425
+        },
+        {
+          "rank": 7,
+          "name": "unitreerobotics/unitree_rl_lab",
+          "url": "https://github.com/unitreerobotics/unitree_rl_lab",
+          "description": "This is a repository for reinforcement learning implementation for Unitree robots, based on Isaac...",
+          "language": "Python",
+          "stars": 409,
+          "forks": 64
+        },
+        {
+          "rank": 8,
+          "name": "vllm-project/vllm-ascend",
+          "url": "https://github.com/vllm-project/vllm-ascend",
+          "description": "Community maintained hardware plugin for vLLM on Ascend",
+          "language": "Python",
+          "stars": 1285,
+          "forks": 530
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 5429,
+          "forks": 390
+        },
+        {
+          "rank": 10,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+          "language": "Python",
+          "stars": 47836,
+          "forks": 3947
+        }
+      ]
+    }
+  ]
+}

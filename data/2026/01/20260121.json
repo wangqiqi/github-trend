@@ -1,0 +1,373 @@
+{
+  "date": "20260121",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 109965,
+          "forks": 28747
+        },
+        {
+          "rank": 2,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 91932,
+          "forks": 10710
+        },
+        {
+          "rank": 3,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 81593,
+          "forks": 7247
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 64062,
+          "forks": 5545
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 58932,
+          "forks": 4356
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 56726,
+          "forks": 7342
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 53387,
+          "forks": 9374
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 50204,
+          "forks": 6104
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 47568,
+          "forks": 4492
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 45172,
+          "forks": 4512
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52292,
+          "forks": 96814
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2663,
+          "forks": 72863
+        },
+        {
+          "rank": 3,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 177809,
+          "forks": 55275
+        },
+        {
+          "rank": 4,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 332830,
+          "forks": 54112
+        },
+        {
+          "rank": 5,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37336,
+          "forks": 53900
+        },
+        {
+          "rank": 6,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 181331,
+          "forks": 46265
+        },
+        {
+          "rank": 7,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153545,
+          "forks": 46110
+        },
+        {
+          "rank": 8,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1575,
+          "forks": 44743
+        },
+        {
+          "rank": 9,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20058,
+          "forks": 43402
+        },
+        {
+          "rank": 10,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 119965,
+          "forks": 42243
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tambo-ai/tambo",
+          "url": "https://github.com/tambo-ai/tambo",
+          "description": "Generative UI SDK for React",
+          "language": "TypeScript",
+          "stars": 2981,
+          "forks": 180
+        },
+        {
+          "rank": 2,
+          "name": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Claude Code compound engineering plugin",
+          "language": "Python",
+          "stars": 5426,
+          "forks": 447
+        },
+        {
+          "rank": 3,
+          "name": "twitter/the-algorithm",
+          "url": "https://github.com/twitter/the-algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "stars": 71161,
+          "forks": 13065
+        },
+        {
+          "rank": 4,
+          "name": "xai-org/grok-1",
+          "url": "https://github.com/xai-org/grok-1",
+          "description": "Grok open release",
+          "language": "Python",
+          "stars": 50801,
+          "forks": 8411
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 11056,
+          "forks": 909
+        },
+        {
+          "rank": 6,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 5904,
+          "forks": 481
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/Data-Science-For-Beginners",
+          "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+          "description": "10 Weeks, 20 Lessons, Data Science for All!",
+          "language": "Jupyter Notebook",
+          "stars": 31950,
+          "forks": 6779
+        },
+        {
+          "rank": 8,
+          "name": "tobi/try",
+          "url": "https://github.com/tobi/try",
+          "description": "fresh directories for every vibe",
+          "language": "Shell",
+          "stars": 3033,
+          "forks": 114
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "EveryInc/compound-engineering-plugin",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Official Claude Code compound engineering plugin",
+          "language": "Python",
+          "stars": 5426,
+          "forks": 447
+        },
+        {
+          "rank": 2,
+          "name": "xai-org/grok-1",
+          "url": "https://github.com/xai-org/grok-1",
+          "description": "Grok open release",
+          "language": "Python",
+          "stars": 50801,
+          "forks": 8411
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/agent-lightning",
+          "url": "https://github.com/microsoft/agent-lightning",
+          "description": "The absolute trainer to light up AI agents.",
+          "language": "Python",
+          "stars": 11056,
+          "forks": 909
+        },
+        {
+          "rank": 4,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 5904,
+          "forks": 481
+        },
+        {
+          "rank": 5,
+          "name": "ahujasid/blender-mcp",
+          "url": "https://github.com/ahujasid/blender-mcp",
+          "description": "",
+          "language": "Python",
+          "stars": 16214,
+          "forks": 1539
+        },
+        {
+          "rank": 6,
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR tool...",
+          "language": "Python",
+          "stars": 68513,
+          "forks": 9678
+        },
+        {
+          "rank": 7,
+          "name": "datawhalechina/all-in-rag",
+          "url": "https://github.com/datawhalechina/all-in-rag",
+          "description": "🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/",
+          "language": "Python",
+          "stars": 3242,
+          "forks": 1524
+        },
+        {
+          "rank": 8,
+          "name": "pytorch/executorch",
+          "url": "https://github.com/pytorch/executorch",
+          "description": "On-device AI across mobile, embedded and edge for PyTorch",
+          "language": "Python",
+          "stars": 4167,
+          "forks": 805
+        },
+        {
+          "rank": 9,
+          "name": "lzhoang2801/OpCore-Simplify",
+          "url": "https://github.com/lzhoang2801/OpCore-Simplify",
+          "description": "A tool designed to simplify the creation of OpenCore EFI",
+          "language": "Python",
+          "stars": 4683,
+          "forks": 459
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 40581,
+          "forks": 5252
+        }
+      ]
+    }
+  ]
+}

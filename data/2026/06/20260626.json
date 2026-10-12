@@ -1,0 +1,295 @@
+{
+  "date": "20260626",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 222023,
+          "forks": 33996
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 203546,
+          "forks": 36485
+        },
+        {
+          "rank": 3,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 77131,
+          "forks": 4365
+        },
+        {
+          "rank": 4,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur...",
+          "language": "TypeScript",
+          "stars": 54903,
+          "forks": 3374
+        },
+        {
+          "rank": 5,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 49981,
+          "forks": 43750
+        },
+        {
+          "rank": 6,
+          "name": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+          "language": "Python",
+          "stars": 44769,
+          "forks": 7891
+        },
+        {
+          "rank": 7,
+          "name": "zeroclaw-labs/zeroclaw",
+          "url": "https://github.com/zeroclaw-labs/zeroclaw",
+          "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — de...",
+          "language": "Rust",
+          "stars": 32046,
+          "forks": 4765
+        },
+        {
+          "rank": 8,
+          "name": "Yeachan-Heo/oh-my-codex",
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "language": "TypeScript",
+          "stars": 31383,
+          "forks": 2450
+        },
+        {
+          "rank": 9,
+          "name": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "description": "Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity sub...",
+          "language": "Go",
+          "stars": 29215,
+          "forks": 5950
+        },
+        {
+          "rank": 10,
+          "name": "googleworkspace/cli",
+          "url": "https://github.com/googleworkspace/cli",
+          "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admi...",
+          "language": "Rust",
+          "stars": 28815,
+          "forks": 1614
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "simplex-chat/simplex-chat",
+          "url": "https://github.com/simplex-chat/simplex-chat",
+          "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% priva...",
+          "language": "Haskell",
+          "stars": 11946,
+          "forks": 682
+        },
+        {
+          "rank": 2,
+          "name": "google-labs-code/design.md",
+          "url": "https://github.com/google-labs-code/design.md",
+          "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents ...",
+          "language": "TypeScript",
+          "stars": 20594,
+          "forks": 1694
+        },
+        {
+          "rank": 3,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance syste...",
+          "language": "Python",
+          "stars": 61654,
+          "forks": 11040
+        },
+        {
+          "rank": 4,
+          "name": "kunchenguid/no-mistakes",
+          "url": "https://github.com/kunchenguid/no-mistakes",
+          "description": "git push no-mistakes",
+          "language": "Go",
+          "stars": 3201,
+          "forks": 188
+        },
+        {
+          "rank": 5,
+          "name": "grafana/grafana",
+          "url": "https://github.com/grafana/grafana",
+          "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, a...",
+          "language": "TypeScript",
+          "stars": 74752,
+          "forks": 14116
+        },
+        {
+          "rank": 6,
+          "name": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "language": "HTML",
+          "stars": 123546,
+          "forks": 13042
+        },
+        {
+          "rank": 7,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agen...",
+          "language": "Python",
+          "stars": 70131,
+          "forks": 5924
+        },
+        {
+          "rank": 8,
+          "name": "alchaincyf/zhangxuefeng-skill",
+          "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+          "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+          "language": "N/A",
+          "stars": 9185,
+          "forks": 2556
+        },
+        {
+          "rank": 9,
+          "name": "mauriceboe/TREK",
+          "url": "https://github.com/mauriceboe/TREK",
+          "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SS...",
+          "language": "TypeScript",
+          "stars": 7321,
+          "forks": 634
+        },
+        {
+          "rank": 10,
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value...",
+          "language": "Python",
+          "stars": 2871,
+          "forks": 419
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance syste...",
+          "language": "Python",
+          "stars": 61654,
+          "forks": 11040
+        },
+        {
+          "rank": 2,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agen...",
+          "language": "Python",
+          "stars": 70131,
+          "forks": 5924
+        },
+        {
+          "rank": 3,
+          "name": "xbtlin/ai-berkshire",
+          "url": "https://github.com/xbtlin/ai-berkshire",
+          "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value...",
+          "language": "Python",
+          "stars": 2871,
+          "forks": 419
+        },
+        {
+          "rank": 4,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent sk...",
+          "language": "Python",
+          "stars": 23111,
+          "forks": 2569
+        },
+        {
+          "rank": 5,
+          "name": "aws/agent-toolkit-for-aws",
+          "url": "https://github.com/aws/agent-toolkit-for-aws",
+          "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+          "language": "Python",
+          "stars": 1270,
+          "forks": 117
+        },
+        {
+          "rank": 6,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 53242,
+          "forks": 10961
+        },
+        {
+          "rank": 7,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 41938,
+          "forks": 3329
+        },
+        {
+          "rank": 8,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system ...",
+          "language": "Python",
+          "stars": 49981,
+          "forks": 43750
+        },
+        {
+          "rank": 9,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 84419,
+          "forks": 18548
+        },
+        {
+          "rank": 10,
+          "name": "SimplifyJobs/Summer2026-Internships",
+          "url": "https://github.com/SimplifyJobs/Summer2026-Internships",
+          "description": "Summer 2026 software engineering, data science, AI, quant, product management, and hardware inter...",
+          "language": "Python",
+          "stars": 45065,
+          "forks": 3181
+        }
+      ]
+    }
+  ]
+}

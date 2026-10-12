@@ -1,0 +1,391 @@
+{
+  "date": "20250922",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99364,
+          "forks": 16223
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91175,
+          "forks": 11744
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovab...",
+          "language": "N/A",
+          "stars": 87279,
+          "forks": 23942
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 76083,
+          "forks": 8136
+        },
+        {
+          "rank": 5,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 70860,
+          "forks": 5839
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70294,
+          "forks": 8217
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 68517,
+          "forks": 8059
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49928,
+          "forks": 8739
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 41246,
+          "forks": 7253
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 39158,
+          "forks": 12709
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28971,
+          "forks": 87258
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 329225,
+          "forks": 80599
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173450,
+          "forks": 79168
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 369450,
+          "forks": 64238
+        },
+        {
+          "rank": 5,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 85899,
+          "forks": 60969
+        },
+        {
+          "rank": 6,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8189,
+          "forks": 58677
+        },
+        {
+          "rank": 7,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 84191,
+          "forks": 56290
+        },
+        {
+          "rank": 8,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37263,
+          "forks": 54105
+        },
+        {
+          "rank": 9,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 96120,
+          "forks": 53614
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 98646,
+          "forks": 51837
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Gar-b-age/CookLikeHOC",
+          "url": "https://github.com/Gar-b-age/CookLikeHOC",
+          "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+          "language": "JavaScript",
+          "stars": 12962,
+          "forks": 1370
+        },
+        {
+          "rank": 2,
+          "name": "bevyengine/bevy",
+          "url": "https://github.com/bevyengine/bevy",
+          "description": "A refreshingly simple data-driven game engine built in Rust",
+          "language": "Rust",
+          "stars": 42038,
+          "forks": 4115
+        },
+        {
+          "rank": 3,
+          "name": "Alibaba-NLP/DeepResearch",
+          "url": "https://github.com/Alibaba-NLP/DeepResearch",
+          "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+          "language": "Python",
+          "stars": 13511,
+          "forks": 979
+        },
+        {
+          "rank": 4,
+          "name": "tldraw/tldraw",
+          "url": "https://github.com/tldraw/tldraw",
+          "description": "very good whiteboard SDK / infinite canvas SDK",
+          "language": "TypeScript",
+          "stars": 42381,
+          "forks": 2728
+        },
+        {
+          "rank": 5,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 73863,
+          "forks": 25459
+        },
+        {
+          "rank": 6,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 202872,
+          "forks": 57831
+        },
+        {
+          "rank": 7,
+          "name": "LizardByte/Sunshine",
+          "url": "https://github.com/LizardByte/Sunshine",
+          "description": "Self-hosted game stream host for Moonlight.",
+          "language": "C++",
+          "stars": 29023,
+          "forks": 1374
+        },
+        {
+          "rank": 8,
+          "name": "ytdl-org/youtube-dl",
+          "url": "https://github.com/ytdl-org/youtube-dl",
+          "description": "Command-line program to download videos from YouTube.com and other video sites",
+          "language": "Python",
+          "stars": 137592,
+          "forks": 10481
+        },
+        {
+          "rank": 9,
+          "name": "mindcraft-bots/mindcraft",
+          "url": "https://github.com/mindcraft-bots/mindcraft",
+          "description": "Minecraft AI with LLMs+Mineflayer",
+          "language": "JavaScript",
+          "stars": 3854,
+          "forks": 547
+        },
+        {
+          "rank": 10,
+          "name": "eslint/eslint",
+          "url": "https://github.com/eslint/eslint",
+          "description": "Find and fix problems in your JavaScript code.",
+          "language": "JavaScript",
+          "stars": 26295,
+          "forks": 4799
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Alibaba-NLP/DeepResearch",
+          "url": "https://github.com/Alibaba-NLP/DeepResearch",
+          "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+          "language": "Python",
+          "stars": 13511,
+          "forks": 979
+        },
+        {
+          "rank": 2,
+          "name": "ytdl-org/youtube-dl",
+          "url": "https://github.com/ytdl-org/youtube-dl",
+          "description": "Command-line program to download videos from YouTube.com and other video sites",
+          "language": "Python",
+          "stars": 137592,
+          "forks": 10481
+        },
+        {
+          "rank": 3,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 156624,
+          "forks": 29061
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "📚 Freely available programming books",
+          "language": "Python",
+          "stars": 369450,
+          "forks": 64238
+        },
+        {
+          "rank": 5,
+          "name": "lllyasviel/Fooocus",
+          "url": "https://github.com/lllyasviel/Fooocus",
+          "description": "Focus on prompting and generating",
+          "language": "Python",
+          "stars": 46505,
+          "forks": 7487
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 320512,
+          "forks": 52374
+        },
+        {
+          "rank": 7,
+          "name": "freqtrade/freqtrade",
+          "url": "https://github.com/freqtrade/freqtrade",
+          "description": "Free, open source crypto trading bot",
+          "language": "Python",
+          "stars": 42373,
+          "forks": 8646
+        },
+        {
+          "rank": 8,
+          "name": "google/adk-samples",
+          "url": "https://github.com/google/adk-samples",
+          "description": "A collection of sample agents built with Agent Development (ADK)",
+          "language": "Python",
+          "stars": 5165,
+          "forks": 1500
+        },
+        {
+          "rank": 9,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 127166,
+          "forks": 10204
+        },
+        {
+          "rank": 10,
+          "name": "Skyvern-AI/skyvern",
+          "url": "https://github.com/Skyvern-AI/skyvern",
+          "description": "Automate browser-based workflows with LLMs and Computer Vision",
+          "language": "Python",
+          "stars": 14390,
+          "forks": 1217
+        }
+      ]
+    }
+  ]
+}

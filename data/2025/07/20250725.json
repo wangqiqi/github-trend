@@ -1,0 +1,391 @@
+{
+  "date": "20250725",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98363,
+          "forks": 16019
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90666,
+          "forks": 11699
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 71198,
+          "forks": 20219
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 69284,
+          "forks": 3697
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 66247,
+          "forks": 7609
+        },
+        {
+          "rank": 6,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 63900,
+          "forks": 6037
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 63215,
+          "forks": 4981
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 61384,
+          "forks": 7110
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 48346,
+          "forks": 8469
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 38453,
+          "forks": 6772
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13123,
+          "forks": 152338
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 861,
+          "forks": 144017
+        },
+        {
+          "rank": 3,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49552,
+          "forks": 88904
+        },
+        {
+          "rank": 4,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168209,
+          "forks": 83050
+        },
+        {
+          "rank": 5,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2257,
+          "forks": 82290
+        },
+        {
+          "rank": 6,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 323293,
+          "forks": 79689
+        },
+        {
+          "rank": 7,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172585,
+          "forks": 79109
+        },
+        {
+          "rank": 8,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190884,
+          "forks": 74769
+        },
+        {
+          "rank": 9,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 363648,
+          "forks": 63814
+        },
+        {
+          "rank": 10,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17619,
+          "forks": 62540
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "QwenLM/Qwen3-Coder",
+          "url": "https://github.com/QwenLM/Qwen3-Coder",
+          "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team,...",
+          "language": "Python",
+          "stars": 8512,
+          "forks": 605
+        },
+        {
+          "rank": 2,
+          "name": "m1k1o/neko",
+          "url": "https://github.com/m1k1o/neko",
+          "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+          "language": "Go",
+          "stars": 13278,
+          "forks": 837
+        },
+        {
+          "rank": 3,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 22695,
+          "forks": 3893
+        },
+        {
+          "rank": 4,
+          "name": "semgrep/semgrep",
+          "url": "https://github.com/semgrep/semgrep",
+          "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like so...",
+          "language": "OCaml",
+          "stars": 12134,
+          "forks": 741
+        },
+        {
+          "rank": 5,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 45903,
+          "forks": 4166
+        },
+        {
+          "rank": 6,
+          "name": "frappe/hrms",
+          "url": "https://github.com/frappe/hrms",
+          "description": "Open Source HR and Payroll Software",
+          "language": "Python",
+          "stars": 3908,
+          "forks": 1331
+        },
+        {
+          "rank": 7,
+          "name": "tensorzero/tensorzero",
+          "url": "https://github.com/tensorzero/tensorzero",
+          "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gatew...",
+          "language": "Rust",
+          "stars": 8803,
+          "forks": 563
+        },
+        {
+          "rank": 8,
+          "name": "software-mansion/react-native-reanimated",
+          "url": "https://github.com/software-mansion/react-native-reanimated",
+          "description": "React Native's Animated library reimplemented",
+          "language": "TypeScript",
+          "stars": 9880,
+          "forks": 1388
+        },
+        {
+          "rank": 9,
+          "name": "steven2358/awesome-generative-ai",
+          "url": "https://github.com/steven2358/awesome-generative-ai",
+          "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+          "language": "N/A",
+          "stars": 9297,
+          "forks": 1034
+        },
+        {
+          "rank": 10,
+          "name": "srbhr/Resume-Matcher",
+          "url": "https://github.com/srbhr/Resume-Matcher",
+          "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes...",
+          "language": "TypeScript",
+          "stars": 19477,
+          "forks": 4084
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "QwenLM/Qwen3-Coder",
+          "url": "https://github.com/QwenLM/Qwen3-Coder",
+          "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team,...",
+          "language": "Python",
+          "stars": 8512,
+          "forks": 605
+        },
+        {
+          "rank": 2,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 45903,
+          "forks": 4166
+        },
+        {
+          "rank": 3,
+          "name": "frappe/hrms",
+          "url": "https://github.com/frappe/hrms",
+          "description": "Open Source HR and Payroll Software",
+          "language": "Python",
+          "stars": 3908,
+          "forks": 1331
+        },
+        {
+          "rank": 4,
+          "name": "pytorch/vision",
+          "url": "https://github.com/pytorch/vision",
+          "description": "Datasets, Transforms and Models specific to Computer Vision",
+          "language": "Python",
+          "stars": 17021,
+          "forks": 7113
+        },
+        {
+          "rank": 5,
+          "name": "QwenLM/Qwen3",
+          "url": "https://github.com/QwenLM/Qwen3",
+          "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+          "language": "Python",
+          "stars": 23308,
+          "forks": 1568
+        },
+        {
+          "rank": 6,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": "🏡 Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 80360,
+          "forks": 34439
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+          "url": "https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+          "description": "A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Pe...",
+          "language": "Python",
+          "stars": 6655,
+          "forks": 1357
+        },
+        {
+          "rank": 8,
+          "name": "serengil/deepface",
+          "url": "https://github.com/serengil/deepface",
+          "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Libr...",
+          "language": "Python",
+          "stars": 19946,
+          "forks": 2693
+        },
+        {
+          "rank": 9,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 33272,
+          "forks": 4094
+        },
+        {
+          "rank": 10,
+          "name": "infiniflow/ragflow",
+          "url": "https://github.com/infiniflow/ragflow",
+          "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document unde...",
+          "language": "Python",
+          "stars": 60884,
+          "forks": 6133
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260415",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 357877,
+          "forks": 72712
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 184571,
+          "forks": 108209
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 101317,
+          "forks": 13118
+        },
+        {
+          "rank": 4,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 80221,
+          "forks": 12821
+        },
+        {
+          "rank": 5,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 72607,
+          "forks": 10591
+        },
+        {
+          "rank": 6,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "Open-source orchestration for zero-human companies",
+          "language": "TypeScript",
+          "stars": 53946,
+          "forks": 9084
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 53764,
+          "forks": 7006
+        },
+        {
+          "rank": 8,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 53335,
+          "forks": 4472
+        },
+        {
+          "rank": 9,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 51889,
+          "forks": 6895
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 51687,
+          "forks": 23142
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 3,
+          "forks": 13902
+        },
+        {
+          "rank": 2,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9778
+        },
+        {
+          "rank": 3,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 217,
+          "forks": 9767
+        },
+        {
+          "rank": 4,
+          "name": "aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "url": "https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "description": "Sample web application for the AWS DevOps Engineer Learning Path.",
+          "language": "JavaScript",
+          "stars": 106,
+          "forks": 9354
+        },
+        {
+          "rank": 5,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8946
+        },
+        {
+          "rank": 6,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 13,
+          "forks": 6613
+        },
+        {
+          "rank": 7,
+          "name": "ironhack-labs/lab-javascript-basic-algorithms",
+          "url": "https://github.com/ironhack-labs/lab-javascript-basic-algorithms",
+          "description": "An exercise designed to learn basic JS algorithms (variables, loops, etc...)",
+          "language": "HTML",
+          "stars": 111,
+          "forks": 5873
+        },
+        {
+          "rank": 8,
+          "name": "mate-academy/layout_stars",
+          "url": "https://github.com/mate-academy/layout_stars",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 5775
+        },
+        {
+          "rank": 9,
+          "name": "mate-academy/layout_catalog",
+          "url": "https://github.com/mate-academy/layout_catalog",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 7,
+          "forks": 5150
+        },
+        {
+          "rank": 10,
+          "name": "yandex-praktikum/taski-docker",
+          "url": "https://github.com/yandex-praktikum/taski-docker",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 5,
+          "forks": 5036
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 39346,
+          "forks": 3224
+        },
+        {
+          "rank": 2,
+          "name": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "description": "Create and share 3D architectural projects.",
+          "language": "TypeScript",
+          "stars": 12231,
+          "forks": 1517
+        },
+        {
+          "rank": 3,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 56926,
+          "forks": 4589
+        },
+        {
+          "rank": 4,
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars": 29012,
+          "forks": 3529
+        },
+        {
+          "rank": 5,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 54704,
+          "forks": 9494
+        },
+        {
+          "rank": 6,
+          "name": "chrislgarry/Apollo-11",
+          "url": "https://github.com/chrislgarry/Apollo-11",
+          "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+          "language": "Assembly",
+          "stars": 66619,
+          "forks": 7598
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 153516,
+          "forks": 13331
+        },
+        {
+          "rank": 8,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source voice synthesis studio",
+          "language": "TypeScript",
+          "stars": 17887,
+          "forks": 2078
+        },
+        {
+          "rank": 9,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 422601,
+          "forks": 46021
+        },
+        {
+          "rank": 10,
+          "name": "vercel-labs/open-agents",
+          "url": "https://github.com/vercel-labs/open-agents",
+          "description": "An open source template for building cloud agents.",
+          "language": "TypeScript",
+          "stars": 2262,
+          "forks": 247
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 54704,
+          "forks": 9494
+        },
+        {
+          "rank": 2,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 422601,
+          "forks": 46021
+        },
+        {
+          "rank": 3,
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x ...",
+          "language": "Python",
+          "stars": 1586,
+          "forks": 217
+        },
+        {
+          "rank": 4,
+          "name": "google/magika",
+          "url": "https://github.com/google/magika",
+          "description": "Fast and accurate AI powered file content types detection",
+          "language": "Python",
+          "stars": 13408,
+          "forks": 697
+        },
+        {
+          "rank": 5,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 88080,
+          "forks": 11964
+        },
+        {
+          "rank": 6,
+          "name": "agentscope-ai/agentscope",
+          "url": "https://github.com/agentscope-ai/agentscope",
+          "description": "Build and run agents you can see, understand and trust.",
+          "language": "Python",
+          "stars": 23774,
+          "forks": 2525
+        },
+        {
+          "rank": 7,
+          "name": "zhayujie/CowAgent",
+          "url": "https://github.com/zhayujie/CowAgent",
+          "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比Ope...",
+          "language": "Python",
+          "stars": 43242,
+          "forks": 9924
+        },
+        {
+          "rank": 8,
+          "name": "AIDC-AI/Pixelle-Video",
+          "url": "https://github.com/AIDC-AI/Pixelle-Video",
+          "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+          "language": "Python",
+          "stars": 4050,
+          "forks": 669
+        },
+        {
+          "rank": 9,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+          "language": "Python",
+          "stars": 797,
+          "forks": 109
+        },
+        {
+          "rank": 10,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 342861,
+          "forks": 55397
+        }
+      ]
+    }
+  ]
+}

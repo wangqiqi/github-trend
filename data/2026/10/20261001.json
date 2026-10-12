@@ -1,0 +1,391 @@
+{
+  "date": "20261001",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 150148,
+          "forks": 8067
+        },
+        {
+          "rank": 2,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 123006,
+          "forks": 11860
+        },
+        {
+          "rank": 3,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 87657,
+          "forks": 13372
+        },
+        {
+          "rank": 4,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 84931,
+          "forks": 7162
+        },
+        {
+          "rank": 5,
+          "name": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle ...",
+          "language": "JavaScript",
+          "stars": 75696,
+          "forks": 5086
+        },
+        {
+          "rank": 6,
+          "name": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design language that makes your AI harness better at design.",
+          "language": "JavaScript",
+          "stars": 73483,
+          "forks": 4432
+        },
+        {
+          "rank": 7,
+          "name": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions a...",
+          "language": "Python",
+          "stars": 57262,
+          "forks": 4526
+        },
+        {
+          "rank": 8,
+          "name": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "description": "The open-source AI voice studio. Clone, dictate, create.",
+          "language": "TypeScript",
+          "stars": 56107,
+          "forks": 7004
+        },
+        {
+          "rank": 9,
+          "name": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "language": "Python",
+          "stars": 53331,
+          "forks": 4251
+        },
+        {
+          "rank": 10,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 52637,
+          "forks": 3035
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 398264,
+          "forks": 66874
+        },
+        {
+          "rank": 2,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 302,
+          "forks": 42357
+        },
+        {
+          "rank": 3,
+          "name": "mmistakes/minimal-mistakes",
+          "url": "https://github.com/mmistakes/minimal-mistakes",
+          "description": ":triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or por...",
+          "language": "HTML",
+          "stars": 13579,
+          "forks": 27170
+        },
+        {
+          "rank": 4,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description": "LLM inference in C/C++",
+          "language": "C++",
+          "stars": 130063,
+          "forks": 23971
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/ML-For-Beginners",
+          "url": "https://github.com/microsoft/ML-For-Beginners",
+          "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+          "language": "Jupyter Notebook",
+          "stars": 91190,
+          "forks": 22530
+        },
+        {
+          "rank": 6,
+          "name": "hiifeng/V2ray-for-Doprax",
+          "url": "https://github.com/hiifeng/V2ray-for-Doprax",
+          "description": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatica...",
+          "language": "Dockerfile",
+          "stars": 8324,
+          "forks": 21527
+        },
+        {
+          "rank": 7,
+          "name": "pandas-dev/pandas",
+          "url": "https://github.com/pandas-dev/pandas",
+          "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data str...",
+          "language": "Python",
+          "stars": 49888,
+          "forks": 20451
+        },
+        {
+          "rank": 8,
+          "name": "apache/superset",
+          "url": "https://github.com/apache/superset",
+          "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+          "language": "Python",
+          "stars": 75000,
+          "forks": 18414
+        },
+        {
+          "rank": 9,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14703
+        },
+        {
+          "rank": 10,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 15,
+          "forks": 13908
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 150148,
+          "forks": 8067
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 273656,
+          "forks": 22988
+        },
+        {
+          "rank": 3,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars": 13857,
+          "forks": 1614
+        },
+        {
+          "rank": 4,
+          "name": "firebase/firebase-ios-sdk",
+          "url": "https://github.com/firebase/firebase-ios-sdk",
+          "description": "Firebase SDK for Apple App Development",
+          "language": "C++",
+          "stars": 6835,
+          "forks": 1805
+        },
+        {
+          "rank": 5,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, sha...",
+          "language": "TypeScript",
+          "stars": 3523,
+          "forks": 236
+        },
+        {
+          "rank": 6,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 9281,
+          "forks": 879
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 293833,
+          "forks": 26281
+        },
+        {
+          "rank": 8,
+          "name": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists...",
+          "language": "TypeScript",
+          "stars": 24712,
+          "forks": 1777
+        },
+        {
+          "rank": 9,
+          "name": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML. Render video. Built for agents.",
+          "language": "TypeScript",
+          "stars": 55193,
+          "forks": 5008
+        },
+        {
+          "rank": 10,
+          "name": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+          "language": "TypeScript",
+          "stars": 111049,
+          "forks": 14114
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tile-ai/tilelang",
+          "url": "https://github.com/tile-ai/tilelang",
+          "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accel...",
+          "language": "Python",
+          "stars": 8034,
+          "forks": 811
+        },
+        {
+          "rank": 2,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 16278,
+          "forks": 2246
+        },
+        {
+          "rank": 3,
+          "name": "Friedrich-M/UniMate",
+          "url": "https://github.com/Friedrich-M/UniMate",
+          "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+          "language": "Python",
+          "stars": 1010,
+          "forks": 97
+        },
+        {
+          "rank": 4,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 38393,
+          "forks": 3325
+        },
+        {
+          "rank": 5,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 76298,
+          "forks": 8896
+        },
+        {
+          "rank": 6,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 6212,
+          "forks": 785
+        },
+        {
+          "rank": 7,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 51213,
+          "forks": 5687
+        },
+        {
+          "rank": 8,
+          "name": "alirezarezvani/claude-skills",
+          "url": "https://github.com/alirezarezvani/claude-skills",
+          "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, cu...",
+          "language": "Python",
+          "stars": 27144,
+          "forks": 3835
+        },
+        {
+          "rank": 9,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 127897,
+          "forks": 20009
+        },
+        {
+          "rank": 10,
+          "name": "hashgraph-online/awesome-codex-plugins",
+          "url": "https://github.com/hashgraph-online/awesome-codex-plugins",
+          "description": "A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Mar...",
+          "language": "Python",
+          "stars": 1135,
+          "forks": 323
+        }
+      ]
+    }
+  ]
+}

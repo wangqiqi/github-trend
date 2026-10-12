@@ -1,0 +1,391 @@
+{
+  "date": "20260518",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 196342,
+          "forks": 17486
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 186328,
+          "forks": 28836
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 155981,
+          "forks": 25059
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 101904,
+          "forks": 8951
+        },
+        {
+          "rank": 5,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 99738,
+          "forks": 16557
+        },
+        {
+          "rank": 6,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 98948,
+          "forks": 14732
+        },
+        {
+          "rank": 7,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .claude directory.",
+          "language": "Shell",
+          "stars": 91144,
+          "forks": 7986
+        },
+        {
+          "rank": 8,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 80750,
+          "forks": 9745
+        },
+        {
+          "rank": 9,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "JavaScript",
+          "stars": 61691,
+          "forks": 3438
+        },
+        {
+          "rank": 10,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 61141,
+          "forks": 9569
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 54032,
+          "forks": 102754
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29549,
+          "forks": 87369
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 173978,
+          "forks": 82518
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 174248,
+          "forks": 78895
+        },
+        {
+          "rank": 5,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 372898,
+          "forks": 77333
+        },
+        {
+          "rank": 6,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 195151,
+          "forks": 75307
+        },
+        {
+          "rank": 7,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19499,
+          "forks": 67086
+        },
+        {
+          "rank": 8,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 233587,
+          "forks": 62366
+        },
+        {
+          "rank": 9,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8563,
+          "forks": 60251
+        },
+        {
+          "rank": 10,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 88042,
+          "forks": 59719
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+          "language": "Rust",
+          "stars": 16041,
+          "forks": 1379
+        },
+        {
+          "rank": 2,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars": 10800,
+          "forks": 1143
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 36378,
+          "forks": 3532
+        },
+        {
+          "rank": 4,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 24212,
+          "forks": 2565
+        },
+        {
+          "rank": 5,
+          "name": "supertone-inc/supertonic",
+          "url": "https://github.com/supertone-inc/supertonic",
+          "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+          "language": "Swift",
+          "stars": 8097,
+          "forks": 829
+        },
+        {
+          "rank": 6,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description": "LLM inference in C/C++",
+          "language": "C++",
+          "stars": 110818,
+          "forks": 18345
+        },
+        {
+          "rank": 7,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 59620,
+          "forks": 7784
+        },
+        {
+          "rank": 8,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source...",
+          "language": "Python",
+          "stars": 14725,
+          "forks": 1153
+        },
+        {
+          "rank": 9,
+          "name": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claud...",
+          "language": "TypeScript",
+          "stars": 3865,
+          "forks": 340
+        },
+        {
+          "rank": 10,
+          "name": "BigBodyCobain/Shadowbroker",
+          "url": "https://github.com/BigBodyCobain/Shadowbroker",
+          "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets...",
+          "language": "Python",
+          "stars": 7547,
+          "forks": 1175
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars": 10800,
+          "forks": 1143
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 36378,
+          "forks": 3532
+        },
+        {
+          "rank": 3,
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 24212,
+          "forks": 2565
+        },
+        {
+          "rank": 4,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source...",
+          "language": "Python",
+          "stars": 14725,
+          "forks": 1153
+        },
+        {
+          "rank": 5,
+          "name": "BigBodyCobain/Shadowbroker",
+          "url": "https://github.com/BigBodyCobain/Shadowbroker",
+          "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets...",
+          "language": "Python",
+          "stars": 7547,
+          "forks": 1175
+        },
+        {
+          "rank": 6,
+          "name": "NVlabs/Sana",
+          "url": "https://github.com/NVlabs/Sana",
+          "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+          "language": "Python",
+          "stars": 6357,
+          "forks": 449
+        },
+        {
+          "rank": 7,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system...",
+          "language": "Python",
+          "stars": 36859,
+          "forks": 36105
+        },
+        {
+          "rank": 8,
+          "name": "mattzh72/articraft",
+          "url": "https://github.com/mattzh72/articraft",
+          "description": "An Agentic System for Scalable Articulated 3D Asset Generation",
+          "language": "Python",
+          "stars": 766,
+          "forks": 84
+        },
+        {
+          "rank": 9,
+          "name": "dograh-hq/dograh",
+          "url": "https://github.com/dograh-hq/dograh",
+          "description": "Open Source Voice Agent Platform",
+          "language": "Python",
+          "stars": 2081,
+          "forks": 427
+        },
+        {
+          "rank": 10,
+          "name": "joeseesun/qiaomu-anything-to-notebooklm",
+          "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+          "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages,...",
+          "language": "Python",
+          "stars": 3847,
+          "forks": 398
+        }
+      ]
+    }
+  ]
+}

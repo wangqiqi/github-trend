@@ -1,0 +1,391 @@
+{
+  "date": "20260306",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 269265,
+          "forks": 51437
+        },
+        {
+          "rank": 2,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 117103,
+          "forks": 11920
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 96659,
+          "forks": 11958
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 74525,
+          "forks": 6356
+        },
+        {
+          "rank": 5,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 72391,
+          "forks": 5569
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 63471,
+          "forks": 8419
+        },
+        {
+          "rank": 7,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 52548,
+          "forks": 6740
+        },
+        {
+          "rank": 8,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 48116,
+          "forks": 22496
+        },
+        {
+          "rank": 9,
+          "name": "upstash/context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+          "language": "TypeScript",
+          "stars": 47909,
+          "forks": 2263
+        },
+        {
+          "rank": 10,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 46387,
+          "forks": 4769
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29443,
+          "forks": 87504
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 337631,
+          "forks": 81644
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 194012,
+          "forks": 75218
+        },
+        {
+          "rank": 4,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 19055,
+          "forks": 66247
+        },
+        {
+          "rank": 5,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8506,
+          "forks": 60302
+        },
+        {
+          "rank": 6,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87442,
+          "forks": 60248
+        },
+        {
+          "rank": 7,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 86459,
+          "forks": 56534
+        },
+        {
+          "rank": 8,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 337511,
+          "forks": 54687
+        },
+        {
+          "rank": 9,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97676,
+          "forks": 54548
+        },
+        {
+          "rank": 10,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37351,
+          "forks": 53789
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "TypeScript",
+          "stars": 28862,
+          "forks": 2731
+        },
+        {
+          "rank": 2,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Inte...",
+          "language": "Python",
+          "stars": 14304,
+          "forks": 1359
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/hve-core",
+          "url": "https://github.com/microsoft/hve-core",
+          "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to s...",
+          "language": "PowerShell",
+          "stars": 444,
+          "forks": 86
+        },
+        {
+          "rank": 4,
+          "name": "Ed1s0nZ/CyberStrikeAI",
+          "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+          "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security ...",
+          "language": "Go",
+          "stars": 1403,
+          "forks": 296
+        },
+        {
+          "rank": 5,
+          "name": "inclusionAI/AReaL",
+          "url": "https://github.com/inclusionAI/AReaL",
+          "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+          "language": "Python",
+          "stars": 4276,
+          "forks": 348
+        },
+        {
+          "rank": 6,
+          "name": "lingfengQAQ/webnovel-writer",
+          "url": "https://github.com/lingfengQAQ/webnovel-writer",
+          "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+          "language": "Python",
+          "stars": 659,
+          "forks": 176
+        },
+        {
+          "rank": 7,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 11463,
+          "forks": 633
+        },
+        {
+          "rank": 8,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 1957,
+          "forks": 342
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 46216,
+          "forks": 8073
+        },
+        {
+          "rank": 10,
+          "name": "aidenybai/react-grab",
+          "url": "https://github.com/aidenybai/react-grab",
+          "description": "Select context for coding agents directly from your website",
+          "language": "TypeScript",
+          "stars": 5766,
+          "forks": 263
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Inte...",
+          "language": "Python",
+          "stars": 14304,
+          "forks": 1359
+        },
+        {
+          "rank": 2,
+          "name": "inclusionAI/AReaL",
+          "url": "https://github.com/inclusionAI/AReaL",
+          "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+          "language": "Python",
+          "stars": 4276,
+          "forks": 348
+        },
+        {
+          "rank": 3,
+          "name": "lingfengQAQ/webnovel-writer",
+          "url": "https://github.com/lingfengQAQ/webnovel-writer",
+          "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+          "language": "Python",
+          "stars": 659,
+          "forks": 176
+        },
+        {
+          "rank": 4,
+          "name": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "description": "Skills Catalog for Codex",
+          "language": "Python",
+          "stars": 11463,
+          "forks": 633
+        },
+        {
+          "rank": 5,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 1957,
+          "forks": 342
+        },
+        {
+          "rank": 6,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 46216,
+          "forks": 8073
+        },
+        {
+          "rank": 7,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Fully automatic censorship removal for language models",
+          "language": "Python",
+          "stars": 10485,
+          "forks": 1066
+        },
+        {
+          "rank": 8,
+          "name": "apache/airflow",
+          "url": "https://github.com/apache/airflow",
+          "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+          "language": "Python",
+          "stars": 44512,
+          "forks": 16606
+        },
+        {
+          "rank": 9,
+          "name": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "description": "Automate the process of making money online.",
+          "language": "Python",
+          "stars": 14877,
+          "forks": 1492
+        },
+        {
+          "rank": 10,
+          "name": "github/awesome-copilot",
+          "url": "https://github.com/github/awesome-copilot",
+          "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitH...",
+          "language": "Python",
+          "stars": 23897,
+          "forks": 2721
+        }
+      ]
+    }
+  ]
+}

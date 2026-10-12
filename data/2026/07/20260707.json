@@ -1,0 +1,391 @@
+{
+  "date": "20260707",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 226864,
+          "forks": 34686
+        },
+        {
+          "rank": 2,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 120195,
+          "forks": 17943
+        },
+        {
+          "rank": 3,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ...",
+          "language": "JavaScript",
+          "stars": 86285,
+          "forks": 7461
+        },
+        {
+          "rank": 4,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 68043,
+          "forks": 10603
+        },
+        {
+          "rank": 5,
+          "name": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cur...",
+          "language": "TypeScript",
+          "stars": 58256,
+          "forks": 3597
+        },
+        {
+          "rank": 6,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 50185,
+          "forks": 4178
+        },
+        {
+          "rank": 7,
+          "name": "chenglou/pretext",
+          "url": "https://github.com/chenglou/pretext",
+          "description": "Fast, accurate & comprehensive text measurement & layout",
+          "language": "TypeScript",
+          "stars": 48997,
+          "forks": 2719
+        },
+        {
+          "rank": 8,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars": 38010,
+          "forks": 2441
+        },
+        {
+          "rank": 9,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 37569,
+          "forks": 6251
+        },
+        {
+          "rank": 10,
+          "name": "Yeachan-Heo/oh-my-codex",
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "language": "TypeScript",
+          "stars": 31760,
+          "forks": 2463
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19745
+        },
+        {
+          "rank": 2,
+          "name": "wukongdaily/DockerTarBuilder",
+          "url": "https://github.com/wukongdaily/DockerTarBuilder",
+          "description": "它是一个工作流。可快速构建指定架构/平台的docker镜像",
+          "language": "N/A",
+          "stars": 1774,
+          "forks": 18763
+        },
+        {
+          "rank": 3,
+          "name": "daattali/beautiful-jekyll",
+          "url": "https://github.com/daattali/beautiful-jekyll",
+          "description": "✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com",
+          "language": "HTML",
+          "stars": 5819,
+          "forks": 17334
+        },
+        {
+          "rank": 4,
+          "name": "octra-labs/wallet-gen",
+          "url": "https://github.com/octra-labs/wallet-gen",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 899,
+          "forks": 14695
+        },
+        {
+          "rank": 5,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14703
+        },
+        {
+          "rank": 6,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 138,
+          "forks": 13776
+        },
+        {
+          "rank": 7,
+          "name": "Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "url": "https://github.com/Cursos-TI/cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo",
+          "description": "cursos-ti-desafio-cadastro-das-cartas-no-super-trunfo-CartasSuperTrunfo created by GitHub Classroom",
+          "language": "C",
+          "stars": 35,
+          "forks": 13744
+        },
+        {
+          "rank": 8,
+          "name": "giansales/cosmos-staking-apr",
+          "url": "https://github.com/giansales/cosmos-staking-apr",
+          "description": "Cosmos chain staking APR",
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0
+        },
+        {
+          "rank": 9,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9763
+        },
+        {
+          "rank": 10,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 216,
+          "forks": 9721
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let...",
+          "language": "TypeScript",
+          "stars": 8894,
+          "forks": 3192
+        },
+        {
+          "rank": 2,
+          "name": "Zackriya-Solutions/meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker d...",
+          "language": "Rust",
+          "stars": 20199,
+          "forks": 2025
+        },
+        {
+          "rank": 3,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 71685,
+          "forks": 7758
+        },
+        {
+          "rank": 4,
+          "name": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring,...",
+          "language": "Rust",
+          "stars": 78170,
+          "forks": 10519
+        },
+        {
+          "rank": 5,
+          "name": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. O...",
+          "language": "JavaScript",
+          "stars": 52519,
+          "forks": 8547
+        },
+        {
+          "rank": 6,
+          "name": "TencentCloud/CubeSandbox",
+          "url": "https://github.com/TencentCloud/CubeSandbox",
+          "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+          "language": "Rust",
+          "stars": 8242,
+          "forks": 691
+        },
+        {
+          "rank": 7,
+          "name": "AhmadIbrahiim/Website-downloader",
+          "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+          "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesh...",
+          "language": "HTML",
+          "stars": 3693,
+          "forks": 967
+        },
+        {
+          "rank": 8,
+          "name": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+          "language": "Swift",
+          "stars": 16938,
+          "forks": 1384
+        },
+        {
+          "rank": 9,
+          "name": "dotnet/skills",
+          "url": "https://github.com/dotnet/skills",
+          "description": "Repository for skills to assist AI coding agents with .NET and C#",
+          "language": "C#",
+          "stars": 4228,
+          "forks": 320
+        },
+        {
+          "rank": 10,
+          "name": "iOfficeAI/OfficeCLI",
+          "url": "https://github.com/iOfficeAI/OfficeCLI",
+          "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and autom...",
+          "language": "C#",
+          "stars": 9431,
+          "forks": 662
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "bradautomates/claude-video",
+          "url": "https://github.com/bradautomates/claude-video",
+          "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands...",
+          "language": "Python",
+          "stars": 4834,
+          "forks": 636
+        },
+        {
+          "rank": 2,
+          "name": "kyutai-labs/pocket-tts",
+          "url": "https://github.com/kyutai-labs/pocket-tts",
+          "description": "A TTS that fits in your CPU (and pocket)",
+          "language": "Python",
+          "stars": 5814,
+          "forks": 618
+        },
+        {
+          "rank": 3,
+          "name": "hesreallyhim/awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, ...",
+          "language": "Python",
+          "stars": 48858,
+          "forks": 4265
+        },
+        {
+          "rank": 4,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 50185,
+          "forks": 4178
+        },
+        {
+          "rank": 5,
+          "name": "langbot-app/LangBot",
+          "url": "https://github.com/langbot-app/LangBot",
+          "description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots...",
+          "language": "Python",
+          "stars": 16734,
+          "forks": 1481
+        },
+        {
+          "rank": 6,
+          "name": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "description": "An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python &...",
+          "language": "Python",
+          "stars": 5691,
+          "forks": 300
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+          "language": "Python",
+          "stars": 31726,
+          "forks": 3492
+        },
+        {
+          "rank": 8,
+          "name": "p1ngul1n0/blackbird",
+          "url": "https://github.com/p1ngul1n0/blackbird",
+          "description": "An OSINT tool to search for accounts by username and email in social networks.",
+          "language": "Python",
+          "stars": 6807,
+          "forks": 766
+        },
+        {
+          "rank": 9,
+          "name": "maziyarpanahi/openmed",
+          "url": "https://github.com/maziyarpanahi/openmed",
+          "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 1...",
+          "language": "Python",
+          "stars": 4265,
+          "forks": 501
+        },
+        {
+          "rank": 10,
+          "name": "cheahjs/free-llm-api-resources",
+          "url": "https://github.com/cheahjs/free-llm-api-resources",
+          "description": "A list of free LLM inference resources accessible via API.",
+          "language": "Python",
+          "stars": 26101,
+          "forks": 2719
+        }
+      ]
+    }
+  ]
+}

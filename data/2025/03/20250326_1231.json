@@ -1,0 +1,391 @@
+{
+  "date": "20250326",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 93621,
+          "forks": 15196
+        },
+        {
+          "rank": 2,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 25274,
+          "forks": 2592
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/graphrag",
+          "url": "https://github.com/microsoft/graphrag",
+          "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+          "language": "Python",
+          "stars": 23905,
+          "forks": 2393
+        },
+        {
+          "rank": 4,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21027,
+          "forks": 1488
+        },
+        {
+          "rank": 5,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1",
+          "language": "TypeScript",
+          "stars": 20921,
+          "forks": 1752
+        },
+        {
+          "rank": 6,
+          "name": "ItzCrazyKns/Perplexica",
+          "url": "https://github.com/ItzCrazyKns/Perplexica",
+          "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+          "language": "TypeScript",
+          "stars": 20912,
+          "forks": 2112
+        },
+        {
+          "rank": 7,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 19356,
+          "forks": 3515
+        },
+        {
+          "rank": 8,
+          "name": "XiaoMi/ha_xiaomi_home",
+          "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+          "description": "Xiaomi Home Integration for Home Assistant",
+          "language": "Python",
+          "stars": 19065,
+          "forks": 955
+        },
+        {
+          "rank": 9,
+          "name": "deepseek-ai/Janus",
+          "url": "https://github.com/deepseek-ai/Janus",
+          "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+          "language": "Python",
+          "stars": 16876,
+          "forks": 2208
+        },
+        {
+          "rank": 10,
+          "name": "huggingface/smolagents",
+          "url": "https://github.com/huggingface/smolagents",
+          "description": "🤗 smolagents: a barebones library for agents that think in python code.",
+          "language": "Python",
+          "stars": 15767,
+          "forks": 1392
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 12899,
+          "forks": 150105
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28162,
+          "forks": 86304
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77466,
+          "forks": 45653
+        },
+        {
+          "rank": 4,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 284,
+          "forks": 43363
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-...",
+          "language": "Jupyter Notebook",
+          "stars": 76078,
+          "forks": 39376
+        },
+        {
+          "rank": 6,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 28247,
+          "forks": 39033
+        },
+        {
+          "rank": 7,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37078
+        },
+        {
+          "rank": 8,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 333973,
+          "forks": 35306
+        },
+        {
+          "rank": 9,
+          "name": "barryclark/jekyll-now",
+          "url": "https://github.com/barryclark/jekyll-now",
+          "description": "Build a Jekyll blog in minutes, without touching the command line.",
+          "language": "CSS",
+          "stars": 8320,
+          "forks": 35263
+        },
+        {
+          "rank": 10,
+          "name": "practical-tutorials/project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated list of project-based tutorials",
+          "language": "N/A",
+          "stars": 222327,
+          "forks": 29054
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "khoj-ai/khoj",
+          "url": "https://github.com/khoj-ai/khoj",
+          "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, ...",
+          "language": "Python",
+          "stars": 27076,
+          "forks": 1495
+        },
+        {
+          "rank": 2,
+          "name": "kubernetes/ingress-nginx",
+          "url": "https://github.com/kubernetes/ingress-nginx",
+          "description": "Ingress NGINX Controller for Kubernetes",
+          "language": "Go",
+          "stars": 18097,
+          "forks": 8327
+        },
+        {
+          "rank": 3,
+          "name": "alibaba/spring-ai-alibaba",
+          "url": "https://github.com/alibaba/spring-ai-alibaba",
+          "description": "Agentic AI Framework for Java Developers",
+          "language": "Java",
+          "stars": 1513,
+          "forks": 321
+        },
+        {
+          "rank": 4,
+          "name": "ourongxing/newsnow",
+          "url": "https://github.com/ourongxing/newsnow",
+          "description": "Elegant reading of real-time and hottest news",
+          "language": "TypeScript",
+          "stars": 5473,
+          "forks": 1328
+        },
+        {
+          "rank": 5,
+          "name": "Cryakl/Ultimate-RAT-Collection",
+          "url": "https://github.com/Cryakl/Ultimate-RAT-Collection",
+          "description": "For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders includin...",
+          "language": "N/A",
+          "stars": 1887,
+          "forks": 345
+        },
+        {
+          "rank": 6,
+          "name": "joanrod/star-vector",
+          "url": "https://github.com/joanrod/star-vector",
+          "description": "StarVector is a foundation model for SVG generation that transforms vectorization into a code gen...",
+          "language": "Python",
+          "stars": 2398,
+          "forks": 127
+        },
+        {
+          "rank": 7,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "",
+          "language": "Python",
+          "stars": 93621,
+          "forks": 15196
+        },
+        {
+          "rank": 8,
+          "name": "shadps4-emu/shadPS4",
+          "url": "https://github.com/shadps4-emu/shadPS4",
+          "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+          "language": "C++",
+          "stars": 19415,
+          "forks": 1195
+        },
+        {
+          "rank": 9,
+          "name": "Akkudoktor-EOS/EOS",
+          "url": "https://github.com/Akkudoktor-EOS/EOS",
+          "description": "This repository features an Energy Optimization System (EOS) that optimizes energy distribution, ...",
+          "language": "Python",
+          "stars": 729,
+          "forks": 68
+        },
+        {
+          "rank": 10,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 48932,
+          "forks": 5099
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "khoj-ai/khoj",
+          "url": "https://github.com/khoj-ai/khoj",
+          "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, ...",
+          "language": "Python",
+          "stars": 27076,
+          "forks": 1495
+        },
+        {
+          "rank": 2,
+          "name": "joanrod/star-vector",
+          "url": "https://github.com/joanrod/star-vector",
+          "description": "StarVector is a foundation model for SVG generation that transforms vectorization into a code gen...",
+          "language": "Python",
+          "stars": 2398,
+          "forks": 127
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "",
+          "language": "Python",
+          "stars": 93621,
+          "forks": 15196
+        },
+        {
+          "rank": 4,
+          "name": "Akkudoktor-EOS/EOS",
+          "url": "https://github.com/Akkudoktor-EOS/EOS",
+          "description": "This repository features an Energy Optimization System (EOS) that optimizes energy distribution, ...",
+          "language": "Python",
+          "stars": 729,
+          "forks": 68
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 48932,
+          "forks": 5099
+        },
+        {
+          "rank": 6,
+          "name": "bregman-arie/devops-exercises",
+          "url": "https://github.com/bregman-arie/devops-exercises",
+          "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSt...",
+          "language": "Python",
+          "stars": 71566,
+          "forks": 16018
+        },
+        {
+          "rank": 7,
+          "name": "emmabostian/developer-portfolios",
+          "url": "https://github.com/emmabostian/developer-portfolios",
+          "description": "A list of developer portfolios for your inspiration",
+          "language": "Python",
+          "stars": 12711,
+          "forks": 2507
+        },
+        {
+          "rank": 8,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 42734,
+          "forks": 6482
+        },
+        {
+          "rank": 9,
+          "name": "agno-agi/agno",
+          "url": "https://github.com/agno-agi/agno",
+          "description": "Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API an...",
+          "language": "Python",
+          "stars": 22224,
+          "forks": 2900
+        },
+        {
+          "rank": 10,
+          "name": "NVlabs/FoundationPose",
+          "url": "https://github.com/NVlabs/FoundationPose",
+          "description": "[CVPR 2024 Highlight] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects",
+          "language": "Python",
+          "stars": 1902,
+          "forks": 268
+        }
+      ]
+    }
+  ]
+}

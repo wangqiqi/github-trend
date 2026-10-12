@@ -1,0 +1,391 @@
+{
+  "date": "20250416",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 95673,
+          "forks": 15524
+        },
+        {
+          "rank": 2,
+          "name": "XiaoMi/ha_xiaomi_home",
+          "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+          "description": "Xiaomi Home Integration for Home Assistant",
+          "language": "Python",
+          "stars": 19305,
+          "forks": 972
+        },
+        {
+          "rank": 3,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 19114,
+          "forks": 2186
+        },
+        {
+          "rank": 4,
+          "name": "huggingface/smolagents",
+          "url": "https://github.com/huggingface/smolagents",
+          "description": "🤗 smolagents: a barebones library for agents that think in python code.",
+          "language": "Python",
+          "stars": 17075,
+          "forks": 1490
+        },
+        {
+          "rank": 5,
+          "name": "huggingface/agents-course",
+          "url": "https://github.com/huggingface/agents-course",
+          "description": "This repository contains the Hugging Face Agents Course.",
+          "language": "Jupyter Notebook",
+          "stars": 16262,
+          "forks": 1061
+        },
+        {
+          "rank": 6,
+          "name": "mihomo-party-org/mihomo-party",
+          "url": "https://github.com/mihomo-party-org/mihomo-party",
+          "description": ":electron: Another Mihomo GUI.",
+          "language": "TypeScript",
+          "stars": 11395,
+          "forks": 813
+        },
+        {
+          "rank": 7,
+          "name": "mindverse/Second-Me",
+          "url": "https://github.com/mindverse/Second-Me",
+          "description": "Train your AI self, amplify you, bridge the world",
+          "language": "Python",
+          "stars": 10745,
+          "forks": 739
+        },
+        {
+          "rank": 8,
+          "name": "Tencent/Hunyuan3D-2",
+          "url": "https://github.com/Tencent/Hunyuan3D-2",
+          "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+          "language": "Python",
+          "stars": 8468,
+          "forks": 710
+        },
+        {
+          "rank": 9,
+          "name": "kyutai-labs/moshi",
+          "url": "https://github.com/kyutai-labs/moshi",
+          "description": "Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, ...",
+          "language": "Python",
+          "stars": 8080,
+          "forks": 669
+        },
+        {
+          "rank": 10,
+          "name": "web-infra-dev/midscene",
+          "url": "https://github.com/web-infra-dev/midscene",
+          "description": "Let AI be your browser operator.",
+          "language": "TypeScript",
+          "stars": 7964,
+          "forks": 452
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6599,
+          "forks": 243644
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2515,
+          "forks": 72167
+        },
+        {
+          "rank": 3,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 164112,
+          "forks": 53476
+        },
+        {
+          "rank": 4,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 174502,
+          "forks": 45566
+        },
+        {
+          "rank": 5,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19002,
+          "forks": 41222
+        },
+        {
+          "rank": 6,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 114456,
+          "forks": 40372
+        },
+        {
+          "rank": 7,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 57847,
+          "forks": 38431
+        },
+        {
+          "rank": 8,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1409,
+          "forks": 37499
+        },
+        {
+          "rank": 9,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37078
+        },
+        {
+          "rank": 10,
+          "name": "apache/dubbo",
+          "url": "https://github.com/apache/dubbo",
+          "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+          "language": "Java",
+          "stars": 40903,
+          "forks": 26522
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 23512,
+          "forks": 4124
+        },
+        {
+          "rank": 2,
+          "name": "Anduin2017/HowToCook",
+          "url": "https://github.com/Anduin2017/HowToCook",
+          "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+          "language": "Dockerfile",
+          "stars": 71902,
+          "forks": 8997
+        },
+        {
+          "rank": 3,
+          "name": "Anxcye/anx-reader",
+          "url": "https://github.com/Anxcye/anx-reader",
+          "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarte...",
+          "language": "Dart",
+          "stars": 3872,
+          "forks": 205
+        },
+        {
+          "rank": 4,
+          "name": "vanna-ai/vanna",
+          "url": "https://github.com/vanna-ai/vanna",
+          "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+          "language": "Python",
+          "stars": 15809,
+          "forks": 1412
+        },
+        {
+          "rank": 5,
+          "name": "fuma-nama/fumadocs",
+          "url": "https://github.com/fuma-nama/fumadocs",
+          "description": "The beautiful docs framework with Next.js.",
+          "language": "TypeScript",
+          "stars": 4708,
+          "forks": 262
+        },
+        {
+          "rank": 6,
+          "name": "DioxusLabs/dioxus",
+          "url": "https://github.com/DioxusLabs/dioxus",
+          "description": "Fullstack app framework for web, desktop, mobile, and more.",
+          "language": "Rust",
+          "stars": 26590,
+          "forks": 1050
+        },
+        {
+          "rank": 7,
+          "name": "opf/openproject",
+          "url": "https://github.com/opf/openproject",
+          "description": "OpenProject is the leading open source project management software.",
+          "language": "Ruby",
+          "stars": 10452,
+          "forks": 2544
+        },
+        {
+          "rank": 8,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 17754,
+          "forks": 2118
+        },
+        {
+          "rank": 9,
+          "name": "Zackriya-Solutions/meeting-minutes",
+          "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+          "description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generato...",
+          "language": "C++",
+          "stars": 3228,
+          "forks": 225
+        },
+        {
+          "rank": 10,
+          "name": "NirDiamant/RAG_Techniques",
+          "url": "https://github.com/NirDiamant/RAG_Techniques",
+          "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) sy...",
+          "language": "Jupyter Notebook",
+          "stars": 14289,
+          "forks": 1466
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 23512,
+          "forks": 4124
+        },
+        {
+          "rank": 2,
+          "name": "vanna-ai/vanna",
+          "url": "https://github.com/vanna-ai/vanna",
+          "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+          "language": "Python",
+          "stars": 15809,
+          "forks": 1412
+        },
+        {
+          "rank": 3,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 17754,
+          "forks": 2118
+        },
+        {
+          "rank": 4,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 40697,
+          "forks": 3627
+        },
+        {
+          "rank": 5,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+          "language": "Python",
+          "stars": 30975,
+          "forks": 2470
+        },
+        {
+          "rank": 6,
+          "name": "IBM/terratorch",
+          "url": "https://github.com/IBM/terratorch",
+          "description": "A Python toolkit for fine-tuning Geospatial Foundation Models (GFMs).",
+          "language": "Python",
+          "stars": 397,
+          "forks": 62
+        },
+        {
+          "rank": 7,
+          "name": "mlflow/mlflow",
+          "url": "https://github.com/mlflow/mlflow",
+          "description": "Open source platform for the machine learning lifecycle",
+          "language": "Python",
+          "stars": 20171,
+          "forks": 4461
+        },
+        {
+          "rank": 8,
+          "name": "jlowin/fastmcp",
+          "url": "https://github.com/jlowin/fastmcp",
+          "description": "🚀 The fast, Pythonic way to build MCP servers and clients",
+          "language": "Python",
+          "stars": 5058,
+          "forks": 241
+        },
+        {
+          "rank": 9,
+          "name": "NVIDIA/NeMo",
+          "url": "https://github.com/NVIDIA/NeMo",
+          "description": "A scalable generative AI framework built for researchers and developers working on Large Language...",
+          "language": "Python",
+          "stars": 13649,
+          "forks": 2791
+        },
+        {
+          "rank": 10,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "A high-performance algorithmic trading platform and event-driven backtester",
+          "language": "Python",
+          "stars": 5508,
+          "forks": 790
+        }
+      ]
+    }
+  ]
+}

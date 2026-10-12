@@ -1,0 +1,391 @@
+{
+  "date": "20251003",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99546,
+          "forks": 16261
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91238,
+          "forks": 11753
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 89508,
+          "forks": 24400
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 80440,
+          "forks": 4446
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 77838,
+          "forks": 8422
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 71860,
+          "forks": 5952
+        },
+        {
+          "rank": 7,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70778,
+          "forks": 8308
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 69434,
+          "forks": 8226
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50126,
+          "forks": 8784
+        },
+        {
+          "rank": 10,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 45755,
+          "forks": 5425
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50653,
+          "forks": 92076
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29008,
+          "forks": 87275
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2488,
+          "forks": 84901
+        },
+        {
+          "rank": 4,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 330576,
+          "forks": 80817
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 84350,
+          "forks": 56311
+        },
+        {
+          "rank": 6,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77645,
+          "forks": 45464
+        },
+        {
+          "rank": 7,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 85836,
+          "forks": 37938
+        },
+        {
+          "rank": 8,
+          "name": "home-assistant/core",
+          "url": "https://github.com/home-assistant/core",
+          "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+          "language": "Python",
+          "stars": 81734,
+          "forks": 35360
+        },
+        {
+          "rank": 9,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 518,
+          "forks": 31997
+        },
+        {
+          "rank": 10,
+          "name": "PanJiaChen/vue-element-admin",
+          "url": "https://github.com/PanJiaChen/vue-element-admin",
+          "description": ":tada: A magical vue admin                                                                https:/...",
+          "language": "Vue",
+          "stars": 89931,
+          "forks": 30650
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 7992,
+          "forks": 1916
+        },
+        {
+          "rank": 2,
+          "name": "google/tunix",
+          "url": "https://github.com/google/tunix",
+          "description": "A JAX-native LLM Post-Training Library",
+          "language": "Python",
+          "stars": 1247,
+          "forks": 109
+        },
+        {
+          "rank": 3,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 34974,
+          "forks": 4256
+        },
+        {
+          "rank": 4,
+          "name": "airweave-ai/airweave",
+          "url": "https://github.com/airweave-ai/airweave",
+          "description": "Airweave lets agents search any app",
+          "language": "Python",
+          "stars": 3427,
+          "forks": 422
+        },
+        {
+          "rank": 5,
+          "name": "kestra-io/kestra",
+          "url": "https://github.com/kestra-io/kestra",
+          "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI ...",
+          "language": "Java",
+          "stars": 21623,
+          "forks": 1925
+        },
+        {
+          "rank": 6,
+          "name": "nextcloud/server",
+          "url": "https://github.com/nextcloud/server",
+          "description": "☁️ Nextcloud server, a safe home for all your data",
+          "language": "PHP",
+          "stars": 32547,
+          "forks": 4540
+        },
+        {
+          "rank": 7,
+          "name": "emcie-co/parlant",
+          "url": "https://github.com/emcie-co/parlant",
+          "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+          "language": "Python",
+          "stars": 13184,
+          "forks": 1059
+        },
+        {
+          "rank": 8,
+          "name": "Infisical/infisical",
+          "url": "https://github.com/Infisical/infisical",
+          "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+          "language": "TypeScript",
+          "stars": 20219,
+          "forks": 1385
+        },
+        {
+          "rank": 9,
+          "name": "SDWebImage/SDWebImage",
+          "url": "https://github.com/SDWebImage/SDWebImage",
+          "description": "Asynchronous image downloader with cache support as a UIImageView category",
+          "language": "Objective-C",
+          "stars": 25725,
+          "forks": 6001
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/agent-framework",
+          "url": "https://github.com/microsoft/agent-framework",
+          "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with su...",
+          "language": "Python",
+          "stars": 1445,
+          "forks": 155
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hsliuping/TradingAgents-CN",
+          "url": "https://github.com/hsliuping/TradingAgents-CN",
+          "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+          "language": "Python",
+          "stars": 7992,
+          "forks": 1916
+        },
+        {
+          "rank": 2,
+          "name": "google/tunix",
+          "url": "https://github.com/google/tunix",
+          "description": "A JAX-native LLM Post-Training Library",
+          "language": "Python",
+          "stars": 1247,
+          "forks": 109
+        },
+        {
+          "rank": 3,
+          "name": "airweave-ai/airweave",
+          "url": "https://github.com/airweave-ai/airweave",
+          "description": "Airweave lets agents search any app",
+          "language": "Python",
+          "stars": 3427,
+          "forks": 422
+        },
+        {
+          "rank": 4,
+          "name": "emcie-co/parlant",
+          "url": "https://github.com/emcie-co/parlant",
+          "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+          "language": "Python",
+          "stars": 13184,
+          "forks": 1059
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/agent-framework",
+          "url": "https://github.com/microsoft/agent-framework",
+          "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with su...",
+          "language": "Python",
+          "stars": 1445,
+          "forks": 155
+        },
+        {
+          "rank": 6,
+          "name": "pathwaycom/pathway",
+          "url": "https://github.com/pathwaycom/pathway",
+          "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+          "language": "Python",
+          "stars": 44099,
+          "forks": 1352
+        },
+        {
+          "rank": 7,
+          "name": "lukas-blecher/LaTeX-OCR",
+          "url": "https://github.com/lukas-blecher/LaTeX-OCR",
+          "description": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+          "language": "Python",
+          "stars": 15625,
+          "forks": 1252
+        },
+        {
+          "rank": 8,
+          "name": "scikit-learn/scikit-learn",
+          "url": "https://github.com/scikit-learn/scikit-learn",
+          "description": "scikit-learn: machine learning in Python",
+          "language": "Python",
+          "stars": 63542,
+          "forks": 26279
+        },
+        {
+          "rank": 9,
+          "name": "SigmaHQ/sigma",
+          "url": "https://github.com/SigmaHQ/sigma",
+          "description": "Main Sigma Rule Repository",
+          "language": "Python",
+          "stars": 9678,
+          "forks": 2429
+        },
+        {
+          "rank": 10,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 8222,
+          "forks": 734
+        }
+      ]
+    }
+  ]
+}

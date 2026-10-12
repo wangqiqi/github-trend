@@ -1,0 +1,391 @@
+{
+  "date": "20260904",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 281692,
+          "forks": 25229
+        },
+        {
+          "rank": 2,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 249409,
+          "forks": 21099
+        },
+        {
+          "rank": 3,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 131279,
+          "forks": 19709
+        },
+        {
+          "rank": 4,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 124809,
+          "forks": 6729
+        },
+        {
+          "rank": 5,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Go",
+          "stars": 103431,
+          "forks": 6001
+        },
+        {
+          "rank": 6,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first ...",
+          "language": "TypeScript",
+          "stars": 94028,
+          "forks": 10849
+        },
+        {
+          "rank": 7,
+          "name": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "language": "JavaScript",
+          "stars": 92222,
+          "forks": 9830
+        },
+        {
+          "rank": 8,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 81468,
+          "forks": 6849
+        },
+        {
+          "rank": 9,
+          "name": "rtk-ai/rtk",
+          "url": "https://github.com/rtk-ai/rtk",
+          "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary...",
+          "language": "Rust",
+          "stars": 78549,
+          "forks": 4963
+        },
+        {
+          "rank": 10,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 71954,
+          "forks": 11171
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19635
+        },
+        {
+          "rank": 2,
+          "name": "rafaballerini/rafaballerini",
+          "url": "https://github.com/rafaballerini/rafaballerini",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 2694,
+          "forks": 18890
+        },
+        {
+          "rank": 3,
+          "name": "udacity/course-collaboration-travel-plans",
+          "url": "https://github.com/udacity/course-collaboration-travel-plans",
+          "description": "No description",
+          "language": "CSS",
+          "stars": 1187,
+          "forks": 17402
+        },
+        {
+          "rank": 4,
+          "name": "netty/netty",
+          "url": "https://github.com/netty/netty",
+          "description": "Netty project - an event-driven asynchronous network application framework",
+          "language": "Java",
+          "stars": 35046,
+          "forks": 16268
+        },
+        {
+          "rank": 5,
+          "name": "Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "url": "https://github.com/Aboudocc/UniswapV3-FlashSwap-Arbitrage",
+          "description": "⚡🦄Arbitrage between USDC/ETH 0.3% fee pool and USDC/ETH 0.05% fee pool",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 15975
+        },
+        {
+          "rank": 6,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 139,
+          "forks": 13747
+        },
+        {
+          "rank": 7,
+          "name": "MithunTechnologiesDevOps/Maven-Web-Application",
+          "url": "https://github.com/MithunTechnologiesDevOps/Maven-Web-Application",
+          "description": "No description",
+          "language": "Java",
+          "stars": 124,
+          "forks": 13290
+        },
+        {
+          "rank": 8,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9758
+        },
+        {
+          "rank": 9,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8915
+        },
+        {
+          "rank": 10,
+          "name": "Cursos-TI/template_desafio-do-cadastro-das-cartas-SuperTrunfo",
+          "url": "https://github.com/Cursos-TI/template_desafio-do-cadastro-das-cartas-SuperTrunfo",
+          "description": "introducao-a-programacao-de-computadores-desafio-do-cadastro-das-cartas-no-super-trunfo-CartasSup...",
+          "language": "C",
+          "stars": 10,
+          "forks": 8604
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 249409,
+          "forks": 21099
+        },
+        {
+          "rank": 2,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 124809,
+          "forks": 6729
+        },
+        {
+          "rank": 3,
+          "name": "fmtlib/fmt",
+          "url": "https://github.com/fmtlib/fmt",
+          "description": "A modern formatting library",
+          "language": "C++",
+          "stars": 25420,
+          "forks": 3031
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 248026,
+          "forks": 37380
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 173976,
+          "forks": 20628
+        },
+        {
+          "rank": 6,
+          "name": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "language": "Python",
+          "stars": 42310,
+          "forks": 3595
+        },
+        {
+          "rank": 7,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 241297,
+          "forks": 49465
+        },
+        {
+          "rank": 8,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Go",
+          "stars": 103431,
+          "forks": 6001
+        },
+        {
+          "rank": 9,
+          "name": "magnitudedev/magnitude",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "description": "Open source inference server that runs the best local models for your hardware, plugged into the ...",
+          "language": "TypeScript",
+          "stars": 2213,
+          "forks": 155
+        },
+        {
+          "rank": 10,
+          "name": "bikini/exploitarium",
+          "url": "https://github.com/bikini/exploitarium",
+          "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post t...",
+          "language": "Python",
+          "stars": 4429,
+          "forks": 1238
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 173976,
+          "forks": 20628
+        },
+        {
+          "rank": 2,
+          "name": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Agent skill that removes signs of AI-generated writing from text",
+          "language": "Python",
+          "stars": 42310,
+          "forks": 3595
+        },
+        {
+          "rank": 3,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 241297,
+          "forks": 49465
+        },
+        {
+          "rank": 4,
+          "name": "bikini/exploitarium",
+          "url": "https://github.com/bikini/exploitarium",
+          "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post t...",
+          "language": "Python",
+          "stars": 4429,
+          "forks": 1238
+        },
+        {
+          "rank": 5,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 17198,
+          "forks": 2272
+        },
+        {
+          "rank": 6,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 30932,
+          "forks": 2952
+        },
+        {
+          "rank": 7,
+          "name": "radixark/miles",
+          "url": "https://github.com/radixark/miles",
+          "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, for...",
+          "language": "Python",
+          "stars": 2491,
+          "forks": 441
+        },
+        {
+          "rank": 8,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 133441,
+          "forks": 12012
+        },
+        {
+          "rank": 9,
+          "name": "Sumanth077/Hands-On-AI-Engineering",
+          "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
+          "description": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other...",
+          "language": "Python",
+          "stars": 3129,
+          "forks": 812
+        },
+        {
+          "rank": 10,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 76976,
+          "forks": 9579
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20260924",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 234999,
+          "forks": 28268
+        },
+        {
+          "rank": 2,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 214956,
+          "forks": 21714
+        },
+        {
+          "rank": 3,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 134085,
+          "forks": 19978
+        },
+        {
+          "rank": 4,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 130326,
+          "forks": 13866
+        },
+        {
+          "rank": 5,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 121132,
+          "forks": 11680
+        },
+        {
+          "rank": 6,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "JavaScript",
+          "stars": 89807,
+          "forks": 6108
+        },
+        {
+          "rank": 7,
+          "name": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 87567,
+          "forks": 958
+        },
+        {
+          "rank": 8,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 87320,
+          "forks": 13301
+        },
+        {
+          "rank": 9,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 84030,
+          "forks": 7083
+        },
+        {
+          "rank": 10,
+          "name": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+          "language": "Python",
+          "stars": 74443,
+          "forks": 11442
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19607
+        },
+        {
+          "rank": 2,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 15,
+          "forks": 13908
+        },
+        {
+          "rank": 3,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9755
+        },
+        {
+          "rank": 4,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 216,
+          "forks": 9670
+        },
+        {
+          "rank": 5,
+          "name": "aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "url": "https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "description": "Sample web application for the AWS DevOps Engineer Learning Path.",
+          "language": "JavaScript",
+          "stars": 111,
+          "forks": 9489
+        },
+        {
+          "rank": 6,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8896
+        },
+        {
+          "rank": 7,
+          "name": "CaptainPawss/clob-client-v2",
+          "url": "https://github.com/CaptainPawss/clob-client-v2",
+          "description": "Library for development",
+          "language": "TypeScript",
+          "stars": 1,
+          "forks": 8101
+        },
+        {
+          "rank": 8,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 14,
+          "forks": 6888
+        },
+        {
+          "rank": 9,
+          "name": "CrunchyData/postgres-operator-examples",
+          "url": "https://github.com/CrunchyData/postgres-operator-examples",
+          "description": "Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data",
+          "language": "Go Template",
+          "stars": 230,
+          "forks": 6641
+        },
+        {
+          "rank": 10,
+          "name": "mate-academy/layout_moyo-header",
+          "url": "https://github.com/mate-academy/layout_moyo-header",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 11,
+          "forks": 6561
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 56186,
+          "forks": 9894
+        },
+        {
+          "rank": 2,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 27268,
+          "forks": 2578
+        },
+        {
+          "rank": 3,
+          "name": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF...",
+          "language": "TypeScript",
+          "stars": 17299,
+          "forks": 1504
+        },
+        {
+          "rank": 4,
+          "name": "google/ax",
+          "url": "https://github.com/google/ax",
+          "description": "Google's open agentic orchestration runtime",
+          "language": "Go",
+          "stars": 9930,
+          "forks": 487
+        },
+        {
+          "rank": 5,
+          "name": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning,...",
+          "language": "Python",
+          "stars": 3952,
+          "forks": 625
+        },
+        {
+          "rank": 6,
+          "name": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Di...",
+          "language": "TypeScript",
+          "stars": 5307,
+          "forks": 247
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 37257,
+          "forks": 5412
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 50210,
+          "forks": 4610
+        },
+        {
+          "rank": 9,
+          "name": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to f...",
+          "language": "Python",
+          "stars": 14641,
+          "forks": 1390
+        },
+        {
+          "rank": 10,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 291081,
+          "forks": 26038
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 56186,
+          "forks": 9894
+        },
+        {
+          "rank": 2,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 27268,
+          "forks": 2578
+        },
+        {
+          "rank": 3,
+          "name": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning,...",
+          "language": "Python",
+          "stars": 3952,
+          "forks": 625
+        },
+        {
+          "rank": 4,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 37257,
+          "forks": 5412
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 50210,
+          "forks": 4610
+        },
+        {
+          "rank": 6,
+          "name": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to f...",
+          "language": "Python",
+          "stars": 14641,
+          "forks": 1390
+        },
+        {
+          "rank": 7,
+          "name": "strands-agents/harness-sdk",
+          "url": "https://github.com/strands-agents/harness-sdk",
+          "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Pyt...",
+          "language": "Python",
+          "stars": 8148,
+          "forks": 1222
+        },
+        {
+          "rank": 8,
+          "name": "superdesigndev/treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+          "language": "Python",
+          "stars": 3034,
+          "forks": 254
+        },
+        {
+          "rank": 9,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 125476,
+          "forks": 19516
+        },
+        {
+          "rank": 10,
+          "name": "op7418/Humanizer-zh",
+          "url": "https://github.com/op7418/Humanizer-zh",
+          "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
+          "language": "Python",
+          "stars": 18373,
+          "forks": 1197
+        }
+      ]
+    }
+  ]
+}

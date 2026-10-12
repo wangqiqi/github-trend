@@ -1,0 +1,391 @@
+{
+  "date": "20250318",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 35990,
+          "forks": 1502
+        },
+        {
+          "rank": 2,
+          "name": "inkonchain/docs",
+          "url": "https://github.com/inkonchain/docs",
+          "description": "Ink Documentation",
+          "language": "MDX",
+          "stars": 34803,
+          "forks": 360
+        },
+        {
+          "rank": 3,
+          "name": "shardeum/shardeum",
+          "url": "https://github.com/shardeum/shardeum",
+          "description": "Shardeum is an EVM based autoscaling blockchain",
+          "language": "TypeScript",
+          "stars": 31968,
+          "forks": 681
+        },
+        {
+          "rank": 4,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 24266,
+          "forks": 1419
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/graphrag",
+          "url": "https://github.com/microsoft/graphrag",
+          "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+          "language": "Python",
+          "stars": 23584,
+          "forks": 2367
+        },
+        {
+          "rank": 6,
+          "name": "RSSNext/Follow",
+          "url": "https://github.com/RSSNext/Follow",
+          "description": "🧡 Follow everything in one place",
+          "language": "TypeScript",
+          "stars": 23271,
+          "forks": 976
+        },
+        {
+          "rank": 7,
+          "name": "huggingface/open-r1",
+          "url": "https://github.com/huggingface/open-r1",
+          "description": "Fully open reproduction of DeepSeek-R1",
+          "language": "Python",
+          "stars": 22948,
+          "forks": 2082
+        },
+        {
+          "rank": 8,
+          "name": "Cinnamon/kotaemon",
+          "url": "https://github.com/Cinnamon/kotaemon",
+          "description": "An open-source RAG-based tool for chatting with your documents.",
+          "language": "Python",
+          "stars": 21707,
+          "forks": 1702
+        },
+        {
+          "rank": 9,
+          "name": "ItzCrazyKns/Perplexica",
+          "url": "https://github.com/ItzCrazyKns/Perplexica",
+          "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+          "language": "TypeScript",
+          "stars": 20646,
+          "forks": 2077
+        },
+        {
+          "rank": 10,
+          "name": "Dokploy/dokploy",
+          "url": "https://github.com/Dokploy/dokploy",
+          "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+          "language": "TypeScript",
+          "stars": 18117,
+          "forks": 943
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6587,
+          "forks": 243705
+        },
+        {
+          "rank": 2,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 188708,
+          "forks": 74608
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2492,
+          "forks": 72079
+        },
+        {
+          "rank": 4,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 162546,
+          "forks": 53197
+        },
+        {
+          "rank": 5,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 292942,
+          "forks": 48716
+        },
+        {
+          "rank": 6,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 173517,
+          "forks": 45364
+        },
+        {
+          "rank": 7,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 18877,
+          "forks": 40890
+        },
+        {
+          "rank": 8,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 113793,
+          "forks": 40379
+        },
+        {
+          "rank": 9,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 28221,
+          "forks": 38970
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-...",
+          "language": "Jupyter Notebook",
+          "stars": 75246,
+          "forks": 38880
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "glanceapp/glance",
+          "url": "https://github.com/glanceapp/glance",
+          "description": "A self-hosted dashboard that puts all your feeds in one place",
+          "language": "Go",
+          "stars": 17962,
+          "forks": 636
+        },
+        {
+          "rank": 2,
+          "name": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "description": "",
+          "language": "Jupyter Notebook",
+          "stars": 5415,
+          "forks": 1034
+        },
+        {
+          "rank": 3,
+          "name": "DiceDB/dice",
+          "url": "https://github.com/DiceDB/dice",
+          "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+          "language": "Go",
+          "stars": 8803,
+          "forks": 1230
+        },
+        {
+          "rank": 4,
+          "name": "langchain-ai/ollama-deep-researcher",
+          "url": "https://github.com/langchain-ai/ollama-deep-researcher",
+          "description": "Fully local web research and report writing assistant",
+          "language": "Python",
+          "stars": 4920,
+          "forks": 515
+        },
+        {
+          "rank": 5,
+          "name": "tj-actions/changed-files",
+          "url": "https://github.com/tj-actions/changed-files",
+          "description": "Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged,...",
+          "language": "TypeScript",
+          "stars": 2250,
+          "forks": 246
+        },
+        {
+          "rank": 6,
+          "name": "graviraja/MLOps-Basics",
+          "url": "https://github.com/graviraja/MLOps-Basics",
+          "description": "",
+          "language": "Jupyter Notebook",
+          "stars": 6725,
+          "forks": 1166
+        },
+        {
+          "rank": 7,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 292942,
+          "forks": 48716
+        },
+        {
+          "rank": 8,
+          "name": "block/goose",
+          "url": "https://github.com/block/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, a...",
+          "language": "Rust",
+          "stars": 10125,
+          "forks": 714
+        },
+        {
+          "rank": 9,
+          "name": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues,...",
+          "language": "TypeScript",
+          "stars": 33780,
+          "forks": 2074
+        },
+        {
+          "rank": 10,
+          "name": "wmariuss/awesome-devops",
+          "url": "https://github.com/wmariuss/awesome-devops",
+          "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+          "language": "Python",
+          "stars": 2373,
+          "forks": 397
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "langchain-ai/ollama-deep-researcher",
+          "url": "https://github.com/langchain-ai/ollama-deep-researcher",
+          "description": "Fully local web research and report writing assistant",
+          "language": "Python",
+          "stars": 4920,
+          "forks": 515
+        },
+        {
+          "rank": 2,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 292942,
+          "forks": 48716
+        },
+        {
+          "rank": 3,
+          "name": "wmariuss/awesome-devops",
+          "url": "https://github.com/wmariuss/awesome-devops",
+          "description": "A curated list of awesome DevOps platforms, tools, practices and resources",
+          "language": "Python",
+          "stars": 2373,
+          "forks": 397
+        },
+        {
+          "rank": 4,
+          "name": "assafelovic/gpt-researcher",
+          "url": "https://github.com/assafelovic/gpt-researcher",
+          "description": "LLM based autonomous agent that conducts deep local and web research on any topic and generates a...",
+          "language": "Python",
+          "stars": 20309,
+          "forks": 2614
+        },
+        {
+          "rank": 5,
+          "name": "fatihak/InkyPi",
+          "url": "https://github.com/fatihak/InkyPi",
+          "description": "E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with va...",
+          "language": "Python",
+          "stars": 875,
+          "forks": 60
+        },
+        {
+          "rank": 6,
+          "name": "subframe7536/maple-font",
+          "url": "https://github.com/subframe7536/maple-font",
+          "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and ter...",
+          "language": "Python",
+          "stars": 9188,
+          "forks": 188
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/graphrag",
+          "url": "https://github.com/microsoft/graphrag",
+          "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+          "language": "Python",
+          "stars": 23584,
+          "forks": 2367
+        },
+        {
+          "rank": 8,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 37446,
+          "forks": 3385
+        },
+        {
+          "rank": 9,
+          "name": "EleutherAI/lm-evaluation-harness",
+          "url": "https://github.com/EleutherAI/lm-evaluation-harness",
+          "description": "A framework for few-shot evaluation of language models.",
+          "language": "Python",
+          "stars": 8287,
+          "forks": 2209
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 3222,
+          "forks": 265
+        }
+      ]
+    }
+  ]
+}

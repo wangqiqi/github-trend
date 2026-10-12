@@ -1,0 +1,391 @@
+{
+  "date": "20260607",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 377368,
+          "forks": 78893
+        },
+        {
+          "rank": 2,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 85438,
+          "forks": 12381
+        },
+        {
+          "rank": 3,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 63997,
+          "forks": 5448
+        },
+        {
+          "rank": 4,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex soft...",
+          "language": "TypeScript",
+          "stars": 61352,
+          "forks": 4957
+        },
+        {
+          "rank": 5,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 54695,
+          "forks": 7433
+        },
+        {
+          "rank": 6,
+          "name": "Lum1104/Understand-Anything",
+          "url": "https://github.com/Lum1104/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 54048,
+          "forks": 4444
+        },
+        {
+          "rank": 7,
+          "name": "VoltAgent/awesome-openclaw-skills",
+          "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+          "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the offici...",
+          "language": "N/A",
+          "stars": 49956,
+          "forks": 4864
+        },
+        {
+          "rank": 8,
+          "name": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, ...",
+          "language": "JavaScript",
+          "stars": 49720,
+          "forks": 10249
+        },
+        {
+          "rank": 9,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 43035,
+          "forks": 2759
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 42241,
+          "forks": 3991
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 13627,
+          "forks": 27350
+        },
+        {
+          "rank": 2,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 76879,
+          "forks": 25947
+        },
+        {
+          "rank": 3,
+          "name": "laravel/laravel",
+          "url": "https://github.com/laravel/laravel",
+          "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the fo...",
+          "language": "Blade",
+          "stars": 84413,
+          "forks": 24730
+        },
+        {
+          "rank": 4,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19794
+        },
+        {
+          "rank": 5,
+          "name": "ultralytics/yolov5",
+          "url": "https://github.com/ultralytics/yolov5",
+          "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+          "language": "Python",
+          "stars": 57501,
+          "forks": 17473
+        },
+        {
+          "rank": 6,
+          "name": "josephmisiti/awesome-machine-learning",
+          "url": "https://github.com/josephmisiti/awesome-machine-learning",
+          "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+          "language": "Python",
+          "stars": 72708,
+          "forks": 15472
+        },
+        {
+          "rank": 7,
+          "name": "apache/kafka",
+          "url": "https://github.com/apache/kafka",
+          "description": "Apache Kafka - A distributed event streaming platform",
+          "language": "Java",
+          "stars": 32723,
+          "forks": 15256
+        },
+        {
+          "rank": 8,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14703
+        },
+        {
+          "rank": 9,
+          "name": "apache/flink",
+          "url": "https://github.com/apache/flink",
+          "description": "Apache Flink",
+          "language": "Java",
+          "stars": 26052,
+          "forks": 13939
+        },
+        {
+          "rank": 10,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 137,
+          "forks": 13795
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 29663,
+          "forks": 2507
+        },
+        {
+          "rank": 2,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 87906,
+          "forks": 56590
+        },
+        {
+          "rank": 3,
+          "name": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+          "language": "Shell",
+          "stars": 35881,
+          "forks": 2606
+        },
+        {
+          "rank": 4,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 185359,
+          "forks": 31862
+        },
+        {
+          "rank": 5,
+          "name": "lfnovo/open-notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+          "language": "TypeScript",
+          "stars": 26910,
+          "forks": 3066
+        },
+        {
+          "rank": 6,
+          "name": "yikart/AiToEarn",
+          "url": "https://github.com/yikart/AiToEarn",
+          "description": "Let's use AI to Earn!",
+          "language": "TypeScript",
+          "stars": 18508,
+          "forks": 2886
+        },
+        {
+          "rank": 7,
+          "name": "aaif-goose/goose",
+          "url": "https://github.com/aaif-goose/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, a...",
+          "language": "Rust",
+          "stars": 47186,
+          "forks": 4972
+        },
+        {
+          "rank": 8,
+          "name": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, kno...",
+          "language": "TypeScript",
+          "stars": 29463,
+          "forks": 2924
+        },
+        {
+          "rank": 9,
+          "name": "ggml-org/llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description": "LLM inference in C/C++",
+          "language": "C++",
+          "stars": 115104,
+          "forks": 19271
+        },
+        {
+          "rank": 10,
+          "name": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "language": "Python",
+          "stars": 6325,
+          "forks": 622
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 29663,
+          "forks": 2507
+        },
+        {
+          "rank": 2,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 185359,
+          "forks": 31862
+        },
+        {
+          "rank": 3,
+          "name": "RyanCodrai/turbovec",
+          "url": "https://github.com/RyanCodrai/turbovec",
+          "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+          "language": "Python",
+          "stars": 6325,
+          "forks": 622
+        },
+        {
+          "rank": 4,
+          "name": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "description": "Useful tool to track location or mobile number",
+          "language": "Python",
+          "stars": 13588,
+          "forks": 1825
+        },
+        {
+          "rank": 5,
+          "name": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "description": "We write your reusable computer vision tools. 💜",
+          "language": "Python",
+          "stars": 40785,
+          "forks": 3681
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 48622,
+          "forks": 5401
+        },
+        {
+          "rank": 7,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars": 54545,
+          "forks": 7128
+        },
+        {
+          "rank": 8,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 84663,
+          "forks": 9884
+        },
+        {
+          "rank": 9,
+          "name": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHu...",
+          "language": "Python",
+          "stars": 22954,
+          "forks": 1942
+        },
+        {
+          "rank": 10,
+          "name": "SudoHopeX/KaliGPT",
+          "url": "https://github.com/SudoHopeX/KaliGPT",
+          "description": "KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for eth...",
+          "language": "Python",
+          "stars": 487,
+          "forks": 98
+        }
+      ]
+    }
+  ]
+}

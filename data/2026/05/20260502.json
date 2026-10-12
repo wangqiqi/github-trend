@@ -1,0 +1,382 @@
+{
+  "date": "20260502",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 127162,
+          "forks": 14940
+        },
+        {
+          "rank": 2,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observati...",
+          "language": "N/A",
+          "stars": 105745,
+          "forks": 10475
+        },
+        {
+          "rank": 3,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 92147,
+          "forks": 7982
+        },
+        {
+          "rank": 4,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+          "language": "Python",
+          "stars": 73151,
+          "forks": 7550
+        },
+        {
+          "rank": 5,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & G...",
+          "language": "Rust",
+          "stars": 57632,
+          "forks": 3734
+        },
+        {
+          "rank": 6,
+          "name": "MemPalace/mempalace",
+          "url": "https://github.com/MemPalace/mempalace",
+          "description": "The best-benchmarked open-source AI memory system. And it's free.",
+          "language": "Python",
+          "stars": 50733,
+          "forks": 6662
+        },
+        {
+          "rank": 7,
+          "name": "tw93/Mole",
+          "url": "https://github.com/tw93/Mole",
+          "description": "🐹 Deep clean and optimize your Mac.",
+          "language": "Shell",
+          "stars": 49811,
+          "forks": 1542
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 46231,
+          "forks": 5118
+        },
+        {
+          "rank": 9,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes ...",
+          "language": "TypeScript",
+          "stars": 41056,
+          "forks": 4619
+        },
+        {
+          "rank": 10,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 37907,
+          "forks": 2356
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 184471,
+          "forks": 39626
+        },
+        {
+          "rank": 2,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184441,
+          "forks": 33574
+        },
+        {
+          "rank": 3,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 13468,
+          "forks": 27196
+        },
+        {
+          "rank": 4,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 76624,
+          "forks": 25908
+        },
+        {
+          "rank": 5,
+          "name": "laravel/laravel",
+          "url": "https://github.com/laravel/laravel",
+          "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the fo...",
+          "language": "Blade",
+          "stars": 84128,
+          "forks": 24696
+        },
+        {
+          "rank": 6,
+          "name": "ArduPilot/ardupilot",
+          "url": "https://github.com/ArduPilot/ardupilot",
+          "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+          "language": "C++",
+          "stars": 14997,
+          "forks": 20727
+        },
+        {
+          "rank": 7,
+          "name": "mruniquehacker/Knightbot-MD",
+          "url": "https://github.com/mruniquehacker/Knightbot-MD",
+          "description": "A simple WhatsApp bot to manage groups",
+          "language": "JavaScript",
+          "stars": 7360,
+          "forks": 18500
+        },
+        {
+          "rank": 8,
+          "name": "ultralytics/yolov5",
+          "url": "https://github.com/ultralytics/yolov5",
+          "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+          "language": "Python",
+          "stars": 57326,
+          "forks": 17486
+        },
+        {
+          "rank": 9,
+          "name": "josephmisiti/awesome-machine-learning",
+          "url": "https://github.com/josephmisiti/awesome-machine-learning",
+          "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+          "language": "Python",
+          "stars": 72385,
+          "forks": 15439
+        },
+        {
+          "rank": 10,
+          "name": "apache/kafka",
+          "url": "https://github.com/apache/kafka",
+          "description": "Apache Kafka - A distributed event streaming platform",
+          "language": "Java",
+          "stars": 32491,
+          "forks": 15157
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 60975,
+          "forks": 11771
+        },
+        {
+          "rank": 2,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coo...",
+          "language": "TypeScript",
+          "stars": 35826,
+          "forks": 4098
+        },
+        {
+          "rank": 3,
+          "name": "browserbase/skills",
+          "url": "https://github.com/browserbase/skills",
+          "description": "Claude Agent SDK with a web browsing tool",
+          "language": "JavaScript",
+          "stars": 1348,
+          "forks": 92
+        },
+        {
+          "rank": 4,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-sca...",
+          "language": "Python",
+          "stars": 40836,
+          "forks": 3672
+        },
+        {
+          "rank": 5,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 22181,
+          "forks": 1561
+        },
+        {
+          "rank": 6,
+          "name": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "description": "",
+          "language": "Batchfile",
+          "stars": 27039,
+          "forks": 2111
+        },
+        {
+          "rank": 7,
+          "name": "1jehuang/jcode",
+          "url": "https://github.com/1jehuang/jcode",
+          "description": "Coding Agent Harness",
+          "language": "Rust",
+          "stars": 2578,
+          "forks": 232
+        },
+        {
+          "rank": 8,
+          "name": "ShareX/ShareX",
+          "url": "https://github.com/ShareX/ShareX",
+          "description": "ShareX is a free and open-source application that enables users to capture or record any area of ...",
+          "language": "C#",
+          "stars": 36554,
+          "forks": 3672
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 344203,
+          "forks": 82448
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "language": "Python",
+          "stars": 60975,
+          "forks": 11771
+        },
+        {
+          "rank": 2,
+          "name": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-sca...",
+          "language": "Python",
+          "stars": 40836,
+          "forks": 3672
+        },
+        {
+          "rank": 3,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+          "language": "Python",
+          "stars": 22181,
+          "forks": 1561
+        },
+        {
+          "rank": 4,
+          "name": "tirth8205/code-review-graph",
+          "url": "https://github.com/tirth8205/code-review-graph",
+          "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads o...",
+          "language": "Python",
+          "stars": 14778,
+          "forks": 1633
+        },
+        {
+          "rank": 5,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 220627,
+          "forks": 50513
+        },
+        {
+          "rank": 6,
+          "name": "9001/copyparty",
+          "url": "https://github.com/9001/copyparty",
+          "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf...",
+          "language": "Python",
+          "stars": 44626,
+          "forks": 1819
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/AI-Trader",
+          "url": "https://github.com/HKUDS/AI-Trader",
+          "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+          "language": "Python",
+          "stars": 13882,
+          "forks": 2360
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/qlib",
+          "url": "https://github.com/microsoft/qlib",
+          "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Resear...",
+          "language": "Python",
+          "stars": 41799,
+          "forks": 6575
+        },
+        {
+          "rank": 9,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 19255,
+          "forks": 1861
+        },
+        {
+          "rank": 10,
+          "name": "Q00/ouroboros",
+          "url": "https://github.com/Q00/ouroboros",
+          "description": "Agent OS: Stop prompting. Start specifying.",
+          "language": "Python",
+          "stars": 3032,
+          "forks": 287
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250509",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 29031,
+          "forks": 1814
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "10 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 20381,
+          "forks": 5096
+        },
+        {
+          "rank": 3,
+          "name": "aidenybai/react-scan",
+          "url": "https://github.com/aidenybai/react-scan",
+          "description": "Scan for React performance issues and eliminate slow renders in your app",
+          "language": "TypeScript",
+          "stars": 18152,
+          "forks": 279
+        },
+        {
+          "rank": 4,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 16179,
+          "forks": 2203
+        },
+        {
+          "rank": 5,
+          "name": "voideditor/void",
+          "url": "https://github.com/voideditor/void",
+          "description": "No description",
+          "language": "TypeScript",
+          "stars": 14779,
+          "forks": 875
+        },
+        {
+          "rank": 6,
+          "name": "nicbarker/clay",
+          "url": "https://github.com/nicbarker/clay",
+          "description": "High performance UI layout library in C.",
+          "language": "C",
+          "stars": 13888,
+          "forks": 509
+        },
+        {
+          "rank": 7,
+          "name": "github/github-mcp-server",
+          "url": "https://github.com/github/github-mcp-server",
+          "description": "GitHub's official MCP Server",
+          "language": "Go",
+          "stars": 13257,
+          "forks": 791
+        },
+        {
+          "rank": 8,
+          "name": "andrewyng/aisuite",
+          "url": "https://github.com/andrewyng/aisuite",
+          "description": "Simple, unified interface to multiple Generative AI providers",
+          "language": "Python",
+          "stars": 12028,
+          "forks": 1183
+        },
+        {
+          "rank": 9,
+          "name": "dockur/macos",
+          "url": "https://github.com/dockur/macos",
+          "description": "macOS inside a Docker container.",
+          "language": "Shell",
+          "stars": 11668,
+          "forks": 445
+        },
+        {
+          "rank": 10,
+          "name": "Doriandarko/claude-engineer",
+          "url": "https://github.com/Doriandarko/claude-engineer",
+          "description": "Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthro...",
+          "language": "Python",
+          "stars": 10988,
+          "forks": 1165
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 7132,
+          "forks": 51591
+        },
+        {
+          "rank": 2,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+          "language": "TypeScript",
+          "stars": 417717,
+          "forks": 40044
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37063
+        },
+        {
+          "rank": 4,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 378605,
+          "forks": 35250
+        },
+        {
+          "rank": 5,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 182014,
+          "forks": 33627
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 170940,
+          "forks": 32129
+        },
+        {
+          "rank": 7,
+          "name": "python/cpython",
+          "url": "https://github.com/python/cpython",
+          "description": "The Python programming language",
+          "language": "Python",
+          "stars": 66860,
+          "forks": 31844
+        },
+        {
+          "rank": 8,
+          "name": "DefinitelyTyped/DefinitelyTyped",
+          "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+          "description": "The repository for high quality TypeScript type definitions.",
+          "language": "TypeScript",
+          "stars": 49702,
+          "forks": 30387
+        },
+        {
+          "rank": 9,
+          "name": "sindresorhus/awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "description": "😎 Awesome lists about all kinds of interesting topics",
+          "language": "N/A",
+          "stars": 359648,
+          "forks": 29057
+        },
+        {
+          "rank": 10,
+          "name": "justjavac/free-programming-books-zh_CN",
+          "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+          "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+          "language": "N/A",
+          "stars": 113702,
+          "forks": 28313
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "longbridge/gpui-component",
+          "url": "https://github.com/longbridge/gpui-component",
+          "description": "UI components for building fantastic desktop application by using GPUI.",
+          "language": "Rust",
+          "stars": 1444,
+          "forks": 80
+        },
+        {
+          "rank": 2,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 27962,
+          "forks": 4120
+        },
+        {
+          "rank": 3,
+          "name": "GoogleCloudPlatform/kubectl-ai",
+          "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+          "description": "AI powered Kubernetes Assistant",
+          "language": "Go",
+          "stars": 4251,
+          "forks": 286
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA/NeMo",
+          "url": "https://github.com/NVIDIA/NeMo",
+          "description": "A scalable generative AI framework built for researchers and developers working on Large Language...",
+          "language": "Python",
+          "stars": 14096,
+          "forks": 2829
+        },
+        {
+          "rank": 5,
+          "name": "voideditor/void",
+          "url": "https://github.com/voideditor/void",
+          "description": "",
+          "language": "TypeScript",
+          "stars": 14779,
+          "forks": 875
+        },
+        {
+          "rank": 6,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 22900,
+          "forks": 1960
+        },
+        {
+          "rank": 7,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO11 🚀",
+          "language": "Python",
+          "stars": 40399,
+          "forks": 7831
+        },
+        {
+          "rank": 8,
+          "name": "ruanyf/weekly",
+          "url": "https://github.com/ruanyf/weekly",
+          "description": "科技爱好者周刊，每周五发布",
+          "language": "N/A",
+          "stars": 60516,
+          "forks": 3315
+        },
+        {
+          "rank": 9,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 4142,
+          "forks": 340
+        },
+        {
+          "rank": 10,
+          "name": "element-plus/element-plus",
+          "url": "https://github.com/element-plus/element-plus",
+          "description": "🎉 A Vue.js 3 UI Library made by Element team",
+          "language": "TypeScript",
+          "stars": 25736,
+          "forks": 18389
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 27962,
+          "forks": 4120
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/NeMo",
+          "url": "https://github.com/NVIDIA/NeMo",
+          "description": "A scalable generative AI framework built for researchers and developers working on Large Language...",
+          "language": "Python",
+          "stars": 14096,
+          "forks": 2829
+        },
+        {
+          "rank": 3,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 22900,
+          "forks": 1960
+        },
+        {
+          "rank": 4,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO11 🚀",
+          "language": "Python",
+          "stars": 40399,
+          "forks": 7831
+        },
+        {
+          "rank": 5,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 4142,
+          "forks": 340
+        },
+        {
+          "rank": 6,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 1202,
+          "forks": 91
+        },
+        {
+          "rank": 7,
+          "name": "Lightricks/ComfyUI-LTXVideo",
+          "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+          "description": "LTX-Video Support for ComfyUI",
+          "language": "Python",
+          "stars": 1227,
+          "forks": 96
+        },
+        {
+          "rank": 8,
+          "name": "crewAIInc/crewAI",
+          "url": "https://github.com/crewAIInc/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intell...",
+          "language": "Python",
+          "stars": 31318,
+          "forks": 4189
+        },
+        {
+          "rank": 9,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 46956,
+          "forks": 7315
+        },
+        {
+          "rank": 10,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 24531,
+          "forks": 3057
+        }
+      ]
+    }
+  ]
+}

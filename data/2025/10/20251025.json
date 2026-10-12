@@ -1,0 +1,391 @@
+{
+  "date": "20251025",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91367,
+          "forks": 11767
+        },
+        {
+          "rank": 2,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 73563,
+          "forks": 6146
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 71744,
+          "forks": 8496
+        },
+        {
+          "rank": 4,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 71214,
+          "forks": 8507
+        },
+        {
+          "rank": 5,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 50469,
+          "forks": 8822
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 43222,
+          "forks": 14386
+        },
+        {
+          "rank": 7,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 42056,
+          "forks": 7431
+        },
+        {
+          "rank": 8,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Shell",
+          "stars": 41781,
+          "forks": 3571
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "TypeScript",
+          "stars": 40273,
+          "forks": 2586
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "React component library for onchain applications - See README for modern alternatives",
+          "language": "TypeScript",
+          "stars": 36842,
+          "forks": 424
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 51017,
+          "forks": 93200
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 29085,
+          "forks": 87343
+        },
+        {
+          "rank": 3,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2501,
+          "forks": 85566
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173590,
+          "forks": 79157
+        },
+        {
+          "rank": 5,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 192191,
+          "forks": 74915
+        },
+        {
+          "rank": 6,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 18087,
+          "forks": 63893
+        },
+        {
+          "rank": 7,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 86213,
+          "forks": 60886
+        },
+        {
+          "rank": 8,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 205642,
+          "forks": 57996
+        },
+        {
+          "rank": 9,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 96451,
+          "forks": 53870
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 100874,
+          "forks": 53436
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 51951,
+          "forks": 2289
+        },
+        {
+          "rank": 2,
+          "name": "TheRobotStudio/SO-ARM100",
+          "url": "https://github.com/TheRobotStudio/SO-ARM100",
+          "description": "Standard Open Arm 100",
+          "language": "N/A",
+          "stars": 3577,
+          "forks": 293
+        },
+        {
+          "rank": 3,
+          "name": "coinbase/x402",
+          "url": "https://github.com/coinbase/x402",
+          "description": "A payments protocol for the internet. Built on HTTP.",
+          "language": "TypeScript",
+          "stars": 2456,
+          "forks": 378
+        },
+        {
+          "rank": 4,
+          "name": "guofei9987/blind_watermark",
+          "url": "https://github.com/guofei9987/blind_watermark",
+          "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+          "language": "Python",
+          "stars": 9985,
+          "forks": 1012
+        },
+        {
+          "rank": 5,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 33427,
+          "forks": 2085
+        },
+        {
+          "rank": 6,
+          "name": "zephyrproject-rtos/zephyr",
+          "url": "https://github.com/zephyrproject-rtos/zephyr",
+          "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, s...",
+          "language": "C",
+          "stars": 13442,
+          "forks": 8114
+        },
+        {
+          "rank": 7,
+          "name": "hoppscotch/hoppscotch",
+          "url": "https://github.com/hoppscotch/hoppscotch",
+          "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman...",
+          "language": "TypeScript",
+          "stars": 75790,
+          "forks": 5331
+        },
+        {
+          "rank": 8,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 372227,
+          "forks": 39272
+        },
+        {
+          "rank": 9,
+          "name": "ubicloud/ubicloud",
+          "url": "https://github.com/ubicloud/ubicloud",
+          "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and loa...",
+          "language": "Ruby",
+          "stars": 10921,
+          "forks": 496
+        },
+        {
+          "rank": 10,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 132382,
+          "forks": 10630
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "guofei9987/blind_watermark",
+          "url": "https://github.com/guofei9987/blind_watermark",
+          "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+          "language": "Python",
+          "stars": 9985,
+          "forks": 1012
+        },
+        {
+          "rank": 2,
+          "name": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "description": "A community-supported supercharged document management system: scan, index and archive all your d...",
+          "language": "Python",
+          "stars": 33427,
+          "forks": 2085
+        },
+        {
+          "rank": 3,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 372227,
+          "forks": 39272
+        },
+        {
+          "rank": 4,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 132382,
+          "forks": 10630
+        },
+        {
+          "rank": 5,
+          "name": "OpenMind/OM1",
+          "url": "https://github.com/OpenMind/OM1",
+          "description": "Modular AI runtime for robots",
+          "language": "Python",
+          "stars": 1107,
+          "forks": 375
+        },
+        {
+          "rank": 6,
+          "name": "commaai/openpilot",
+          "url": "https://github.com/commaai/openpilot",
+          "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance syste...",
+          "language": "Python",
+          "stars": 58554,
+          "forks": 10358
+        },
+        {
+          "rank": 7,
+          "name": "langchain-ai/langchain",
+          "url": "https://github.com/langchain-ai/langchain",
+          "description": "🦜🔗 Build context-aware reasoning applications",
+          "language": "Python",
+          "stars": 118008,
+          "forks": 19426
+        },
+        {
+          "rank": 8,
+          "name": "Lightricks/LTX-Video",
+          "url": "https://github.com/Lightricks/LTX-Video",
+          "description": "Official repository for LTX-Video",
+          "language": "Python",
+          "stars": 8473,
+          "forks": 759
+        },
+        {
+          "rank": 9,
+          "name": "google/adk-samples",
+          "url": "https://github.com/google/adk-samples",
+          "description": "A collection of sample agents built with Agent Development (ADK)",
+          "language": "Python",
+          "stars": 5759,
+          "forks": 1681
+        },
+        {
+          "rank": 10,
+          "name": "codelion/openevolve",
+          "url": "https://github.com/codelion/openevolve",
+          "description": "Open-source implementation of AlphaEvolve",
+          "language": "Python",
+          "stars": 4283,
+          "forks": 632
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250806",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 98528,
+          "forks": 16048
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 90778,
+          "forks": 11707
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 73960,
+          "forks": 20867
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 70465,
+          "forks": 3810
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 67352,
+          "forks": 6586
+        },
+        {
+          "rank": 6,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 67064,
+          "forks": 7735
+        },
+        {
+          "rank": 7,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 64973,
+          "forks": 5180
+        },
+        {
+          "rank": 8,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 63119,
+          "forks": 7332
+        },
+        {
+          "rank": 9,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 48766,
+          "forks": 8539
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39068,
+          "forks": 6873
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6627,
+          "forks": 243599
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13151,
+          "forks": 152544
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 862,
+          "forks": 144036
+        },
+        {
+          "rank": 4,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 49762,
+          "forks": 89417
+        },
+        {
+          "rank": 5,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28737,
+          "forks": 87116
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 168469,
+          "forks": 83030
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2386,
+          "forks": 82873
+        },
+        {
+          "rank": 8,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 323963,
+          "forks": 79799
+        },
+        {
+          "rank": 9,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172793,
+          "forks": 79131
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191080,
+          "forks": 74761
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "A high-performance algorithmic trading platform and event-driven backtester",
+          "language": "Rust",
+          "stars": 10578,
+          "forks": 1273
+        },
+        {
+          "rank": 2,
+          "name": "dyad-sh/dyad",
+          "url": "https://github.com/dyad-sh/dyad",
+          "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+          "language": "TypeScript",
+          "stars": 10054,
+          "forks": 965
+        },
+        {
+          "rank": 3,
+          "name": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuiti...",
+          "language": "TypeScript",
+          "stars": 6684,
+          "forks": 900
+        },
+        {
+          "rank": 4,
+          "name": "browserbase/stagehand",
+          "url": "https://github.com/browserbase/stagehand",
+          "description": "The AI Browser Automation Framework",
+          "language": "TypeScript",
+          "stars": 15159,
+          "forks": 917
+        },
+        {
+          "rank": 5,
+          "name": "python-poetry/poetry",
+          "url": "https://github.com/python-poetry/poetry",
+          "description": "Python packaging and dependency management made easy",
+          "language": "Python",
+          "stars": 33541,
+          "forks": 2363
+        },
+        {
+          "rank": 6,
+          "name": "blakeblackshear/frigate",
+          "url": "https://github.com/blakeblackshear/frigate",
+          "description": "NVR with realtime local object detection for IP cameras",
+          "language": "TypeScript",
+          "stars": 24594,
+          "forks": 2286
+        },
+        {
+          "rank": 7,
+          "name": "ethereum/solidity",
+          "url": "https://github.com/ethereum/solidity",
+          "description": "Solidity, the Smart Contract Programming Language",
+          "language": "C++",
+          "stars": 24823,
+          "forks": 6144
+        },
+        {
+          "rank": 8,
+          "name": "openssl/openssl",
+          "url": "https://github.com/openssl/openssl",
+          "description": "TLS/SSL and crypto library",
+          "language": "C",
+          "stars": 28192,
+          "forks": 10758
+        },
+        {
+          "rank": 9,
+          "name": "themactep/thingino-firmware",
+          "url": "https://github.com/themactep/thingino-firmware",
+          "description": "Open-source firmware for Ingenic SoC IP cameras",
+          "language": "Shell",
+          "stars": 896,
+          "forks": 125
+        },
+        {
+          "rank": 10,
+          "name": "dstotijn/hetty",
+          "url": "https://github.com/dstotijn/hetty",
+          "description": "An HTTP toolkit for security research.",
+          "language": "Go",
+          "stars": 7565,
+          "forks": 430
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "python-poetry/poetry",
+          "url": "https://github.com/python-poetry/poetry",
+          "description": "Python packaging and dependency management made easy",
+          "language": "Python",
+          "stars": 33541,
+          "forks": 2363
+        },
+        {
+          "rank": 2,
+          "name": "open-edge-platform/anomalib",
+          "url": "https://github.com/open-edge-platform/anomalib",
+          "description": "An anomaly detection library comprising state-of-the-art algorithms and features such as experime...",
+          "language": "Python",
+          "stars": 4584,
+          "forks": 780
+        },
+        {
+          "rank": 3,
+          "name": "confident-ai/deepeval",
+          "url": "https://github.com/confident-ai/deepeval",
+          "description": "The LLM Evaluation Framework",
+          "language": "Python",
+          "stars": 9847,
+          "forks": 858
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/mcp-for-beginners",
+          "url": "https://github.com/microsoft/mcp-for-beginners",
+          "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through r...",
+          "language": "Python",
+          "stars": 7413,
+          "forks": 1957
+        },
+        {
+          "rank": 5,
+          "name": "openai/tiktoken",
+          "url": "https://github.com/openai/tiktoken",
+          "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
+          "language": "Python",
+          "stars": 15375,
+          "forks": 1155
+        },
+        {
+          "rank": 6,
+          "name": "hao-ai-lab/FastVideo",
+          "url": "https://github.com/hao-ai-lab/FastVideo",
+          "description": "A unified inference and post-training framework for accelerated video generation.",
+          "language": "Python",
+          "stars": 1776,
+          "forks": 122
+        },
+        {
+          "rank": 7,
+          "name": "souzatharsis/podcastfy",
+          "url": "https://github.com/souzatharsis/podcastfy",
+          "description": "An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Conten...",
+          "language": "Python",
+          "stars": 4924,
+          "forks": 558
+        },
+        {
+          "rank": 8,
+          "name": "freqtrade/freqtrade",
+          "url": "https://github.com/freqtrade/freqtrade",
+          "description": "Free, open source crypto trading bot",
+          "language": "Python",
+          "stars": 41190,
+          "forks": 8348
+        },
+        {
+          "rank": 9,
+          "name": "JudgmentLabs/judgeval",
+          "url": "https://github.com/JudgmentLabs/judgeval",
+          "description": "The open source post-building layer for agents. Our traces + evals power agent post-training (RL,...",
+          "language": "Python",
+          "stars": 779,
+          "forks": 79
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "\"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 19175,
+          "forks": 2704
+        }
+      ]
+    }
+  ]
+}

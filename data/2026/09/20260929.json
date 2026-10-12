@@ -1,0 +1,391 @@
+{
+  "date": "20260929",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 148043,
+          "forks": 7953
+        },
+        {
+          "rank": 2,
+          "name": "nexu-io/open-design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first ...",
+          "language": "TypeScript",
+          "stars": 98676,
+          "forks": 11435
+        },
+        {
+          "rank": 3,
+          "name": "stablyai/orca",
+          "url": "https://github.com/stablyai/orca",
+          "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own s...",
+          "language": "TypeScript",
+          "stars": 81471,
+          "forks": 5295
+        },
+        {
+          "rank": 4,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web -...",
+          "language": "Python",
+          "stars": 63184,
+          "forks": 5502
+        },
+        {
+          "rank": 5,
+          "name": "multica-ai/multica",
+          "url": "https://github.com/multica-ai/multica",
+          "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+          "language": "Go",
+          "stars": 51674,
+          "forks": 6707
+        },
+        {
+          "rank": 6,
+          "name": "chenglou/pretext",
+          "url": "https://github.com/chenglou/pretext",
+          "description": "Fast, accurate & comprehensive text measurement & layout",
+          "language": "TypeScript",
+          "stars": 50649,
+          "forks": 2747
+        },
+        {
+          "rank": 7,
+          "name": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+          "language": "Python",
+          "stars": 49887,
+          "forks": 3852
+        },
+        {
+          "rank": 8,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 47270,
+          "forks": 5329
+        },
+        {
+          "rank": 9,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: eval...",
+          "language": "Python",
+          "stars": 44449,
+          "forks": 15312
+        },
+        {
+          "rank": 10,
+          "name": "vercel-labs/agent-browser",
+          "url": "https://github.com/vercel-labs/agent-browser",
+          "description": "Browser automation CLI for AI agents",
+          "language": "Rust",
+          "stars": 43352,
+          "forks": 2923
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 302,
+          "forks": 42366
+        },
+        {
+          "rank": 2,
+          "name": "mdn/learning-area",
+          "url": "https://github.com/mdn/learning-area",
+          "description": "GitHub repo for the MDN Learning Area.",
+          "language": "HTML",
+          "stars": 7630,
+          "forks": 27237
+        },
+        {
+          "rank": 3,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 139,
+          "forks": 13736
+        },
+        {
+          "rank": 4,
+          "name": "urbandroid-team/dont-kill-my-app",
+          "url": "https://github.com/urbandroid-team/dont-kill-my-app",
+          "description": "Android vendors, don't kill my app!",
+          "language": "JavaScript",
+          "stars": 1704,
+          "forks": 11668
+        },
+        {
+          "rank": 5,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9755
+        },
+        {
+          "rank": 6,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 216,
+          "forks": 9666
+        },
+        {
+          "rank": 7,
+          "name": "aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "url": "https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample",
+          "description": "Sample web application for the AWS DevOps Engineer Learning Path.",
+          "language": "JavaScript",
+          "stars": 110,
+          "forks": 9520
+        },
+        {
+          "rank": 8,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8895
+        },
+        {
+          "rank": 9,
+          "name": "javahometech/my-app",
+          "url": "https://github.com/javahometech/my-app",
+          "description": "No description",
+          "language": "Java",
+          "stars": 89,
+          "forks": 8705
+        },
+        {
+          "rank": 10,
+          "name": "CaptainPawss/clob-client-v2",
+          "url": "https://github.com/CaptainPawss/clob-client-v2",
+          "description": "Library for development",
+          "language": "TypeScript",
+          "stars": 1,
+          "forks": 8101
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 47270,
+          "forks": 5329
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "language": "Rust",
+          "stars": 10304,
+          "forks": 1399
+        },
+        {
+          "rank": 3,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 42472,
+          "forks": 5719
+        },
+        {
+          "rank": 4,
+          "name": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "language": "TypeScript",
+          "stars": 94193,
+          "forks": 16016
+        },
+        {
+          "rank": 5,
+          "name": "t8y2/dbx",
+          "url": "https://github.com/t8y2/dbx",
+          "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL,...",
+          "language": "Rust",
+          "stars": 21809,
+          "forks": 2080
+        },
+        {
+          "rank": 6,
+          "name": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+          "language": "TypeScript",
+          "stars": 2236,
+          "forks": 164
+        },
+        {
+          "rank": 7,
+          "name": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "description": "Self-hosted deployment platform",
+          "language": "TypeScript",
+          "stars": 13697,
+          "forks": 1224
+        },
+        {
+          "rank": 8,
+          "name": "averygan/reclip",
+          "url": "https://github.com/averygan/reclip",
+          "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean w...",
+          "language": "HTML",
+          "stars": 9932,
+          "forks": 1520
+        },
+        {
+          "rank": 9,
+          "name": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+          "language": "TeX",
+          "stars": 2976,
+          "forks": 265
+        },
+        {
+          "rank": 10,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 61094,
+          "forks": 10507
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design,...",
+          "language": "Python",
+          "stars": 47270,
+          "forks": 5329
+        },
+        {
+          "rank": 2,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 42472,
+          "forks": 5719
+        },
+        {
+          "rank": 3,
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "description": "Learn it. Build it. Ship it for others.",
+          "language": "Python",
+          "stars": 61094,
+          "forks": 10507
+        },
+        {
+          "rank": 4,
+          "name": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+          "language": "Python",
+          "stars": 37065,
+          "forks": 3244
+        },
+        {
+          "rank": 5,
+          "name": "harvard-edge/cs249r_book",
+          "url": "https://github.com/harvard-edge/cs249r_book",
+          "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard...",
+          "language": "Python",
+          "stars": 28714,
+          "forks": 3629
+        },
+        {
+          "rank": 6,
+          "name": "SemiAnalysisAI/InferenceX",
+          "url": "https://github.com/SemiAnalysisAI/InferenceX",
+          "description": "Open Source Inference Research Platform Standard / 开源推理研究平台",
+          "language": "Python",
+          "stars": 1785,
+          "forks": 309
+        },
+        {
+          "rank": 7,
+          "name": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "description": "The job search that runs on your machine. AI job application framework built on Claude Code: eval...",
+          "language": "Python",
+          "stars": 44449,
+          "forks": 15312
+        },
+        {
+          "rank": 8,
+          "name": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+          "language": "Python",
+          "stars": 5757,
+          "forks": 714
+        },
+        {
+          "rank": 9,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an autom...",
+          "language": "Python",
+          "stars": 126956,
+          "forks": 19833
+        },
+        {
+          "rank": 10,
+          "name": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help...",
+          "language": "Python",
+          "stars": 83220,
+          "forks": 11546
+        }
+      ]
+    }
+  ]
+}

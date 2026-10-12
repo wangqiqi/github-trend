@@ -1,0 +1,391 @@
+{
+  "date": "20251207",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100608,
+          "forks": 16400
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 99726,
+          "forks": 26709
+        },
+        {
+          "rank": 3,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91558,
+          "forks": 11778
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 86146,
+          "forks": 9833
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 53826,
+          "forks": 4659
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 52081,
+          "forks": 6616
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 51150,
+          "forks": 8920
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 47149,
+          "forks": 5280
+        },
+        {
+          "rank": 9,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升...",
+          "language": "Python",
+          "stars": 45264,
+          "forks": 5406
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 44905,
+          "forks": 3117
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2530,
+          "forks": 86758
+        },
+        {
+          "rank": 2,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2635,
+          "forks": 72747
+        },
+        {
+          "rank": 3,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85172,
+          "forks": 56389
+        },
+        {
+          "rank": 4,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 175921,
+          "forks": 55048
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 102711,
+          "forks": 54694
+        },
+        {
+          "rank": 6,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 180149,
+          "forks": 46190
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1555,
+          "forks": 43872
+        },
+        {
+          "rank": 8,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19908,
+          "forks": 43116
+        },
+        {
+          "rank": 9,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 28488,
+          "forks": 42246
+        },
+        {
+          "rank": 10,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 119115,
+          "forks": 41859
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 11351,
+          "forks": 1428
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/cutile-python",
+          "url": "https://github.com/NVIDIA/cutile-python",
+          "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+          "language": "Python",
+          "stars": 601,
+          "forks": 25
+        },
+        {
+          "rank": 3,
+          "name": "patchy631/ai-engineering-hub",
+          "url": "https://github.com/patchy631/ai-engineering-hub",
+          "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "language": "Jupyter Notebook",
+          "stars": 21568,
+          "forks": 3572
+        },
+        {
+          "rank": 4,
+          "name": "TelegramMessenger/Telegram-iOS",
+          "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+          "description": "Telegram-iOS",
+          "language": "Swift",
+          "stars": 7589,
+          "forks": 2196
+        },
+        {
+          "rank": 5,
+          "name": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "description": "A collection of projects designed to help developers quickly get started with building deployable...",
+          "language": "Python",
+          "stars": 10997,
+          "forks": 1989
+        },
+        {
+          "rank": 6,
+          "name": "rustfs/rustfs",
+          "url": "https://github.com/rustfs/rustfs",
+          "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-per...",
+          "language": "Rust",
+          "stars": 15319,
+          "forks": 657
+        },
+        {
+          "rank": 7,
+          "name": "sst/opencode",
+          "url": "https://github.com/sst/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 36352,
+          "forks": 3047
+        },
+        {
+          "rank": 8,
+          "name": "BeehiveInnovations/pal-mcp-server",
+          "url": "https://github.com/BeehiveInnovations/pal-mcp-server",
+          "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / ...",
+          "language": "Python",
+          "stars": 10014,
+          "forks": 850
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/Foundry-Local",
+          "url": "https://github.com/microsoft/Foundry-Local",
+          "description": "",
+          "language": "Svelte",
+          "stars": 1269,
+          "forks": 166
+        },
+        {
+          "rank": 10,
+          "name": "sinelaw/fresh",
+          "url": "https://github.com/sinelaw/fresh",
+          "description": "Text editor for your terminal: easy, powerful and fast",
+          "language": "Rust",
+          "stars": 946,
+          "forks": 29
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "microsoft/VibeVoice",
+          "url": "https://github.com/microsoft/VibeVoice",
+          "description": "Open-Source Frontier Voice AI",
+          "language": "Python",
+          "stars": 11351,
+          "forks": 1428
+        },
+        {
+          "rank": 2,
+          "name": "NVIDIA/cutile-python",
+          "url": "https://github.com/NVIDIA/cutile-python",
+          "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+          "language": "Python",
+          "stars": 601,
+          "forks": 25
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "description": "A collection of projects designed to help developers quickly get started with building deployable...",
+          "language": "Python",
+          "stars": 10997,
+          "forks": 1989
+        },
+        {
+          "rank": 4,
+          "name": "BeehiveInnovations/pal-mcp-server",
+          "url": "https://github.com/BeehiveInnovations/pal-mcp-server",
+          "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / ...",
+          "language": "Python",
+          "stars": 10014,
+          "forks": 850
+        },
+        {
+          "rank": 5,
+          "name": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "language": "Python",
+          "stars": 137386,
+          "forks": 11075
+        },
+        {
+          "rank": 6,
+          "name": "topoteretes/cognee",
+          "url": "https://github.com/topoteretes/cognee",
+          "description": "Memory for AI Agents in 6 lines of code",
+          "language": "Python",
+          "stars": 10053,
+          "forks": 908
+        },
+        {
+          "rank": 7,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 7401,
+          "forks": 1449
+        },
+        {
+          "rank": 8,
+          "name": "RosettaCommons/foundry",
+          "url": "https://github.com/RosettaCommons/foundry",
+          "description": "Central repository for biomolecular foundation models with shared trainers and pipeline components",
+          "language": "Python",
+          "stars": 449,
+          "forks": 59
+        },
+        {
+          "rank": 9,
+          "name": "soxoj/maigret",
+          "url": "https://github.com/soxoj/maigret",
+          "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+          "language": "Python",
+          "stars": 18091,
+          "forks": 1244
+        },
+        {
+          "rank": 10,
+          "name": "DigitalPhonetics/IMS-Toucan",
+          "url": "https://github.com/DigitalPhonetics/IMS-Toucan",
+          "description": "Controllable and fast Text-to-Speech for over 7000 languages!",
+          "language": "Python",
+          "stars": 1952,
+          "forks": 256
+        }
+      ]
+    }
+  ]
+}

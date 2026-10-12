@@ -1,0 +1,391 @@
+{
+  "date": "20250919",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99317,
+          "forks": 16209
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91147,
+          "forks": 11740
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 79240,
+          "forks": 4343
+        },
+        {
+          "rank": 4,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 70606,
+          "forks": 5824
+        },
+        {
+          "rank": 5,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 70134,
+          "forks": 8194
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 68249,
+          "forks": 8015
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49866,
+          "forks": 8722
+        },
+        {
+          "rank": 8,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 42881,
+          "forks": 4968
+        },
+        {
+          "rank": 9,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 41069,
+          "forks": 7210
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "12 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 38970,
+          "forks": 12607
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28963,
+          "forks": 87245
+        },
+        {
+          "rank": 2,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 328740,
+          "forks": 80523
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 191686,
+          "forks": 74842
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 368516,
+          "forks": 64179
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17871,
+          "forks": 63323
+        },
+        {
+          "rank": 6,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 239020,
+          "forks": 49355
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77638,
+          "forks": 45476
+        },
+        {
+          "rank": 8,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1142,
+          "forks": 42157
+        },
+        {
+          "rank": 9,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 27259,
+          "forks": 39608
+        },
+        {
+          "rank": 10,
+          "name": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "language": "Markdown",
+          "stars": 420681,
+          "forks": 39402
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Alibaba-NLP/DeepResearch",
+          "url": "https://github.com/Alibaba-NLP/DeepResearch",
+          "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+          "language": "Python",
+          "stars": 9565,
+          "forks": 705
+        },
+        {
+          "rank": 2,
+          "name": "LazyVim/LazyVim",
+          "url": "https://github.com/LazyVim/LazyVim",
+          "description": "Neovim config for the lazy",
+          "language": "Lua",
+          "stars": 22531,
+          "forks": 1605
+        },
+        {
+          "rank": 3,
+          "name": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "description": "Opinionated Arch/Hyprland Setup",
+          "language": "Shell",
+          "stars": 8662,
+          "forks": 955
+        },
+        {
+          "rank": 4,
+          "name": "WebGoat/WebGoat",
+          "url": "https://github.com/WebGoat/WebGoat",
+          "description": "WebGoat is a deliberately insecure application",
+          "language": "JavaScript",
+          "stars": 7788,
+          "forks": 6716
+        },
+        {
+          "rank": 5,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 172760,
+          "forks": 29230
+        },
+        {
+          "rank": 6,
+          "name": "nocodb/nocodb",
+          "url": "https://github.com/nocodb/nocodb",
+          "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+          "language": "TypeScript",
+          "stars": 57301,
+          "forks": 4176
+        },
+        {
+          "rank": 7,
+          "name": "facebookresearch/detectron2",
+          "url": "https://github.com/facebookresearch/detectron2",
+          "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+          "language": "Python",
+          "stars": 33138,
+          "forks": 7803
+        },
+        {
+          "rank": 8,
+          "name": "fmtlib/fmt",
+          "url": "https://github.com/fmtlib/fmt",
+          "description": "A modern formatting library",
+          "language": "C++",
+          "stars": 22352,
+          "forks": 2708
+        },
+        {
+          "rank": 9,
+          "name": "Gar-b-age/CookLikeHOC",
+          "url": "https://github.com/Gar-b-age/CookLikeHOC",
+          "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+          "language": "JavaScript",
+          "stars": 6627,
+          "forks": 812
+        },
+        {
+          "rank": 10,
+          "name": "linera-io/linera-protocol",
+          "url": "https://github.com/linera-io/linera-protocol",
+          "description": "Main repository for the Linera protocol",
+          "language": "Rust",
+          "stars": 29447,
+          "forks": 1976
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Alibaba-NLP/DeepResearch",
+          "url": "https://github.com/Alibaba-NLP/DeepResearch",
+          "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+          "language": "Python",
+          "stars": 9565,
+          "forks": 705
+        },
+        {
+          "rank": 2,
+          "name": "facebookresearch/detectron2",
+          "url": "https://github.com/facebookresearch/detectron2",
+          "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+          "language": "Python",
+          "stars": 33138,
+          "forks": 7803
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 79240,
+          "forks": 4343
+        },
+        {
+          "rank": 4,
+          "name": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by ...",
+          "language": "Python",
+          "stars": 5931,
+          "forks": 536
+        },
+        {
+          "rank": 5,
+          "name": "laude-institute/terminal-bench",
+          "url": "https://github.com/laude-institute/terminal-bench",
+          "description": "A benchmark for LLMs on complicated tasks in the terminal",
+          "language": "Python",
+          "stars": 725,
+          "forks": 232
+        },
+        {
+          "rank": 6,
+          "name": "Skyvern-AI/skyvern",
+          "url": "https://github.com/Skyvern-AI/skyvern",
+          "description": "Automate browser-based workflows with LLMs and Computer Vision",
+          "language": "Python",
+          "stars": 14315,
+          "forks": 1207
+        },
+        {
+          "rank": 7,
+          "name": "mlflow/mlflow",
+          "url": "https://github.com/mlflow/mlflow",
+          "description": "The open source developer platform to build AI/LLM applications and models with confidence. Enhan...",
+          "language": "Python",
+          "stars": 22114,
+          "forks": 4825
+        },
+        {
+          "rank": 8,
+          "name": "WECENG/ticket-purchase",
+          "url": "https://github.com/WECENG/ticket-purchase",
+          "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+          "language": "Python",
+          "stars": 2038,
+          "forks": 287
+        },
+        {
+          "rank": 9,
+          "name": "apache/airflow",
+          "url": "https://github.com/apache/airflow",
+          "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+          "language": "Python",
+          "stars": 42467,
+          "forks": 15628
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 26388,
+          "forks": 3133
+        }
+      ]
+    }
+  ]
+}

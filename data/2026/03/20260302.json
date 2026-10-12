@@ -1,0 +1,382 @@
+{
+  "date": "20260302",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 114084,
+          "forks": 11502
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 73233,
+          "forks": 6281
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 67701,
+          "forks": 5188
+        },
+        {
+          "rank": 4,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 54889,
+          "forks": 9607
+        },
+        {
+          "rank": 5,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts....",
+          "language": "Python",
+          "stars": 47744,
+          "forks": 22458
+        },
+        {
+          "rank": 6,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 39502,
+          "forks": 3915
+        },
+        {
+          "rank": 7,
+          "name": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "description": "Spec-driven development (SDD) for AI coding assistants.",
+          "language": "TypeScript",
+          "stars": 26849,
+          "forks": 1764
+        },
+        {
+          "rank": 8,
+          "name": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15...",
+          "language": "TypeScript",
+          "stars": 26054,
+          "forks": 2562
+        },
+        {
+          "rank": 9,
+          "name": "zama-ai/fhevm",
+          "url": "https://github.com/zama-ai/fhevm",
+          "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain ...",
+          "language": "Rust",
+          "stars": 25734,
+          "forks": 2240
+        },
+        {
+          "rank": 10,
+          "name": "permissionlesstech/bitchat",
+          "url": "https://github.com/permissionlesstech/bitchat",
+          "description": "bluetooth mesh chat, IRC vibes",
+          "language": "Swift",
+          "stars": 25276,
+          "forks": 2365
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 52793,
+          "forks": 98885
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2584,
+          "forks": 89098
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2692,
+          "forks": 72982
+        },
+        {
+          "rank": 4,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 179164,
+          "forks": 55461
+        },
+        {
+          "rank": 5,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 177160,
+          "forks": 55327
+        },
+        {
+          "rank": 6,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1591,
+          "forks": 45432
+        },
+        {
+          "rank": 7,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 20166,
+          "forks": 43603
+        },
+        {
+          "rank": 8,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1148,
+          "forks": 42235
+        },
+        {
+          "rank": 9,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 59684,
+          "forks": 38919
+        },
+        {
+          "rank": 10,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 88311,
+          "forks": 38784
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "description": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign moni...",
+          "language": "Rust",
+          "stars": 19963,
+          "forks": 2385
+        },
+        {
+          "rank": 2,
+          "name": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t...",
+          "language": "TypeScript",
+          "stars": 21079,
+          "forks": 1974
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/prompt-eng-interactive-tutorial",
+          "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+          "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+          "language": "Jupyter Notebook",
+          "stars": 31177,
+          "forks": 3174
+        },
+        {
+          "rank": 4,
+          "name": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coo...",
+          "language": "TypeScript",
+          "stars": 17717,
+          "forks": 1969
+        },
+        {
+          "rank": 5,
+          "name": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SD...",
+          "language": "Python",
+          "stars": 3836,
+          "forks": 263
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 89321,
+          "forks": 5238
+        },
+        {
+          "rank": 7,
+          "name": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 10732,
+          "forks": 1239
+        },
+        {
+          "rank": 8,
+          "name": "superset-sh/superset",
+          "url": "https://github.com/superset-sh/superset",
+          "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+          "language": "TypeScript",
+          "stars": 3222,
+          "forks": 227
+        },
+        {
+          "rank": 9,
+          "name": "servo/servo",
+          "url": "https://github.com/servo/servo",
+          "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding w...",
+          "language": "Rust",
+          "stars": 35658,
+          "forks": 3493
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SD...",
+          "language": "Python",
+          "stars": 3836,
+          "forks": 263
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 89321,
+          "forks": 5238
+        },
+        {
+          "rank": 3,
+          "name": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writ...",
+          "language": "Python",
+          "stars": 10732,
+          "forks": 1239
+        },
+        {
+          "rank": 4,
+          "name": "NanmiCoder/MediaCrawler",
+          "url": "https://github.com/NanmiCoder/MediaCrawler",
+          "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+          "language": "Python",
+          "stars": 44691,
+          "forks": 9769
+        },
+        {
+          "rank": 5,
+          "name": "scrapy/scrapy",
+          "url": "https://github.com/scrapy/scrapy",
+          "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+          "language": "Python",
+          "stars": 60472,
+          "forks": 11328
+        },
+        {
+          "rank": 6,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 402567,
+          "forks": 43275
+        },
+        {
+          "rank": 7,
+          "name": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "description": "",
+          "language": "Python",
+          "stars": 3299,
+          "forks": 883
+        },
+        {
+          "rank": 8,
+          "name": "Polymarket/agents",
+          "url": "https://github.com/Polymarket/agents",
+          "description": "Trade autonomously on Polymarket using AI Agents",
+          "language": "Python",
+          "stars": 2342,
+          "forks": 565
+        },
+        {
+          "rank": 9,
+          "name": "X-PLUG/MobileAgent",
+          "url": "https://github.com/X-PLUG/MobileAgent",
+          "description": "Mobile-Agent: The Powerful GUI Agent Family",
+          "language": "Python",
+          "stars": 7864,
+          "forks": 792
+        },
+        {
+          "rank": 10,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 593,
+          "forks": 142
+        }
+      ]
+    }
+  ]
+}

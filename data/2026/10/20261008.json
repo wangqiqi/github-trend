@@ -1,0 +1,382 @@
+{
+  "date": "20261008",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 391457,
+          "forks": 82298
+        },
+        {
+          "rank": 2,
+          "name": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from ...",
+          "language": "Shell",
+          "stars": 158302,
+          "forks": 25538
+        },
+        {
+          "rank": 3,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65%...",
+          "language": "Go",
+          "stars": 110549,
+          "forks": 6400
+        },
+        {
+          "rank": 4,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 97529,
+          "forks": 13556
+        },
+        {
+          "rank": 5,
+          "name": "Egonex-AI/Understand-Anything",
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you ca...",
+          "language": "TypeScript",
+          "stars": 85619,
+          "forks": 7198
+        },
+        {
+          "rank": 6,
+          "name": "career-ops-hq/career-ops",
+          "url": "https://github.com/career-ops-hq/career-ops",
+          "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your ...",
+          "language": "JavaScript",
+          "stars": 73808,
+          "forks": 13859
+        },
+        {
+          "rank": 7,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+          "language": "TypeScript",
+          "stars": 69892,
+          "forks": 5744
+        },
+        {
+          "rank": 8,
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+          "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system...",
+          "language": "Python",
+          "stars": 66044,
+          "forks": 55027
+        },
+        {
+          "rank": 9,
+          "name": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, ...",
+          "language": "Python",
+          "stars": 65402,
+          "forks": 8298
+        },
+        {
+          "rank": 10,
+          "name": "gsd-build/get-shit-done",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development syste...",
+          "language": "JavaScript",
+          "stars": 64347,
+          "forks": 5432
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nvim-lua/kickstart.nvim",
+          "url": "https://github.com/nvim-lua/kickstart.nvim",
+          "description": "A launch point for your personal nvim configuration",
+          "language": "Lua",
+          "stars": 31556,
+          "forks": 46448
+        },
+        {
+          "rank": 2,
+          "name": "cas-scale/small",
+          "url": "https://github.com/cas-scale/small",
+          "description": "No description",
+          "language": "HCL",
+          "stars": 0,
+          "forks": 14703
+        },
+        {
+          "rank": 3,
+          "name": "Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "url": "https://github.com/Exp-Primer-Copilot-Cohort-2/exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test",
+          "description": "exp-primer-copilot-cohort-2-classroom-0360ab-experience-primer-copilot-primer-copilot-test create...",
+          "language": "N/A",
+          "stars": 12,
+          "forks": 9754
+        },
+        {
+          "rank": 4,
+          "name": "AlreadyBored/basic-js",
+          "url": "https://github.com/AlreadyBored/basic-js",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 216,
+          "forks": 9675
+        },
+        {
+          "rank": 5,
+          "name": "Shastel/human-readable-number",
+          "url": "https://github.com/Shastel/human-readable-number",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 10,
+          "forks": 8886
+        },
+        {
+          "rank": 6,
+          "name": "ColorlibHQ/gentelella",
+          "url": "https://github.com/ColorlibHQ/gentelella",
+          "description": "Free admin dashboard template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery.",
+          "language": "HTML",
+          "stars": 21538,
+          "forks": 6837
+        },
+        {
+          "rank": 7,
+          "name": "mate-academy/layout_hello-world",
+          "url": "https://github.com/mate-academy/layout_hello-world",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 14,
+          "forks": 6901
+        },
+        {
+          "rank": 8,
+          "name": "mate-academy/layout_moyo-header",
+          "url": "https://github.com/mate-academy/layout_moyo-header",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 11,
+          "forks": 6567
+        },
+        {
+          "rank": 9,
+          "name": "yandex-praktikum/taski",
+          "url": "https://github.com/yandex-praktikum/taski",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 4,
+          "forks": 6231
+        },
+        {
+          "rank": 10,
+          "name": "mate-academy/layout_stars",
+          "url": "https://github.com/mate-academy/layout_stars",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 13,
+          "forks": 6041
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+          "language": "C++",
+          "stars": 14440,
+          "forks": 1131
+        },
+        {
+          "rank": 2,
+          "name": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagra...",
+          "language": "HTML",
+          "stars": 45998,
+          "forks": 2939
+        },
+        {
+          "rank": 3,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 21627,
+          "forks": 2341
+        },
+        {
+          "rank": 4,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 280777,
+          "forks": 23537
+        },
+        {
+          "rank": 5,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during s...",
+          "language": "TypeScript",
+          "stars": 98273,
+          "forks": 8627
+        },
+        {
+          "rank": 6,
+          "name": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "description": "A native, user-mode, multi-process, graphical debugger.",
+          "language": "C",
+          "stars": 8053,
+          "forks": 390
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 27396,
+          "forks": 3188
+        },
+        {
+          "rank": 8,
+          "name": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+          "language": "Rust",
+          "stars": 7029,
+          "forks": 931
+        },
+        {
+          "rank": 9,
+          "name": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+          "language": "N/A",
+          "stars": 24422,
+          "forks": 4587
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+          "language": "Python",
+          "stars": 27396,
+          "forks": 3188
+        },
+        {
+          "rank": 2,
+          "name": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Give your agent CAD superpowers.",
+          "language": "Python",
+          "stars": 18432,
+          "forks": 1830
+        },
+        {
+          "rank": 3,
+          "name": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+          "language": "Python",
+          "stars": 55716,
+          "forks": 3180
+        },
+        {
+          "rank": 4,
+          "name": "Tracer-Cloud/opensre",
+          "url": "https://github.com/Tracer-Cloud/opensre",
+          "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+          "language": "Python",
+          "stars": 11646,
+          "forks": 1704
+        },
+        {
+          "rank": 5,
+          "name": "abrignoni/ALEAPP",
+          "url": "https://github.com/abrignoni/ALEAPP",
+          "description": "Android Logs Events And Protobuf Parser",
+          "language": "Python",
+          "stars": 974,
+          "forks": 255
+        },
+        {
+          "rank": 6,
+          "name": "smicallef/spiderfoot",
+          "url": "https://github.com/smicallef/spiderfoot",
+          "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+          "language": "Python",
+          "stars": 23164,
+          "forks": 3712
+        },
+        {
+          "rank": 7,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "Python",
+          "stars": 53941,
+          "forks": 6073
+        },
+        {
+          "rank": 8,
+          "name": "psf/black",
+          "url": "https://github.com/psf/black",
+          "description": "The uncompromising Python code formatter",
+          "language": "Python",
+          "stars": 41879,
+          "forks": 2910
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/agent-framework",
+          "url": "https://github.com/microsoft/agent-framework",
+          "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with su...",
+          "language": "Python",
+          "stars": 14017,
+          "forks": 2446
+        },
+        {
+          "rank": 10,
+          "name": "IAmTomShaw/f1-race-replay",
+          "url": "https://github.com/IAmTomShaw/f1-race-replay",
+          "description": "An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️",
+          "language": "Python",
+          "stars": 6668,
+          "forks": 880
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250508",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 96549,
+          "forks": 15703
+        },
+        {
+          "rank": 2,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 41174,
+          "forks": 1703
+        },
+        {
+          "rank": 3,
+          "name": "XiaoMi/ha_xiaomi_home",
+          "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+          "description": "Xiaomi Home Integration for Home Assistant",
+          "language": "Python",
+          "stars": 19573,
+          "forks": 988
+        },
+        {
+          "rank": 4,
+          "name": "huggingface/smolagents",
+          "url": "https://github.com/huggingface/smolagents",
+          "description": "🤗 smolagents: a barebones library for agents that think in python code.",
+          "language": "Python",
+          "stars": 18200,
+          "forks": 1584
+        },
+        {
+          "rank": 5,
+          "name": "mastra-ai/mastra",
+          "url": "https://github.com/mastra-ai/mastra",
+          "description": "The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Cla...",
+          "language": "TypeScript",
+          "stars": 12764,
+          "forks": 686
+        },
+        {
+          "rank": 6,
+          "name": "mindverse/Second-Me",
+          "url": "https://github.com/mindverse/Second-Me",
+          "description": "Train your AI self, amplify you, bridge the world",
+          "language": "Python",
+          "stars": 11798,
+          "forks": 833
+        },
+        {
+          "rank": 7,
+          "name": "ahmedkhaleel2004/gitdiagram",
+          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+          "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+          "language": "TypeScript",
+          "stars": 11190,
+          "forks": 766
+        },
+        {
+          "rank": 8,
+          "name": "Tencent/Hunyuan3D-2",
+          "url": "https://github.com/Tencent/Hunyuan3D-2",
+          "description": "High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.",
+          "language": "Python",
+          "stars": 9532,
+          "forks": 798
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 8410,
+          "forks": 455
+        },
+        {
+          "rank": 10,
+          "name": "eyaltoledano/claude-task-master",
+          "url": "https://github.com/eyaltoledano/claude-task-master",
+          "description": "An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.",
+          "language": "JavaScript",
+          "stars": 8149,
+          "forks": 838
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6598,
+          "forks": 243602
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28343,
+          "forks": 86562
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2530,
+          "forks": 72238
+        },
+        {
+          "rank": 4,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 166101,
+          "forks": 53743
+        },
+        {
+          "rank": 5,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 298679,
+          "forks": 49581
+        },
+        {
+          "rank": 6,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 175140,
+          "forks": 45686
+        },
+        {
+          "rank": 7,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77509,
+          "forks": 45610
+        },
+        {
+          "rank": 8,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19088,
+          "forks": 41426
+        },
+        {
+          "rank": 9,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 114950,
+          "forks": 40524
+        },
+        {
+          "rank": 10,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 57990,
+          "forks": 38472
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "GoogleCloudPlatform/kubectl-ai",
+          "url": "https://github.com/GoogleCloudPlatform/kubectl-ai",
+          "description": "AI powered Kubernetes Assistant",
+          "language": "Go",
+          "stars": 3860,
+          "forks": 251
+        },
+        {
+          "rank": 2,
+          "name": "awslabs/agent-squad",
+          "url": "https://github.com/awslabs/agent-squad",
+          "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+          "language": "Python",
+          "stars": 5289,
+          "forks": 440
+        },
+        {
+          "rank": 3,
+          "name": "78/xiaozhi-esp32",
+          "url": "https://github.com/78/xiaozhi-esp32",
+          "description": "Build your own AI friend",
+          "language": "C++",
+          "stars": 12548,
+          "forks": 2463
+        },
+        {
+          "rank": 4,
+          "name": "ruanyf/weekly",
+          "url": "https://github.com/ruanyf/weekly",
+          "description": "科技爱好者周刊，每周五发布",
+          "language": "N/A",
+          "stars": 59831,
+          "forks": 3296
+        },
+        {
+          "rank": 5,
+          "name": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "language": "Python",
+          "stars": 106683,
+          "forks": 9967
+        },
+        {
+          "rank": 6,
+          "name": "zed-industries/zed",
+          "url": "https://github.com/zed-industries/zed",
+          "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creato...",
+          "language": "Rust",
+          "stars": 58368,
+          "forks": 4059
+        },
+        {
+          "rank": 7,
+          "name": "MODSetter/SurfSense",
+          "url": "https://github.com/MODSetter/SurfSense",
+          "description": "Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as...",
+          "language": "TypeScript",
+          "stars": 2945,
+          "forks": 214
+        },
+        {
+          "rank": 8,
+          "name": "LadybirdBrowser/ladybird",
+          "url": "https://github.com/LadybirdBrowser/ladybird",
+          "description": "Truly independent web browser",
+          "language": "C++",
+          "stars": 41174,
+          "forks": 1703
+        },
+        {
+          "rank": 9,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 952,
+          "forks": 78
+        },
+        {
+          "rank": 10,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 27539,
+          "forks": 4063
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "awslabs/agent-squad",
+          "url": "https://github.com/awslabs/agent-squad",
+          "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+          "language": "Python",
+          "stars": 5289,
+          "forks": 440
+        },
+        {
+          "rank": 2,
+          "name": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "language": "Python",
+          "stars": 106683,
+          "forks": 9967
+        },
+        {
+          "rank": 3,
+          "name": "Blaizzy/mlx-audio",
+          "url": "https://github.com/Blaizzy/mlx-audio",
+          "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's ...",
+          "language": "Python",
+          "stars": 952,
+          "forks": 78
+        },
+        {
+          "rank": 4,
+          "name": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+          "language": "Python",
+          "stars": 27539,
+          "forks": 4063
+        },
+        {
+          "rank": 5,
+          "name": "NVIDIA/NeMo",
+          "url": "https://github.com/NVIDIA/NeMo",
+          "description": "A scalable generative AI framework built for researchers and developers working on Large Language...",
+          "language": "Python",
+          "stars": 13899,
+          "forks": 2816
+        },
+        {
+          "rank": 6,
+          "name": "ranaroussi/yfinance",
+          "url": "https://github.com/ranaroussi/yfinance",
+          "description": "Download market data from Yahoo! Finance's API",
+          "language": "Python",
+          "stars": 17108,
+          "forks": 2645
+        },
+        {
+          "rank": 7,
+          "name": "ultralytics/ultralytics",
+          "url": "https://github.com/ultralytics/ultralytics",
+          "description": "Ultralytics YOLO11 🚀",
+          "language": "Python",
+          "stars": 40330,
+          "forks": 7826
+        },
+        {
+          "rank": 8,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, ...",
+          "language": "Python",
+          "stars": 22139,
+          "forks": 2836
+        },
+        {
+          "rank": 9,
+          "name": "eosphoros-ai/DB-GPT",
+          "url": "https://github.com/eosphoros-ai/DB-GPT",
+          "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+          "language": "Python",
+          "stars": 16382,
+          "forks": 2226
+        },
+        {
+          "rank": 10,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 22779,
+          "forks": 1952
+        }
+      ]
+    }
+  ]
+}

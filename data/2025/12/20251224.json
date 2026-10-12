@@ -1,0 +1,391 @@
+{
+  "date": "20251224",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 101973,
+          "forks": 27154
+        },
+        {
+          "rank": 2,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 88474,
+          "forks": 10157
+        },
+        {
+          "rank": 3,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 57505,
+          "forks": 5004
+        },
+        {
+          "rank": 4,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 54621,
+          "forks": 6941
+        },
+        {
+          "rank": 5,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 48345,
+          "forks": 5600
+        },
+        {
+          "rank": 6,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 39187,
+          "forks": 4962
+        },
+        {
+          "rank": 7,
+          "name": "bmad-code-org/BMAD-METHOD",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Breakthrough Method for Agile Ai Driven Development",
+          "language": "JavaScript",
+          "stars": 26023,
+          "forks": 3666
+        },
+        {
+          "rank": 8,
+          "name": "zama-ai/fhevm",
+          "url": "https://github.com/zama-ai/fhevm",
+          "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain ...",
+          "language": "Rust",
+          "stars": 26011,
+          "forks": 2410
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/open-r1",
+          "url": "https://github.com/huggingface/open-r1",
+          "description": "Fully open reproduction of DeepSeek-R1",
+          "language": "Python",
+          "stars": 25751,
+          "forks": 2407
+        },
+        {
+          "rank": 10,
+          "name": "github/github-mcp-server",
+          "url": "https://github.com/github/github-mcp-server",
+          "description": "GitHub's official MCP Server",
+          "language": "Go",
+          "stars": 25395,
+          "forks": 3267
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 51818,
+          "forks": 95661
+        },
+        {
+          "rank": 2,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2537,
+          "forks": 87147
+        },
+        {
+          "rank": 3,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173845,
+          "forks": 79170
+        },
+        {
+          "rank": 4,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 193041,
+          "forks": 75139
+        },
+        {
+          "rank": 5,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 379271,
+          "forks": 65643
+        },
+        {
+          "rank": 6,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37318,
+          "forks": 53963
+        },
+        {
+          "rank": 7,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153170,
+          "forks": 46100
+        },
+        {
+          "rank": 8,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 79457,
+          "forks": 41747
+        },
+        {
+          "rank": 9,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 87347,
+          "forks": 38392
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 179950,
+          "forks": 37020
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rendercv/rendercv",
+          "url": "https://github.com/rendercv/rendercv",
+          "description": "Typst-based CV/resume generator for academics and engineers",
+          "language": "Python",
+          "stars": 8125,
+          "forks": 574
+        },
+        {
+          "rank": 2,
+          "name": "twitter/the-algorithm",
+          "url": "https://github.com/twitter/the-algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "stars": 68370,
+          "forks": 12693
+        },
+        {
+          "rank": 3,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 18907,
+          "forks": 1332
+        },
+        {
+          "rank": 4,
+          "name": "vllm-project/vllm-omni",
+          "url": "https://github.com/vllm-project/vllm-omni",
+          "description": "A framework for efficient model inference with omni-modality models",
+          "language": "Python",
+          "stars": 1516,
+          "forks": 199
+        },
+        {
+          "rank": 5,
+          "name": "stan-smith/FossFLOW",
+          "url": "https://github.com/stan-smith/FossFLOW",
+          "description": "Make beautiful isometric infrastructure diagrams",
+          "language": "TypeScript",
+          "stars": 14771,
+          "forks": 957
+        },
+        {
+          "rank": 6,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 13519,
+          "forks": 1180
+        },
+        {
+          "rank": 7,
+          "name": "safety-research/bloom",
+          "url": "https://github.com/safety-research/bloom",
+          "description": "bloom - evaluate any behavior immediately  🌸🌱",
+          "language": "Python",
+          "stars": 667,
+          "forks": 89
+        },
+        {
+          "rank": 8,
+          "name": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues,...",
+          "language": "TypeScript",
+          "stars": 41271,
+          "forks": 3044
+        },
+        {
+          "rank": 9,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 5668,
+          "forks": 563
+        },
+        {
+          "rank": 10,
+          "name": "danielmiessler/Fabric",
+          "url": "https://github.com/danielmiessler/Fabric",
+          "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system f...",
+          "language": "Go",
+          "stars": 36389,
+          "forks": 3669
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rendercv/rendercv",
+          "url": "https://github.com/rendercv/rendercv",
+          "description": "Typst-based CV/resume generator for academics and engineers",
+          "language": "Python",
+          "stars": 8125,
+          "forks": 574
+        },
+        {
+          "rank": 2,
+          "name": "google/langextract",
+          "url": "https://github.com/google/langextract",
+          "description": "A Python library for extracting structured information from unstructured text using LLMs with pre...",
+          "language": "Python",
+          "stars": 18907,
+          "forks": 1332
+        },
+        {
+          "rank": 3,
+          "name": "vllm-project/vllm-omni",
+          "url": "https://github.com/vllm-project/vllm-omni",
+          "description": "A framework for efficient model inference with omni-modality models",
+          "language": "Python",
+          "stars": 1516,
+          "forks": 199
+        },
+        {
+          "rank": 4,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 13519,
+          "forks": 1180
+        },
+        {
+          "rank": 5,
+          "name": "safety-research/bloom",
+          "url": "https://github.com/safety-research/bloom",
+          "description": "bloom - evaluate any behavior immediately  🌸🌱",
+          "language": "Python",
+          "stars": 667,
+          "forks": 89
+        },
+        {
+          "rank": 6,
+          "name": "yichuan-w/LEANN",
+          "url": "https://github.com/yichuan-w/LEANN",
+          "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% ...",
+          "language": "Python",
+          "stars": 5668,
+          "forks": 563
+        },
+        {
+          "rank": 7,
+          "name": "apurvsinghgautam/robin",
+          "url": "https://github.com/apurvsinghgautam/robin",
+          "description": "AI-Powered Dark Web OSINT Tool",
+          "language": "Python",
+          "stars": 2446,
+          "forks": 554
+        },
+        {
+          "rank": 8,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 26263,
+          "forks": 2429
+        },
+        {
+          "rank": 9,
+          "name": "xerrors/Yuxi-Know",
+          "url": "https://github.com/xerrors/Yuxi-Know",
+          "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowled...",
+          "language": "Python",
+          "stars": 3012,
+          "forks": 374
+        },
+        {
+          "rank": 10,
+          "name": "LMCache/LMCache",
+          "url": "https://github.com/LMCache/LMCache",
+          "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+          "language": "Python",
+          "stars": 6423,
+          "forks": 814
+        }
+      ]
+    }
+  ]
+}

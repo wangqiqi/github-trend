@@ -1,0 +1,382 @@
+{
+  "date": "20260113",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 107856,
+          "forks": 28336
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91697,
+          "forks": 11779
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 90731,
+          "forks": 10521
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 62138,
+          "forks": 5395
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 56044,
+          "forks": 7206
+        },
+        {
+          "rank": 6,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Shell",
+          "stars": 55969,
+          "forks": 4076
+        },
+        {
+          "rank": 7,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 52829,
+          "forks": 9297
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 49760,
+          "forks": 6000
+        },
+        {
+          "rank": 9,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44984,
+          "forks": 4478
+        },
+        {
+          "rank": 10,
+          "name": "sansan0/TrendRadar",
+          "url": "https://github.com/sansan0/TrendRadar",
+          "description": "🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析...",
+          "language": "Python",
+          "stars": 42907,
+          "forks": 21428
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37326,
+          "forks": 53920
+        },
+        {
+          "rank": 2,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153426,
+          "forks": 46095
+        },
+        {
+          "rank": 3,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 79656,
+          "forks": 41794
+        },
+        {
+          "rank": 4,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 48399,
+          "forks": 31070
+        },
+        {
+          "rank": 5,
+          "name": "mdn/learning-area",
+          "url": "https://github.com/mdn/learning-area",
+          "description": "GitHub repo for the MDN Learning Area.",
+          "language": "HTML",
+          "stars": 7515,
+          "forks": 27411
+        },
+        {
+          "rank": 6,
+          "name": "facebook/create-react-app",
+          "url": "https://github.com/facebook/create-react-app",
+          "description": "Set up a modern web app by running one command.",
+          "language": "JavaScript",
+          "stars": 103949,
+          "forks": 27154
+        },
+        {
+          "rank": 7,
+          "name": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "description": "一分钟搭建影视站，支持Vercel/Docker等部署方式",
+          "language": "JavaScript",
+          "stars": 12976,
+          "forks": 26767
+        },
+        {
+          "rank": 8,
+          "name": "elastic/elasticsearch",
+          "url": "https://github.com/elastic/elasticsearch",
+          "description": "Free and Open Source, Distributed, RESTful Search Engine",
+          "language": "Java",
+          "stars": 75851,
+          "forks": 25764
+        },
+        {
+          "rank": 9,
+          "name": "laravel/laravel",
+          "url": "https://github.com/laravel/laravel",
+          "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the fo...",
+          "language": "Blade",
+          "stars": 83299,
+          "forks": 24661
+        },
+        {
+          "rank": 10,
+          "name": "rails/rails",
+          "url": "https://github.com/rails/rails",
+          "description": "Ruby on Rails",
+          "language": "Ruby",
+          "stars": 58093,
+          "forks": 22156
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "Claude Code superpowers: core skills library",
+          "language": "Shell",
+          "stars": 19623,
+          "forks": 1493
+        },
+        {
+          "rank": 2,
+          "name": "icloud-photos-downloader/icloud_photos_downloader",
+          "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+          "description": "A command-line tool to download photos from iCloud",
+          "language": "Python",
+          "stars": 10828,
+          "forks": 722
+        },
+        {
+          "rank": 3,
+          "name": "blakeblackshear/frigate",
+          "url": "https://github.com/blakeblackshear/frigate",
+          "description": "NVR with realtime local object detection for IP cameras",
+          "language": "TypeScript",
+          "stars": 28817,
+          "forks": 2700
+        },
+        {
+          "rank": 4,
+          "name": "twitter/the-algorithm",
+          "url": "https://github.com/twitter/the-algorithm",
+          "description": "Source code for the X Recommendation Algorithm",
+          "language": "Scala",
+          "stars": 69384,
+          "forks": 12838
+        },
+        {
+          "rank": 5,
+          "name": "home-assistant/home-assistant.io",
+          "url": "https://github.com/home-assistant/home-assistant.io",
+          "description": "📘 Home Assistant User documentation",
+          "language": "HTML",
+          "stars": 8225,
+          "forks": 8111
+        },
+        {
+          "rank": 6,
+          "name": "chidiwilliams/buzz",
+          "url": "https://github.com/chidiwilliams/buzz",
+          "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whis...",
+          "language": "Python",
+          "stars": 16516,
+          "forks": 1233
+        },
+        {
+          "rank": 7,
+          "name": "adam-maj/tiny-gpu",
+          "url": "https://github.com/adam-maj/tiny-gpu",
+          "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+          "language": "SystemVerilog",
+          "stars": 9621,
+          "forks": 766
+        },
+        {
+          "rank": 8,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 10392,
+          "forks": 1722
+        },
+        {
+          "rank": 9,
+          "name": "onlook-dev/onlook",
+          "url": "https://github.com/onlook-dev/onlook",
+          "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit ...",
+          "language": "TypeScript",
+          "stars": 23937,
+          "forks": 1778
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "icloud-photos-downloader/icloud_photos_downloader",
+          "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+          "description": "A command-line tool to download photos from iCloud",
+          "language": "Python",
+          "stars": 10828,
+          "forks": 722
+        },
+        {
+          "rank": 2,
+          "name": "chidiwilliams/buzz",
+          "url": "https://github.com/chidiwilliams/buzz",
+          "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whis...",
+          "language": "Python",
+          "stars": 16516,
+          "forks": 1233
+        },
+        {
+          "rank": 3,
+          "name": "Free-TV/IPTV",
+          "url": "https://github.com/Free-TV/IPTV",
+          "description": "M3U Playlist for free TV channels",
+          "language": "Python",
+          "stars": 10392,
+          "forks": 1722
+        },
+        {
+          "rank": 4,
+          "name": "google-agentic-commerce/AP2",
+          "url": "https://github.com/google-agentic-commerce/AP2",
+          "description": "Building a Secure and Interoperable Future for AI-Driven Payments.",
+          "language": "Python",
+          "stars": 2655,
+          "forks": 364
+        },
+        {
+          "rank": 5,
+          "name": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI tool for configuring and monitoring Claude Code",
+          "language": "Python",
+          "stars": 15862,
+          "forks": 1371
+        },
+        {
+          "rank": 6,
+          "name": "jwohlwend/boltz",
+          "url": "https://github.com/jwohlwend/boltz",
+          "description": "Official repository for the Boltz biomolecular interaction models",
+          "language": "Python",
+          "stars": 3639,
+          "forks": 724
+        },
+        {
+          "rank": 7,
+          "name": "OpenBMB/ChatDev",
+          "url": "https://github.com/OpenBMB/ChatDev",
+          "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+          "language": "Python",
+          "stars": 28498,
+          "forks": 3601
+        },
+        {
+          "rank": 8,
+          "name": "nunchaku-ai/ComfyUI-nunchaku",
+          "url": "https://github.com/nunchaku-ai/ComfyUI-nunchaku",
+          "description": "ComfyUI Plugin of Nunchaku",
+          "language": "Python",
+          "stars": 2691,
+          "forks": 138
+        },
+        {
+          "rank": 9,
+          "name": "hacksider/Deep-Live-Cam",
+          "url": "https://github.com/hacksider/Deep-Live-Cam",
+          "description": "real time face swap and one-click video deepfake with only a single image",
+          "language": "Python",
+          "stars": 77691,
+          "forks": 11340
+        },
+        {
+          "rank": 10,
+          "name": "ranaroussi/yfinance",
+          "url": "https://github.com/ranaroussi/yfinance",
+          "description": "Download market data from Yahoo! Finance's API",
+          "language": "Python",
+          "stars": 20687,
+          "forks": 2981
+        }
+      ]
+    }
+  ]
+}

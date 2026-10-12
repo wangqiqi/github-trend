@@ -1,0 +1,391 @@
+{
+  "date": "20250313",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 34364,
+          "forks": 3422
+        },
+        {
+          "rank": 2,
+          "name": "mendableai/firecrawl",
+          "url": "https://github.com/mendableai/firecrawl",
+          "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with...",
+          "language": "TypeScript",
+          "stars": 30830,
+          "forks": 2615
+        },
+        {
+          "rank": 3,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application proc...",
+          "language": "Python",
+          "stars": 27561,
+          "forks": 4125
+        },
+        {
+          "rank": 4,
+          "name": "zen-browser/desktop",
+          "url": "https://github.com/zen-browser/desktop",
+          "description": "A calmer internet, without any gimmicks.",
+          "language": "JavaScript",
+          "stars": 26854,
+          "forks": 703
+        },
+        {
+          "rank": 5,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 19492,
+          "forks": 2268
+        },
+        {
+          "rank": 6,
+          "name": "KindXiaoming/pykan",
+          "url": "https://github.com/KindXiaoming/pykan",
+          "description": "Kolmogorov Arnold Networks",
+          "language": "Jupyter Notebook",
+          "stars": 15493,
+          "forks": 1460
+        },
+        {
+          "rank": 7,
+          "name": "PatrickJS/awesome-cursorrules",
+          "url": "https://github.com/PatrickJS/awesome-cursorrules",
+          "description": "📄 A curated list of awesome .cursorrules files",
+          "language": "N/A",
+          "stars": 14998,
+          "forks": 1027
+        },
+        {
+          "rank": 8,
+          "name": "richards199999/Thinking-Claude",
+          "url": "https://github.com/richards199999/Thinking-Claude",
+          "description": "Let your Claude able to think",
+          "language": "TypeScript",
+          "stars": 14701,
+          "forks": 1707
+        },
+        {
+          "rank": 9,
+          "name": "dzhng/deep-research",
+          "url": "https://github.com/dzhng/deep-research",
+          "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining...",
+          "language": "TypeScript",
+          "stars": 14376,
+          "forks": 1460
+        },
+        {
+          "rank": 10,
+          "name": "KwaiVGI/LivePortrait",
+          "url": "https://github.com/KwaiVGI/LivePortrait",
+          "description": "Bring portraits to life!",
+          "language": "Python",
+          "stars": 14306,
+          "forks": 1539
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6587,
+          "forks": 243710
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 12879,
+          "forks": 149765
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 844,
+          "forks": 143837
+        },
+        {
+          "rank": 4,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28113,
+          "forks": 86225
+        },
+        {
+          "rank": 5,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 47333,
+          "forks": 83789
+        },
+        {
+          "rank": 6,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "JavaScript",
+          "stars": 171746,
+          "forks": 79045
+        },
+        {
+          "rank": 7,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2490,
+          "forks": 72071
+        },
+        {
+          "rank": 8,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "HTML",
+          "stars": 352995,
+          "forks": 63027
+        },
+        {
+          "rank": 9,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 81894,
+          "forks": 61231
+        },
+        {
+          "rank": 10,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17098,
+          "forks": 61189
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "yuruotong1/autoMate",
+          "url": "https://github.com/yuruotong1/autoMate",
+          "description": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local ...",
+          "language": "Python",
+          "stars": 1593,
+          "forks": 193
+        },
+        {
+          "rank": 2,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+          "language": "TypeScript",
+          "stars": 411916,
+          "forks": 39251
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+          "language": "TypeScript",
+          "stars": 103032,
+          "forks": 12721
+        },
+        {
+          "rank": 4,
+          "name": "JackHopkins/factorio-learning-environment",
+          "url": "https://github.com/JackHopkins/factorio-learning-environment",
+          "description": "A non-saturating, open-ended environment for evaluating LLMs in Factorio",
+          "language": "HTML",
+          "stars": 392,
+          "forks": 13
+        },
+        {
+          "rank": 5,
+          "name": "eosphoros-ai/DB-GPT",
+          "url": "https://github.com/eosphoros-ai/DB-GPT",
+          "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+          "language": "Python",
+          "stars": 15259,
+          "forks": 2072
+        },
+        {
+          "rank": 6,
+          "name": "AgentOps-AI/agentops",
+          "url": "https://github.com/AgentOps-AI/agentops",
+          "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with mo...",
+          "language": "Python",
+          "stars": 3409,
+          "forks": 312
+        },
+        {
+          "rank": 7,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 332113,
+          "forks": 35100
+        },
+        {
+          "rank": 8,
+          "name": "YaLTeR/niri",
+          "url": "https://github.com/YaLTeR/niri",
+          "description": "A scrollable-tiling Wayland compositor.",
+          "language": "Rust",
+          "stars": 5785,
+          "forks": 189
+        },
+        {
+          "rank": 9,
+          "name": "xpipe-io/xpipe",
+          "url": "https://github.com/xpipe-io/xpipe",
+          "description": "Your entire server infrastructure at your fingertips",
+          "language": "Java",
+          "stars": 5810,
+          "forks": 190
+        },
+        {
+          "rank": 10,
+          "name": "huggingface/lerobot",
+          "url": "https://github.com/huggingface/lerobot",
+          "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+          "language": "Python",
+          "stars": 9890,
+          "forks": 1110
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "yuruotong1/autoMate",
+          "url": "https://github.com/yuruotong1/autoMate",
+          "description": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local ...",
+          "language": "Python",
+          "stars": 1593,
+          "forks": 193
+        },
+        {
+          "rank": 2,
+          "name": "eosphoros-ai/DB-GPT",
+          "url": "https://github.com/eosphoros-ai/DB-GPT",
+          "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+          "language": "Python",
+          "stars": 15259,
+          "forks": 2072
+        },
+        {
+          "rank": 3,
+          "name": "AgentOps-AI/agentops",
+          "url": "https://github.com/AgentOps-AI/agentops",
+          "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with mo...",
+          "language": "Python",
+          "stars": 3409,
+          "forks": 312
+        },
+        {
+          "rank": 4,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 332113,
+          "forks": 35100
+        },
+        {
+          "rank": 5,
+          "name": "huggingface/lerobot",
+          "url": "https://github.com/huggingface/lerobot",
+          "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+          "language": "Python",
+          "stars": 9890,
+          "forks": 1110
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 1886,
+          "forks": 168
+        },
+        {
+          "rank": 7,
+          "name": "Blaizzy/mlx-vlm",
+          "url": "https://github.com/Blaizzy/mlx-vlm",
+          "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac u...",
+          "language": "Python",
+          "stars": 975,
+          "forks": 86
+        },
+        {
+          "rank": 8,
+          "name": "camel-ai/camel",
+          "url": "https://github.com/camel-ai/camel",
+          "description": "🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https:/...",
+          "language": "Python",
+          "stars": 10018,
+          "forks": 1020
+        },
+        {
+          "rank": 9,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 43085,
+          "forks": 4373
+        },
+        {
+          "rank": 10,
+          "name": "comet-ml/opik",
+          "url": "https://github.com/comet-ml/opik",
+          "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...",
+          "language": "Python",
+          "stars": 5416,
+          "forks": 361
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250316",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application proc...",
+          "language": "Python",
+          "stars": 27617,
+          "forks": 4130
+        },
+        {
+          "rank": 2,
+          "name": "zen-browser/desktop",
+          "url": "https://github.com/zen-browser/desktop",
+          "description": "A calmer internet, without any gimmicks.",
+          "language": "JavaScript",
+          "stars": 27072,
+          "forks": 709
+        },
+        {
+          "rank": 3,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 20841,
+          "forks": 1471
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 19721,
+          "forks": 2294
+        },
+        {
+          "rank": 5,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1",
+          "language": "TypeScript",
+          "stars": 19464,
+          "forks": 1605
+        },
+        {
+          "rank": 6,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 18158,
+          "forks": 1841
+        },
+        {
+          "rank": 7,
+          "name": "PatrickJS/awesome-cursorrules",
+          "url": "https://github.com/PatrickJS/awesome-cursorrules",
+          "description": "📄 A curated list of awesome .cursorrules files",
+          "language": "N/A",
+          "stars": 15919,
+          "forks": 1090
+        },
+        {
+          "rank": 8,
+          "name": "KindXiaoming/pykan",
+          "url": "https://github.com/KindXiaoming/pykan",
+          "description": "Kolmogorov Arnold Networks",
+          "language": "Jupyter Notebook",
+          "stars": 15498,
+          "forks": 1461
+        },
+        {
+          "rank": 9,
+          "name": "richards199999/Thinking-Claude",
+          "url": "https://github.com/richards199999/Thinking-Claude",
+          "description": "Let your Claude able to think",
+          "language": "TypeScript",
+          "stars": 14721,
+          "forks": 1713
+        },
+        {
+          "rank": 10,
+          "name": "dzhng/deep-research",
+          "url": "https://github.com/dzhng/deep-research",
+          "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining...",
+          "language": "TypeScript",
+          "stars": 14567,
+          "forks": 1491
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 165056,
+          "forks": 83094
+        },
+        {
+          "rank": 2,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 81973,
+          "forks": 61257
+        },
+        {
+          "rank": 3,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 93973,
+          "forks": 51564
+        },
+        {
+          "rank": 4,
+          "name": "CyC2018/CS-Notes",
+          "url": "https://github.com/CyC2018/CS-Notes",
+          "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+          "language": "N/A",
+          "stars": 179353,
+          "forks": 51209
+        },
+        {
+          "rank": 5,
+          "name": "google/it-cert-automation-practice",
+          "url": "https://github.com/google/it-cert-automation-practice",
+          "description": "Google IT Automation with Python Professional Certificate - Practice files",
+          "language": "Python",
+          "stars": 916,
+          "forks": 45155
+        },
+        {
+          "rank": 6,
+          "name": "django/django",
+          "url": "https://github.com/django/django",
+          "description": "The Web framework for perfectionists with deadlines.",
+          "language": "Python",
+          "stars": 82720,
+          "forks": 32371
+        },
+        {
+          "rank": 7,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 474,
+          "forks": 30501
+        },
+        {
+          "rank": 8,
+          "name": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+          "language": "Dart",
+          "stars": 169159,
+          "forks": 28196
+        },
+        {
+          "rank": 9,
+          "name": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "language": "JavaScript",
+          "stars": 130227,
+          "forks": 27901
+        },
+        {
+          "rank": 10,
+          "name": "MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web",
+          "description": "Code used in Microsoft Learn modules to support Azure DevOps",
+          "language": "Shell",
+          "stars": 184,
+          "forks": 27395
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "glanceapp/glance",
+          "url": "https://github.com/glanceapp/glance",
+          "description": "A self-hosted dashboard that puts all your feeds in one place",
+          "language": "Go",
+          "stars": 13813,
+          "forks": 486
+        },
+        {
+          "rank": 2,
+          "name": "xpipe-io/xpipe",
+          "url": "https://github.com/xpipe-io/xpipe",
+          "description": "Access your entire server infrastructure from your local desktop",
+          "language": "Java",
+          "stars": 8396,
+          "forks": 284
+        },
+        {
+          "rank": 3,
+          "name": "yuaotian/go-cursor-help",
+          "url": "https://github.com/yuaotian/go-cursor-help",
+          "description": "解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts...",
+          "language": "Shell",
+          "stars": 14365,
+          "forks": 1866
+        },
+        {
+          "rank": 4,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+          "language": "TypeScript",
+          "stars": 413042,
+          "forks": 39359
+        },
+        {
+          "rank": 5,
+          "name": "calcom/cal.com",
+          "url": "https://github.com/calcom/cal.com",
+          "description": "Scheduling infrastructure for absolutely everyone.",
+          "language": "TypeScript",
+          "stars": 34544,
+          "forks": 8874
+        },
+        {
+          "rank": 6,
+          "name": "ai-christianson/RA.Aid",
+          "url": "https://github.com/ai-christianson/RA.Aid",
+          "description": "Develop software autonomously.",
+          "language": "Python",
+          "stars": 867,
+          "forks": 88
+        },
+        {
+          "rank": 7,
+          "name": "langchain-ai/ollama-deep-researcher",
+          "url": "https://github.com/langchain-ai/ollama-deep-researcher",
+          "description": "Fully local web research and report writing assistant",
+          "language": "Python",
+          "stars": 3230,
+          "forks": 414
+        },
+        {
+          "rank": 8,
+          "name": "TanStack/form",
+          "url": "https://github.com/TanStack/form",
+          "description": "🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid...",
+          "language": "TypeScript",
+          "stars": 4690,
+          "forks": 400
+        },
+        {
+          "rank": 9,
+          "name": "tj-actions/changed-files",
+          "url": "https://github.com/tj-actions/changed-files",
+          "description": "Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged,...",
+          "language": "TypeScript",
+          "stars": 1995,
+          "forks": 224
+        },
+        {
+          "rank": 10,
+          "name": "hpcaitech/Open-Sora",
+          "url": "https://github.com/hpcaitech/Open-Sora",
+          "description": "Open-Sora: Democratizing Efficient Video Production for All",
+          "language": "Python",
+          "stars": 25056,
+          "forks": 2429
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ai-christianson/RA.Aid",
+          "url": "https://github.com/ai-christianson/RA.Aid",
+          "description": "Develop software autonomously.",
+          "language": "Python",
+          "stars": 867,
+          "forks": 88
+        },
+        {
+          "rank": 2,
+          "name": "langchain-ai/ollama-deep-researcher",
+          "url": "https://github.com/langchain-ai/ollama-deep-researcher",
+          "description": "Fully local web research and report writing assistant",
+          "language": "Python",
+          "stars": 3230,
+          "forks": 414
+        },
+        {
+          "rank": 3,
+          "name": "hpcaitech/Open-Sora",
+          "url": "https://github.com/hpcaitech/Open-Sora",
+          "description": "Open-Sora: Democratizing Efficient Video Production for All",
+          "language": "Python",
+          "stars": 25056,
+          "forks": 2429
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 2724,
+          "forks": 217
+        },
+        {
+          "rank": 5,
+          "name": "comet-ml/opik",
+          "url": "https://github.com/comet-ml/opik",
+          "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with compr...",
+          "language": "Python",
+          "stars": 5536,
+          "forks": 375
+        },
+        {
+          "rank": 6,
+          "name": "OpenBB-finance/OpenBB",
+          "url": "https://github.com/OpenBB-finance/OpenBB",
+          "description": "Investment Research for Everyone, Everywhere.",
+          "language": "Python",
+          "stars": 36906,
+          "forks": 3353
+        },
+        {
+          "rank": 7,
+          "name": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+          "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+          "description": "Easily train a good VC model with voice data <= 10 mins!",
+          "language": "Python",
+          "stars": 27888,
+          "forks": 3948
+        },
+        {
+          "rank": 8,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 19721,
+          "forks": 2294
+        },
+        {
+          "rank": 9,
+          "name": "RVC-Boss/GPT-SoVITS",
+          "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+          "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+          "language": "Python",
+          "stars": 42431,
+          "forks": 4729
+        },
+        {
+          "rank": 10,
+          "name": "freddyaboulton/fastrtc",
+          "url": "https://github.com/freddyaboulton/fastrtc",
+          "description": "The python library for real-time communication",
+          "language": "Python",
+          "stars": 2961,
+          "forks": 247
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250412",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "inkonchain/node",
+          "url": "https://github.com/inkonchain/node",
+          "description": "How to run an Ink Node",
+          "language": "Shell",
+          "stars": 36610,
+          "forks": 565
+        },
+        {
+          "rank": 2,
+          "name": "2noise/ChatTTS",
+          "url": "https://github.com/2noise/ChatTTS",
+          "description": "A generative speech model for daily dialogue.",
+          "language": "Python",
+          "stars": 35724,
+          "forks": 3875
+        },
+        {
+          "rank": 3,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 35008,
+          "forks": 3729
+        },
+        {
+          "rank": 4,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artific...",
+          "language": "Python",
+          "stars": 27907,
+          "forks": 4172
+        },
+        {
+          "rank": 5,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 27890,
+          "forks": 3127
+        },
+        {
+          "rank": 6,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 27585,
+          "forks": 1701
+        },
+        {
+          "rank": 7,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.",
+          "language": "JavaScript",
+          "stars": 23071,
+          "forks": 1949
+        },
+        {
+          "rank": 8,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21294,
+          "forks": 1509
+        },
+        {
+          "rank": 9,
+          "name": "Byaidu/PDFMathTranslate",
+          "url": "https://github.com/Byaidu/PDFMathTranslate",
+          "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/De...",
+          "language": "Python",
+          "stars": 20124,
+          "forks": 1683
+        },
+        {
+          "rank": 10,
+          "name": "yuaotian/go-cursor-help",
+          "url": "https://github.com/yuaotian/go-cursor-help",
+          "description": "解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accou...",
+          "language": "Shell",
+          "stars": 18802,
+          "forks": 2356
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 82675,
+          "forks": 61105
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56738
+        },
+        {
+          "rank": 3,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 94229,
+          "forks": 51914
+        },
+        {
+          "rank": 4,
+          "name": "CyC2018/CS-Notes",
+          "url": "https://github.com/CyC2018/CS-Notes",
+          "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+          "language": "N/A",
+          "stars": 179733,
+          "forks": 51198
+        },
+        {
+          "rank": 5,
+          "name": "odoo/odoo",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Odoo. Open Source Apps To Grow Your Business.",
+          "language": "Python",
+          "stars": 42211,
+          "forks": 27275
+        },
+        {
+          "rank": 6,
+          "name": "mdn/learning-area",
+          "url": "https://github.com/mdn/learning-area",
+          "description": "GitHub repo for the MDN Learning Area.",
+          "language": "HTML",
+          "stars": 7224,
+          "forks": 27249
+        },
+        {
+          "rank": 7,
+          "name": "vagabond-systems/jpmc-task-1",
+          "url": "https://github.com/vagabond-systems/jpmc-task-1",
+          "description": "Starter repo for task 1 of the JPMC software engineering program",
+          "language": "Python",
+          "stars": 43,
+          "forks": 22407
+        },
+        {
+          "rank": 8,
+          "name": "yankils/hello-world",
+          "url": "https://github.com/yankils/hello-world",
+          "description": "No description",
+          "language": "Java",
+          "stars": 259,
+          "forks": 22607
+        },
+        {
+          "rank": 9,
+          "name": "linuxacademy/devops-essentials-sample-app",
+          "url": "https://github.com/linuxacademy/devops-essentials-sample-app",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 139,
+          "forks": 18382
+        },
+        {
+          "rank": 10,
+          "name": "jakevdp/PythonDataScienceHandbook",
+          "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+          "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+          "language": "Jupyter Notebook",
+          "stars": 44274,
+          "forks": 18249
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 C...",
+          "language": "Python",
+          "stars": 10679,
+          "forks": 1322
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "10 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 12899,
+          "forks": 3192
+        },
+        {
+          "rank": 3,
+          "name": "GuijiAI/HeyGem.ai",
+          "url": "https://github.com/GuijiAI/HeyGem.ai",
+          "description": "",
+          "language": "C",
+          "stars": 6334,
+          "forks": 1094
+        },
+        {
+          "rank": 4,
+          "name": "colinhacks/zod",
+          "url": "https://github.com/colinhacks/zod",
+          "description": "TypeScript-first schema validation with static type inference",
+          "language": "TypeScript",
+          "stars": 36685,
+          "forks": 1322
+        },
+        {
+          "rank": 5,
+          "name": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with ...",
+          "language": "TypeScript",
+          "stars": 79241,
+          "forks": 21058
+        },
+        {
+          "rank": 6,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 44417,
+          "forks": 6791
+        },
+        {
+          "rank": 7,
+          "name": "crestalnetwork/intentkit",
+          "url": "https://github.com/crestalnetwork/intentkit",
+          "description": "An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch ...",
+          "language": "Python",
+          "stars": 5741,
+          "forks": 614
+        },
+        {
+          "rank": 8,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 1766,
+          "forks": 95
+        },
+        {
+          "rank": 9,
+          "name": "krillinai/KrillinAI",
+          "url": "https://github.com/krillinai/KrillinAI",
+          "description": "A video translation and dubbing tool powered by LLMs, offering professional-grade translations an...",
+          "language": "Go",
+          "stars": 2594,
+          "forks": 195
+        },
+        {
+          "rank": 10,
+          "name": "minio/minio",
+          "url": "https://github.com/minio/minio",
+          "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+          "language": "Go",
+          "stars": 51504,
+          "forks": 5765
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "yeongpin/cursor-free-vip",
+          "url": "https://github.com/yeongpin/cursor-free-vip",
+          "description": "[Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 C...",
+          "language": "Python",
+          "stars": 10679,
+          "forks": 1322
+        },
+        {
+          "rank": 2,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 44417,
+          "forks": 6791
+        },
+        {
+          "rank": 3,
+          "name": "crestalnetwork/intentkit",
+          "url": "https://github.com/crestalnetwork/intentkit",
+          "description": "An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch ...",
+          "language": "Python",
+          "stars": 5741,
+          "forks": 614
+        },
+        {
+          "rank": 4,
+          "name": "funstory-ai/BabelDOC",
+          "url": "https://github.com/funstory-ai/BabelDOC",
+          "description": "Yet Another Document Translator",
+          "language": "Python",
+          "stars": 1766,
+          "forks": 95
+        },
+        {
+          "rank": 5,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, ...",
+          "language": "Python",
+          "stars": 20631,
+          "forks": 2607
+        },
+        {
+          "rank": 6,
+          "name": "psf/black",
+          "url": "https://github.com/psf/black",
+          "description": "The uncompromising Python code formatter",
+          "language": "Python",
+          "stars": 40053,
+          "forks": 2569
+        },
+        {
+          "rank": 7,
+          "name": "mem0ai/mem0",
+          "url": "https://github.com/mem0ai/mem0",
+          "description": "The Memory layer for AI Agents",
+          "language": "Python",
+          "stars": 27437,
+          "forks": 2610
+        },
+        {
+          "rank": 8,
+          "name": "agno-agi/agno",
+          "url": "https://github.com/agno-agi/agno",
+          "description": "Lightweight framework for building Agents with memory, knowledge, tools and reasoning.",
+          "language": "Python",
+          "stars": 24753,
+          "forks": 3142
+        },
+        {
+          "rank": 9,
+          "name": "sinaptik-ai/pandas-ai",
+          "url": "https://github.com/sinaptik-ai/pandas-ai",
+          "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conver...",
+          "language": "Python",
+          "stars": 19132,
+          "forks": 1803
+        },
+        {
+          "rank": 10,
+          "name": "hiyouga/LLaMA-Factory",
+          "url": "https://github.com/hiyouga/LLaMA-Factory",
+          "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+          "language": "Python",
+          "stars": 46634,
+          "forks": 5697
+        }
+      ]
+    }
+  ]
+}

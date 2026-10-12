@@ -1,0 +1,391 @@
+{
+  "date": "20260509",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 183991,
+          "forks": 16343
+        },
+        {
+          "rank": 2,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 94005,
+          "forks": 8162
+        },
+        {
+          "rank": 3,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 73983,
+          "forks": 6348
+        },
+        {
+          "rank": 4,
+          "name": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your proj...",
+          "language": "N/A",
+          "stars": 73964,
+          "forks": 9043
+        },
+        {
+          "rank": 5,
+          "name": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & G...",
+          "language": "Rust",
+          "stars": 64603,
+          "forks": 4167
+        },
+        {
+          "rank": 6,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 58892,
+          "forks": 6365
+        },
+        {
+          "rank": 7,
+          "name": "code-yeongyu/oh-my-openagent",
+          "url": "https://github.com/code-yeongyu/oh-my-openagent",
+          "description": "omo; the best agent harness - previously oh-my-opencode",
+          "language": "TypeScript",
+          "stars": 56793,
+          "forks": 4624
+        },
+        {
+          "rank": 8,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 53819,
+          "forks": 8652
+        },
+        {
+          "rank": 9,
+          "name": "VoltAgent/awesome-openclaw-skills",
+          "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+          "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the offici...",
+          "language": "N/A",
+          "stars": 48284,
+          "forks": 4737
+        },
+        {
+          "rank": 10,
+          "name": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "description": "Spec-driven development (SDD) for AI coding assistants.",
+          "language": "TypeScript",
+          "stars": 46510,
+          "forks": 3260
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nilbuild/developer-roadmap",
+          "url": "https://github.com/nilbuild/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 354461,
+          "forks": 44046
+        },
+        {
+          "rank": 2,
+          "name": "apache/spark",
+          "url": "https://github.com/apache/spark",
+          "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+          "language": "Scala",
+          "stars": 43246,
+          "forks": 29168
+        },
+        {
+          "rank": 3,
+          "name": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+          "language": "Python",
+          "stars": 136270,
+          "forks": 19400
+        },
+        {
+          "rank": 4,
+          "name": "juice-shop/juice-shop",
+          "url": "https://github.com/juice-shop/juice-shop",
+          "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+          "language": "TypeScript",
+          "stars": 13099,
+          "forks": 17855
+        },
+        {
+          "rank": 5,
+          "name": "zero-to-mastery/start-here-guidelines",
+          "url": "https://github.com/zero-to-mastery/start-here-guidelines",
+          "description": "Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playgro...",
+          "language": "Python",
+          "stars": 2855,
+          "forks": 17471
+        },
+        {
+          "rank": 6,
+          "name": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "language": "Python",
+          "stars": 79475,
+          "forks": 16584
+        },
+        {
+          "rank": 7,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 183991,
+          "forks": 16343
+        },
+        {
+          "rank": 8,
+          "name": "github/opensource.guide",
+          "url": "https://github.com/github/opensource.guide",
+          "description": "📚 Community guides for open source creators",
+          "language": "HTML",
+          "stars": 15430,
+          "forks": 15379
+        },
+        {
+          "rank": 9,
+          "name": "cursor-export/cursor-chat-export",
+          "url": "https://github.com/cursor-export/cursor-chat-export",
+          "description": "Export your chats from Cursor to Markdown.",
+          "language": "Python",
+          "stars": 5,
+          "forks": 13903
+        },
+        {
+          "rank": 10,
+          "name": "RedHatTraining/DO288-apps",
+          "url": "https://github.com/RedHatTraining/DO288-apps",
+          "description": "No description",
+          "language": "Mustache",
+          "stars": 137,
+          "forks": 13817
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 16684,
+          "forks": 2095
+        },
+        {
+          "rank": 2,
+          "name": "bytedance/UI-TARS-desktop",
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+          "language": "TypeScript",
+          "stars": 31110,
+          "forks": 3090
+        },
+        {
+          "rank": 3,
+          "name": "rohitg00/agentmemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+          "language": "TypeScript",
+          "stars": 3085,
+          "forks": 319
+        },
+        {
+          "rank": 4,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 45400,
+          "forks": 5505
+        },
+        {
+          "rank": 5,
+          "name": "datawhalechina/easy-vibe",
+          "url": "https://github.com/datawhalechina/easy-vibe",
+          "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+          "language": "JavaScript",
+          "stars": 8219,
+          "forks": 846
+        },
+        {
+          "rank": 6,
+          "name": "rowboatlabs/rowboat",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "description": "Open-source AI coworker, with memory",
+          "language": "TypeScript",
+          "stars": 13562,
+          "forks": 1350
+        },
+        {
+          "rank": 7,
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Chrome DevTools for coding agents",
+          "language": "TypeScript",
+          "stars": 38633,
+          "forks": 2440
+        },
+        {
+          "rank": 8,
+          "name": "masterking32/MasterDnsVPN",
+          "url": "https://github.com/masterking32/MasterDnsVPN",
+          "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-...",
+          "language": "Go",
+          "stars": 2137,
+          "forks": 220
+        },
+        {
+          "rank": 9,
+          "name": "playcanvas/supersplat",
+          "url": "https://github.com/playcanvas/supersplat",
+          "description": "3D Gaussian Splat Editor",
+          "language": "TypeScript",
+          "stars": 6001,
+          "forks": 697
+        },
+        {
+          "rank": 10,
+          "name": "Lordog/dive-into-llms",
+          "url": "https://github.com/Lordog/dive-into-llms",
+          "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+          "language": "Jupyter Notebook",
+          "stars": 36395,
+          "forks": 4478
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "description": "",
+          "language": "Python",
+          "stars": 16684,
+          "forks": 2095
+        },
+        {
+          "rank": 2,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 45400,
+          "forks": 5505
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/ViMax",
+          "url": "https://github.com/HKUDS/ViMax",
+          "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+          "language": "Python",
+          "stars": 3564,
+          "forks": 654
+        },
+        {
+          "rank": 4,
+          "name": "CloakHQ/CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source...",
+          "language": "Python",
+          "stars": 3701,
+          "forks": 293
+        },
+        {
+          "rank": 5,
+          "name": "freemocap/freemocap",
+          "url": "https://github.com/freemocap/freemocap",
+          "description": "Free Motion Capture for Everyone 💀✨",
+          "language": "Python",
+          "stars": 8343,
+          "forks": 735
+        },
+        {
+          "rank": 6,
+          "name": "NVlabs/GR00T-WholeBodyControl",
+          "url": "https://github.com/NVlabs/GR00T-WholeBodyControl",
+          "description": "Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deployin...",
+          "language": "Python",
+          "stars": 1914,
+          "forks": 245
+        },
+        {
+          "rank": 7,
+          "name": "PaddlePaddle/PaddleOCR",
+          "url": "https://github.com/PaddlePaddle/PaddleOCR",
+          "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR tool...",
+          "language": "Python",
+          "stars": 77482,
+          "forks": 10397
+        },
+        {
+          "rank": 8,
+          "name": "lsdefine/GenericAgent",
+          "url": "https://github.com/lsdefine/GenericAgent",
+          "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x ...",
+          "language": "Python",
+          "stars": 10221,
+          "forks": 1165
+        },
+        {
+          "rank": 9,
+          "name": "anthropics/claude-agent-sdk-python",
+          "url": "https://github.com/anthropics/claude-agent-sdk-python",
+          "description": "",
+          "language": "Python",
+          "stars": 6763,
+          "forks": 969
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
+          "language": "Python",
+          "stars": 49361,
+          "forks": 6264
+        }
+      ]
+    }
+  ]
+}

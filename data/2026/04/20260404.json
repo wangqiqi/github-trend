@@ -1,0 +1,355 @@
+{
+  "date": "20260404",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 347704,
+          "forks": 69415
+        },
+        {
+          "rank": 2,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 136913,
+          "forks": 20294
+        },
+        {
+          "rank": 3,
+          "name": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "An agentic skills framework & software development methodology that works.",
+          "language": "Shell",
+          "stars": 134600,
+          "forks": 11230
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 100171,
+          "forks": 12875
+        },
+        {
+          "rank": 5,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 85181,
+          "forks": 7323
+        },
+        {
+          "rank": 6,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 73036,
+          "forks": 10247
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 65322,
+          "forks": 9325
+        },
+        {
+          "rank": 8,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 53510,
+          "forks": 6958
+        },
+        {
+          "rank": 9,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 51024,
+          "forks": 5358
+        },
+        {
+          "rank": 10,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 50995,
+          "forks": 6715
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2613,
+          "forks": 89802
+        },
+        {
+          "rank": 2,
+          "name": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+          "language": "TypeScript",
+          "stars": 87622,
+          "forks": 59922
+        },
+        {
+          "rank": 3,
+          "name": "ant-design/ant-design",
+          "url": "https://github.com/ant-design/ant-design",
+          "description": "An enterprise-class UI design language and React UI library",
+          "language": "TypeScript",
+          "stars": 97764,
+          "forks": 54572
+        },
+        {
+          "rank": 4,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 352176,
+          "forks": 43858
+        },
+        {
+          "rank": 5,
+          "name": "jlord/patchwork",
+          "url": "https://github.com/jlord/patchwork",
+          "description": "All the Git-it Workshop completers!",
+          "language": "Rich Text Format",
+          "stars": 1154,
+          "forks": 42163
+        },
+        {
+          "rank": 6,
+          "name": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "description": "Visual Studio Code",
+          "language": "TypeScript",
+          "stars": 183416,
+          "forks": 38954
+        },
+        {
+          "rank": 7,
+          "name": "bitcoin/bitcoin",
+          "url": "https://github.com/bitcoin/bitcoin",
+          "description": "Bitcoin Core integration/staging tree",
+          "language": "C++",
+          "stars": 88682,
+          "forks": 38877
+        },
+        {
+          "rank": 8,
+          "name": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "language": "N/A",
+          "stars": 184516,
+          "forks": 33607
+        },
+        {
+          "rank": 9,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 534,
+          "forks": 33187
+        },
+        {
+          "rank": 10,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 158783,
+          "forks": 32727
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Blaizzy/mlx-vlm",
+          "url": "https://github.com/Blaizzy/mlx-vlm",
+          "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac u...",
+          "language": "Python",
+          "stars": 3367,
+          "forks": 369
+        },
+        {
+          "rank": 2,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 23713,
+          "forks": 3176
+        },
+        {
+          "rank": 3,
+          "name": "Yeachan-Heo/oh-my-codex",
+          "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+          "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+          "language": "TypeScript",
+          "stars": 14882,
+          "forks": 1388
+        },
+        {
+          "rank": 4,
+          "name": "siddharthvaddem/openscreen",
+          "url": "https://github.com/siddharthvaddem/openscreen",
+          "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commer...",
+          "language": "TypeScript",
+          "stars": 18881,
+          "forks": 1296
+        },
+        {
+          "rank": 5,
+          "name": "telegramdesktop/tdesktop",
+          "url": "https://github.com/telegramdesktop/tdesktop",
+          "description": "Telegram Desktop messaging app",
+          "language": "C++",
+          "stars": 30677,
+          "forks": 6504
+        },
+        {
+          "rank": 6,
+          "name": "block/goose",
+          "url": "https://github.com/block/goose",
+          "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, a...",
+          "language": "Rust",
+          "stars": 35303,
+          "forks": 3311
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/agent-framework",
+          "url": "https://github.com/microsoft/agent-framework",
+          "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with su...",
+          "language": "Python",
+          "stars": 8517,
+          "forks": 1420
+        },
+        {
+          "rank": 8,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 78912,
+          "forks": 9215
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Blaizzy/mlx-vlm",
+          "url": "https://github.com/Blaizzy/mlx-vlm",
+          "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac u...",
+          "language": "Python",
+          "stars": 3367,
+          "forks": 369
+        },
+        {
+          "rank": 2,
+          "name": "onyx-dot-app/onyx",
+          "url": "https://github.com/onyx-dot-app/onyx",
+          "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+          "language": "Python",
+          "stars": 23713,
+          "forks": 3176
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/agent-framework",
+          "url": "https://github.com/microsoft/agent-framework",
+          "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with su...",
+          "language": "Python",
+          "stars": 8517,
+          "forks": 1420
+        },
+        {
+          "rank": 4,
+          "name": "sherlock-project/sherlock",
+          "url": "https://github.com/sherlock-project/sherlock",
+          "description": "Hunt down social media accounts by username across social networks",
+          "language": "Python",
+          "stars": 78912,
+          "forks": 9215
+        },
+        {
+          "rank": 5,
+          "name": "HKUDS/LightRAG",
+          "url": "https://github.com/HKUDS/LightRAG",
+          "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+          "language": "Python",
+          "stars": 32001,
+          "forks": 4581
+        },
+        {
+          "rank": 6,
+          "name": "imbue-ai/mngr",
+          "url": "https://github.com/imbue-ai/mngr",
+          "description": "CLI for managing agents",
+          "language": "Python",
+          "stars": 160,
+          "forks": 21
+        },
+        {
+          "rank": 7,
+          "name": "dgtlmoon/changedetection.io",
+          "url": "https://github.com/dgtlmoon/changedetection.io",
+          "description": "Best and simplest tool for website change detection, web page monitoring, and website change aler...",
+          "language": "Python",
+          "stars": 30944,
+          "forks": 1734
+        },
+        {
+          "rank": 8,
+          "name": "ml-explore/mlx-lm",
+          "url": "https://github.com/ml-explore/mlx-lm",
+          "description": "Run LLMs with MLX",
+          "language": "Python",
+          "stars": 4405,
+          "forks": 531
+        }
+      ]
+    }
+  ]
+}

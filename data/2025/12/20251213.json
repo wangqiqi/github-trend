@@ -1,0 +1,391 @@
+{
+  "date": "20251213",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 100720,
+          "forks": 16415
+        },
+        {
+          "rank": 2,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new...",
+          "language": "N/A",
+          "stars": 100460,
+          "forks": 26862
+        },
+        {
+          "rank": 3,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 87138,
+          "forks": 9962
+        },
+        {
+          "rank": 4,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 55163,
+          "forks": 4789
+        },
+        {
+          "rank": 5,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 52451,
+          "forks": 6707
+        },
+        {
+          "rank": 6,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 47642,
+          "forks": 5415
+        },
+        {
+          "rank": 7,
+          "name": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "The open-source CapCut alternative",
+          "language": "TypeScript",
+          "stars": 44323,
+          "forks": 4319
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "description": "The best ChatGPT that $100 can buy.",
+          "language": "Python",
+          "stars": 38586,
+          "forks": 4845
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/open-r1",
+          "url": "https://github.com/huggingface/open-r1",
+          "description": "Fully open reproduction of DeepSeek-R1",
+          "language": "Python",
+          "stars": 25721,
+          "forks": 2405
+        },
+        {
+          "rank": 10,
+          "name": "github/github-mcp-server",
+          "url": "https://github.com/github/github-mcp-server",
+          "description": "GitHub's official MCP Server",
+          "language": "Go",
+          "stars": 25138,
+          "forks": 3197
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 334614,
+          "forks": 81433
+        },
+        {
+          "rank": 2,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173785,
+          "forks": 79170
+        },
+        {
+          "rank": 3,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2635,
+          "forks": 72761
+        },
+        {
+          "rank": 4,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 378738,
+          "forks": 65620
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 85253,
+          "forks": 56392
+        },
+        {
+          "rank": 6,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 176330,
+          "forks": 55126
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI",
+          "language": "Jupyter Notebook",
+          "stars": 103760,
+          "forks": 55083
+        },
+        {
+          "rank": 8,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37314,
+          "forks": 53973
+        },
+        {
+          "rank": 9,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！",
+          "language": "Java",
+          "stars": 153010,
+          "forks": 46079
+        },
+        {
+          "rank": 10,
+          "name": "qmk/qmk_firmware",
+          "url": "https://github.com/qmk/qmk_firmware",
+          "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+          "language": "C",
+          "stars": 19920,
+          "forks": 43144
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "CopilotKit/CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic...",
+          "language": "TypeScript",
+          "stars": 25699,
+          "forks": 3410
+        },
+        {
+          "rank": 2,
+          "name": "DayuanJiang/next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows ...",
+          "language": "TypeScript",
+          "stars": 8622,
+          "forks": 918
+        },
+        {
+          "rank": 3,
+          "name": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessio...",
+          "language": "TypeScript",
+          "stars": 5073,
+          "forks": 288
+        },
+        {
+          "rank": 4,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+          "language": "Python",
+          "stars": 37751,
+          "forks": 6050
+        },
+        {
+          "rank": 5,
+          "name": "simstudioai/sim",
+          "url": "https://github.com/simstudioai/sim",
+          "description": "Open-source platform to build and deploy AI agent workflows.",
+          "language": "TypeScript",
+          "stars": 19362,
+          "forks": 2578
+        },
+        {
+          "rank": 6,
+          "name": "Tencent/WeKnora",
+          "url": "https://github.com/Tencent/WeKnora",
+          "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answ...",
+          "language": "Go",
+          "stars": 8444,
+          "forks": 928
+        },
+        {
+          "rank": 7,
+          "name": "spipm/Depixelization_poc",
+          "url": "https://github.com/spipm/Depixelization_poc",
+          "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
+          "language": "Python",
+          "stars": 3534,
+          "forks": 269
+        },
+        {
+          "rank": 8,
+          "name": "YimMenu/YimMenuV2",
+          "url": "https://github.com/YimMenu/YimMenuV2",
+          "description": "Experimental menu for GTA 5: Enhanced",
+          "language": "C++",
+          "stars": 832,
+          "forks": 242
+        },
+        {
+          "rank": 9,
+          "name": "tursodatabase/turso",
+          "url": "https://github.com/tursodatabase/turso",
+          "description": "Turso is an in-process SQL database, compatible with SQLite.",
+          "language": "Rust",
+          "stars": 15284,
+          "forks": 629
+        },
+        {
+          "rank": 10,
+          "name": "langgenius/dify",
+          "url": "https://github.com/langgenius/dify",
+          "description": "Production-ready platform for agentic workflow development.",
+          "language": "TypeScript",
+          "stars": 121511,
+          "forks": 18884
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "mindsdb/mindsdb",
+          "url": "https://github.com/mindsdb/mindsdb",
+          "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+          "language": "Python",
+          "stars": 37751,
+          "forks": 6050
+        },
+        {
+          "rank": 2,
+          "name": "spipm/Depixelization_poc",
+          "url": "https://github.com/spipm/Depixelization_poc",
+          "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
+          "language": "Python",
+          "stars": 3534,
+          "forks": 269
+        },
+        {
+          "rank": 3,
+          "name": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+          "language": "Python",
+          "stars": 8550,
+          "forks": 920
+        },
+        {
+          "rank": 4,
+          "name": "karpathy/nanoGPT",
+          "url": "https://github.com/karpathy/nanoGPT",
+          "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+          "language": "Python",
+          "stars": 50945,
+          "forks": 8539
+        },
+        {
+          "rank": 5,
+          "name": "GoogleCloudPlatform/agent-starter-pack",
+          "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
+          "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in C...",
+          "language": "Python",
+          "stars": 4499,
+          "forks": 1124
+        },
+        {
+          "rank": 6,
+          "name": "thinking-machines-lab/tinker-cookbook",
+          "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+          "description": "Post-training with Tinker",
+          "language": "Python",
+          "stars": 2395,
+          "forks": 220
+        },
+        {
+          "rank": 7,
+          "name": "TEN-framework/ten-framework",
+          "url": "https://github.com/TEN-framework/ten-framework",
+          "description": "Open-source framework for conversational voice AI agents",
+          "language": "Python",
+          "stars": 9147,
+          "forks": 1062
+        },
+        {
+          "rank": 8,
+          "name": "DLR-RM/stable-baselines3",
+          "url": "https://github.com/DLR-RM/stable-baselines3",
+          "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.",
+          "language": "Python",
+          "stars": 12293,
+          "forks": 2017
+        },
+        {
+          "rank": 9,
+          "name": "opengeos/geoai",
+          "url": "https://github.com/opengeos/geoai",
+          "description": "GeoAI: Artificial Intelligence for Geospatial Data",
+          "language": "Python",
+          "stars": 2073,
+          "forks": 290
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/presidio",
+          "url": "https://github.com/microsoft/presidio",
+          "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) ...",
+          "language": "Python",
+          "stars": 6369,
+          "forks": 872
+        }
+      ]
+    }
+  ]
+}

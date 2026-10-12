@@ -1,0 +1,391 @@
+{
+  "date": "20260823",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 387207,
+          "forks": 81321
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 171109,
+          "forks": 20330
+        },
+        {
+          "rank": 3,
+          "name": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Ma...",
+          "language": "TypeScript",
+          "stars": 129261,
+          "forks": 19457
+        },
+        {
+          "rank": 4,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple pla...",
+          "language": "Python",
+          "stars": 120063,
+          "forks": 12884
+        },
+        {
+          "rank": 5,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge grap...",
+          "language": "Python",
+          "stars": 109684,
+          "forks": 10666
+        },
+        {
+          "rank": 6,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you ...",
+          "language": "JavaScript",
+          "stars": 108523,
+          "forks": 5986
+        },
+        {
+          "rank": 7,
+          "name": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talki...",
+          "language": "Go",
+          "stars": 100421,
+          "forks": 5830
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 94484,
+          "forks": 13335
+        },
+        {
+          "rank": 9,
+          "name": "odysseus-dev/odysseus",
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "description": "Self-hosted AI workspace.",
+          "language": "Python",
+          "stars": 86009,
+          "forks": 594
+        },
+        {
+          "rank": 10,
+          "name": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, an...",
+          "language": "TypeScript",
+          "stars": 83872,
+          "forks": 12529
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2809,
+          "forks": 73327
+        },
+        {
+          "rank": 2,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37325,
+          "forks": 53309
+        },
+        {
+          "rank": 3,
+          "name": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+          "language": "JavaScript",
+          "stars": 157972,
+          "forks": 46173
+        },
+        {
+          "rank": 4,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 299,
+          "forks": 42433
+        },
+        {
+          "rank": 5,
+          "name": "spring-projects/spring-boot",
+          "url": "https://github.com/spring-projects/spring-boot",
+          "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with a...",
+          "language": "Java",
+          "stars": 81342,
+          "forks": 42096
+        },
+        {
+          "rank": 6,
+          "name": "rails/rails",
+          "url": "https://github.com/rails/rails",
+          "description": "Ruby on Rails",
+          "language": "Ruby",
+          "stars": 58702,
+          "forks": 22365
+        },
+        {
+          "rank": 7,
+          "name": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "language": "Python",
+          "stars": 171109,
+          "forks": 20330
+        },
+        {
+          "rank": 8,
+          "name": "apache/echarts",
+          "url": "https://github.com/apache/echarts",
+          "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+          "language": "TypeScript",
+          "stars": 67126,
+          "forks": 19812
+        },
+        {
+          "rank": 9,
+          "name": "keras-team/keras",
+          "url": "https://github.com/keras-team/keras",
+          "description": "Deep Learning for humans",
+          "language": "Python",
+          "stars": 64249,
+          "forks": 19759
+        },
+        {
+          "rank": 10,
+          "name": "cyclic-software/starter-express-api",
+          "url": "https://github.com/cyclic-software/starter-express-api",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 167,
+          "forks": 19655
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 114707,
+          "forks": 17499
+        },
+        {
+          "rank": 2,
+          "name": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+          "language": "JavaScript",
+          "stars": 12405,
+          "forks": 1405
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 233180,
+          "forks": 19892
+        },
+        {
+          "rank": 4,
+          "name": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "description": "Beautiful, Modern & Opinionated Linux",
+          "language": "Shell",
+          "stars": 28631,
+          "forks": 2915
+        },
+        {
+          "rank": 5,
+          "name": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI,...",
+          "language": "Rust",
+          "stars": 14408,
+          "forks": 384
+        },
+        {
+          "rank": 6,
+          "name": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "description": "A hive mind communication platform",
+          "language": "Rust",
+          "stars": 29891,
+          "forks": 3802
+        },
+        {
+          "rank": 7,
+          "name": "apache/maka",
+          "url": "https://github.com/apache/maka",
+          "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool re...",
+          "language": "TypeScript",
+          "stars": 2194,
+          "forks": 259
+        },
+        {
+          "rank": 8,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, ID...",
+          "language": "Python",
+          "stars": 47577,
+          "forks": 7839
+        },
+        {
+          "rank": 9,
+          "name": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fan...",
+          "language": "Rust",
+          "stars": 36520,
+          "forks": 3659
+        },
+        {
+          "rank": 10,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 242364,
+          "forks": 36710
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, ID...",
+          "language": "Python",
+          "stars": 47578,
+          "forks": 7839
+        },
+        {
+          "rank": 2,
+          "name": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y...",
+          "language": "Python",
+          "stars": 24332,
+          "forks": 2566
+        },
+        {
+          "rank": 3,
+          "name": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins...",
+          "language": "Python",
+          "stars": 714,
+          "forks": 117
+        },
+        {
+          "rank": 4,
+          "name": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "language": "Python",
+          "stars": 129123,
+          "forks": 15236
+        },
+        {
+          "rank": 5,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 234611,
+          "forks": 47235
+        },
+        {
+          "rank": 6,
+          "name": "elder-plinius/OBLITERATUS",
+          "url": "https://github.com/elder-plinius/OBLITERATUS",
+          "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+          "language": "Python",
+          "stars": 7969,
+          "forks": 1444
+        },
+        {
+          "rank": 7,
+          "name": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI ob...",
+          "language": "Python",
+          "stars": 38749,
+          "forks": 3249
+        },
+        {
+          "rank": 8,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 186803,
+          "forks": 46049
+        },
+        {
+          "rank": 9,
+          "name": "NVIDIA-NeMo/Speech",
+          "url": "https://github.com/NVIDIA-NeMo/Speech",
+          "description": "A scalable generative AI framework built for researchers and developers working on Large Language...",
+          "language": "Python",
+          "stars": 18257,
+          "forks": 3580
+        },
+        {
+          "rank": 10,
+          "name": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and...",
+          "language": "Python",
+          "stars": 142704,
+          "forks": 22848
+        }
+      ]
+    }
+  ]
+}

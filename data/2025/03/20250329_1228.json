@@ -1,0 +1,391 @@
+{
+  "date": "20250329",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 87736,
+          "forks": 11335
+        },
+        {
+          "rank": 2,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 50044,
+          "forks": 5254
+        },
+        {
+          "rank": 3,
+          "name": "mannaandpoem/OpenManus",
+          "url": "https://github.com/mannaandpoem/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 40640,
+          "forks": 6813
+        },
+        {
+          "rank": 4,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 37475,
+          "forks": 3892
+        },
+        {
+          "rank": 5,
+          "name": "mendableai/firecrawl",
+          "url": "https://github.com/mendableai/firecrawl",
+          "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with...",
+          "language": "TypeScript",
+          "stars": 33371,
+          "forks": 2878
+        },
+        {
+          "rank": 6,
+          "name": "karpathy/LLM101n",
+          "url": "https://github.com/karpathy/LLM101n",
+          "description": "LLM101n: Let's build a Storyteller",
+          "language": "N/A",
+          "stars": 32989,
+          "forks": 1804
+        },
+        {
+          "rank": 7,
+          "name": "shardeum/shardeum",
+          "url": "https://github.com/shardeum/shardeum",
+          "description": "Shardeum is an EVM based autoscaling blockchain",
+          "language": "TypeScript",
+          "stars": 31957,
+          "forks": 681
+        },
+        {
+          "rank": 8,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artific...",
+          "language": "Python",
+          "stars": 27766,
+          "forks": 4148
+        },
+        {
+          "rank": 9,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 27141,
+          "forks": 2787
+        },
+        {
+          "rank": 10,
+          "name": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "description": "Get your documents ready for gen AI",
+          "language": "Python",
+          "stars": 25585,
+          "forks": 1528
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 47649,
+          "forks": 84323
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 165360,
+          "forks": 83077
+        },
+        {
+          "rank": 3,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 188886,
+          "forks": 74608
+        },
+        {
+          "rank": 4,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56733
+        },
+        {
+          "rank": 5,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 81392,
+          "forks": 56071
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 294863,
+          "forks": 49024
+        },
+        {
+          "rank": 7,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 284,
+          "forks": 43359
+        },
+        {
+          "rank": 8,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37079
+        },
+        {
+          "rank": 9,
+          "name": "mrdoob/three.js",
+          "url": "https://github.com/mrdoob/three.js",
+          "description": "JavaScript 3D Library.",
+          "language": "JavaScript",
+          "stars": 105349,
+          "forks": 35647
+        },
+        {
+          "rank": 10,
+          "name": "vuejs/vue",
+          "url": "https://github.com/vuejs/vue",
+          "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+          "language": "TypeScript",
+          "stars": 208570,
+          "forks": 33741
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 24358,
+          "forks": 2796
+        },
+        {
+          "rank": 2,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 18752,
+          "forks": 1227
+        },
+        {
+          "rank": 3,
+          "name": "juspay/hyperswitch",
+          "url": "https://github.com/juspay/hyperswitch",
+          "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+          "language": "Rust",
+          "stars": 15296,
+          "forks": 1549
+        },
+        {
+          "rank": 4,
+          "name": "google/perfetto",
+          "url": "https://github.com/google/perfetto",
+          "description": "Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https:...",
+          "language": "C++",
+          "stars": 3219,
+          "forks": 397
+        },
+        {
+          "rank": 5,
+          "name": "agno-agi/agno",
+          "url": "https://github.com/agno-agi/agno",
+          "description": "A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory...",
+          "language": "Python",
+          "stars": 22946,
+          "forks": 2965
+        },
+        {
+          "rank": 6,
+          "name": "NirDiamant/GenAI_Agents",
+          "url": "https://github.com/NirDiamant/GenAI_Agents",
+          "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques...",
+          "language": "Jupyter Notebook",
+          "stars": 10834,
+          "forks": 1373
+        },
+        {
+          "rank": 7,
+          "name": "EFForg/rayhunter",
+          "url": "https://github.com/EFForg/rayhunter",
+          "description": "Rust tool to detect cell site simulators on an orbic mobile hotspot",
+          "language": "Rust",
+          "stars": 1626,
+          "forks": 118
+        },
+        {
+          "rank": 8,
+          "name": "ourongxing/newsnow",
+          "url": "https://github.com/ourongxing/newsnow",
+          "description": "Elegant reading of real-time and hottest news",
+          "language": "TypeScript",
+          "stars": 6867,
+          "forks": 1532
+        },
+        {
+          "rank": 9,
+          "name": "shadps4-emu/shadPS4",
+          "url": "https://github.com/shadps4-emu/shadPS4",
+          "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+          "language": "C++",
+          "stars": 20679,
+          "forks": 1248
+        },
+        {
+          "rank": 10,
+          "name": "jlowin/fastmcp",
+          "url": "https://github.com/jlowin/fastmcp",
+          "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀",
+          "language": "Python",
+          "stars": 2021,
+          "forks": 103
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 24358,
+          "forks": 2796
+        },
+        {
+          "rank": 2,
+          "name": "agno-agi/agno",
+          "url": "https://github.com/agno-agi/agno",
+          "description": "A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory...",
+          "language": "Python",
+          "stars": 22946,
+          "forks": 2965
+        },
+        {
+          "rank": 3,
+          "name": "jlowin/fastmcp",
+          "url": "https://github.com/jlowin/fastmcp",
+          "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀",
+          "language": "Python",
+          "stars": 2021,
+          "forks": 103
+        },
+        {
+          "rank": 4,
+          "name": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "description": "Developer-first error tracking and performance monitoring",
+          "language": "Python",
+          "stars": 40414,
+          "forks": 4297
+        },
+        {
+          "rank": 5,
+          "name": "causify-ai/helpers",
+          "url": "https://github.com/causify-ai/helpers",
+          "description": "Causify development system",
+          "language": "Python",
+          "stars": 64,
+          "forks": 102
+        },
+        {
+          "rank": 6,
+          "name": "1Panel-dev/MaxKB",
+          "url": "https://github.com/1Panel-dev/MaxKB",
+          "description": "💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as...",
+          "language": "Python",
+          "stars": 15287,
+          "forks": 2005
+        },
+        {
+          "rank": 7,
+          "name": "aigc-apps/VideoX-Fun",
+          "url": "https://github.com/aigc-apps/VideoX-Fun",
+          "description": "📹 A more flexible framework that can generate videos at any resolution and creates videos from im...",
+          "language": "Python",
+          "stars": 734,
+          "forks": 54
+        },
+        {
+          "rank": 8,
+          "name": "open-mmlab/mmpose",
+          "url": "https://github.com/open-mmlab/mmpose",
+          "description": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+          "language": "Python",
+          "stars": 6264,
+          "forks": 1324
+        },
+        {
+          "rank": 9,
+          "name": "streamlit/streamlit",
+          "url": "https://github.com/streamlit/streamlit",
+          "description": "Streamlit — A faster way to build and share data apps.",
+          "language": "Python",
+          "stars": 38470,
+          "forks": 3351
+        },
+        {
+          "rank": 10,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 17416,
+          "forks": 1932
+        }
+      ]
+    }
+  ]
+}

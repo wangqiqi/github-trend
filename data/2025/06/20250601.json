@@ -1,0 +1,391 @@
+{
+  "date": "20250601",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 97323,
+          "forks": 15816
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 89776,
+          "forks": 11596
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "language": "Python",
+          "stars": 62066,
+          "forks": 6963
+        },
+        {
+          "rank": 4,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 58177,
+          "forks": 2999
+        },
+        {
+          "rank": 5,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia...",
+          "language": "N/A",
+          "stars": 54123,
+          "forks": 16579
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 52404,
+          "forks": 3934
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "Python",
+          "stars": 50485,
+          "forks": 5779
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 46330,
+          "forks": 8100
+        },
+        {
+          "rank": 9,
+          "name": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands,...",
+          "language": "TypeScript",
+          "stars": 44923,
+          "forks": 5428
+        },
+        {
+          "rank": 10,
+          "name": "inkonchain/ink-kit",
+          "url": "https://github.com/inkonchain/ink-kit",
+          "description": "Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨",
+          "language": "TypeScript",
+          "stars": 36543,
+          "forks": 403
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6603,
+          "forks": 243576
+        },
+        {
+          "rank": 2,
+          "name": "octocat/Spoon-Knife",
+          "url": "https://github.com/octocat/Spoon-Knife",
+          "description": "This repo is for demonstration purposes only.",
+          "language": "HTML",
+          "stars": 13038,
+          "forks": 151403
+        },
+        {
+          "rank": 3,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 854,
+          "forks": 143915
+        },
+        {
+          "rank": 4,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28457,
+          "forks": 86724
+        },
+        {
+          "rank": 5,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 48684,
+          "forks": 86664
+        },
+        {
+          "rank": 6,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 166910,
+          "forks": 83084
+        },
+        {
+          "rank": 7,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 1828,
+          "forks": 79625
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 172361,
+          "forks": 79129
+        },
+        {
+          "rank": 9,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 318314,
+          "forks": 78916
+        },
+        {
+          "rank": 10,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 190194,
+          "forks": 74688
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "anthropics/prompt-eng-interactive-tutorial",
+          "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+          "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+          "language": "Jupyter Notebook",
+          "stars": 7243,
+          "forks": 729
+        },
+        {
+          "rank": 2,
+          "name": "anthropics/courses",
+          "url": "https://github.com/anthropics/courses",
+          "description": "Anthropic's educational courses",
+          "language": "Jupyter Notebook",
+          "stars": 12841,
+          "forks": 1142
+        },
+        {
+          "rank": 3,
+          "name": "frdel/agent-zero",
+          "url": "https://github.com/frdel/agent-zero",
+          "description": "Agent Zero AI framework",
+          "language": "Python",
+          "stars": 7124,
+          "forks": 1529
+        },
+        {
+          "rank": 4,
+          "name": "onlook-dev/onlook",
+          "url": "https://github.com/onlook-dev/onlook",
+          "description": "The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and e...",
+          "language": "TypeScript",
+          "stars": 10211,
+          "forks": 627
+        },
+        {
+          "rank": 5,
+          "name": "imputnet/cobalt",
+          "url": "https://github.com/imputnet/cobalt",
+          "description": "best way to save what you love",
+          "language": "Svelte",
+          "stars": 32604,
+          "forks": 2731
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 301907,
+          "forks": 50033
+        },
+        {
+          "rank": 7,
+          "name": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "description": "",
+          "language": "Batchfile",
+          "stars": 13158,
+          "forks": 897
+        },
+        {
+          "rank": 8,
+          "name": "elebumm/RedditVideoMakerBot",
+          "url": "https://github.com/elebumm/RedditVideoMakerBot",
+          "description": "Create Reddit Videos with just✨ one command ✨",
+          "language": "Python",
+          "stars": 7049,
+          "forks": 1962
+        },
+        {
+          "rank": 9,
+          "name": "trimstray/the-book-of-secret-knowledge",
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools an...",
+          "language": "N/A",
+          "stars": 171826,
+          "forks": 10741
+        },
+        {
+          "rank": 10,
+          "name": "microsoft/ai-agents-for-beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "11 Lessons to Get Started Building AI Agents",
+          "language": "Jupyter Notebook",
+          "stars": 23276,
+          "forks": 6195
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "frdel/agent-zero",
+          "url": "https://github.com/frdel/agent-zero",
+          "description": "Agent Zero AI framework",
+          "language": "Python",
+          "stars": 7124,
+          "forks": 1529
+        },
+        {
+          "rank": 2,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flas...",
+          "language": "Python",
+          "stars": 301907,
+          "forks": 50033
+        },
+        {
+          "rank": 3,
+          "name": "elebumm/RedditVideoMakerBot",
+          "url": "https://github.com/elebumm/RedditVideoMakerBot",
+          "description": "Create Reddit Videos with just✨ one command ✨",
+          "language": "Python",
+          "stars": 7049,
+          "forks": 1962
+        },
+        {
+          "rank": 4,
+          "name": "coleam00/local-ai-packaged",
+          "url": "https://github.com/coleam00/local-ai-packaged",
+          "description": "Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!",
+          "language": "Python",
+          "stars": 1476,
+          "forks": 654
+        },
+        {
+          "rank": 5,
+          "name": "nautechsystems/nautilus_trader",
+          "url": "https://github.com/nautechsystems/nautilus_trader",
+          "description": "A high-performance algorithmic trading platform and event-driven backtester",
+          "language": "Python",
+          "stars": 6051,
+          "forks": 868
+        },
+        {
+          "rank": 6,
+          "name": "sunnypilot/sunnypilot",
+          "url": "https://github.com/sunnypilot/sunnypilot",
+          "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique drivin...",
+          "language": "Python",
+          "stars": 1410,
+          "forks": 894
+        },
+        {
+          "rank": 7,
+          "name": "AUTOMATIC1111/stable-diffusion-webui",
+          "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+          "description": "Stable Diffusion web UI",
+          "language": "Python",
+          "stars": 153052,
+          "forks": 28474
+        },
+        {
+          "rank": 8,
+          "name": "getzep/graphiti",
+          "url": "https://github.com/getzep/graphiti",
+          "description": "Build Real-Time Knowledge Graphs for AI Agents",
+          "language": "Python",
+          "stars": 10437,
+          "forks": 780
+        },
+        {
+          "rank": 9,
+          "name": "black-forest-labs/flux",
+          "url": "https://github.com/black-forest-labs/flux",
+          "description": "Official inference repo for FLUX.1 models",
+          "language": "Python",
+          "stars": 21914,
+          "forks": 1554
+        },
+        {
+          "rank": 10,
+          "name": "dwyl/english-words",
+          "url": "https://github.com/dwyl/english-words",
+          "description": "📝 A text file containing 479k English words for all your dictionary/word-based projects e.g: auto...",
+          "language": "Python",
+          "stars": 11256,
+          "forks": 1918
+        }
+      ]
+    }
+  ]
+}

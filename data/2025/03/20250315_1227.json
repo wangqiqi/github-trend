@@ -1,0 +1,391 @@
+{
+  "date": "20250315",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 86416,
+          "forks": 11143
+        },
+        {
+          "rank": 2,
+          "name": "xai-org/grok-1",
+          "url": "https://github.com/xai-org/grok-1",
+          "description": "Grok open release",
+          "language": "Python",
+          "stars": 50237,
+          "forks": 8365
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 44143,
+          "forks": 4487
+        },
+        {
+          "rank": 4,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 41153,
+          "forks": 931
+        },
+        {
+          "rank": 5,
+          "name": "2noise/ChatTTS",
+          "url": "https://github.com/2noise/ChatTTS",
+          "description": "A generative speech model for daily dialogue.",
+          "language": "Python",
+          "stars": 35095,
+          "forks": 3793
+        },
+        {
+          "rank": 6,
+          "name": "mannaandpoem/OpenManus",
+          "url": "https://github.com/mannaandpoem/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 34509,
+          "forks": 5517
+        },
+        {
+          "rank": 7,
+          "name": "karpathy/LLM101n",
+          "url": "https://github.com/karpathy/LLM101n",
+          "description": "LLM101n: Let's build a Storyteller",
+          "language": "N/A",
+          "stars": 32414,
+          "forks": 1758
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/llm.c",
+          "url": "https://github.com/karpathy/llm.c",
+          "description": "LLM training in simple, raw C/CUDA",
+          "language": "Cuda",
+          "stars": 26022,
+          "forks": 2983
+        },
+        {
+          "rank": 9,
+          "name": "microsoft/graphrag",
+          "url": "https://github.com/microsoft/graphrag",
+          "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+          "language": "Python",
+          "stars": 23459,
+          "forks": 2353
+        },
+        {
+          "rank": 10,
+          "name": "ItzCrazyKns/Perplexica",
+          "url": "https://github.com/ItzCrazyKns/Perplexica",
+          "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+          "language": "TypeScript",
+          "stars": 20588,
+          "forks": 2064
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 844,
+          "forks": 143860
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 47365,
+          "forks": 83855
+        },
+        {
+          "rank": 3,
+          "name": "opencv/opencv",
+          "url": "https://github.com/opencv/opencv",
+          "description": "Open Source Computer Vision Library",
+          "language": "C++",
+          "stars": 81100,
+          "forks": 56030
+        },
+        {
+          "rank": 4,
+          "name": "academicpages/academicpages.github.io",
+          "url": "https://github.com/academicpages/academicpages.github.io",
+          "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
+          "language": "JavaScript",
+          "stars": 13539,
+          "forks": 46121
+        },
+        {
+          "rank": 5,
+          "name": "google/it-cert-automation-practice",
+          "url": "https://github.com/google/it-cert-automation-practice",
+          "description": "Google IT Automation with Python Professional Certificate - Practice files",
+          "language": "Python",
+          "stars": 916,
+          "forks": 45153
+        },
+        {
+          "rank": 6,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 283,
+          "forks": 43378
+        },
+        {
+          "rank": 7,
+          "name": "wesbos/JavaScript30",
+          "url": "https://github.com/wesbos/JavaScript30",
+          "description": "30 Day Vanilla JS Challenge",
+          "language": "HTML",
+          "stars": 28203,
+          "forks": 38954
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-...",
+          "language": "Jupyter Notebook",
+          "stars": 75129,
+          "forks": 38737
+        },
+        {
+          "rank": 9,
+          "name": "rdpeng/RepData_PeerAssessment1",
+          "url": "https://github.com/rdpeng/RepData_PeerAssessment1",
+          "description": "Peer Assessment 1 for Reproducible Research",
+          "language": "N/A",
+          "stars": 102,
+          "forks": 37057
+        },
+        {
+          "rank": 10,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 332700,
+          "forks": 35159
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hpcaitech/Open-Sora",
+          "url": "https://github.com/hpcaitech/Open-Sora",
+          "description": "Open-Sora: Democratizing Efficient Video Production for All",
+          "language": "Python",
+          "stars": 24635,
+          "forks": 2409
+        },
+        {
+          "rank": 2,
+          "name": "xpipe-io/xpipe",
+          "url": "https://github.com/xpipe-io/xpipe",
+          "description": "Access your entire server infrastructure from your local desktop",
+          "language": "Java",
+          "stars": 7795,
+          "forks": 259
+        },
+        {
+          "rank": 3,
+          "name": "glanceapp/glance",
+          "url": "https://github.com/glanceapp/glance",
+          "description": "A self-hosted dashboard that puts all your feeds in one place",
+          "language": "Go",
+          "stars": 12903,
+          "forks": 449
+        },
+        {
+          "rank": 4,
+          "name": "yuaotian/go-cursor-help",
+          "url": "https://github.com/yuaotian/go-cursor-help",
+          "description": "解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts...",
+          "language": "Shell",
+          "stars": 14058,
+          "forks": 1839
+        },
+        {
+          "rank": 5,
+          "name": "ethereum/solidity",
+          "url": "https://github.com/ethereum/solidity",
+          "description": "Solidity, the Smart Contract Programming Language",
+          "language": "C++",
+          "stars": 24050,
+          "forks": 6014
+        },
+        {
+          "rank": 6,
+          "name": "openai/openai-python",
+          "url": "https://github.com/openai/openai-python",
+          "description": "The official Python library for the OpenAI API",
+          "language": "Python",
+          "stars": 25528,
+          "forks": 3694
+        },
+        {
+          "rank": 7,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 2351,
+          "forks": 201
+        },
+        {
+          "rank": 8,
+          "name": "nvim-lualine/lualine.nvim",
+          "url": "https://github.com/nvim-lualine/lualine.nvim",
+          "description": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+          "language": "Lua",
+          "stars": 6705,
+          "forks": 487
+        },
+        {
+          "rank": 9,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+          "language": "TypeScript",
+          "stars": 412622,
+          "forks": 39317
+        },
+        {
+          "rank": 10,
+          "name": "langchain-ai/ollama-deep-researcher",
+          "url": "https://github.com/langchain-ai/ollama-deep-researcher",
+          "description": "Fully local web research and report writing assistant",
+          "language": "Python",
+          "stars": 2795,
+          "forks": 389
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "hpcaitech/Open-Sora",
+          "url": "https://github.com/hpcaitech/Open-Sora",
+          "description": "Open-Sora: Democratizing Efficient Video Production for All",
+          "language": "Python",
+          "stars": 24635,
+          "forks": 2409
+        },
+        {
+          "rank": 2,
+          "name": "openai/openai-python",
+          "url": "https://github.com/openai/openai-python",
+          "description": "The official Python library for the OpenAI API",
+          "language": "Python",
+          "stars": 25528,
+          "forks": 3694
+        },
+        {
+          "rank": 3,
+          "name": "microsoft/RD-Agent",
+          "url": "https://github.com/microsoft/RD-Agent",
+          "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especia...",
+          "language": "Python",
+          "stars": 2351,
+          "forks": 201
+        },
+        {
+          "rank": 4,
+          "name": "langchain-ai/ollama-deep-researcher",
+          "url": "https://github.com/langchain-ai/ollama-deep-researcher",
+          "description": "Fully local web research and report writing assistant",
+          "language": "Python",
+          "stars": 2795,
+          "forks": 389
+        },
+        {
+          "rank": 5,
+          "name": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, ...",
+          "language": "Python",
+          "stars": 19026,
+          "forks": 2360
+        },
+        {
+          "rank": 6,
+          "name": "QiuChenly/InjectLib",
+          "url": "https://github.com/QiuChenly/InjectLib",
+          "description": "你知道我要说什么",
+          "language": "Python",
+          "stars": 1967,
+          "forks": 220
+        },
+        {
+          "rank": 7,
+          "name": "X-PLUG/MobileAgent",
+          "url": "https://github.com/X-PLUG/MobileAgent",
+          "description": "Mobile-Agent: The Powerful Mobile Device Operation Assistant Family",
+          "language": "Python",
+          "stars": 3744,
+          "forks": 362
+        },
+        {
+          "rank": 8,
+          "name": "eosphoros-ai/DB-GPT",
+          "url": "https://github.com/eosphoros-ai/DB-GPT",
+          "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+          "language": "Python",
+          "stars": 15494,
+          "forks": 2090
+        },
+        {
+          "rank": 9,
+          "name": "AgentOps-AI/agentops",
+          "url": "https://github.com/AgentOps-AI/agentops",
+          "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with mo...",
+          "language": "Python",
+          "stars": 3912,
+          "forks": 340
+        },
+        {
+          "rank": 10,
+          "name": "opendatalab/MinerU",
+          "url": "https://github.com/opendatalab/MinerU",
+          "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+          "language": "Python",
+          "stars": 28210,
+          "forks": 2185
+        }
+      ]
+    }
+  ]
+}

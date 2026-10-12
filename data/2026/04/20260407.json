@@ -1,0 +1,382 @@
+{
+  "date": "20260407",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+          "language": "TypeScript",
+          "stars": 350823,
+          "forks": 70497
+        },
+        {
+          "rank": 2,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ...",
+          "language": "Rust",
+          "stars": 175562,
+          "forks": 104731
+        },
+        {
+          "rank": 3,
+          "name": "affaan-m/everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and resea...",
+          "language": "JavaScript",
+          "stars": 144064,
+          "forks": 22058
+        },
+        {
+          "rank": 4,
+          "name": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "description": "The open source coding agent.",
+          "language": "TypeScript",
+          "stars": 138797,
+          "forks": 15337
+        },
+        {
+          "rank": 5,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 100479,
+          "forks": 12938
+        },
+        {
+          "rank": 6,
+          "name": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "language": "Python",
+          "stars": 85907,
+          "forks": 7382
+        },
+        {
+          "rank": 7,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 73633,
+          "forks": 10357
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/autoresearch",
+          "url": "https://github.com/karpathy/autoresearch",
+          "description": "AI agents running research on single-GPU nanochat training automatically",
+          "language": "Python",
+          "stars": 67799,
+          "forks": 9775
+        },
+        {
+          "rank": 9,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "Python",
+          "stars": 53581,
+          "forks": 6975
+        },
+        {
+          "rank": 10,
+          "name": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+          "language": "Python",
+          "stars": 51792,
+          "forks": 5475
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 53344,
+          "forks": 100789
+        },
+        {
+          "rank": 2,
+          "name": "digitalinnovationone/dio-lab-open-source",
+          "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+          "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+          "language": "Jupyter Notebook",
+          "stars": 8546,
+          "forks": 60325
+        },
+        {
+          "rank": 3,
+          "name": "Significant-Gravitas/AutoGPT",
+          "url": "https://github.com/Significant-Gravitas/AutoGPT",
+          "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to pr...",
+          "language": "Python",
+          "stars": 183206,
+          "forks": 46210
+        },
+        {
+          "rank": 4,
+          "name": "TheOdinProject/javascript-exercises",
+          "url": "https://github.com/TheOdinProject/javascript-exercises",
+          "description": "No description",
+          "language": "JavaScript",
+          "stars": 1600,
+          "forks": 45984
+        },
+        {
+          "rank": 5,
+          "name": "freeCodeCamp/freeCodeCamp",
+          "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+          "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer sci...",
+          "language": "TypeScript",
+          "stars": 442084,
+          "forks": 44168
+        },
+        {
+          "rank": 6,
+          "name": "kubernetes/kubernetes",
+          "url": "https://github.com/kubernetes/kubernetes",
+          "description": "Production-Grade Container Scheduling and Management",
+          "language": "Go",
+          "stars": 121563,
+          "forks": 42808
+        },
+        {
+          "rank": 7,
+          "name": "spring-projects/spring-framework",
+          "url": "https://github.com/spring-projects/spring-framework",
+          "description": "Spring Framework",
+          "language": "Java",
+          "stars": 59819,
+          "forks": 38879
+        },
+        {
+          "rank": 8,
+          "name": "jenkins-docs/simple-java-maven-app",
+          "url": "https://github.com/jenkins-docs/simple-java-maven-app",
+          "description": "For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.",
+          "language": "Shell",
+          "stars": 534,
+          "forks": 33193
+        },
+        {
+          "rank": 9,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in te...",
+          "language": "Python",
+          "stars": 158957,
+          "forks": 32773
+        },
+        {
+          "rank": 10,
+          "name": "DefinitelyTyped/DefinitelyTyped",
+          "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+          "description": "The repository for high quality TypeScript type definitions.",
+          "language": "TypeScript",
+          "stars": 51159,
+          "forks": 30562
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "google-ai-edge/gallery",
+          "url": "https://github.com/google-ai-edge/gallery",
+          "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models loc...",
+          "language": "Kotlin",
+          "stars": 18398,
+          "forks": 1714
+        },
+        {
+          "rank": 2,
+          "name": "google-ai-edge/LiteRT-LM",
+          "url": "https://github.com/google-ai-edge/LiteRT-LM",
+          "description": "",
+          "language": "C++",
+          "stars": 2327,
+          "forks": 233
+        },
+        {
+          "rank": 3,
+          "name": "NVIDIA/personaplex",
+          "url": "https://github.com/NVIDIA/personaplex",
+          "description": "PersonaPlex code.",
+          "language": "Python",
+          "stars": 7680,
+          "forks": 1127
+        },
+        {
+          "rank": 4,
+          "name": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph cr...",
+          "language": "TypeScript",
+          "stars": 24091,
+          "forks": 2703
+        },
+        {
+          "rank": 5,
+          "name": "tobi/qmd",
+          "url": "https://github.com/tobi/qmd",
+          "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current ...",
+          "language": "TypeScript",
+          "stars": 19221,
+          "forks": 1157
+        },
+        {
+          "rank": 6,
+          "name": "forrestchang/andrej-karpathy-skills",
+          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+          "description": "",
+          "language": "N/A",
+          "stars": 7756,
+          "forks": 547
+        },
+        {
+          "rank": 7,
+          "name": "elebumm/RedditVideoMakerBot",
+          "url": "https://github.com/elebumm/RedditVideoMakerBot",
+          "description": "Create Reddit Videos with just✨ one command ✨",
+          "language": "Python",
+          "stars": 9757,
+          "forks": 2487
+        },
+        {
+          "rank": 8,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "language": "Python",
+          "stars": 11708,
+          "forks": 1617
+        },
+        {
+          "rank": 9,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 3602,
+          "forks": 636
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "NVIDIA/personaplex",
+          "url": "https://github.com/NVIDIA/personaplex",
+          "description": "PersonaPlex code.",
+          "language": "Python",
+          "stars": 7680,
+          "forks": 1127
+        },
+        {
+          "rank": 2,
+          "name": "elebumm/RedditVideoMakerBot",
+          "url": "https://github.com/elebumm/RedditVideoMakerBot",
+          "description": "Create Reddit Videos with just✨ one command ✨",
+          "language": "Python",
+          "stars": 9757,
+          "forks": 2487
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/DeepTutor",
+          "url": "https://github.com/HKUDS/DeepTutor",
+          "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+          "language": "Python",
+          "stars": 11708,
+          "forks": 1617
+        },
+        {
+          "rank": 4,
+          "name": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any bu...",
+          "language": "Python",
+          "stars": 3602,
+          "forks": 636
+        },
+        {
+          "rank": 5,
+          "name": "mikf/gallery-dl",
+          "url": "https://github.com/mikf/gallery-dl",
+          "description": "Command-line program to download image galleries and collections from several image hosting sites",
+          "language": "Python",
+          "stars": 17663,
+          "forks": 1398
+        },
+        {
+          "rank": 6,
+          "name": "pandas-dev/pandas",
+          "url": "https://github.com/pandas-dev/pandas",
+          "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data str...",
+          "language": "Python",
+          "stars": 48394,
+          "forks": 19857
+        },
+        {
+          "rank": 7,
+          "name": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "language": "Python",
+          "stars": 29848,
+          "forks": 3909
+        },
+        {
+          "rank": 8,
+          "name": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "description": "Hindsight: Agent Memory That Learns",
+          "language": "Python",
+          "stars": 7738,
+          "forks": 478
+        },
+        {
+          "rank": 9,
+          "name": "NVIDIA-NeMo/DataDesigner",
+          "url": "https://github.com/NVIDIA-NeMo/DataDesigner",
+          "description": "🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data.",
+          "language": "Python",
+          "stars": 1455,
+          "forks": 128
+        },
+        {
+          "rank": 10,
+          "name": "HKUDS/AutoAgent",
+          "url": "https://github.com/HKUDS/AutoAgent",
+          "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+          "language": "Python",
+          "stars": 8967,
+          "forks": 1263
+        }
+      ]
+    }
+  ]
+}

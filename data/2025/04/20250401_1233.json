@@ -1,0 +1,364 @@
+{
+  "date": "20250401",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 94824,
+          "forks": 15344
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 41780,
+          "forks": 1987
+        },
+        {
+          "rank": 3,
+          "name": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+          "language": "HTML",
+          "stars": 41102,
+          "forks": 931
+        },
+        {
+          "rank": 4,
+          "name": "inkonchain/node",
+          "url": "https://github.com/inkonchain/node",
+          "description": "How to run an Ink Node",
+          "language": "Shell",
+          "stars": 35692,
+          "forks": 543
+        },
+        {
+          "rank": 5,
+          "name": "2noise/ChatTTS",
+          "url": "https://github.com/2noise/ChatTTS",
+          "description": "A generative speech model for daily dialogue.",
+          "language": "Python",
+          "stars": 35522,
+          "forks": 3847
+        },
+        {
+          "rank": 6,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 35424,
+          "forks": 3104
+        },
+        {
+          "rank": 7,
+          "name": "shardeum/shardeum",
+          "url": "https://github.com/shardeum/shardeum",
+          "description": "Shardeum is an EVM based autoscaling blockchain",
+          "language": "TypeScript",
+          "stars": 31953,
+          "forks": 681
+        },
+        {
+          "rank": 8,
+          "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+          "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artific...",
+          "language": "Python",
+          "stars": 27789,
+          "forks": 4155
+        },
+        {
+          "rank": 9,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 27304,
+          "forks": 1676
+        },
+        {
+          "rank": 10,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 26366,
+          "forks": 2952
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 847,
+          "forks": 143892
+        },
+        {
+          "rank": 2,
+          "name": "Pierian-Data/Complete-Python-3-Bootcamp",
+          "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+          "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+          "language": "Jupyter Notebook",
+          "stars": 28179,
+          "forks": 86349
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 165412,
+          "forks": 83080
+        },
+        {
+          "rank": 4,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17187,
+          "forks": 61335
+        },
+        {
+          "rank": 5,
+          "name": "rdpeng/ExData_Plotting1",
+          "url": "https://github.com/rdpeng/ExData_Plotting1",
+          "description": "Plotting Assignment 1 for Exploratory Data Analysis",
+          "language": "N/A",
+          "stars": 283,
+          "forks": 56738
+        },
+        {
+          "rank": 6,
+          "name": "donnemartin/system-design-primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki fla...",
+          "language": "Python",
+          "stars": 295166,
+          "forks": 49077
+        },
+        {
+          "rank": 7,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 233974,
+          "forks": 48075
+        },
+        {
+          "rank": 8,
+          "name": "academicpages/academicpages.github.io",
+          "url": "https://github.com/academicpages/academicpages.github.io",
+          "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
+          "language": "HTML",
+          "stars": 13704,
+          "forks": 46443
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/models",
+          "url": "https://github.com/tensorflow/models",
+          "description": "Models and examples built with TensorFlow",
+          "language": "Python",
+          "stars": 77473,
+          "forks": 45642
+        },
+        {
+          "rank": 10,
+          "name": "RedHatTraining/DO180-apps",
+          "url": "https://github.com/RedHatTraining/DO180-apps",
+          "description": "DO180 Repository for Sample Applications",
+          "language": "JavaScript",
+          "stars": 284,
+          "forks": 43357
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "th-ch/youtube-music",
+          "url": "https://github.com/th-ch/youtube-music",
+          "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+          "language": "TypeScript",
+          "stars": 14937,
+          "forks": 767
+        },
+        {
+          "rank": 2,
+          "name": "ahmedkhaleel2004/gitdiagram",
+          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+          "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+          "language": "TypeScript",
+          "stars": 5984,
+          "forks": 424
+        },
+        {
+          "rank": 3,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+          "language": "Shell",
+          "stars": 83119,
+          "forks": 8433
+        },
+        {
+          "rank": 4,
+          "name": "jlowin/fastmcp",
+          "url": "https://github.com/jlowin/fastmcp",
+          "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀",
+          "language": "Python",
+          "stars": 3098,
+          "forks": 155
+        },
+        {
+          "rank": 5,
+          "name": "rustdesk/rustdesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamVie...",
+          "language": "Rust",
+          "stars": 85137,
+          "forks": 12048
+        },
+        {
+          "rank": 6,
+          "name": "PatrickJS/awesome-cursorrules",
+          "url": "https://github.com/PatrickJS/awesome-cursorrules",
+          "description": "📄 A curated list of awesome .cursorrules files",
+          "language": "N/A",
+          "stars": 18877,
+          "forks": 1363
+        },
+        {
+          "rank": 7,
+          "name": "hackclub/hcb",
+          "url": "https://github.com/hackclub/hcb",
+          "description": "🏦 The neobank built for nonprofits.",
+          "language": "Ruby",
+          "stars": 296,
+          "forks": 6
+        },
+        {
+          "rank": 8,
+          "name": "microsoft/generative-ai-for-beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-f...",
+          "language": "Jupyter Notebook",
+          "stars": 77179,
+          "forks": 39781
+        },
+        {
+          "rank": 9,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 35424,
+          "forks": 3104
+        },
+        {
+          "rank": 10,
+          "name": "louislam/dockge",
+          "url": "https://github.com/louislam/dockge",
+          "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+          "language": "TypeScript",
+          "stars": 16010,
+          "forks": 471
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jlowin/fastmcp",
+          "url": "https://github.com/jlowin/fastmcp",
+          "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀",
+          "language": "Python",
+          "stars": 3098,
+          "forks": 155
+        },
+        {
+          "rank": 2,
+          "name": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://dis...",
+          "language": "Python",
+          "stars": 35424,
+          "forks": 3104
+        },
+        {
+          "rank": 3,
+          "name": "lastmile-ai/mcp-agent",
+          "url": "https://github.com/lastmile-ai/mcp-agent",
+          "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+          "language": "Python",
+          "stars": 2598,
+          "forks": 233
+        },
+        {
+          "rank": 4,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 51157,
+          "forks": 5397
+        },
+        {
+          "rank": 5,
+          "name": "crewAIInc/crewAI",
+          "url": "https://github.com/crewAIInc/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intell...",
+          "language": "Python",
+          "stars": 29362,
+          "forks": 3981
+        },
+        {
+          "rank": 6,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 17963,
+          "forks": 2009
+        },
+        {
+          "rank": 7,
+          "name": "leminlimez/Nugget",
+          "url": "https://github.com/leminlimez/Nugget",
+          "description": "Unlock the fullest potential of your device",
+          "language": "Python",
+          "stars": 2430,
+          "forks": 156
+        }
+      ]
+    }
+  ]
+}

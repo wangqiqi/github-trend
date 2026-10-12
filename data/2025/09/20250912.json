@@ -1,0 +1,391 @@
+{
+  "date": "20250912",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 99228,
+          "forks": 16194
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 91057,
+          "forks": 11736
+        },
+        {
+          "rank": 3,
+          "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSC...",
+          "language": "N/A",
+          "stars": 83808,
+          "forks": 23185
+        },
+        {
+          "rank": 4,
+          "name": "google-gemini/gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "language": "TypeScript",
+          "stars": 74868,
+          "forks": 7902
+        },
+        {
+          "rank": 5,
+          "name": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "language": "Python",
+          "stars": 73176,
+          "forks": 4045
+        },
+        {
+          "rank": 6,
+          "name": "punkpeye/awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "A collection of MCP servers.",
+          "language": "N/A",
+          "stars": 69652,
+          "forks": 5704
+        },
+        {
+          "rank": 7,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "TypeScript",
+          "stars": 67552,
+          "forks": 7930
+        },
+        {
+          "rank": 8,
+          "name": "FoundationAgents/OpenManus",
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 49669,
+          "forks": 8690
+        },
+        {
+          "rank": 9,
+          "name": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "language": "Rust",
+          "stars": 40331,
+          "forks": 4689
+        },
+        {
+          "rank": 10,
+          "name": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "description": "An AI Hedge Fund Team",
+          "language": "Python",
+          "stars": 39998,
+          "forks": 7072
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 50303,
+          "forks": 91047
+        },
+        {
+          "rank": 2,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 169295,
+          "forks": 83005
+        },
+        {
+          "rank": 3,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 327140,
+          "forks": 80323
+        },
+        {
+          "rank": 4,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first proj...",
+          "language": "MDX",
+          "stars": 173403,
+          "forks": 79159
+        },
+        {
+          "rank": 5,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2590,
+          "forks": 72594
+        },
+        {
+          "rank": 6,
+          "name": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "language": "Python",
+          "stars": 367955,
+          "forks": 64098
+        },
+        {
+          "rank": 7,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17848,
+          "forks": 63230
+        },
+        {
+          "rank": 8,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 201853,
+          "forks": 57683
+        },
+        {
+          "rank": 9,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 172116,
+          "forks": 54523
+        },
+        {
+          "rank": 10,
+          "name": "eugenp/tutorials",
+          "url": "https://github.com/eugenp/tutorials",
+          "description": "Getting Started with Spring Boot 3:",
+          "language": "Java",
+          "stars": 37254,
+          "forks": 54128
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "trueadm/ripple",
+          "url": "https://github.com/trueadm/ripple",
+          "description": "the elegant TypeScript UI framework",
+          "language": "JavaScript",
+          "stars": 3195,
+          "forks": 92
+        },
+        {
+          "rank": 2,
+          "name": "Physical-Intelligence/openpi",
+          "url": "https://github.com/Physical-Intelligence/openpi",
+          "description": "",
+          "language": "Python",
+          "stars": 6874,
+          "forks": 778
+        },
+        {
+          "rank": 3,
+          "name": "CodebuffAI/codebuff",
+          "url": "https://github.com/CodebuffAI/codebuff",
+          "description": "Generate code from the terminal!",
+          "language": "TypeScript",
+          "stars": 985,
+          "forks": 131
+        },
+        {
+          "rank": 4,
+          "name": "sentient-agi/ROMA",
+          "url": "https://github.com/sentient-agi/ROMA",
+          "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-age...",
+          "language": "Python",
+          "stars": 1472,
+          "forks": 146
+        },
+        {
+          "rank": 5,
+          "name": "firebase/genkit",
+          "url": "https://github.com/firebase/genkit",
+          "description": "An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit...",
+          "language": "TypeScript",
+          "stars": 3021,
+          "forks": 383
+        },
+        {
+          "rank": 6,
+          "name": "Zie619/n8n-workflows",
+          "url": "https://github.com/Zie619/n8n-workflows",
+          "description": "all of the workflows of n8n i could find (also from the site itself)",
+          "language": "HTML",
+          "stars": 28856,
+          "forks": 1139
+        },
+        {
+          "rank": 7,
+          "name": "epfml/ML_course",
+          "url": "https://github.com/epfml/ML_course",
+          "description": "EPFL Machine Learning Course, Fall 2025",
+          "language": "Jupyter Notebook",
+          "stars": 1555,
+          "forks": 951
+        },
+        {
+          "rank": 8,
+          "name": "expo/expo",
+          "url": "https://github.com/expo/expo",
+          "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, ...",
+          "language": "TypeScript",
+          "stars": 43118,
+          "forks": 8507
+        },
+        {
+          "rank": 9,
+          "name": "NVIDIA/garak",
+          "url": "https://github.com/NVIDIA/garak",
+          "description": "the LLM vulnerability scanner",
+          "language": "Python",
+          "stars": 5320,
+          "forks": 578
+        },
+        {
+          "rank": 10,
+          "name": "milvus-io/milvus",
+          "url": "https://github.com/milvus-io/milvus",
+          "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+          "language": "Go",
+          "stars": 37134,
+          "forks": 3391
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Physical-Intelligence/openpi",
+          "url": "https://github.com/Physical-Intelligence/openpi",
+          "description": "",
+          "language": "Python",
+          "stars": 6874,
+          "forks": 778
+        },
+        {
+          "rank": 2,
+          "name": "sentient-agi/ROMA",
+          "url": "https://github.com/sentient-agi/ROMA",
+          "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-age...",
+          "language": "Python",
+          "stars": 1472,
+          "forks": 146
+        },
+        {
+          "rank": 3,
+          "name": "NVIDIA/garak",
+          "url": "https://github.com/NVIDIA/garak",
+          "description": "the LLM vulnerability scanner",
+          "language": "Python",
+          "stars": 5320,
+          "forks": 578
+        },
+        {
+          "rank": 4,
+          "name": "Azure/azure-sdk-for-python",
+          "url": "https://github.com/Azure/azure-sdk-for-python",
+          "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK w...",
+          "language": "Python",
+          "stars": 5186,
+          "forks": 3112
+        },
+        {
+          "rank": 5,
+          "name": "1Panel-dev/MaxKB",
+          "url": "https://github.com/1Panel-dev/MaxKB",
+          "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。",
+          "language": "Python",
+          "stars": 18333,
+          "forks": 2380
+        },
+        {
+          "rank": 6,
+          "name": "pyca/cryptography",
+          "url": "https://github.com/pyca/cryptography",
+          "description": "cryptography is a package designed to expose cryptographic primitives and recipes to Python devel...",
+          "language": "Python",
+          "stars": 7210,
+          "forks": 1642
+        },
+        {
+          "rank": 7,
+          "name": "HKUDS/AutoAgent",
+          "url": "https://github.com/HKUDS/AutoAgent",
+          "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
+          "language": "Python",
+          "stars": 6753,
+          "forks": 892
+        },
+        {
+          "rank": 8,
+          "name": "DepthAnything/Depth-Anything-V2",
+          "url": "https://github.com/DepthAnything/Depth-Anything-V2",
+          "description": "[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation",
+          "language": "Python",
+          "stars": 6446,
+          "forks": 633
+        },
+        {
+          "rank": 9,
+          "name": "apecloud/ApeRAG",
+          "url": "https://github.com/apecloud/ApeRAG",
+          "description": "ApeRAG: Production-ready GraphRAG with multi-modal indexing, AI agents, MCP support, and scalable...",
+          "language": "Python",
+          "stars": 448,
+          "forks": 33
+        },
+        {
+          "rank": 10,
+          "name": "mxrch/GHunt",
+          "url": "https://github.com/mxrch/GHunt",
+          "description": "🕵️‍♂️ Offensive Google framework.",
+          "language": "Python",
+          "stars": 17736,
+          "forks": 1496
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "date": "20250419",
+  "generated_at": null,
+  "source": "backfill:markdown",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "deepseek-ai/DeepSeek-V3",
+          "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+          "description": "No description",
+          "language": "Python",
+          "stars": 95821,
+          "forks": 15554
+        },
+        {
+          "rank": 2,
+          "name": "deepseek-ai/DeepSeek-R1",
+          "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "description": "No description",
+          "language": "N/A",
+          "stars": 88612,
+          "forks": 11445
+        },
+        {
+          "rank": 3,
+          "name": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "description": "Make websites accessible for AI agents",
+          "language": "Python",
+          "stars": 56755,
+          "forks": 6088
+        },
+        {
+          "rank": 4,
+          "name": "mannaandpoem/OpenManus",
+          "url": "https://github.com/mannaandpoem/OpenManus",
+          "description": "No fortress, purely open ground.  OpenManus is Coming.",
+          "language": "Python",
+          "stars": 43681,
+          "forks": 7492
+        },
+        {
+          "rank": 5,
+          "name": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "language": "JavaScript",
+          "stars": 38240,
+          "forks": 4137
+        },
+        {
+          "rank": 6,
+          "name": "inkonchain/node",
+          "url": "https://github.com/inkonchain/node",
+          "description": "How to run an Ink Node",
+          "language": "Shell",
+          "stars": 36683,
+          "forks": 567
+        },
+        {
+          "rank": 7,
+          "name": "2noise/ChatTTS",
+          "url": "https://github.com/2noise/ChatTTS",
+          "description": "A generative speech model for daily dialogue.",
+          "language": "Python",
+          "stars": 35819,
+          "forks": 3890
+        },
+        {
+          "rank": 8,
+          "name": "karpathy/LLM101n",
+          "url": "https://github.com/karpathy/LLM101n",
+          "description": "LLM101n: Let's build a Storyteller",
+          "language": "N/A",
+          "stars": 33210,
+          "forks": 1812
+        },
+        {
+          "rank": 9,
+          "name": "exo-explore/exo",
+          "url": "https://github.com/exo-explore/exo",
+          "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+          "language": "Python",
+          "stars": 27737,
+          "forks": 1717
+        },
+        {
+          "rank": 10,
+          "name": "CherryHQ/cherry-studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.",
+          "language": "TypeScript",
+          "stars": 24033,
+          "forks": 2051
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jtleek/datasharing",
+          "url": "https://github.com/jtleek/datasharing",
+          "description": "The Leek group guide to data sharing",
+          "language": "N/A",
+          "stars": 6601,
+          "forks": 243637
+        },
+        {
+          "rank": 2,
+          "name": "rdpeng/ProgrammingAssignment2",
+          "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+          "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+          "language": "R",
+          "stars": 849,
+          "forks": 143899
+        },
+        {
+          "rank": 3,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 165837,
+          "forks": 83072
+        },
+        {
+          "rank": 4,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2515,
+          "forks": 72175
+        },
+        {
+          "rank": 5,
+          "name": "github/docs",
+          "url": "https://github.com/github/docs",
+          "description": "The open-source repo for docs.github.com",
+          "language": "TypeScript",
+          "stars": 17265,
+          "forks": 61546
+        },
+        {
+          "rank": 6,
+          "name": "torvalds/linux",
+          "url": "https://github.com/torvalds/linux",
+          "description": "Linux kernel source tree",
+          "language": "C",
+          "stars": 191943,
+          "forks": 55570
+        },
+        {
+          "rank": 7,
+          "name": "jackfrued/Python-100-Days",
+          "url": "https://github.com/jackfrued/Python-100-Days",
+          "description": "Python - 100天从新手到大师",
+          "language": "Jupyter Notebook",
+          "stars": 164251,
+          "forks": 53497
+        },
+        {
+          "rank": 8,
+          "name": "facebook/react",
+          "url": "https://github.com/facebook/react",
+          "description": "The library for web and native user interfaces.",
+          "language": "JavaScript",
+          "stars": 234691,
+          "forks": 48291
+        },
+        {
+          "rank": 9,
+          "name": "academicpages/academicpages.github.io",
+          "url": "https://github.com/academicpages/academicpages.github.io",
+          "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
+          "language": "HTML",
+          "stars": 13893,
+          "forks": 46763
+        },
+        {
+          "rank": 10,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 199565,
+          "forks": 46593
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "Anduin2017/HowToCook",
+          "url": "https://github.com/Anduin2017/HowToCook",
+          "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+          "language": "Dockerfile",
+          "stars": 77326,
+          "forks": 9370
+        },
+        {
+          "rank": 2,
+          "name": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "description": "Official inference framework for 1-bit LLMs",
+          "language": "C++",
+          "stars": 13956,
+          "forks": 972
+        },
+        {
+          "rank": 3,
+          "name": "jlowin/fastmcp",
+          "url": "https://github.com/jlowin/fastmcp",
+          "description": "🚀 The fast, Pythonic way to build MCP servers and clients",
+          "language": "Python",
+          "stars": 5928,
+          "forks": 302
+        },
+        {
+          "rank": 4,
+          "name": "docmost/docmost",
+          "url": "https://github.com/docmost/docmost",
+          "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alt...",
+          "language": "TypeScript",
+          "stars": 14137,
+          "forks": 680
+        },
+        {
+          "rank": 5,
+          "name": "kamranahmedse/developer-roadmap",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+          "language": "TypeScript",
+          "stars": 314019,
+          "forks": 40835
+        },
+        {
+          "rank": 6,
+          "name": "1Panel-dev/1Panel",
+          "url": "https://github.com/1Panel-dev/1Panel",
+          "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers...",
+          "language": "Go",
+          "stars": 27336,
+          "forks": 2394
+        },
+        {
+          "rank": 7,
+          "name": "elie222/inbox-zero",
+          "url": "https://github.com/elie222/inbox-zero",
+          "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+          "language": "TypeScript",
+          "stars": 6004,
+          "forks": 638
+        },
+        {
+          "rank": 8,
+          "name": "linera-io/linera-protocol",
+          "url": "https://github.com/linera-io/linera-protocol",
+          "description": "Main repository for the Linera protocol",
+          "language": "Rust",
+          "stars": 23511,
+          "forks": 1438
+        },
+        {
+          "rank": 9,
+          "name": "SigmaHQ/sigma",
+          "url": "https://github.com/SigmaHQ/sigma",
+          "description": "Main Sigma Rule Repository",
+          "language": "Python",
+          "stars": 9035,
+          "forks": 2314
+        },
+        {
+          "rank": 10,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 336011,
+          "forks": 35548
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "jlowin/fastmcp",
+          "url": "https://github.com/jlowin/fastmcp",
+          "description": "🚀 The fast, Pythonic way to build MCP servers and clients",
+          "language": "Python",
+          "stars": 5928,
+          "forks": 302
+        },
+        {
+          "rank": 2,
+          "name": "SigmaHQ/sigma",
+          "url": "https://github.com/SigmaHQ/sigma",
+          "description": "Main Sigma Rule Repository",
+          "language": "Python",
+          "stars": 9035,
+          "forks": 2314
+        },
+        {
+          "rank": 3,
+          "name": "public-apis/public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "A collective list of free APIs",
+          "language": "Python",
+          "stars": 336011,
+          "forks": 35548
+        },
+        {
+          "rank": 4,
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensou...",
+          "language": "Python",
+          "stars": 28578,
+          "forks": 3217
+        },
+        {
+          "rank": 5,
+          "name": "vanna-ai/vanna",
+          "url": "https://github.com/vanna-ai/vanna",
+          "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+          "language": "Python",
+          "stars": 16635,
+          "forks": 1475
+        },
+        {
+          "rank": 6,
+          "name": "TheAlgorithms/Python",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "All Algorithms implemented in Python",
+          "language": "Python",
+          "stars": 199565,
+          "forks": 46593
+        },
+        {
+          "rank": 7,
+          "name": "kijai/ComfyUI-KJNodes",
+          "url": "https://github.com/kijai/ComfyUI-KJNodes",
+          "description": "Various custom nodes for ComfyUI",
+          "language": "Python",
+          "stars": 1234,
+          "forks": 121
+        },
+        {
+          "rank": 8,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+          "language": "Python",
+          "stars": 19324,
+          "forks": 2219
+        },
+        {
+          "rank": 9,
+          "name": "cyclotruc/gitingest",
+          "url": "https://github.com/cyclotruc/gitingest",
+          "description": "Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase",
+          "language": "Python",
+          "stars": 8139,
+          "forks": 630
+        },
+        {
+          "rank": 10,
+          "name": "OpenSPG/KAG",
+          "url": "https://github.com/OpenSPG/KAG",
+          "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. ...",
+          "language": "Python",
+          "stars": 6520,
+          "forks": 453
+        }
+      ]
+    }
+  ]
+}
