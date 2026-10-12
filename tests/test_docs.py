@@ -111,3 +111,41 @@ def test_readme_lists_the_four_real_sections():
         assert title in README
     for title in ("Most Starred", "Most Forked", "Trending", "Python"):
         assert title in README_EN
+
+
+# --- SPRINT-02：站点文档防漂移 --------------------------------------------
+
+LIVE_URL = "https://znza.top/github-trend/"
+
+
+@pytest.mark.parametrize("text", [README, README_EN])
+def test_readme_points_to_live_site(text):
+    assert LIVE_URL in text
+
+
+@pytest.mark.parametrize("text", [README, README_EN])
+def test_readme_documents_site_commands(text):
+    assert "scripts/verify-all.sh" in text
+    assert "scripts/verify-site.sh" in text
+    assert "scripts/check-site.sh" in text
+    assert "npm run docs:dev" in text
+
+
+@pytest.mark.parametrize("text", [README, README_EN])
+def test_readme_documents_deploy_workflow(text):
+    assert "deploy-site.yml" in text
+    assert "workflow_run" in text
+
+
+def test_site_base_matches_published_url():
+    """配置里的 base 必须和文档里的线上路径一致，否则挂上去资源全 404。"""
+    config = (REPO_ROOT / "docs" / ".vitepress" / "config.mts").read_text(encoding="utf-8")
+    assert f"base: '{LIVE_URL.split('znza.top')[1]}'" in config or "base: '/github-trend/'" in config
+    assert LIVE_URL.rstrip("/").endswith("/github-trend")
+
+
+def test_changelog_records_site_work():
+    changelog = (REPO_ROOT / "CHANGELOG.md").read_text(encoding="utf-8")
+    assert "## [Unreleased]" in changelog
+    assert "znza.top/github-trend" in changelog
+    assert "trends.json" in changelog

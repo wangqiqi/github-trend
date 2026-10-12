@@ -2,6 +2,27 @@
 
 本项目遵循 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/) 与 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [Unreleased]
+
+### Added
+
+- **在线站点**：<https://znza.top/github-trend/> —— VitePress 站点，逐日榜单归档（577 天）· 月度页 · 本地搜索 · 三张趋势榜 · 数据说明；内容每次构建从 `data/` 现场生成，生成物不入库
+- **趋势产物** `data/trends.json`：由全历史 JSON 聚合 Star 增速榜 / 常青榜 / 新晋榜，口径写成常量、产物无时间戳，同样数据每次结果一致（`scripts/build_trends.py`）
+- **历史 JSON 回填** `scripts/backfill_export.py`：把 577 个历史 Markdown 表格反向解析成与抓取器同 schema 的 per-day JSON，全历史从此 Markdown 与 JSON 成对
+- **站点部署流水线** `deploy-site.yml`：构建 → GitHub Pages，并监听抓取 workflow 的 `workflow_run`（`GITHUB_TOKEN` 的提交不触发 push 事件，只靠 `on: push` 会让站点停在旧数据）
+- **站点验收**：`scripts/verify-site.sh`（生成 + 构建 + 产物断言：页数、单页体积守门、趋势页口径）· `scripts/check-site.sh`（线上四页 200 冒烟）· `scripts/verify-all.sh`（Python + 站点一次跑完）
+- **博客入口**：znza.top 顶栏「项目站」与开源专栏加入 GitHub Trend 外链（改动在 `vitepress-blog-source` 仓库）
+
+### Changed
+
+- 仓库首次引入 Node 工具链（`package.json` + `package-lock.json` + vitepress），PlanRun 闸门随之回归标准用法（`pnpm run plan-check` 等）
+- `ci.yml` 拆出独立的 `site` job（`npm ci` + 站点构建断言），与 Python 的 `verify` job 分开
+
+### Notes
+
+- 侧边栏刻意只到「年 → 月」：实测把 577 天全放进侧边栏会让单页 HTML 55KB → 280KB、产物 50MB → 173MB
+- 历史数据缺口（约 5% 天数的 Star/Fork 段落缺失、1 天半成品）已在站点「数据说明」页如实标注
+
 ## [1.0.1] - 2026-10-12
 
 ### Changed

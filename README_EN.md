@@ -4,6 +4,8 @@ English | [中文](README.md)
 
 Automatically scrape popular GitHub repositories information, including daily most starred repositories, most forked repositories, trending repositories, and Python language trending repositories — producing both human-readable Markdown and machine-readable JSON.
 
+**Live site**: <https://znza.top/github-trend/> — daily archive with full-text search and three trend boards (star growth, evergreen, newcomers).
+
 ## Features
 
 - Daily scraping of popular repositories on GitHub
@@ -59,18 +61,36 @@ python scheduler.py
 
 ```bash
 pip install -r requirements-dev.txt
-./scripts/verify.sh                      # syntax check + full test suite
+./scripts/verify.sh                      # syntax check + Python test suite
 ./scripts/verify.sh tests/test_http.py   # a single test file
+
+npm install                              # site toolchain (first time)
+bash scripts/verify-site.sh              # generate content + build + assert output
+bash scripts/verify-all.sh               # both suites (recommended)
 ```
 
 `python scraper.py` exits non-zero on failure, so CI turns red and the commit step is skipped.
 
+### Live Site and Local Preview
+
+The site is VitePress, and its content is **generated from `data/` on every build** (`docs/daily/**` and friends are gitignored; `data/` stays the single source of truth):
+
+```bash
+npm install
+npm run docs:dev             # local preview (content generation runs first)
+npm run docs:build           # static output in docs/.vitepress/dist
+bash scripts/check-site.sh   # live smoke test: four pages of https://znza.top/github-trend/
+```
+
+Structure: home · daily archive (per-day and per-month pages) · three trend boards · data notes. The sidebar deliberately stops at year → month: putting all 577 days in it pushed a single page from 55KB to 280KB and the whole output from 50MB to 173MB (VitePress serialises theme config into every page).
+
 ### Automatic Execution with GitHub Actions
 
-Two workflows are configured:
+Three workflows are configured:
 
-- `update-trending.yml`: scrapes **daily at 12:00 UTC** and supports manual dispatch; only one run per branch at a time. It deliberately does **not** run on pushes — daily snapshots never overwrite, so a push would only pile up extra files for the same day; code validation is handled by `ci.yml`.
-- `ci.yml`: runs `./scripts/verify.sh` on pushes and pull requests.
+- `update-trending.yml`: scrapes **daily at 12:00 UTC** and supports manual dispatch; only one run per branch at a time. It deliberately does **not** run on pushes — daily snapshots never overwrite, so a push would only pile up extra files for the same day.
+- `ci.yml`: on pushes and pull requests it runs two jobs — `verify` (Python suite) and `site` (`npm ci` + site build assertions).
+- `deploy-site.yml`: builds and deploys the site to GitHub Pages. Besides push and manual dispatch it listens to the scrape workflow via `workflow_run` — the scrape commits with `GITHUB_TOKEN`, and such commits **do not trigger push events**, so `on: push` alone would leave the site stale.
 
 If you fork this repository, you need to modify the following:
 

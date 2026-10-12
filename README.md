@@ -4,6 +4,8 @@
 
 自动抓取 GitHub 热门仓库信息，包括每日 Star 最多的仓库、Fork 最多的仓库、趋势榜和 Python 语言热榜，并同时产出人类可读的 Markdown 与机器可读的 JSON。
 
+**在线站点**：<https://znza.top/github-trend/> —— 逐日榜单归档、全文搜索与三张趋势榜（Star 增速 / 常青 / 新晋）。
+
 ## 功能特点
 
 - 每天抓取 GitHub 上的热门仓库信息
@@ -11,6 +13,9 @@
 - **每天 12:00 UTC 自动抓取并提交**（GitHub Actions）；本地也可以用 `scheduler.py` 每 6 小时抓一次
 - 同一天重复抓取时自动避让文件名（带秒级时间戳或序号），不覆盖既有数据
 - 每次抓取同时写出同名 `.json` 快照，并维护一份全量索引 `data/index.json`
+- 全历史都成对提供 Markdown + JSON（早期数据由 `scripts/backfill_export.py` 从表格回填）
+- 由全历史数据聚合出趋势产物 `data/trends.json`
+- **VitePress 站点**：数据每次构建现场生成页面，部署到 GitHub Pages 并挂在 `znza.top/github-trend/`
 - 网络请求带超时与退避重试，抓取不全 **不会** 提交半成品数据
 
 ## 抓取内容
@@ -59,18 +64,36 @@ python scheduler.py
 
 ```bash
 pip install -r requirements-dev.txt
-./scripts/verify.sh              # 语法检查 + 全部单测
+./scripts/verify.sh                      # 语法检查 + Python 单测
 ./scripts/verify.sh tests/test_http.py   # 只跑某个测试文件
+
+npm install                              # 站点工具链（首次）
+bash scripts/verify-site.sh              # 生成站点内容 + 构建 + 产物断言
+bash scripts/verify-all.sh               # 上面两套一起跑（推荐）
 ```
 
 `python scraper.py` 失败时返回非零退出码，CI 会把这一步判红，后续提交不会执行。
 
+### 在线站点与本地预览
+
+站点是 VitePress，内容**每次构建时从 `data/` 现场生成**（`docs/daily/**` 等生成物不入库，`data/` 是唯一源头）：
+
+```bash
+npm install
+npm run docs:dev        # 本地预览（会自动先跑内容生成）
+npm run docs:build      # 构建静态站到 docs/.vitepress/dist
+bash scripts/check-site.sh   # 线上冒烟：确认 https://znza.top/github-trend/ 四个页面 200
+```
+
+站点结构：首页 · 每日榜单归档（逐日页 + 月度页）· 三张趋势榜 · 数据说明。侧边栏刻意只到「年 → 月」——实测把 577 天全塞进侧边栏会让单页 HTML 从 55KB 涨到 280KB、产物体积从 50MB 涨到 173MB（VitePress 会把主题配置序列化进每一页）。
+
 ### GitHub Actions 自动运行
 
-本项目已配置两个 workflow：
+本项目已配置三个 workflow：
 
-- `update-trending.yml`：**每天 12:00 UTC** 定时抓取，支持手动触发；同一分支同时只跑一个实例。刻意不用 push 触发——抓取产物是按天一份的快照且同日不覆盖，代码推送会白攒出多份文件；代码推送的验证由 `ci.yml` 负责。
-- `ci.yml`：推送与 PR 时运行 `./scripts/verify.sh`，代码坏了会被拦下。
+- `update-trending.yml`：**每天 12:00 UTC** 定时抓取，支持手动触发；同一分支同时只跑一个实例。刻意不用 push 触发——抓取产物是按天一份的快照且同日不覆盖，代码推送会白攒出多份文件。
+- `ci.yml`：推送与 PR 时跑两个 job —— `verify`（Python 套件）与 `site`（`npm ci` + 站点构建断言）。
+- `deploy-site.yml`：构建并部署站点到 GitHub Pages。除了 push 与手动触发，还监听抓取 workflow 的 `workflow_run` —— 因为抓取用 `GITHUB_TOKEN` 提交数据，而这类提交**不会再触发 push 事件**，只靠 `on: push` 会出现「数据更新了站点不动」。
 
 如果您 fork 了本仓库，需要修改以下内容：
 
