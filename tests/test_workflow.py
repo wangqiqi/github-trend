@@ -3,6 +3,7 @@
 用 YAML 解析而不是 grep：断言的是「配置真的生效」，不是「文本里出现过」。
 """
 
+import re
 from pathlib import Path
 
 import pytest
@@ -14,6 +15,12 @@ WORKFLOWS = REPO_ROOT / ".github" / "workflows"
 
 def load_yaml(path: Path):
     return yaml.safe_load(path.read_text(encoding="utf-8"))
+
+
+def action_major(uses: str) -> int:
+    """从 `actions/checkout@v4` 里取大版本号；取不到返回 -1。"""
+    match = re.search(r"@v(\d+)", uses)
+    return int(match.group(1)) if match else -1
 
 
 def triggers(doc):
@@ -47,16 +54,29 @@ def test_update_workflow_has_timeout():
 
 
 def test_update_workflow_uses_current_action_versions():
+    """只禁止回退到旧大版本，不锁死当前版本 —— 否则 dependabot 升版必红。"""
     doc = load_yaml(WORKFLOWS / "update-trending.yml")
     uses = [step.get("uses", "") for step in steps_of(doc)]
-    assert "actions/checkout@v4" in uses
-    assert "actions/setup-python@v5" in uses
-    assert not [u for u in uses if u.endswith("@v3") or u.endswith("@v2")], uses
+
+    checkout = next(u for u in uses if u.startswith("actions/checkout@"))
+    setup = next(u for u in uses if u.startswith("actions/setup-python@"))
+    assert action_major(checkout) >= 4, uses
+    assert action_major(setup) >= 5, uses
+
+
+def test_ci_workflow_uses_current_action_versions():
+    doc = load_yaml(WORKFLOWS / "ci.yml")
+    uses = [step.get("uses", "") for step in doc["jobs"]["verify"]["steps"]]
+
+    checkout = next(u for u in uses if u.startswith("actions/checkout@"))
+    setup = next(u for u in uses if u.startswith("actions/setup-python@"))
+    assert action_major(checkout) >= 4, uses
+    assert action_major(setup) >= 5, uses
 
 
 def test_update_workflow_caches_pip():
     doc = load_yaml(WORKFLOWS / "update-trending.yml")
-    setup = next(s for s in steps_of(doc) if s.get("uses") == "actions/setup-python@v5")
+    setup = next(s for s in steps_of(doc) if s.get("uses", "").startswith("actions/setup-python@"))
     assert setup["with"]["cache"] == "pip"
 
 
