@@ -9,16 +9,13 @@ import time
 import requests
 from pyquery import PyQuery as pq
 
+from gitops import add_commit_push
+
 
 def git_add_commit_push(date, filename):
-    """Git 提交并推送更改"""
-    cmd_git_add = 'git add {filename}'.format(filename=filename)
-    cmd_git_commit = 'git commit -m "{date}"'.format(date=date)
-    cmd_git_push = 'git push -u origin master'
-
-    os.system(cmd_git_add)
-    os.system(cmd_git_commit)
-    os.system(cmd_git_push)
+    """Git 提交并推送更改：定向 add 指定文件，失败会抛 GitError 而不是静默。"""
+    message = f"Update trending repositories: {date}"
+    return add_commit_push(filename, message)
 
 
 # --- 网络层 ---------------------------------------------------------------

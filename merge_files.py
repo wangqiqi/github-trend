@@ -2,6 +2,8 @@ import os
 import re
 from datetime import datetime
 
+from gitops import add_commit_push
+
 def merge_files(date):
     """合并指定日期的所有文件"""
     # 获取日期目录
@@ -59,19 +61,14 @@ def merge_files(date):
     return new_file
 
 def git_commit_push(file_path):
-    """提交并推送到远程仓库"""
+    """提交并推送到远程仓库（TASK-009 会进一步清理本脚本）。"""
     date = os.path.basename(file_path).split('.')[0]
-    
-    # 添加文件
-    os.system(f'git add {file_path}')
-    
-    # 提交
-    os.system(f'git commit -m "Update trending repositories: {date}"')
-    
-    # 推送
-    os.system('git push')
-    
-    print("已提交并推送到远程仓库")
+    message = f"Update trending repositories: {date}"
+
+    if add_commit_push(file_path, message):
+        print("已提交并推送到远程仓库")
+    else:
+        print("无变更，跳过提交")
 
 def main():
     # 合并今天的文件
