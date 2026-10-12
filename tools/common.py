@@ -26,3 +26,17 @@ def backup_files(files, label):
         shutil.move(str(path), str(destination))
         moved.append(destination)
     return moved
+
+
+def with_siblings(paths, suffix=".json"):
+    """把每日数据的同名快照（.json）一并纳入。
+
+    否则清理/合并只搬走 .md，会留下一堆无主的 `YYYYMMDD_01.json`：
+    索引里没人引用它们，删又删不掉，纯垃圾。
+    """
+    result = list(paths)
+    for path in paths:
+        sibling = path.with_suffix(suffix)
+        if sibling.exists():
+            result.append(sibling)
+    return result

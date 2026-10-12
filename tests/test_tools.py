@@ -218,6 +218,22 @@ def test_force_without_apply_changes_nothing(tmp_path, backups):
     assert not backups.exists()
 
 
+def test_force_rerender_backs_up_stale_sibling_json(tmp_path, backups):
+    """md 被重排后，同日的 .json 快照就过期了，不能留在数据目录里。"""
+    directory = tmp_path / "data" / "2025" / "04"
+    directory.mkdir(parents=True)
+    base = directory / "20250424.md"
+    base.write_text(DUP_TOC_FILE, encoding="utf-8")
+    (directory / "20250424.json").write_text("{}", encoding="utf-8")
+
+    merge_tool.merge_date("20250424", data_dir=tmp_path / "data", apply=True, force=True)
+
+    assert [path.name for path in directory.iterdir()] == ["20250424.md"]
+    assert sorted(path.name for path in (backups / "20250424").iterdir()) == [
+        "20250424.json", "20250424.md",
+    ]
+
+
 # --- 清理脚本 -------------------------------------------------------------
 
 def test_group_by_date_ignores_non_daily_files(tmp_path):
@@ -304,6 +320,22 @@ def test_cleanup_apply_moves_extras_to_backup(tmp_path, backups):
     assert [path.name for path in directory.iterdir()] == ["20250424.md"]
     assert (directory / "20250424.md").read_text(encoding="utf-8") == "keep"
     assert [path.name for path in (backups / "20250424").iterdir()] == ["20250424_0751.md"]
+
+
+def test_cleanup_moves_sibling_json_too(tmp_path, backups):
+    """只搬 .md 会留下无主的 _01.json —— 索引里没人引用，纯垃圾。"""
+    directory = tmp_path / "data" / "2025" / "04"
+    directory.mkdir(parents=True)
+    (directory / "20250424.md").write_text("keep", encoding="utf-8")
+    (directory / "20250424_0751.md").write_text("extra", encoding="utf-8")
+    (directory / "20250424_0751.json").write_text("{}", encoding="utf-8")
+
+    cleanup_tool.run_cleanup(data_dir=tmp_path / "data", apply=True)
+
+    assert [path.name for path in directory.iterdir()] == ["20250424.md"]
+    assert sorted(path.name for path in (backups / "20250424").iterdir()) == [
+        "20250424_0751.json", "20250424_0751.md",
+    ]
 
 
 def test_real_repo_plan_is_reportable():

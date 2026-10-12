@@ -21,6 +21,7 @@ from tools.common import (  # noqa: E402  (需先补 sys.path)
     DATE_FILE_PATTERN,
     NOON_FILE_PATTERN,
     backup_files,
+    with_siblings,
 )
 
 
@@ -77,7 +78,8 @@ def run_cleanup(data_dir=DATA_DIR, month=None, apply=False):
         for path in extras:
             print(f"  - {path.name}")
         if apply:
-            backup_files(extras, date)
+            # 同名 .json 快照跟着一起走，否则会留下无主的孤儿文件
+            backup_files(with_siblings(extras), date)
             removed += len(extras)
 
     if not apply:

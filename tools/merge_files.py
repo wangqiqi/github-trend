@@ -23,7 +23,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from gitops import add_commit_push  # noqa: E402  (需先补 sys.path)
-from tools.common import DATA_DIR, backup_files  # noqa: E402
+from tools.common import DATA_DIR, backup_files, with_siblings  # noqa: E402
 
 HEADING_PATTERN = re.compile(r'^(#{2,3})\s+(.+?)\s*$', re.MULTILINE)
 
@@ -161,7 +161,8 @@ def merge_date(date, data_dir=DATA_DIR, apply=False, force=False):
     # 先把内容写到临时文件，再移走原文件，最后落位：中途失败不会两边都没有
     staging = base_file.with_suffix('.md.merging')
     staging.write_text(content, encoding="utf-8")
-    backup_files(files, date)
+    # 同日已有的 .json 快照在重排/合并后即失效，跟原文件一起移入备份
+    backup_files(with_siblings(files), date)
     os.replace(staging, base_file)
     print(f"  [apply] 已{action}为 {base_file.name}，原文件备份到 backups/{date}/")
     return base_file
