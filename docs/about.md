@@ -1,5 +1,20 @@
 # 数据说明
 
+## 相关链接
+
+| 去哪 | 链接 | 说明 |
+| --- | --- | --- |
+| 本站 | <https://znza.top/github-trend/> | 在线站点（你正在看的这个） |
+| 每日归档 | [每日榜单归档](/daily/) | 按天浏览全部快照 |
+| 趋势榜 | [趋势榜](/trends/) | Star 增速 / 常青 / 新晋 |
+| 源码仓库 | <https://github.com/wangqiqi/github-trend> | 抓取脚本与全部数据 |
+| 全量索引 | [`data/index.json`](https://github.com/wangqiqi/github-trend/blob/master/data/index.json) | 每天的文件清单与同名 JSON 是否存在 |
+| 趋势产物 | [`data/trends.json`](https://github.com/wangqiqi/github-trend/blob/master/data/trends.json) | 三张榜的原始数据（可复现） |
+| 许可证 | [MIT](https://github.com/wangqiqi/github-trend/blob/master/LICENSE) | 数据与代码均 MIT |
+
+原始文件走 raw 直链也可以，例如
+`https://raw.githubusercontent.com/wangqiqi/github-trend/master/data/2026/10/20261012.json`。
+
 ## 数据从哪来
 
 GitHub Actions 每天 **12:00 UTC** 抓取一次，提交到仓库 `data/` 目录；本站只是这份数据的一个视图，**页面内容以仓库为准**。

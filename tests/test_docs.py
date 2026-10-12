@@ -154,3 +154,27 @@ def test_changelog_records_site_work():
     assert re.search(r'^## \[(\d+\.\d+\.\d+|Unreleased)\]', changelog, flags=re.MULTILINE)
     assert "znza.top/github-trend" in changelog
     assert "trends.json" in changelog
+
+
+# --- SPRINT-03：About 链接与元数据 ----------------------------------------
+
+ABOUT_PAGE = (REPO_ROOT / "docs" / "about.md").read_text(encoding="utf-8")
+
+
+@pytest.mark.parametrize("needle", [
+    LIVE_URL,                                        # 站点自身
+    "github.com/wangqiqi/github-trend",              # 源码仓库
+    "data/index.json",                               # 全量索引
+    "data/trends.json",                              # 趋势产物
+    "LICENSE",                                       # 许可证
+    "/daily/",                                       # 站内归档
+    "/trends/",                                      # 站内趋势
+])
+def test_about_page_links_out(needle):
+    """About 页要像兄弟项目站那样把入口给全，别让人找不到数据。"""
+    assert needle in ABOUT_PAGE, f"About 页缺少链接: {needle}"
+
+
+def test_about_page_documents_raw_access():
+    """原始文件要给出可复制粘贴的直链形式。"""
+    assert "raw.githubusercontent.com/wangqiqi/github-trend" in ABOUT_PAGE
