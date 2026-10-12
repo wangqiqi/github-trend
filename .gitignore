@@ -52,3 +52,12 @@ scripts/run-bash.mjs
 
 # tools/ 维护脚本的删除/合并备份（原文件移到这里，不入库）
 backups/
+
+# 站点：依赖与构建产物（内容每次构建从 data/ 现场生成，data/ 是唯一源头）
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+docs/.vitepress/sidebar.generated.json
+docs/daily/
+docs/month/
+docs/trends/

@@ -1,0 +1,18 @@
+{
+  "name": "github-trend-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GitHub 热门榜单的 VitePress 站点（数据源：仓库内 data/）",
+  "scripts": {
+    "site:content": "node scripts/build_site_content.mjs",
+    "docs:dev": "npm run site:content && vitepress dev docs",
+    "docs:build": "npm run site:content && vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "verify:site": "bash scripts/verify-site.sh",
+    "verify:all": "bash scripts/verify-all.sh"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
