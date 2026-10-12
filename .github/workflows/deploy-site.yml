@@ -1,0 +1,74 @@
+name: Deploy site
+
+# 站点部署到 GitHub Pages。
+#
+# 三个触发入口，缺一不可：
+#   1. push —— 站点代码 / 生成器 / 数据变更时重建
+#   2. workflow_run —— 抓取 workflow 跑完后重建。**关键**：抓取流程用
+#      GITHUB_TOKEN 提交数据，而 GITHUB_TOKEN 的提交不会再触发 push 事件，
+#      所以只靠 on: push 的话「数据更新了站点不动」。
+#   3. workflow_dispatch —— 手动重建
+#
+# Pages 站点是「项目站点」：因为用户站点（wangqiqi.github.io）绑定了自定义域
+# znza.top，本站自动出现在 https://znza.top/github-trend/。
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_run:
+    workflows: ["Update GitHub Trending"]
+    types: [ completed ]
+  workflow_dispatch:
+
+# 同一时间只允许一个 Pages 部署，避免两个部署互相覆盖
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    # 抓取失败时没必要重建站点
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v7
+
+    - name: Set up Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: '24'
+        cache: npm
+
+    - name: Install site dependencies
+      run: npm ci
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v5
+
+    # 复用本地同一套验收：生成内容 → 构建 → 产物断言（页数 / 体积 / 口径）
+    - name: Build and verify site
+      run: bash scripts/verify-site.sh
+
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v4
+      with:
+        path: docs/.vitepress/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

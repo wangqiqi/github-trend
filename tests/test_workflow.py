@@ -155,6 +155,56 @@ def test_verify_site_guards_page_weight():
     assert "total_days" in text or "index.json" in text
 
 
+# --- 站点部署 workflow -----------------------------------------------------
+
+def test_deploy_workflow_triggers_include_workflow_run():
+    """抓取用 GITHUB_TOKEN 提交，不会触发 push 事件，必须靠 workflow_run 兜住。"""
+    doc = load_yaml(WORKFLOWS / "deploy-site.yml")
+    on = triggers(doc)
+
+    assert "push" in on
+    assert "workflow_dispatch" in on
+    assert on["workflow_run"]["workflows"] == ["Update GitHub Trending"]
+    assert on["workflow_run"]["types"] == ["completed"]
+
+
+def test_deploy_workflow_has_pages_permissions():
+    doc = load_yaml(WORKFLOWS / "deploy-site.yml")
+    perms = doc["permissions"]
+    assert perms["pages"] == "write"
+    assert perms["id-token"] == "write"
+    assert perms["contents"] == "read"
+
+
+def test_deploy_workflow_builds_and_uploads_dist():
+    doc = load_yaml(WORKFLOWS / "deploy-site.yml")
+    script = "\n".join(step.get("run", "") for step in doc["jobs"]["build"]["steps"])
+    assert "npm ci" in script
+    assert "scripts/verify-site.sh" in script
+
+    upload = next(s for s in doc["jobs"]["build"]["steps"]
+                  if s.get("uses", "").startswith("actions/upload-pages-artifact@"))
+    assert upload["with"]["path"] == "docs/.vitepress/dist"
+
+
+def test_deploy_workflow_deploy_job_depends_on_build():
+    doc = load_yaml(WORKFLOWS / "deploy-site.yml")
+    deploy = doc["jobs"]["deploy"]
+    assert deploy["needs"] == "build"
+    uses = [s.get("uses", "") for s in deploy["steps"]]
+    assert any(u.startswith("actions/deploy-pages@") for u in uses)
+    assert deploy["environment"]["name"] == "github-pages"
+
+
+def test_deploy_workflow_serialises_and_skips_failed_scrapes():
+    doc = load_yaml(WORKFLOWS / "deploy-site.yml")
+    assert doc["concurrency"]["group"] == "pages"
+    assert doc["concurrency"]["cancel-in-progress"] is False
+    # 抓取失败时不重建站点
+    condition = doc["jobs"]["build"]["if"]
+    assert "workflow_run" in condition and "success" in condition
+
+
 # --- Dependabot 与依赖上界 -------------------------------------------------
 
 def test_dependabot_covers_pip_and_actions():
