@@ -122,6 +122,7 @@ ${neighbours.length ? `**相邻日期**：${neighbours.join(' · ')}` : ''}
 
 function renderMonthPage(month, days) {
   const [year, mm] = [month.slice(0, 4), month.slice(4, 6)]
+  const dayByDate = new Set(days.map((d) => d.date))
   const items = [...days].reverse().map((day) =>
     `- [${fmtDate(day.date)}](/daily/${day.date.slice(0, 4)}/${day.date.slice(4, 6)}/${day.date}.md)`
   )
@@ -131,7 +132,11 @@ title: ${year}-${mm}
 
 # ${year} 年 ${mm} 月
 
-共 **${days.length}** 天。
+[← 回到 ${year} 年日历](/calendar/${year}.md) · 共 **${days.length}** 天快照
+
+${monthCalendarMarkdown(year, mm, dayByDate)}
+
+## 当月快照
 
 ${items.join('\n')}
 `
@@ -143,12 +148,12 @@ function renderDailyIndex(daysByMonth) {
   const allDates = [...daysByMonth.values()].flat().map((d) => d.date).sort()
 
   const blocks = years.map((year) => {
-    const rows = [...daysByMonth.keys()]
-      .filter((m) => m.startsWith(year))
-      .sort()
-      .reverse()
-      .map((m) => `| ${m.slice(4, 6)} 月 | ${daysByMonth.get(m).length} | [${m.slice(0, 4)}-${m.slice(4, 6)}](/month/${m.slice(0, 4)}-${m.slice(4, 6)}.md) |`)
-    return `## ${year}\n\n| 月份 | 天数 | 归档 |\n| --- | --- | --- |\n${rows.join('\n')}`
+    const months = [...daysByMonth.keys()].filter((m) => m.startsWith(year)).sort().reverse()
+    const yearDays = months.reduce((sum, m) => sum + daysByMonth.get(m).length, 0)
+    const monthLinks = months
+      .map((m) => `[${m.slice(4, 6)} 月](/month/${m.slice(0, 4)}-${m.slice(4, 6)}.md)`)
+      .join(' · ')
+    return `## ${year}\n\n**${yearDays}** 天快照 · [看 ${year} 年日历](/calendar/${year}.md)\n\n${monthLinks}`
   })
 
   return `---
@@ -364,6 +369,7 @@ function buildSidebar(daysByMonth) {
   const years = [...new Set(months.map((m) => m.slice(0, 4)))].sort().reverse()
   return years.map((year) => ({
     text: year,
+    link: `/calendar/${year}`,
     collapsed: year !== years[0],
     items: months
       .filter((m) => m.startsWith(year))
