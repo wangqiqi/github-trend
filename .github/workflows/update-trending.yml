@@ -2,19 +2,13 @@ name: Update GitHub Trending
 
 # 触发条件:
 #   1. 每天 12:00 UTC 定时抓取
-#   2. 手动触发
-#   3. 代码推送时抓一次（data/** 与 .dsh/** 的变更被忽略，
-#      免得机器人自己的提交反过来再触发一次抓取）
+#   2. 手动触发（workflow_dispatch）
+#
+# 刻意不用 push 触发：抓取产物是按天命名的快照，而「同日不覆盖」策略会让
+# 每次代码推送都多攒一份文件（真实后果：20261012.md / _01 / _02）。
+# 代码推送的验证交给 ci.yml，抓取只按定时或手动。
 
 on:
-  push:
-    branches: [ main, master ]
-    paths-ignore:
-      - 'data/**'
-      - '.dsh/**'
-      - 'README.md'
-      - 'README_EN.md'
-      - 'CHANGELOG.md'
   schedule:
     # 每天中午 12:00 UTC 运行
     - cron: '0 12 * * *'

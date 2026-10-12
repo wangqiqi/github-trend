@@ -80,12 +80,16 @@ def test_update_workflow_caches_pip():
     assert setup["with"]["cache"] == "pip"
 
 
-def test_update_workflow_ignores_own_data_commits():
-    """机器人提交 data/** 后不能反过来再触发自己。"""
+def test_update_workflow_has_no_push_trigger():
+    """刻意不要 push 触发。
+
+    抓取产物按天命名的快照，加上「同日不覆盖」策略，每次代码推送都会多攒
+    一份文件（真实后果：20261012.md / _01 / _02）。代码验证交给 ci.yml。
+    """
     doc = load_yaml(WORKFLOWS / "update-trending.yml")
-    paths_ignore = triggers(doc)["push"]["paths-ignore"]
-    assert "data/**" in paths_ignore
-    assert ".dsh/**" in paths_ignore
+    assert "push" not in triggers(doc)
+    assert "schedule" in triggers(doc)
+    assert "workflow_dispatch" in triggers(doc)
 
 
 def test_update_workflow_passes_token_to_scraper():

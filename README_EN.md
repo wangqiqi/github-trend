@@ -69,7 +69,7 @@ pip install -r requirements-dev.txt
 
 Two workflows are configured:
 
-- `update-trending.yml`: scrapes **daily at 12:00 UTC**; also runs on pushes to main/master (changes under `data/**`, `.dsh/**` and the READMEs are ignored so the bot's own commits cannot re-trigger it); supports manual dispatch. Only one run per branch at a time.
+- `update-trending.yml`: scrapes **daily at 12:00 UTC** and supports manual dispatch; only one run per branch at a time. It deliberately does **not** run on pushes — daily snapshots never overwrite, so a push would only pile up extra files for the same day; code validation is handled by `ci.yml`.
 - `ci.yml`: runs `./scripts/verify.sh` on pushes and pull requests.
 
 If you fork this repository, you need to modify the following:

@@ -69,7 +69,7 @@ pip install -r requirements-dev.txt
 
 本项目已配置两个 workflow：
 
-- `update-trending.yml`：**每天 12:00 UTC** 定时抓取；代码推送到 main/master 时也会抓一次（`data/**`、`.dsh/**` 与 README 的变更被忽略，避免机器人提交反过来触发自己）；支持手动触发。同一分支同时只跑一个实例。
+- `update-trending.yml`：**每天 12:00 UTC** 定时抓取，支持手动触发；同一分支同时只跑一个实例。刻意不用 push 触发——抓取产物是按天一份的快照且同日不覆盖，代码推送会白攒出多份文件；代码推送的验证由 `ci.yml` 负责。
 - `ci.yml`：推送与 PR 时运行 `./scripts/verify.sh`，代码坏了会被拦下。
 
 如果您 fork 了本仓库，需要修改以下内容：
