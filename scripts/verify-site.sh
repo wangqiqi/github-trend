@@ -62,6 +62,29 @@ latest_fmt="${latest:0:4}-${latest:4:2}-${latest:6:2}"
 grep -q "$latest_fmt" "$DIST/index.html" || fail_msg "首页没有最新一天（$latest_fmt）的榜单"
 grep -q '<table' "$DIST/index.html" || fail_msg "首页没有榜单表格"
 
+# 日历守门：可点日期数必须等于数据天数，且每个链接目标页真实存在
+node_years() {
+  node --input-type=module -e "import fs from 'node:fs'; const i = JSON.parse(fs.readFileSync('data/index.json','utf8')); console.log([...new Set(i.files.map((f) => f.date.slice(0, 4)))].sort().join(' '))"
+}
+node_days_in_year() {
+  node --input-type=module -e "import fs from 'node:fs'; const i = JSON.parse(fs.readFileSync('data/index.json','utf8')); console.log(new Set(i.files.filter((f) => f.date.startsWith('$1')).map((f) => f.date)).size)"
+}
+for year in $(node_years); do
+  page="$DIST/calendar/$year.html"
+  [[ -f "$page" ]] || { fail_msg "缺少 $year 年日历页"; continue; }
+
+  expected="$(node_days_in_year "$year")"
+  links="$(grep -o "${BASE_PREFIX}daily/$year/[0-9]*/[0-9]*" "$page" | sort -u)"
+  link_count="$(printf '%s\n' "$links" | grep -c . || true)"
+  [[ "$link_count" -eq "$expected" ]] || fail_msg "$year 年日历可点日期 $link_count 个，数据里有 $expected 天"
+
+  # 逐条验证链接目标存在（Markdown 链接已被 VitePress 检查，这里是第二道防线）
+  while IFS= read -r target; do
+    [[ -z "$target" ]] && continue
+    [[ -f "$DIST/${target#"$BASE_PREFIX"}.html" ]] || fail_msg "日历链接目标不存在: $target"
+  done <<< "$links"
+done
+
 [[ "$fail" -ne 0 ]] && exit 1
 
 echo "  页面数: $pages（逐日 $daily_pages/$days）· 最大逐日页 ${worst_kb}KB · 产物体积: $(du -sh "$DIST" | cut -f1)"

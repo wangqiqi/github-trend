@@ -147,6 +147,14 @@ def test_verify_all_composes_python_and_site():
     assert "scripts/verify-site.sh" in text
 
 
+def test_verify_site_guards_calendar_links():
+    """日历的日链接要等于数据天数，且目标页存在（Markdown 链接已被 VitePress 检查，这是第二道）。"""
+    text = (REPO_ROOT / "scripts" / "verify-site.sh").read_text(encoding="utf-8")
+    assert "calendar/$year.html" in text
+    assert "可点日期" in text
+    assert "日历链接目标不存在" in text
+
+
 def test_verify_site_guards_page_weight():
     """SPIKE-001 的教训要固化成断言，否则哪天侧边栏退回逐日条目没人拦。"""
     text = (REPO_ROOT / "scripts" / "verify-site.sh").read_text(encoding="utf-8")
