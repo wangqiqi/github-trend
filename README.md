@@ -95,6 +95,32 @@ bash scripts/check-site.sh   # 线上冒烟：确认 https://znza.top/github-tre
 - `ci.yml`：推送与 PR 时跑两个 job —— `verify`（Python 套件）与 `site`（`npm ci` + 站点构建断言）。
 - `deploy-site.yml`：构建并部署站点到 GitHub Pages。除了 push 与手动触发，还监听抓取 workflow 的 `workflow_run` —— 因为抓取用 `GITHUB_TOKEN` 提交数据，而这类提交**不会再触发 push 事件**，只靠 `on: push` 会出现「数据更新了站点不动」。
 
+### 数据到站点的自动同步链路
+
+每天定时抓取之后**全自动**，没有人值守也不需要手动操作：
+
+```
+12:00 UTC  schedule 触发 update-trending.yml
+   └─ pip install → python scraper.py（带 GITHUB_TOKEN，超时/退避重试）
+        ├─ 任一段抓不到 → 非零退出：不落盘、不提交、不部署
+        └─ 全部成功 → 原子写 data/YYYY/MM/YYYYMMDD.md + .json
+   └─ python scripts/build_index.py 重建索引
+   └─ git add data/ → 无变化跳过；有变化则 commit + push（GITHUB_TOKEN）
+        ⚠️ GITHUB_TOKEN 的提交【不触发 push 事件】
+   └─ deploy-site.yml 由 workflow_run 接住 → 生成 500+ 页 → 产物断言 → 部署 Pages
+        └─ https://znza.top/github-trend/ 更新
+```
+
+注意两点：**抓取失败会连带跳过部署**（`if: conclusion == 'success'`）；GitHub 的定时是 best-effort，实测落地时间可能比 12:00 UTC 晚数小时。
+
+### 与博客站的关系
+
+本站与 `vitepress-blog-source`（znza.top 主站）**构建上互不依赖**，只有一条单向 URL 外链：
+
+- `github-trend` 仓库自带 GitHub Pages（项目站点）→ 因为主站绑定了自定义域 `znza.top`，本站自动出现在 `https://znza.top/github-trend/`
+- 博客仓库的「项目站」菜单与开源专栏里挂的就是上面这个 URL（改动在博客仓库，不在本仓库）
+- 因此：**站点更新不需要动博客**；博客改导航也不会影响本仓库的构建
+
 如果您 fork 了本仓库，需要修改以下内容：
 
 1. `.github/workflows/update-trending.yml` 文件中的 git 配置部分：

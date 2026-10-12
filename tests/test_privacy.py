@@ -35,7 +35,7 @@ LOCAL_PATH_PATTERNS = {
 
 # 抓取内容里出现这些词是正常的（比如讲 secrets 管理的仓库），所以 data/ 不参与路径扫描
 DATA_PREFIX = "data/"
-# 工具配置里会定义「路径模式」本身（例如 denylist 里的 C:\\Users\\），不是泄漏
+# 工具配置里会定义「路径模式」本身（例如 denylist 里的 Windows 用户目录写法），不是泄漏
 CONFIG_PREFIXES = (".cursor/",)
 
 
