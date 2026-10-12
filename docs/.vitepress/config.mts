@@ -24,8 +24,8 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      // TASK-004 生成逐日页与趋势页后，这里会补上「每日榜单 / 趋势」两条入口；
-      // 骨架阶段不挂，避免死链（VitePress 默认对死链 fail，这是我们要的严格）
+      { text: '每日榜单', link: '/daily/' },
+      { text: '趋势', link: '/trends/' },
       { text: '数据说明', link: '/about' },
     ],
     sidebar,

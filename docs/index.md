@@ -7,11 +7,11 @@ hero:
   tagline: 每天 12:00 UTC 自动抓取 · Star / Fork / 趋势榜 / Python · 全历史机器可读
   actions:
     - theme: brand
-      text: 数据说明
-      link: /about
+      text: 浏览每日榜单
+      link: /daily/
     - theme: alt
-      text: GitHub 仓库
-      link: https://github.com/wangqiqi/github-trend
+      text: 趋势榜
+      link: /trends/
 
 features:
   - icon: 📅
@@ -32,5 +32,6 @@ features:
 
 把仓库里逐日累积的榜单数据发布成可浏览、可搜索的站点，数据源头永远是 GitHub 仓库里的 `data/` 目录。
 
-- 站点结构、抓取口径与已知数据缺口：[数据说明](/about)
-- 原始数据：[GitHub 仓库](https://github.com/wangqiqi/github-trend)
+- 想按天看：[每日榜单归档](/daily/)
+- 想看谁在涨：[趋势榜](/trends/)
+- 想自己拿数据：[数据说明](/about)
