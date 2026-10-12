@@ -154,7 +154,7 @@ def test_scrape_trending_requests_html_accept_and_parses():
     assert session.calls[0]["headers"]["Accept"] == scraper.HTML_ACCEPT
     assert repos[0]["title"] == "owner/repo"
     assert repos[0]["url"] == "https://github.com/owner/repo"
-    assert repos[0]["stars"] == "1,234"
+    assert repos[0]["stars"] == "1234"  # TASK-006 起统一去掉千分位
     assert repos[0]["language"] == "Python"
 
 

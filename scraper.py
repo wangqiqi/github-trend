@@ -2,6 +2,7 @@
 
 import datetime
 import os
+import re
 import sys
 import tempfile
 import time
@@ -29,6 +30,9 @@ MAX_BACKOFF = 30.0
 RETRY_STATUSES = frozenset({403, 429, 500, 502, 503, 504})
 API_ACCEPT = 'application/vnd.github.v3+json'
 HTML_ACCEPT = 'text/html,application/xhtml+xml'
+
+# 纯数字，或合法的千分位分组，可带小数（配合 k/m 后缀）
+COUNT_PATTERN = re.compile(r'^(?:\d+|\d{1,3}(?:,\d{3})+)(?:\.\d+)?$')
 
 # 便于测试注入，避免用例里真的睡 1s/2s
 _sleep = time.sleep
@@ -122,9 +126,9 @@ def get_file_path(is_timestamp=False):
     if not os.path.exists(directory):
         os.makedirs(directory)
     
-    # 如果需要时间戳，则添加小时和分钟
+    # 需要时间戳时精确到秒：分钟粒度会让同分钟的两次抓取互相覆盖
     if is_timestamp:
-        time_str = datetime.datetime.now().strftime('%H%M')
+        time_str = datetime.datetime.now().strftime('%H%M%S')
         filename = f"{directory}/{date_str}_{time_str}.md"
     else:
         filename = f"{directory}/{date_str}.md"
@@ -133,16 +137,67 @@ def get_file_path(is_timestamp=False):
 
 
 def check_file_exists(filename):
-    """检查文件是否存在，如果存在则添加时间戳"""
-    if os.path.exists(filename):
-        # 文件已存在，使用带时间戳的文件名
-        directory = os.path.dirname(filename)
-        base_name = os.path.basename(filename)
-        name_parts = os.path.splitext(base_name)
-        time_str = datetime.datetime.now().strftime('%H%M')
-        new_filename = f"{directory}/{name_parts[0]}_{time_str}{name_parts[1]}"
-        return new_filename
-    return filename
+    """目标已存在时追加序号，绝不覆盖既有数据。
+
+    旧实现用「到分钟的时间戳」避让：同一分钟内第二次抓取会直接覆盖前一次。
+    """
+    if not os.path.exists(filename):
+        return filename
+
+    directory = os.path.dirname(filename)
+    base_name, extension = os.path.splitext(os.path.basename(filename))
+
+    index = 1
+    while True:
+        candidate = os.path.join(directory, f"{base_name}_{index:02d}{extension}")
+        if not os.path.exists(candidate):
+            return candidate
+        index += 1
+
+
+def normalize_count(value):
+    """把 star/fork 数统一成纯整数字符串，无法解析时返回空串。
+
+    趋势页给的是 '150,148'，API 给的是 150148，同一份文档里两种写法没法排序统计。
+    顺带兼容 '12.3k' 这类紧凑写法；千分位必须是合法分组，否则宁可留空。
+    """
+    if value is None:
+        return ''
+
+    text = str(value).strip().replace(' ', '')
+    if not text:
+        return ''
+
+    multiplier = 1
+    suffix = text[-1]
+    if suffix in 'kK':
+        multiplier, text = 1000, text[:-1]
+    elif suffix in 'mM':
+        multiplier, text = 1_000_000, text[:-1]
+
+    if not COUNT_PATTERN.match(text):
+        return ''
+
+    number = float(text.replace(',', ''))
+    return str(int(round(number * multiplier)))
+
+
+def truncate_description(text, limit=100):
+    """转义表格分隔符并按词边界截断，返回长度不超过 limit 的描述。"""
+    text = (text or '').replace('|', '\\|').replace('\n', ' ').replace('\r', ' ').strip()
+    if len(text) <= limit:
+        return text
+
+    cut = text[:limit - 3]
+    space = cut.rfind(' ')
+    if space > 0:
+        cut = cut[:space]
+    return cut.rstrip() + '...'
+
+
+def escape_link_text(text):
+    """中括号会破坏 [标题](链接) 结构，转义掉。"""
+    return (text or '').replace('[', '\\[').replace(']', '\\]')
 
 
 def render_header(date):
@@ -178,12 +233,12 @@ def scrape_trending(language=None, session=None):
         description = i("p").text().strip()
         url = f"https://github.com/{owner_repo}"
         
-        # 获取 stars 和 forks 信息
+        # 获取 stars 和 forks 信息（趋势页带千分位，统一成纯整数）
         stars_elem = i("div.f6 a[href$='stargazers']")
-        stars = stars_elem.text().strip() if stars_elem else "N/A"
+        stars = normalize_count(stars_elem.text()) if stars_elem else ''
         
         forks_elem = i("div.f6 a[href$='forks']")
-        forks = forks_elem.text().strip() if forks_elem else "N/A"
+        forks = normalize_count(forks_elem.text()) if forks_elem else ''
         
         language_elem = i("div.f6 span[itemprop='programmingLanguage']")
         lang = language_elem.text().strip() if language_elem else "N/A"
@@ -220,8 +275,8 @@ def scrape_most_starred(session=None):
                 "title": item['full_name'],
                 "url": item['html_url'],
                 "description": item['description'] or "No description",
-                "stars": str(item['stargazers_count']),
-                "forks": str(item['forks_count']),
+                "stars": normalize_count(item['stargazers_count']),
+                "forks": normalize_count(item['forks_count']),
                 "language": item['language'] or "N/A"
             })
         
@@ -256,8 +311,8 @@ def scrape_most_forked(session=None):
                 "title": item['full_name'],
                 "url": item['html_url'],
                 "description": item['description'] or "No description",
-                "stars": str(item['stargazers_count']),
-                "forks": str(item['forks_count']),
+                "stars": normalize_count(item['stargazers_count']),
+                "forks": normalize_count(item['forks_count']),
                 "language": item['language'] or "N/A"
             })
         
@@ -309,14 +364,12 @@ def render_section(section_title, repos, is_subsection=False):
 
     # 写入表格内容
     for i, repo in enumerate(repos):
-        # 处理描述中可能存在的 | 符号，避免破坏表格结构
-        description = repo['description'].replace('|', '\\|').replace('\n', ' ')
-        # 限制描述长度，避免表格过宽
-        if len(description) > 100:
-            description = description[:97] + "..."
+        # 描述里可能含 | 与换行，会破坏表格结构；过长则按词边界截断
+        description = truncate_description(repo['description'])
+        title = escape_link_text(repo['title'])
 
         lines.append(
-            f"| {i+1} | [{repo['title']}]({repo['url']}) | {description} | {repo['language']} | {repo['stars']} | {repo['forks']} |"
+            f"| {i+1} | [{title}]({repo['url']}) | {description} | {repo['language']} | {repo['stars']} | {repo['forks']} |"
         )
 
     lines.append("")
