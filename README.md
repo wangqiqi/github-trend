@@ -2,21 +2,21 @@
 
 [English](README_EN.md) | 中文
 
-自动抓取 GitHub 热门仓库信息，包括每日 Star 最多的仓库、Fork 最多的仓库、趋势榜和 Python 语言热榜。
+自动抓取 GitHub 热门仓库信息，包括每日 Star 最多的仓库、Fork 最多的仓库、趋势榜和 Python 语言热榜，并同时产出人类可读的 Markdown 与机器可读的 JSON。
 
 ## 功能特点
 
 - 每天抓取 GitHub 上的热门仓库信息
-- 按照年份和月份存储数据，文件命名格式为 YYYYMMDD.md
-- 每 6 小时自动更新一次，并在文件名中添加时间戳避免覆盖
-- 支持在有新的推送时自动触发抓取
-- 提供完整的仓库链接和简介，包括语言、Star 数、Fork 数等信息
-- 以表格形式呈现数据，更加清晰直观
+- 按年份和月份存储数据，Markdown 文件命名格式为 `YYYYMMDD.md`
+- **每天 12:00 UTC 自动抓取并提交**（GitHub Actions）；本地也可以用 `scheduler.py` 每 6 小时抓一次
+- 同一天重复抓取时自动避让文件名（带秒级时间戳或序号），不覆盖既有数据
+- 每次抓取同时写出同名 `.json` 快照，并维护一份全量索引 `data/index.json`
+- 网络请求带超时与退避重试，抓取不全 **不会** 提交半成品数据
 
 ## 抓取内容
 
-- **每日 Star 最多的仓库**：按照 Star 数量排序的 TOP10 仓库
-- **每日 Fork 最多的仓库**：按照 Fork 数量排序的 TOP10 仓库
+- **每日 Star 最多的仓库**：近一年创建、Star 数最高的 TOP10 仓库
+- **每日 Fork 最多的仓库**：近一年有更新、Fork 数最高的 TOP10 仓库
 - **每日趋势榜**：GitHub 趋势榜上的 TOP10 仓库
 - **Python**：Python 语言的热门仓库 TOP10
 
@@ -27,8 +27,8 @@
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/yourusername/github_treding.git
-cd github_treding
+git clone https://github.com/wangqiqi/github-trend.git
+cd github-trend
 ```
 
 2. 安装依赖：
@@ -43,19 +43,34 @@ pip install -r requirements.txt
 python scraper.py
 ```
 
-4. 运行定时任务（每 6 小时自动抓取一次）：
+可选：带上 token 可绕开 GitHub API 未认证时 10 次/分的限流。
+
+```bash
+GITHUB_TOKEN=ghp_xxx python scraper.py
+```
+
+4. 运行定时任务（每 6 小时自动抓取一次，本地常驻）：
 
 ```bash
 python scheduler.py
 ```
 
+### 验收与测试
+
+```bash
+pip install -r requirements-dev.txt
+./scripts/verify.sh              # 语法检查 + 全部单测
+./scripts/verify.sh tests/test_http.py   # 只跑某个测试文件
+```
+
+`python scraper.py` 失败时返回非零退出码，CI 会把这一步判红，后续提交不会执行。
+
 ### GitHub Actions 自动运行
 
-本项目已配置 GitHub Actions，会在以下情况自动运行：
+本项目已配置两个 workflow：
 
-- 每天的 0:00, 6:00, 12:00, 18:00 (UTC) 定时运行
-- 有新的推送到 main 或 master 分支时
-- 手动触发工作流
+- `update-trending.yml`：**每天 12:00 UTC** 定时抓取；代码推送到 main/master 时也会抓一次（`data/**`、`.dsh/**` 与 README 的变更被忽略，避免机器人提交反过来触发自己）；支持手动触发。同一分支同时只跑一个实例。
+- `ci.yml`：推送与 PR 时运行 `./scripts/verify.sh`，代码坏了会被拦下。
 
 如果您 fork 了本仓库，需要修改以下内容：
 
@@ -68,20 +83,67 @@ python scheduler.py
 
 ## 数据存储
 
-所有抓取的数据按照年份和月份存储在 `data` 目录下，例如：
+Markdown 数据按年份和月份存储在 `data` 目录下：
 
 ```
 data/
-  └── 2023/
-      ├── 01/
-      │   ├── 20230101.md
-      │   ├── 20230101_1200.md  # 带时间戳的文件
-      │   ├── 20230102.md
-      │   └── ...
-      ├── 02/
-      │   ├── 20230201.md
-      │   └── ...
-      └── ...
+  ├── index.json              # 全量索引（所有日期的文件清单，含同名 json 是否存在）
+  └── 2026/
+      └── 10/
+          ├── 20261011.md     # 人看的表格
+          ├── 20261011.json   # 程序用的快照
+          ├── 20261012.md
+          └── 20261012.json
+```
+
+早期版本用过带时间戳的文件名，因此目录里也可能看到 `YYYYMMDD_1234.md`（分钟）、`YYYYMMDD_120000.md`（秒）和 `YYYYMMDD_01.md`（避让序号）等历史命名。
+
+### 机器可读 JSON
+
+每次抓取会在 Markdown 旁边写一份同名 JSON：
+
+```json
+{
+  "date": "20261012",
+  "generated_at": "2026-10-12T08:00:00Z",
+  "source": "scraper.py",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "owner/repo",
+          "url": "https://github.com/owner/repo",
+          "description": "原始描述（不转义、不截断）",
+          "language": "Python",
+          "stars": 150148,
+          "forks": 8067
+        }
+      ]
+    }
+  ]
+}
+```
+
+与 Markdown 的关键差异：`stars`/`forks` 是**整数**（Markdown 里为了可读性保留原样），`description` 保留原文；无法解析的计数为 `null`。
+
+`data/index.json` 是数据树的纯函数（不含生成时刻），重复运行结果一致：
+
+```bash
+python scripts/build_index.py
+```
+
+## 维护脚本
+
+`tools/` 下是一次性维护脚本，**默认 dry-run**，加 `--apply` 才会真正写盘，且原文件先备份到 `backups/`（已在 .gitignore 中）。
+
+```bash
+python tools/cleanup.py                      # 报告同一天的多余文件
+python tools/cleanup.py --month 2025/04 --apply
+python tools/merge_files.py 20250424         # 演练合并
+python tools/merge_files.py 20250424 --apply
 ```
 
 ## 自定义配置
