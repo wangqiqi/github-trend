@@ -1,6 +1,6 @@
 {
   "generated_from": "data/**/*.json",
-  "total_days": 577,
+  "total_days": 578,
   "first_date": "20250313",
   "last_date": "20261012",
   "repo_count": 2535,
@@ -20,9 +20,9 @@
         "first_date": "20260130",
         "last_date": "20261012",
         "first_stars": 112144,
-        "last_stars": 391732,
-        "gain": 279588,
-        "gain_per_day": 1096.42,
+        "last_stars": 391787,
+        "gain": 279643,
+        "gain_per_day": 1096.64,
         "best_rank": 1
       },
       {
@@ -46,9 +46,9 @@
         "first_date": "20260425",
         "last_date": "20261012",
         "first_stars": 18860,
-        "last_stars": 286899,
-        "gain": 268039,
-        "gain_per_day": 1576.7,
+        "last_stars": 287789,
+        "gain": 268929,
+        "gain_per_day": 1581.94,
         "best_rank": 1
       },
       {
@@ -104,6 +104,19 @@
         "best_rank": 1
       },
       {
+        "name": "public-apis/public-apis",
+        "url": "https://github.com/public-apis/public-apis",
+        "language": "Python",
+        "appearances": 83,
+        "first_date": "20250313",
+        "last_date": "20261012",
+        "first_stars": 332113,
+        "last_stars": 487947,
+        "gain": 155834,
+        "gain_per_day": 269.61,
+        "best_rank": 1
+      },
+      {
         "name": "msitarzewski/agency-agents",
         "url": "https://github.com/msitarzewski/agency-agents",
         "language": "Shell",
@@ -111,9 +124,9 @@
         "first_date": "20260304",
         "last_date": "20261012",
         "first_stars": 4695,
-        "last_stars": 159246,
-        "gain": 154551,
-        "gain_per_day": 696.18,
+        "last_stars": 159455,
+        "gain": 154760,
+        "gain_per_day": 697.12,
         "best_rank": 1
       },
       {
@@ -156,16 +169,16 @@
         "best_rank": 1
       },
       {
-        "name": "public-apis/public-apis",
-        "url": "https://github.com/public-apis/public-apis",
-        "language": "Python",
-        "appearances": 82,
-        "first_date": "20250313",
-        "last_date": "20260909",
-        "first_stars": 332113,
-        "last_stars": 477977,
-        "gain": 145864,
-        "gain_per_day": 267.64,
+        "name": "morluto/rea",
+        "url": "https://github.com/morluto/rea",
+        "language": "TypeScript",
+        "appearances": 7,
+        "first_date": "20261006",
+        "last_date": "20261012",
+        "first_stars": 8005,
+        "last_stars": 150429,
+        "gain": 142424,
+        "gain_per_day": 23737.33,
         "best_rank": 1
       },
       {
@@ -228,9 +241,9 @@
         "first_date": "20260816",
         "last_date": "20261012",
         "first_stars": 125310,
-        "last_stars": 247840,
-        "gain": 122530,
-        "gain_per_day": 2149.65,
+        "last_stars": 248182,
+        "gain": 122872,
+        "gain_per_day": 2155.65,
         "best_rank": 1
       },
       {
@@ -257,19 +270,6 @@
         "last_stars": 139742,
         "gain": 120250,
         "gain_per_day": 214.35,
-        "best_rank": 1
-      },
-      {
-        "name": "morluto/rea",
-        "url": "https://github.com/morluto/rea",
-        "language": "TypeScript",
-        "appearances": 7,
-        "first_date": "20261006",
-        "last_date": "20261012",
-        "first_stars": 8005,
-        "last_stars": 123345,
-        "gain": 115340,
-        "gain_per_day": 19223.33,
         "best_rank": 1
       }
     ],
@@ -334,9 +334,9 @@
         "first_date": "20250313",
         "last_date": "20261012",
         "first_stars": 171746,
-        "last_stars": 174813,
-        "gain": 3067,
-        "gain_per_day": 5.31,
+        "last_stars": 174821,
+        "gain": 3075,
+        "gain_per_day": 5.32,
         "best_rank": 1
       },
       {
@@ -360,9 +360,9 @@
         "first_date": "20250313",
         "last_date": "20261012",
         "first_stars": 47333,
-        "last_stars": 56317,
-        "gain": 8984,
-        "gain_per_day": 15.54,
+        "last_stars": 56328,
+        "gain": 8995,
+        "gain_per_day": 15.56,
         "best_rank": 1
       },
       {
@@ -373,9 +373,9 @@
         "first_date": "20250318",
         "last_date": "20261012",
         "first_stars": 188708,
-        "last_stars": 200875,
-        "gain": 12167,
-        "gain_per_day": 21.23,
+        "last_stars": 200896,
+        "gain": 12188,
+        "gain_per_day": 21.27,
         "best_rank": 1
       },
       {
@@ -412,9 +412,9 @@
         "first_date": "20250316",
         "last_date": "20261012",
         "first_stars": 165056,
-        "last_stars": 175885,
-        "gain": 10829,
-        "gain_per_day": 18.83,
+        "last_stars": 175893,
+        "gain": 10837,
+        "gain_per_day": 18.85,
         "best_rank": 1
       },
       {
@@ -544,9 +544,9 @@
         "first_date": "20261006",
         "last_date": "20261012",
         "first_stars": 8005,
-        "last_stars": 123345,
-        "gain": 115340,
-        "gain_per_day": 19223.33,
+        "last_stars": 150429,
+        "gain": 142424,
+        "gain_per_day": 23737.33,
         "best_rank": 1
       },
       {
@@ -719,6 +719,19 @@
         "best_rank": 6
       },
       {
+        "name": "storytold/artcraft",
+        "url": "https://github.com/storytold/artcraft",
+        "language": "Rust",
+        "appearances": 5,
+        "first_date": "20261008",
+        "last_date": "20261012",
+        "first_stars": 7029,
+        "last_stars": 21427,
+        "gain": 14398,
+        "gain_per_day": 3599.5,
+        "best_rank": 3
+      },
+      {
         "name": "ifixai-ai/iFixAi",
         "url": "https://github.com/ifixai-ai/iFixAi",
         "language": "Python",
@@ -743,19 +756,6 @@
         "gain": 0,
         "gain_per_day": null,
         "best_rank": 10
-      },
-      {
-        "name": "storytold/artcraft",
-        "url": "https://github.com/storytold/artcraft",
-        "language": "Rust",
-        "appearances": 5,
-        "first_date": "20261008",
-        "last_date": "20261012",
-        "first_stars": 7029,
-        "last_stars": 19305,
-        "gain": 12276,
-        "gain_per_day": 3069.0,
-        "best_rank": 3
       },
       {
         "name": "op7418/Humanizer-zh",

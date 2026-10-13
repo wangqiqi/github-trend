@@ -202,3 +202,4 @@ def test_ci_rebuilds_index_after_scraping():
     workflow = yaml.safe_load((REPO_ROOT / ".github" / "workflows" / "update-trending.yml").read_text(encoding="utf-8"))
     script = "\n".join(step.get("run", "") for step in workflow["jobs"]["update-trending"]["steps"])
     assert "scripts/build_index.py" in script
+    assert "scripts/build_trends.py" in script

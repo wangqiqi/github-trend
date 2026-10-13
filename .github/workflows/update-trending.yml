@@ -56,6 +56,10 @@ jobs:
       # 索引是数据树的纯函数，跟着数据一起更新，避免 index.json 过期
       run: python scripts/build_index.py
 
+    - name: Rebuild trends
+      # trends.json 与每日 JSON 同源聚合；漏跑会让 CI test_committed_trends_file_is_up_to_date 红
+      run: python scripts/build_trends.py
+
     - name: Commit and push if changed
       run: |
         # 如果您 fork 了此仓库，请修改以下 git 配置为您自己的邮箱和用户名

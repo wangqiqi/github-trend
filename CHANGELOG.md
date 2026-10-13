@@ -2,6 +2,13 @@
 
 本项目遵循 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/) 与 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [Unreleased]
+
+### Fixed
+
+- 每日抓取 workflow 在提交前同步重建 `data/trends.json`，避免数据已更新但趋势产物过期导致 CI `test_committed_trends_file_is_up_to_date` 失败
+- GitHub Pages 相关 Actions 升至 `setup-node@v7`、`configure-pages@v6`、`upload-pages-artifact@v5`、`deploy-pages@v5`（与 Dependabot 提案一致，合并后 CI 可绿）
+
 ## [1.2.1] - 2026-10-12
 
 ### Added
