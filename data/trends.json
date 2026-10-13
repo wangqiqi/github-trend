@@ -1,14 +1,14 @@
 {
   "generated_from": "data/**/*.json",
-  "total_days": 578,
+  "total_days": 579,
   "first_date": "20250313",
-  "last_date": "20261012",
-  "repo_count": 2535,
+  "last_date": "20261013",
+  "repo_count": 2536,
   "thresholds": {
     "min_appearances": 3,
     "newcomer_window_days": 30,
     "leader_limit": 20,
-    "newcomer_window_start": "20260912"
+    "newcomer_window_start": "20260913"
   },
   "leaders": {
     "gain": [
@@ -16,13 +16,13 @@
         "name": "openclaw/openclaw",
         "url": "https://github.com/openclaw/openclaw",
         "language": "TypeScript",
-        "appearances": 130,
+        "appearances": 131,
         "first_date": "20260130",
-        "last_date": "20261012",
+        "last_date": "20261013",
         "first_stars": 112144,
-        "last_stars": 391787,
-        "gain": 279643,
-        "gain_per_day": 1096.64,
+        "last_stars": 391872,
+        "gain": 279728,
+        "gain_per_day": 1092.69,
         "best_rank": 1
       },
       {
@@ -42,13 +42,13 @@
         "name": "mattpocock/skills",
         "url": "https://github.com/mattpocock/skills",
         "language": "Shell",
-        "appearances": 92,
+        "appearances": 93,
         "first_date": "20260425",
-        "last_date": "20261012",
+        "last_date": "20261013",
         "first_stars": 18860,
-        "last_stars": 287789,
-        "gain": 268929,
-        "gain_per_day": 1581.94,
+        "last_stars": 289315,
+        "gain": 270455,
+        "gain_per_day": 1581.61,
         "best_rank": 1
       },
       {
@@ -75,6 +75,19 @@
         "last_stars": 552023,
         "gain": 195311,
         "gain_per_day": 341.45,
+        "best_rank": 1
+      },
+      {
+        "name": "morluto/rea",
+        "url": "https://github.com/morluto/rea",
+        "language": "TypeScript",
+        "appearances": 8,
+        "first_date": "20261006",
+        "last_date": "20261013",
+        "first_stars": 8005,
+        "last_stars": 200333,
+        "gain": 192328,
+        "gain_per_day": 27475.43,
         "best_rank": 1
       },
       {
@@ -169,19 +182,6 @@
         "best_rank": 1
       },
       {
-        "name": "morluto/rea",
-        "url": "https://github.com/morluto/rea",
-        "language": "TypeScript",
-        "appearances": 7,
-        "first_date": "20261006",
-        "last_date": "20261012",
-        "first_stars": 8005,
-        "last_stars": 150429,
-        "gain": 142424,
-        "gain_per_day": 23737.33,
-        "best_rank": 1
-      },
-      {
         "name": "anthropics/claude-code",
         "url": "https://github.com/anthropics/claude-code",
         "language": "TypeScript",
@@ -237,13 +237,13 @@
         "name": "deepseek-ai/deepseek-harness",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
         "language": "TypeScript",
-        "appearances": 18,
+        "appearances": 19,
         "first_date": "20260816",
-        "last_date": "20261012",
+        "last_date": "20261013",
         "first_stars": 125310,
-        "last_stars": 248182,
-        "gain": 122872,
-        "gain_per_day": 2155.65,
+        "last_stars": 248907,
+        "gain": 123597,
+        "gain_per_day": 2130.98,
         "best_rank": 1
       },
       {
@@ -304,9 +304,9 @@
         "name": "TheOdinProject/css-exercises",
         "url": "https://github.com/TheOdinProject/css-exercises",
         "language": "HTML",
-        "appearances": 242,
+        "appearances": 243,
         "first_date": "20250320",
-        "last_date": "20261012",
+        "last_date": "20261013",
         "first_stars": 1781,
         "last_stars": 2724,
         "gain": 943,
@@ -330,13 +330,26 @@
         "name": "twbs/bootstrap",
         "url": "https://github.com/twbs/bootstrap",
         "language": "MDX",
-        "appearances": 225,
+        "appearances": 226,
         "first_date": "20250313",
-        "last_date": "20261012",
+        "last_date": "20261013",
         "first_stars": 171746,
-        "last_stars": 174821,
-        "gain": 3075,
+        "last_stars": 174826,
+        "gain": 3080,
         "gain_per_day": 5.32,
+        "best_rank": 1
+      },
+      {
+        "name": "firstcontributions/first-contributions",
+        "url": "https://github.com/firstcontributions/first-contributions",
+        "language": "N/A",
+        "appearances": 221,
+        "first_date": "20250313",
+        "last_date": "20261013",
+        "first_stars": 47333,
+        "last_stars": 56342,
+        "gain": 9009,
+        "gain_per_day": 15.56,
         "best_rank": 1
       },
       {
@@ -353,29 +366,16 @@
         "best_rank": 1
       },
       {
-        "name": "firstcontributions/first-contributions",
-        "url": "https://github.com/firstcontributions/first-contributions",
-        "language": "N/A",
-        "appearances": 220,
-        "first_date": "20250313",
-        "last_date": "20261012",
-        "first_stars": 47333,
-        "last_stars": 56328,
-        "gain": 8995,
-        "gain_per_day": 15.56,
-        "best_rank": 1
-      },
-      {
         "name": "tensorflow/tensorflow",
         "url": "https://github.com/tensorflow/tensorflow",
         "language": "C++",
-        "appearances": 218,
+        "appearances": 219,
         "first_date": "20250318",
-        "last_date": "20261012",
+        "last_date": "20261013",
         "first_stars": 188708,
-        "last_stars": 200896,
-        "gain": 12188,
-        "gain_per_day": 21.27,
+        "last_stars": 200939,
+        "gain": 12231,
+        "gain_per_day": 21.31,
         "best_rank": 1
       },
       {
@@ -408,13 +408,13 @@
         "name": "github/gitignore",
         "url": "https://github.com/github/gitignore",
         "language": "N/A",
-        "appearances": 208,
+        "appearances": 209,
         "first_date": "20250316",
-        "last_date": "20261012",
+        "last_date": "20261013",
         "first_stars": 165056,
-        "last_stars": 175893,
-        "gain": 10837,
-        "gain_per_day": 18.85,
+        "last_stars": 175905,
+        "gain": 10849,
+        "gain_per_day": 18.84,
         "best_rank": 1
       },
       {
@@ -499,12 +499,12 @@
         "name": "nightscout/cgm-remote-monitor",
         "url": "https://github.com/nightscout/cgm-remote-monitor",
         "language": "JavaScript",
-        "appearances": 172,
+        "appearances": 173,
         "first_date": "20250313",
-        "last_date": "20261012",
+        "last_date": "20261013",
         "first_stars": 2490,
-        "last_stars": 2842,
-        "gain": 352,
+        "last_stars": 2843,
+        "gain": 353,
         "gain_per_day": 0.61,
         "best_rank": 1
       },
@@ -540,13 +540,13 @@
         "name": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "language": "TypeScript",
-        "appearances": 7,
+        "appearances": 8,
         "first_date": "20261006",
-        "last_date": "20261012",
+        "last_date": "20261013",
         "first_stars": 8005,
-        "last_stars": 150429,
-        "gain": 142424,
-        "gain_per_day": 23737.33,
+        "last_stars": 200333,
+        "gain": 192328,
+        "gain_per_day": 27475.43,
         "best_rank": 1
       },
       {
@@ -602,6 +602,19 @@
         "best_rank": 8
       },
       {
+        "name": "vercel-labs/skills",
+        "url": "https://github.com/vercel-labs/skills",
+        "language": "TypeScript",
+        "appearances": 3,
+        "first_date": "20261002",
+        "last_date": "20261013",
+        "first_stars": 32980,
+        "last_stars": 34335,
+        "gain": 1355,
+        "gain_per_day": 123.18,
+        "best_rank": 6
+      },
+      {
         "name": "alchaincyf/nuwa-skill",
         "url": "https://github.com/alchaincyf/nuwa-skill",
         "language": "Python",
@@ -613,32 +626,6 @@
         "gain": 0,
         "gain_per_day": null,
         "best_rank": 7
-      },
-      {
-        "name": "vercel-labs/skills",
-        "url": "https://github.com/vercel-labs/skills",
-        "language": "TypeScript",
-        "appearances": 2,
-        "first_date": "20261002",
-        "last_date": "20261009",
-        "first_stars": 32980,
-        "last_stars": 33543,
-        "gain": 563,
-        "gain_per_day": 80.43,
-        "best_rank": 8
-      },
-      {
-        "name": "yuliskov/SmartTube",
-        "url": "https://github.com/yuliskov/SmartTube",
-        "language": "Java",
-        "appearances": 2,
-        "first_date": "20260912",
-        "last_date": "20260913",
-        "first_stars": 33113,
-        "last_stars": 33346,
-        "gain": 233,
-        "gain_per_day": 233.0,
-        "best_rank": 9
       },
       {
         "name": "boykopovar/AnyPS5",
@@ -680,6 +667,19 @@
         "best_rank": 10
       },
       {
+        "name": "storytold/artcraft",
+        "url": "https://github.com/storytold/artcraft",
+        "language": "Rust",
+        "appearances": 6,
+        "first_date": "20261008",
+        "last_date": "20261013",
+        "first_stars": 7029,
+        "last_stars": 24988,
+        "gain": 17959,
+        "gain_per_day": 3591.8,
+        "best_rank": 3
+      },
+      {
         "name": "apache/skywalking",
         "url": "https://github.com/apache/skywalking",
         "language": "Java",
@@ -717,19 +717,6 @@
         "gain": 0,
         "gain_per_day": null,
         "best_rank": 6
-      },
-      {
-        "name": "storytold/artcraft",
-        "url": "https://github.com/storytold/artcraft",
-        "language": "Rust",
-        "appearances": 5,
-        "first_date": "20261008",
-        "last_date": "20261012",
-        "first_stars": 7029,
-        "last_stars": 21427,
-        "gain": 14398,
-        "gain_per_day": 3599.5,
-        "best_rank": 3
       },
       {
         "name": "ifixai-ai/iFixAi",
@@ -795,6 +782,19 @@
         "gain": 0,
         "gain_per_day": null,
         "best_rank": 4
+      },
+      {
+        "name": "cloudflare/security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "appearances": 5,
+        "first_date": "20260916",
+        "last_date": "20260920",
+        "first_stars": 6153,
+        "last_stars": 17608,
+        "gain": 11455,
+        "gain_per_day": 2863.75,
+        "best_rank": 1
       }
     ]
   }
