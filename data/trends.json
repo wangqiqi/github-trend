@@ -1,14 +1,14 @@
 {
   "generated_from": "data/**/*.json",
-  "total_days": 589,
+  "total_days": 590,
   "first_date": "20250313",
-  "last_date": "20261024",
-  "repo_count": 2552,
+  "last_date": "20261025",
+  "repo_count": 2555,
   "thresholds": {
     "min_appearances": 3,
     "newcomer_window_days": 30,
     "leader_limit": 20,
-    "newcomer_window_start": "20260924"
+    "newcomer_window_start": "20260925"
   },
   "leaders": {
     "gain": [
@@ -16,13 +16,13 @@
         "name": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "language": "TypeScript",
-        "appearances": 18,
+        "appearances": 19,
         "first_date": "20261006",
-        "last_date": "20261024",
+        "last_date": "20261025",
         "first_stars": 8005,
-        "last_stars": 376581,
-        "gain": 368576,
-        "gain_per_day": 20476.44,
+        "last_stars": 382535,
+        "gain": 374530,
+        "gain_per_day": 19712.11,
         "best_rank": 1
       },
       {
@@ -42,26 +42,26 @@
         "name": "mattpocock/skills",
         "url": "https://github.com/mattpocock/skills",
         "language": "Shell",
-        "appearances": 103,
+        "appearances": 104,
         "first_date": "20260425",
-        "last_date": "20261024",
+        "last_date": "20261025",
         "first_stars": 18860,
-        "last_stars": 302265,
-        "gain": 283405,
-        "gain_per_day": 1557.17,
+        "last_stars": 302983,
+        "gain": 284123,
+        "gain_per_day": 1552.58,
         "best_rank": 1
       },
       {
         "name": "openclaw/openclaw",
         "url": "https://github.com/openclaw/openclaw",
         "language": "TypeScript",
-        "appearances": 141,
+        "appearances": 142,
         "first_date": "20260130",
-        "last_date": "20261024",
+        "last_date": "20261025",
         "first_stars": 112144,
-        "last_stars": 392929,
-        "gain": 280785,
-        "gain_per_day": 1051.63,
+        "last_stars": 393016,
+        "gain": 280872,
+        "gain_per_day": 1048.03,
         "best_rank": 1
       },
       {
@@ -198,13 +198,13 @@
         "name": "deepseek-ai/deepseek-harness",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
         "language": "TypeScript",
-        "appearances": 29,
+        "appearances": 30,
         "first_date": "20260816",
-        "last_date": "20261024",
+        "last_date": "20261025",
         "first_stars": 125310,
-        "last_stars": 260219,
-        "gain": 134909,
-        "gain_per_day": 1955.2,
+        "last_stars": 261218,
+        "gain": 135908,
+        "gain_per_day": 1941.54,
         "best_rank": 1
       },
       {
@@ -247,6 +247,19 @@
         "best_rank": 2
       },
       {
+        "name": "Shubhamsaboo/awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "language": "Python",
+        "appearances": 100,
+        "first_date": "20250313",
+        "last_date": "20261025",
+        "first_stars": 19492,
+        "last_stars": 143005,
+        "gain": 123513,
+        "gain_per_day": 208.99,
+        "best_rank": 1
+      },
+      {
         "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
         "language": "N/A",
@@ -257,19 +270,6 @@
         "last_stars": 143765,
         "gain": 121298,
         "gain_per_day": 234.62,
-        "best_rank": 1
-      },
-      {
-        "name": "Shubhamsaboo/awesome-llm-apps",
-        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "language": "Python",
-        "appearances": 99,
-        "first_date": "20250313",
-        "last_date": "20260925",
-        "first_stars": 19492,
-        "last_stars": 139742,
-        "gain": 120250,
-        "gain_per_day": 214.35,
         "best_rank": 1
       }
     ],
@@ -291,13 +291,13 @@
         "name": "TheOdinProject/css-exercises",
         "url": "https://github.com/TheOdinProject/css-exercises",
         "language": "HTML",
-        "appearances": 253,
+        "appearances": 254,
         "first_date": "20250320",
-        "last_date": "20261024",
+        "last_date": "20261025",
         "first_stars": 1781,
         "last_stars": 2729,
         "gain": 948,
-        "gain_per_day": 1.63,
+        "gain_per_day": 1.62,
         "best_rank": 1
       },
       {
@@ -317,13 +317,26 @@
         "name": "twbs/bootstrap",
         "url": "https://github.com/twbs/bootstrap",
         "language": "MDX",
-        "appearances": 236,
+        "appearances": 237,
         "first_date": "20250313",
-        "last_date": "20261024",
+        "last_date": "20261025",
         "first_stars": 171746,
-        "last_stars": 175008,
-        "gain": 3262,
-        "gain_per_day": 5.53,
+        "last_stars": 175011,
+        "gain": 3265,
+        "gain_per_day": 5.52,
+        "best_rank": 1
+      },
+      {
+        "name": "firstcontributions/first-contributions",
+        "url": "https://github.com/firstcontributions/first-contributions",
+        "language": "N/A",
+        "appearances": 232,
+        "first_date": "20250313",
+        "last_date": "20261025",
+        "first_stars": 47333,
+        "last_stars": 56525,
+        "gain": 9192,
+        "gain_per_day": 15.55,
         "best_rank": 1
       },
       {
@@ -340,28 +353,15 @@
         "best_rank": 1
       },
       {
-        "name": "firstcontributions/first-contributions",
-        "url": "https://github.com/firstcontributions/first-contributions",
-        "language": "N/A",
-        "appearances": 231,
-        "first_date": "20250313",
-        "last_date": "20261024",
-        "first_stars": 47333,
-        "last_stars": 56505,
-        "gain": 9172,
-        "gain_per_day": 15.55,
-        "best_rank": 1
-      },
-      {
         "name": "tensorflow/tensorflow",
         "url": "https://github.com/tensorflow/tensorflow",
         "language": "C++",
-        "appearances": 229,
+        "appearances": 230,
         "first_date": "20250318",
-        "last_date": "20261024",
+        "last_date": "20261025",
         "first_stars": 188708,
-        "last_stars": 201218,
-        "gain": 12510,
+        "last_stars": 201236,
+        "gain": 12528,
         "gain_per_day": 21.38,
         "best_rank": 1
       },
@@ -382,13 +382,13 @@
         "name": "github/gitignore",
         "url": "https://github.com/github/gitignore",
         "language": "N/A",
-        "appearances": 219,
+        "appearances": 220,
         "first_date": "20250316",
-        "last_date": "20261024",
+        "last_date": "20261025",
         "first_stars": 165056,
-        "last_stars": 176040,
-        "gain": 10984,
-        "gain_per_day": 18.71,
+        "last_stars": 176053,
+        "gain": 10997,
+        "gain_per_day": 18.7,
         "best_rank": 1
       },
       {
@@ -499,9 +499,9 @@
         "name": "nightscout/cgm-remote-monitor",
         "url": "https://github.com/nightscout/cgm-remote-monitor",
         "language": "JavaScript",
-        "appearances": 183,
+        "appearances": 184,
         "first_date": "20250313",
-        "last_date": "20261024",
+        "last_date": "20261025",
         "first_stars": 2490,
         "last_stars": 2851,
         "gain": 361,
@@ -540,13 +540,13 @@
         "name": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "language": "TypeScript",
-        "appearances": 18,
+        "appearances": 19,
         "first_date": "20261006",
-        "last_date": "20261024",
+        "last_date": "20261025",
         "first_stars": 8005,
-        "last_stars": 376581,
-        "gain": 368576,
-        "gain_per_day": 20476.44,
+        "last_stars": 382535,
+        "gain": 374530,
+        "gain_per_day": 19712.11,
         "best_rank": 1
       },
       {
@@ -587,6 +587,19 @@
         "gain": 0,
         "gain_per_day": null,
         "best_rank": 6
+      },
+      {
+        "name": "coollabsio/coolify",
+        "url": "https://github.com/coollabsio/coolify",
+        "language": "PHP",
+        "appearances": 1,
+        "first_date": "20261025",
+        "last_date": "20261025",
+        "first_stars": 64007,
+        "last_stars": 64007,
+        "gain": 0,
+        "gain_per_day": null,
+        "best_rank": 9
       },
       {
         "name": "sickn33/agentic-awesome-skills",
@@ -782,19 +795,6 @@
         "gain": 0,
         "gain_per_day": null,
         "best_rank": 6
-      },
-      {
-        "name": "agent0ai/agent-zero",
-        "url": "https://github.com/agent0ai/agent-zero",
-        "language": "Python",
-        "appearances": 1,
-        "first_date": "20260928",
-        "last_date": "20260928",
-        "first_stars": 19330,
-        "last_stars": 19330,
-        "gain": 0,
-        "gain_per_day": null,
-        "best_rank": 10
       }
     ]
   }
