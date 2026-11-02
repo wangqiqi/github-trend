@@ -1,14 +1,14 @@
 {
   "generated_from": "data/**/*.json",
-  "total_days": 597,
+  "total_days": 598,
   "first_date": "20250313",
-  "last_date": "20261101",
-  "repo_count": 2569,
+  "last_date": "20261102",
+  "repo_count": 2570,
   "thresholds": {
     "min_appearances": 3,
     "newcomer_window_days": 30,
     "leader_limit": 20,
-    "newcomer_window_start": "20261002"
+    "newcomer_window_start": "20261003"
   },
   "leaders": {
     "gain": [
@@ -16,13 +16,13 @@
         "name": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "language": "TypeScript",
-        "appearances": 26,
+        "appearances": 27,
         "first_date": "20261006",
-        "last_date": "20261101",
+        "last_date": "20261102",
         "first_stars": 8005,
-        "last_stars": 417934,
-        "gain": 409929,
-        "gain_per_day": 15766.5,
+        "last_stars": 422498,
+        "gain": 414493,
+        "gain_per_day": 15351.59,
         "best_rank": 1
       },
       {
@@ -42,26 +42,26 @@
         "name": "mattpocock/skills",
         "url": "https://github.com/mattpocock/skills",
         "language": "Shell",
-        "appearances": 111,
+        "appearances": 112,
         "first_date": "20260425",
-        "last_date": "20261101",
+        "last_date": "20261102",
         "first_stars": 18860,
-        "last_stars": 309061,
-        "gain": 290201,
-        "gain_per_day": 1527.37,
+        "last_stars": 310122,
+        "gain": 291262,
+        "gain_per_day": 1524.93,
         "best_rank": 1
       },
       {
         "name": "openclaw/openclaw",
         "url": "https://github.com/openclaw/openclaw",
         "language": "TypeScript",
-        "appearances": 149,
+        "appearances": 150,
         "first_date": "20260130",
-        "last_date": "20261101",
+        "last_date": "20261102",
         "first_stars": 112144,
-        "last_stars": 393628,
-        "gain": 281484,
-        "gain_per_day": 1023.58,
+        "last_stars": 393749,
+        "gain": 281605,
+        "gain_per_day": 1020.31,
         "best_rank": 1
       },
       {
@@ -104,6 +104,19 @@
         "best_rank": 1
       },
       {
+        "name": "public-apis/public-apis",
+        "url": "https://github.com/public-apis/public-apis",
+        "language": "Python",
+        "appearances": 85,
+        "first_date": "20250313",
+        "last_date": "20261102",
+        "first_stars": 332113,
+        "last_stars": 495474,
+        "gain": 163361,
+        "gain_per_day": 272.72,
+        "best_rank": 1
+      },
+      {
         "name": "sindresorhus/awesome",
         "url": "https://github.com/sindresorhus/awesome",
         "language": "N/A",
@@ -114,19 +127,6 @@
         "last_stars": 517124,
         "gain": 162297,
         "gain_per_day": 294.02,
-        "best_rank": 1
-      },
-      {
-        "name": "public-apis/public-apis",
-        "url": "https://github.com/public-apis/public-apis",
-        "language": "Python",
-        "appearances": 84,
-        "first_date": "20250313",
-        "last_date": "20261101",
-        "first_stars": 332113,
-        "last_stars": 494291,
-        "gain": 162178,
-        "gain_per_day": 271.2,
         "best_rank": 1
       },
       {
@@ -182,6 +182,19 @@
         "best_rank": 1
       },
       {
+        "name": "deepseek-ai/deepseek-harness",
+        "url": "https://github.com/deepseek-ai/deepseek-harness",
+        "language": "TypeScript",
+        "appearances": 38,
+        "first_date": "20260816",
+        "last_date": "20261102",
+        "first_stars": 125310,
+        "last_stars": 269511,
+        "gain": 144201,
+        "gain_per_day": 1848.73,
+        "best_rank": 1
+      },
+      {
         "name": "anthropics/claude-code",
         "url": "https://github.com/anthropics/claude-code",
         "language": "TypeScript",
@@ -192,19 +205,6 @@
         "last_stars": 151443,
         "gain": 143033,
         "gain_per_day": 271.41,
-        "best_rank": 1
-      },
-      {
-        "name": "deepseek-ai/deepseek-harness",
-        "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "language": "TypeScript",
-        "appearances": 37,
-        "first_date": "20260816",
-        "last_date": "20261101",
-        "first_stars": 125310,
-        "last_stars": 268189,
-        "gain": 142879,
-        "gain_per_day": 1855.57,
         "best_rank": 1
       },
       {
@@ -278,9 +278,9 @@
         "name": "TheOdinProject/css-exercises",
         "url": "https://github.com/TheOdinProject/css-exercises",
         "language": "HTML",
-        "appearances": 261,
+        "appearances": 262,
         "first_date": "20250320",
-        "last_date": "20261101",
+        "last_date": "20261102",
         "first_stars": 1781,
         "last_stars": 2734,
         "gain": 953,
@@ -301,6 +301,19 @@
         "best_rank": 1
       },
       {
+        "name": "twbs/bootstrap",
+        "url": "https://github.com/twbs/bootstrap",
+        "language": "MDX",
+        "appearances": 245,
+        "first_date": "20250313",
+        "last_date": "20261102",
+        "first_stars": 171746,
+        "last_stars": 174968,
+        "gain": 3222,
+        "gain_per_day": 5.38,
+        "best_rank": 1
+      },
+      {
         "name": "FoundationAgents/OpenManus",
         "url": "https://github.com/FoundationAgents/OpenManus",
         "language": "Python",
@@ -314,28 +327,15 @@
         "best_rank": 2
       },
       {
-        "name": "twbs/bootstrap",
-        "url": "https://github.com/twbs/bootstrap",
-        "language": "MDX",
-        "appearances": 244,
-        "first_date": "20250313",
-        "last_date": "20261101",
-        "first_stars": 171746,
-        "last_stars": 174968,
-        "gain": 3222,
-        "gain_per_day": 5.39,
-        "best_rank": 1
-      },
-      {
         "name": "firstcontributions/first-contributions",
         "url": "https://github.com/firstcontributions/first-contributions",
         "language": "N/A",
-        "appearances": 239,
+        "appearances": 240,
         "first_date": "20250313",
-        "last_date": "20261101",
+        "last_date": "20261102",
         "first_stars": 47333,
-        "last_stars": 56657,
-        "gain": 9324,
+        "last_stars": 56673,
+        "gain": 9340,
         "gain_per_day": 15.59,
         "best_rank": 1
       },
@@ -343,13 +343,13 @@
         "name": "tensorflow/tensorflow",
         "url": "https://github.com/tensorflow/tensorflow",
         "language": "C++",
-        "appearances": 237,
+        "appearances": 238,
         "first_date": "20250318",
-        "last_date": "20261101",
+        "last_date": "20261102",
         "first_stars": 188708,
-        "last_stars": 201257,
-        "gain": 12549,
-        "gain_per_day": 21.16,
+        "last_stars": 201272,
+        "gain": 12564,
+        "gain_per_day": 21.15,
         "best_rank": 1
       },
       {
@@ -369,13 +369,13 @@
         "name": "github/gitignore",
         "url": "https://github.com/github/gitignore",
         "language": "N/A",
-        "appearances": 227,
+        "appearances": 228,
         "first_date": "20250316",
-        "last_date": "20261101",
+        "last_date": "20261102",
         "first_stars": 165056,
-        "last_stars": 176131,
-        "gain": 11075,
-        "gain_per_day": 18.61,
+        "last_stars": 176130,
+        "gain": 11074,
+        "gain_per_day": 18.58,
         "best_rank": 1
       },
       {
@@ -444,6 +444,19 @@
         "best_rank": 1
       },
       {
+        "name": "github/spec-kit",
+        "url": "https://github.com/github/spec-kit",
+        "language": "Python",
+        "appearances": 194,
+        "first_date": "20251022",
+        "last_date": "20261102",
+        "first_stars": 40538,
+        "last_stars": 145440,
+        "gain": 104902,
+        "gain_per_day": 278.99,
+        "best_rank": 1
+      },
+      {
         "name": "punkpeye/awesome-mcp-servers",
         "url": "https://github.com/punkpeye/awesome-mcp-servers",
         "language": "N/A",
@@ -457,28 +470,15 @@
         "best_rank": 1
       },
       {
-        "name": "github/spec-kit",
-        "url": "https://github.com/github/spec-kit",
-        "language": "Python",
-        "appearances": 193,
-        "first_date": "20251022",
-        "last_date": "20261031",
-        "first_stars": 40538,
-        "last_stars": 144213,
-        "gain": 103675,
-        "gain_per_day": 277.21,
-        "best_rank": 1
-      },
-      {
         "name": "nightscout/cgm-remote-monitor",
         "url": "https://github.com/nightscout/cgm-remote-monitor",
         "language": "JavaScript",
-        "appearances": 191,
+        "appearances": 192,
         "first_date": "20250313",
-        "last_date": "20261101",
+        "last_date": "20261102",
         "first_stars": 2490,
-        "last_stars": 2854,
-        "gain": 364,
+        "last_stars": 2855,
+        "gain": 365,
         "gain_per_day": 0.61,
         "best_rank": 1
       },
@@ -540,13 +540,13 @@
         "name": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "language": "TypeScript",
-        "appearances": 26,
+        "appearances": 27,
         "first_date": "20261006",
-        "last_date": "20261101",
+        "last_date": "20261102",
         "first_stars": 8005,
-        "last_stars": 417934,
-        "gain": 409929,
-        "gain_per_day": 15766.5,
+        "last_stars": 422498,
+        "gain": 414493,
+        "gain_per_day": 15351.59,
         "best_rank": 1
       },
       {
@@ -641,19 +641,6 @@
         "best_rank": 8
       },
       {
-        "name": "vercel-labs/skills",
-        "url": "https://github.com/vercel-labs/skills",
-        "language": "TypeScript",
-        "appearances": 3,
-        "first_date": "20261002",
-        "last_date": "20261013",
-        "first_stars": 32980,
-        "last_stars": 34335,
-        "gain": 1355,
-        "gain_per_day": 123.18,
-        "best_rank": 6
-      },
-      {
         "name": "alchaincyf/nuwa-skill",
         "url": "https://github.com/alchaincyf/nuwa-skill",
         "language": "Python",
@@ -691,19 +678,6 @@
         "gain": 0,
         "gain_per_day": null,
         "best_rank": 6
-      },
-      {
-        "name": "tashfeenahmed/freellmapi",
-        "url": "https://github.com/tashfeenahmed/freellmapi",
-        "language": "TypeScript",
-        "appearances": 1,
-        "first_date": "20261002",
-        "last_date": "20261002",
-        "first_stars": 30114,
-        "last_stars": 30114,
-        "gain": 0,
-        "gain_per_day": null,
-        "best_rank": 10
       },
       {
         "name": "storytold/artcraft",
@@ -774,14 +748,14 @@
         "name": "FlashML-org/FreeToken",
         "url": "https://github.com/FlashML-org/FreeToken",
         "language": "Python",
-        "appearances": 1,
+        "appearances": 2,
         "first_date": "20261101",
-        "last_date": "20261101",
+        "last_date": "20261102",
         "first_stars": 15227,
-        "last_stars": 15227,
-        "gain": 0,
-        "gain_per_day": null,
-        "best_rank": 5
+        "last_stars": 15978,
+        "gain": 751,
+        "gain_per_day": 751.0,
+        "best_rank": 2
       },
       {
         "name": "pollen-robotics/microduck",
@@ -795,6 +769,32 @@
         "gain": 1549,
         "gain_per_day": 774.5,
         "best_rank": 5
+      },
+      {
+        "name": "Renhuai123/ziwei-doushu",
+        "url": "https://github.com/Renhuai123/ziwei-doushu",
+        "language": "TypeScript",
+        "appearances": 4,
+        "first_date": "20261023",
+        "last_date": "20261031",
+        "first_stars": 6740,
+        "last_stars": 12146,
+        "gain": 5406,
+        "gain_per_day": 675.75,
+        "best_rank": 5
+      },
+      {
+        "name": "google/artemis",
+        "url": "https://github.com/google/artemis",
+        "language": "Python",
+        "appearances": 1,
+        "first_date": "20261017",
+        "last_date": "20261017",
+        "first_stars": 12124,
+        "last_stars": 12124,
+        "gain": 0,
+        "gain_per_day": null,
+        "best_rank": 9
       }
     ]
   }
