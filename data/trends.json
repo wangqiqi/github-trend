@@ -1,14 +1,14 @@
 {
   "generated_from": "data/**/*.json",
-  "total_days": 609,
+  "total_days": 610,
   "first_date": "20250313",
-  "last_date": "20261113",
-  "repo_count": 2606,
+  "last_date": "20261114",
+  "repo_count": 2612,
   "thresholds": {
     "min_appearances": 3,
     "newcomer_window_days": 30,
     "leader_limit": 20,
-    "newcomer_window_start": "20261014"
+    "newcomer_window_start": "20261015"
   },
   "leaders": {
     "gain": [
@@ -16,26 +16,26 @@
         "name": "morluto/rea",
         "url": "https://github.com/morluto/rea",
         "language": "TypeScript",
-        "appearances": 38,
+        "appearances": 39,
         "first_date": "20261006",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 8005,
-        "last_stars": 457229,
-        "gain": 449224,
-        "gain_per_day": 11821.68,
+        "last_stars": 459305,
+        "gain": 451300,
+        "gain_per_day": 11571.79,
         "best_rank": 1
       },
       {
         "name": "mattpocock/skills",
         "url": "https://github.com/mattpocock/skills",
         "language": "Shell",
-        "appearances": 123,
+        "appearances": 124,
         "first_date": "20260425",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 18860,
-        "last_stars": 323694,
-        "gain": 304834,
-        "gain_per_day": 1509.08,
+        "last_stars": 324319,
+        "gain": 305459,
+        "gain_per_day": 1504.72,
         "best_rank": 1
       },
       {
@@ -55,13 +55,13 @@
         "name": "openclaw/openclaw",
         "url": "https://github.com/openclaw/openclaw",
         "language": "TypeScript",
-        "appearances": 161,
+        "appearances": 162,
         "first_date": "20260130",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 112144,
-        "last_stars": 394382,
-        "gain": 282238,
-        "gain_per_day": 983.41,
+        "last_stars": 394446,
+        "gain": 282302,
+        "gain_per_day": 980.22,
         "best_rank": 1
       },
       {
@@ -159,13 +159,13 @@
         "name": "deepseek-ai/deepseek-harness",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
         "language": "TypeScript",
-        "appearances": 49,
+        "appearances": 50,
         "first_date": "20260816",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 125310,
-        "last_stars": 280431,
-        "gain": 155121,
-        "gain_per_day": 1742.93,
+        "last_stars": 281021,
+        "gain": 155711,
+        "gain_per_day": 1730.12,
         "best_rank": 1
       },
       {
@@ -263,13 +263,13 @@
         "name": "DietrichGebert/ponytail",
         "url": "https://github.com/DietrichGebert/ponytail",
         "language": "JavaScript",
-        "appearances": 72,
+        "appearances": 73,
         "first_date": "20260630",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 68545,
-        "last_stars": 190261,
-        "gain": 121716,
-        "gain_per_day": 894.97,
+        "last_stars": 190740,
+        "gain": 122195,
+        "gain_per_day": 891.93,
         "best_rank": 1
       }
     ],
@@ -278,12 +278,12 @@
         "name": "TheOdinProject/css-exercises",
         "url": "https://github.com/TheOdinProject/css-exercises",
         "language": "HTML",
-        "appearances": 273,
+        "appearances": 274,
         "first_date": "20250320",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 1781,
-        "last_stars": 2738,
-        "gain": 957,
+        "last_stars": 2739,
+        "gain": 958,
         "gain_per_day": 1.59,
         "best_rank": 1
       },
@@ -304,12 +304,12 @@
         "name": "twbs/bootstrap",
         "url": "https://github.com/twbs/bootstrap",
         "language": "MDX",
-        "appearances": 256,
+        "appearances": 257,
         "first_date": "20250313",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 171746,
-        "last_stars": 175054,
-        "gain": 3308,
+        "last_stars": 175059,
+        "gain": 3313,
         "gain_per_day": 5.42,
         "best_rank": 1
       },
@@ -317,26 +317,26 @@
         "name": "firstcontributions/first-contributions",
         "url": "https://github.com/firstcontributions/first-contributions",
         "language": "N/A",
-        "appearances": 251,
+        "appearances": 252,
         "first_date": "20250313",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 47333,
-        "last_stars": 56844,
-        "gain": 9511,
-        "gain_per_day": 15.59,
+        "last_stars": 56865,
+        "gain": 9532,
+        "gain_per_day": 15.6,
         "best_rank": 1
       },
       {
         "name": "tensorflow/tensorflow",
         "url": "https://github.com/tensorflow/tensorflow",
         "language": "C++",
-        "appearances": 249,
+        "appearances": 250,
         "first_date": "20250318",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 188708,
-        "last_stars": 201586,
-        "gain": 12878,
-        "gain_per_day": 21.29,
+        "last_stars": 201595,
+        "gain": 12887,
+        "gain_per_day": 21.27,
         "best_rank": 1
       },
       {
@@ -356,13 +356,13 @@
         "name": "github/gitignore",
         "url": "https://github.com/github/gitignore",
         "language": "N/A",
-        "appearances": 239,
+        "appearances": 240,
         "first_date": "20250316",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 165056,
-        "last_stars": 176322,
-        "gain": 11266,
-        "gain_per_day": 18.56,
+        "last_stars": 176335,
+        "gain": 11279,
+        "gain_per_day": 18.55,
         "best_rank": 1
       },
       {
@@ -408,13 +408,13 @@
         "name": "jwasham/coding-interview-university",
         "url": "https://github.com/jwasham/coding-interview-university",
         "language": "N/A",
-        "appearances": 212,
+        "appearances": 213,
         "first_date": "20250314",
-        "last_date": "20261113",
+        "last_date": "20261114",
         "first_stars": 313186,
-        "last_stars": 364347,
-        "gain": 51161,
-        "gain_per_day": 84.01,
+        "last_stars": 364369,
+        "gain": 51183,
+        "gain_per_day": 83.91,
         "best_rank": 1
       },
       {
@@ -444,6 +444,19 @@
         "best_rank": 1
       },
       {
+        "name": "nightscout/cgm-remote-monitor",
+        "url": "https://github.com/nightscout/cgm-remote-monitor",
+        "language": "JavaScript",
+        "appearances": 197,
+        "first_date": "20250313",
+        "last_date": "20261114",
+        "first_stars": 2490,
+        "last_stars": 2859,
+        "gain": 369,
+        "gain_per_day": 0.6,
+        "best_rank": 1
+      },
+      {
         "name": "github/spec-kit",
         "url": "https://github.com/github/spec-kit",
         "language": "Python",
@@ -454,19 +467,6 @@
         "last_stars": 147801,
         "gain": 107263,
         "gain_per_day": 283.02,
-        "best_rank": 1
-      },
-      {
-        "name": "nightscout/cgm-remote-monitor",
-        "url": "https://github.com/nightscout/cgm-remote-monitor",
-        "language": "JavaScript",
-        "appearances": 196,
-        "first_date": "20250313",
-        "last_date": "20261113",
-        "first_stars": 2490,
-        "last_stars": 2859,
-        "gain": 369,
-        "gain_per_day": 0.6,
         "best_rank": 1
       },
       {
@@ -536,19 +536,6 @@
       }
     ],
     "newcomers": [
-      {
-        "name": "rust-lang/rust",
-        "url": "https://github.com/rust-lang/rust",
-        "language": "Rust",
-        "appearances": 2,
-        "first_date": "20261014",
-        "last_date": "20261106",
-        "first_stars": 119849,
-        "last_stars": 121312,
-        "gain": 1463,
-        "gain_per_day": 63.61,
-        "best_rank": 5
-      },
       {
         "name": "supabase/supabase",
         "url": "https://github.com/supabase/supabase",
@@ -706,6 +693,19 @@
         "best_rank": 3
       },
       {
+        "name": "andrewyng/openworker",
+        "url": "https://github.com/andrewyng/openworker",
+        "language": "Python",
+        "appearances": 1,
+        "first_date": "20261114",
+        "last_date": "20261114",
+        "first_stars": 19186,
+        "last_stars": 19186,
+        "gain": 0,
+        "gain_per_day": null,
+        "best_rank": 2
+      },
+      {
         "name": "milind-soni/OpenMausBot",
         "url": "https://github.com/milind-soni/OpenMausBot",
         "language": "TypeScript",
@@ -745,6 +745,19 @@
         "best_rank": 4
       },
       {
+        "name": "ag-ui-protocol/ag-ui",
+        "url": "https://github.com/ag-ui-protocol/ag-ui",
+        "language": "TypeScript",
+        "appearances": 1,
+        "first_date": "20261114",
+        "last_date": "20261114",
+        "first_stars": 17256,
+        "last_stars": 17256,
+        "gain": 0,
+        "gain_per_day": null,
+        "best_rank": 8
+      },
+      {
         "name": "opensandbox-group/OpenSandbox",
         "url": "https://github.com/opensandbox-group/OpenSandbox",
         "language": "Python",
@@ -782,19 +795,6 @@
         "gain": 1366,
         "gain_per_day": 455.33,
         "best_rank": 2
-      },
-      {
-        "name": "The-PR-Agent/pr-agent",
-        "url": "https://github.com/The-PR-Agent/pr-agent",
-        "language": "Python",
-        "appearances": 1,
-        "first_date": "20261104",
-        "last_date": "20261104",
-        "first_stars": 14654,
-        "last_stars": 14654,
-        "gain": 0,
-        "gain_per_day": null,
-        "best_rank": 3
       }
     ]
   }
