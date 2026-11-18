@@ -1,0 +1,391 @@
+{
+  "date": "20261118",
+  "generated_at": "2026-11-18T19:47:44Z",
+  "source": "scraper.py",
+  "sections": [
+    {
+      "id": "most-starred",
+      "title": "每日 Star 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 468029,
+          "forks": 114419
+        },
+        {
+          "rank": 2,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+          "language": "TypeScript",
+          "stars": 394756,
+          "forks": 82923
+        },
+        {
+          "rank": 3,
+          "name": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "language": "Shell",
+          "stars": 327373,
+          "forks": 27492
+        },
+        {
+          "rank": 4,
+          "name": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "language": "JavaScript",
+          "stars": 306355,
+          "forks": 45101
+        },
+        {
+          "rank": 5,
+          "name": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "language": "TypeScript",
+          "stars": 283577,
+          "forks": 35180
+        },
+        {
+          "rank": 6,
+          "name": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "language": "N/A",
+          "stars": 234246,
+          "forks": 23285
+        },
+        {
+          "rank": 7,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+          "language": "Rust",
+          "stars": 194762,
+          "forks": 107224
+        },
+        {
+          "rank": 8,
+          "name": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "language": "JavaScript",
+          "stars": 193928,
+          "forks": 10914
+        },
+        {
+          "rank": 9,
+          "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+          "language": "Python",
+          "stars": 151288,
+          "forks": 15985
+        },
+        {
+          "rank": 10,
+          "name": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "language": "Python",
+          "stars": 150105,
+          "forks": 14422
+        }
+      ]
+    },
+    {
+      "id": "most-forked",
+      "title": "每日 Fork 最多的仓库",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "language": "TypeScript",
+          "stars": 468029,
+          "forks": 114419
+        },
+        {
+          "rank": 2,
+          "name": "firstcontributions/first-contributions",
+          "url": "https://github.com/firstcontributions/first-contributions",
+          "description": "🚀✨ Help beginners to contribute to open source projects",
+          "language": "N/A",
+          "stars": 56931,
+          "forks": 112869
+        },
+        {
+          "rank": 3,
+          "name": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+          "language": "Rust",
+          "stars": 194762,
+          "forks": 107224
+        },
+        {
+          "rank": 4,
+          "name": "TheOdinProject/css-exercises",
+          "url": "https://github.com/TheOdinProject/css-exercises",
+          "description": "No description",
+          "language": "HTML",
+          "stars": 2743,
+          "forks": 94649
+        },
+        {
+          "rank": 5,
+          "name": "jwasham/coding-interview-university",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "A complete computer science study plan to become a software engineer.",
+          "language": "N/A",
+          "stars": 364517,
+          "forks": 85954
+        },
+        {
+          "rank": 6,
+          "name": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+          "language": "TypeScript",
+          "stars": 394756,
+          "forks": 82923
+        },
+        {
+          "rank": 7,
+          "name": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "language": "N/A",
+          "stars": 176362,
+          "forks": 82022
+        },
+        {
+          "rank": 8,
+          "name": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+          "language": "MDX",
+          "stars": 175090,
+          "forks": 79616
+        },
+        {
+          "rank": 9,
+          "name": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "description": "An Open Source Machine Learning Framework for Everyone",
+          "language": "C++",
+          "stars": 201610,
+          "forks": 77961
+        },
+        {
+          "rank": 10,
+          "name": "nightscout/cgm-remote-monitor",
+          "url": "https://github.com/nightscout/cgm-remote-monitor",
+          "description": "nightscout web monitor",
+          "language": "JavaScript",
+          "stars": 2862,
+          "forks": 73403
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "title": "每日趋势榜",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "language": "Python",
+          "stars": 11099,
+          "forks": 1496
+        },
+        {
+          "rank": 2,
+          "name": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "description": "Cursor plugin specification and official plugins",
+          "language": "TypeScript",
+          "stars": 17139,
+          "forks": 1890
+        },
+        {
+          "rank": 3,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 59579,
+          "forks": 5409
+        },
+        {
+          "rank": 4,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars": 69859,
+          "forks": 6235
+        },
+        {
+          "rank": 5,
+          "name": "getarcaneapp/arcane",
+          "url": "https://github.com/getarcaneapp/arcane",
+          "description": "Modern Docker Management, Designed for Everyone",
+          "language": "Go",
+          "stars": 9738,
+          "forks": 557
+        },
+        {
+          "rank": 6,
+          "name": "NVIDIA/SkillEvaluator",
+          "url": "https://github.com/NVIDIA/SkillEvaluator",
+          "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+          "language": "Python",
+          "stars": 3629,
+          "forks": 507
+        },
+        {
+          "rank": 7,
+          "name": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+          "language": "Shell",
+          "stars": 96138,
+          "forks": 10780
+        },
+        {
+          "rank": 8,
+          "name": "astral-sh/uv",
+          "url": "https://github.com/astral-sh/uv",
+          "description": "An extremely fast Python package and project manager, written in Rust.",
+          "language": "Rust",
+          "stars": 92186,
+          "forks": 3921
+        },
+        {
+          "rank": 9,
+          "name": "google-research/paper-orchestra",
+          "url": "https://github.com/google-research/paper-orchestra",
+          "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+          "language": "Python",
+          "stars": 4114,
+          "forks": 516
+        },
+        {
+          "rank": 10,
+          "name": "google-labs-code/stitch-skills",
+          "url": "https://github.com/google-labs-code/stitch-skills",
+          "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+          "language": "TypeScript",
+          "stars": 10361,
+          "forks": 1363
+        }
+      ]
+    },
+    {
+      "id": "python",
+      "title": "Python",
+      "repos": [
+        {
+          "rank": 1,
+          "name": "elementalsouls/Claude-BugHunter",
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "language": "Python",
+          "stars": 11099,
+          "forks": 1496
+        },
+        {
+          "rank": 2,
+          "name": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+          "language": "Python",
+          "stars": 59579,
+          "forks": 5409
+        },
+        {
+          "rank": 3,
+          "name": "mvanhorn/last30days-skill",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+          "language": "Python",
+          "stars": 69859,
+          "forks": 6235
+        },
+        {
+          "rank": 4,
+          "name": "NVIDIA/SkillEvaluator",
+          "url": "https://github.com/NVIDIA/SkillEvaluator",
+          "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+          "language": "Python",
+          "stars": 3629,
+          "forks": 507
+        },
+        {
+          "rank": 5,
+          "name": "google-research/paper-orchestra",
+          "url": "https://github.com/google-research/paper-orchestra",
+          "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+          "language": "Python",
+          "stars": 4114,
+          "forks": 516
+        },
+        {
+          "rank": 6,
+          "name": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+          "language": "Python",
+          "stars": 169232,
+          "forks": 35230
+        },
+        {
+          "rank": 7,
+          "name": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+          "language": "Python",
+          "stars": 41939,
+          "forks": 5130
+        },
+        {
+          "rank": 8,
+          "name": "kajisho5/ffmpeg-skill",
+          "url": "https://github.com/kajisho5/ffmpeg-skill",
+          "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+          "language": "Python",
+          "stars": 7992,
+          "forks": 746
+        },
+        {
+          "rank": 9,
+          "name": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+          "language": "Python",
+          "stars": 66476,
+          "forks": 8720
+        },
+        {
+          "rank": 10,
+          "name": "XiaoYouChR/Ghost-Downloader-3",
+          "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+          "description": "The only downloader you need. 下载器的集大成者。",
+          "language": "Python",
+          "stars": 12094,
+          "forks": 758
+        }
+      ]
+    }
+  ]
+}
